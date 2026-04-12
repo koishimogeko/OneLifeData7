@@ -1,5 +1,5 @@
 id=28029
-被剪下的郁金香 Cut Tulip Flowers on Hardened Row # Purple
+Cut Tulip Flowers on Hardened Row # Purple
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

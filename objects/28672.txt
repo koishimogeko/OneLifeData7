@@ -1,5 +1,5 @@
 id=28672
-切割桌 Cutting Table#prepared
+Cutting Table# prepared
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

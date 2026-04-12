@@ -1,5 +1,5 @@
 id=28516
-切割机连杆 Cutting Machine Connecting Rod
+Cutting Machine Connecting Rod
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

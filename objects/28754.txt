@@ -1,5 +1,5 @@
 id=28754
-一堆耗尽的碳性干电池 Pile of Exhausted Carbon Based Dry Battery
+Pile of Exhausted Carbon Based Dry Battery
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

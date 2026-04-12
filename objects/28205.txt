@@ -1,5 +1,5 @@
 id=28205
-浇水黄雏菊 Watered Yellow Daisy Seedling
+Watered Yellow Daisy Seedling
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28903
-布包 Dye-Ready Cloth Bag
+Dye-Ready Cloth Bag
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

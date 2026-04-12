@@ -1,5 +1,5 @@
 id=28720
-一碗氧化锰铁矿粉末 Bowl of Oxidation Manganese Iron Ore
+Bowl of Oxidation Manganese Iron Ore
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

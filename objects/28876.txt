@@ -1,5 +1,5 @@
 id=28876
-盛开的百合花 Lily Flower#orange
+Lily Flower#orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28068
-盆栽百合丛 Dry Pot Lily Grove# Pink
+Dry Pot Lily Grove# Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

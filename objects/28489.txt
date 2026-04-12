@@ -1,5 +1,5 @@
 id=28489
-铸铁筒和钢管与玻璃板 Two Cast Iron Cylinders with Steel Pipes and Glass Panes
+Two Cast Iron Cylinders with Steel Pipes and Glass Panes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

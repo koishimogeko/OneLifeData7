@@ -1,5 +1,5 @@
 id=28746
-一碗氯化锌和淀粉 Bowl of Zinc Chloride and Starch
+Bowl of Zinc Chloride and Starch
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

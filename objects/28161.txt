@@ -1,5 +1,5 @@
 id=28161
-干萌芽火草 Dry Budding Fire Weed
+Dry Budding Fire Weed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

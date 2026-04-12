@@ -1,5 +1,5 @@
 id=28517
-组装中的切割机 Cutting Machine in Assembly#1
+Cutting Machine in Assembly# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

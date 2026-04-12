@@ -1,5 +1,5 @@
 id=28408
-干百合种球 Dry Lily Seed Ball#Pink
+Dry Lily Seed Ball#Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

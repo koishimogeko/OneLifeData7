@@ -1,5 +1,5 @@
 id=28858
-运行中的沙漠锰铁矿 Running Desert Manganese Mine #4
+Running Desert Manganese Mine #4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

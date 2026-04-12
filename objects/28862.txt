@@ -1,5 +1,5 @@
 id=28862
-干燥的百合种球 Dry Lily Seed Ball#pink
+Dry Lily Seed Ball#pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

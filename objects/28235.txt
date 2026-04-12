@@ -1,5 +1,5 @@
 id=28235
-浇水风车菊苗 Watered Red Windflower Seedling
+Watered Red Windflower Seedling
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

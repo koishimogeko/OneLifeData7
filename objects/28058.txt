@@ -1,5 +1,5 @@
 id=28058
-百合丛 Wet Lily Grove# White
+Wet Lily Grove# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

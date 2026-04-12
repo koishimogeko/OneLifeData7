@@ -1,5 +1,5 @@
 id=28487
-East-West Fence Holes With Steel Pipes #nostakes
+East-West Fence Holes With Steel Pipes# nostakes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

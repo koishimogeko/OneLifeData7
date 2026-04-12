@@ -1,5 +1,5 @@
 id=28732
-一碗碳酸锰 Bowl of Manganese Carbonate
+Bowl of Manganese Carbonate
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

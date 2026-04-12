@@ -1,5 +1,5 @@
 id=28107
-有土的木制花盆 Wooden Flowerpot with Soil#Middle
+Wooden Flowerpot with Soil#Middle
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

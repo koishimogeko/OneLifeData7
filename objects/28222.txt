@@ -1,5 +1,5 @@
 id=28222
-浇水萌芽蛇草 Watered Maturing Snake Plant
+Watered Maturing Snake Plant
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

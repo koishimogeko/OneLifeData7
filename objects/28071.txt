@@ -1,5 +1,5 @@
 id=28071
-盆栽百合丛 Wet Pot Lily Grove# Orange
+Wet Pot Lily Grove# Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

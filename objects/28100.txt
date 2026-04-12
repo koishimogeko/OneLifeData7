@@ -1,5 +1,5 @@
 id=28100
-栅栏桩和四个短木棍 Fence Stakes with Two Short Shafts #1
+Fence Stakes with Two Short Shafts #1
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

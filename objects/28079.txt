@@ -1,5 +1,5 @@
 id=28079
-郁金香 Wet Tulip Sapling# Yellow
+Wet Tulip Sapling# Yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

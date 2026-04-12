@@ -1,5 +1,5 @@
 id=28301
-干萌芽风车菊 Dry Budding Red Windflower
+Dry Budding Red Windflower
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28110
-浇水玉米花苗 Watered Corn Flower Seedling
+Watered Corn Flower Seedling
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

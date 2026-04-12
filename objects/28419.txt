@@ -1,5 +1,5 @@
 id=28419
-浇水郁金香种球 Watered Tulip Seed Ball#yellow
+Watered Tulip Seed Ball#yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

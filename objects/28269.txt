@@ -1,5 +1,5 @@
 id=28269
-干黄雏菊苗 Dry Yellow Daisy Seedling
+Dry Yellow Daisy Seedling
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

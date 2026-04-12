@@ -1,5 +1,5 @@
 id=28128
-盛开的蒲公英 Blooming Dandelion
+Blooming Dandelion
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

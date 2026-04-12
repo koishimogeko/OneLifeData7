@@ -1,5 +1,5 @@
 id=28757
-一杯硫酸钾 Cup of Potassium Sulfate
+Cup of Potassium Sulfate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

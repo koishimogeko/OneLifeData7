@@ -1,5 +1,5 @@
 id=28905
-布包 Cloth Bag#yellow
+Cloth Bag#yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

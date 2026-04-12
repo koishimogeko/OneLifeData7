@@ -1,5 +1,5 @@
 id=28584
-玻璃片 Glass#red and blue and green
+Glass#red and blue and green
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

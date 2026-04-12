@@ -1,5 +1,5 @@
 id=28873
-湿润的百合种球 Wet Lily Seed Ball#orange
+Wet Lily Seed Ball#orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

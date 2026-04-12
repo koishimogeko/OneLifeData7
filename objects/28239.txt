@@ -1,5 +1,5 @@
 id=28239
-干玉米花苗 Dry Corn Flower Seedling
+Dry Corn Flower Seedling
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

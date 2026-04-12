@@ -1,5 +1,5 @@
 id=28507
-橡胶底座在工作台上 Rubber Base on Work Bench
+Rubber Base on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28406
-浇水百合苗 Watered Lily Seed Spout#white
+Watered Lily Seed Spout#white
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

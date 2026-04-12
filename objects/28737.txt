@@ -1,5 +1,5 @@
 id=28737
-一碗面团和水 Bowl of Dough and Water
+Bowl of Dough and Water
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

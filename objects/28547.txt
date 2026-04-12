@@ -1,5 +1,5 @@
 id=28547
-燃烧的石炉和定子冲压模具 Firing Stone Kiln with Circular Steel Sheet #Stator
+Firing Stone Kiln with Circular Steel Sheet #Stator
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

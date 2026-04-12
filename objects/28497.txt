@@ -1,5 +1,5 @@
 id=28497
-转子叠片堆和铜线Rotor Lamination Stack with Copper Wire#little
+Rotor Lamination Stack with Copper Wire# little
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

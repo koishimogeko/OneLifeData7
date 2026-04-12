@@ -1,5 +1,5 @@
 id=28569
-工作台和切割机外壳 Wooden Work Bench with Cutting Machine Casing
+Wooden Work Bench with Cutting Machine Casing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
 id=32174
-在衣架上的贵族连衣裙Noble Dress on Hanger #white
+Noble Dress on Hanger #white
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

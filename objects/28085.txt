@@ -1,5 +1,5 @@
 id=28085
-盆栽百合苗 Wet Potted Lily Grove # White
+Wet Potted Lily Grove # White
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
 id=28046
-装着白色百合大种球的冷藏容器 Cold Bowl with Big Lily Bulb#White
+Cold Bowl with Big Lily Bulb#White
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

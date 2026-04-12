@@ -1,5 +1,5 @@
 id=28646
-切割机和一堆原木 Cutting Machine with Wooden Disks#broken
+Cutting Machine with Wooden Disks#broken
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

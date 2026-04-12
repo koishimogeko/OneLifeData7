@@ -1,5 +1,5 @@
 id=28379
-盛开的岛锦 Blooming Island Brocade Peony
+Blooming Island Brocade Peony
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

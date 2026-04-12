@@ -1,5 +1,5 @@
 id=28733
-一碗氧化锰 Bowl of Manganese Oxide
+Bowl of Manganese Oxide
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

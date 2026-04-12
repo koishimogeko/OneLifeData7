@@ -1,5 +1,5 @@
 id=28882
-干燥的郁金香种球 Dry Tulip Seed Ball#pink
+Dry Tulip Seed Ball#pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

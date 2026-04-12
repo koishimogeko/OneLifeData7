@@ -1,5 +1,5 @@
 id=28051
-装着红色郁金香大种球的冷藏容器 Cold Bowl with Big Tulip Bulb#Red
+Cold Bowl with Big Tulip Bulb#Red
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

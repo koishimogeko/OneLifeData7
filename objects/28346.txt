@@ -1,5 +1,5 @@
 id=28346
-浇水百合种球 Watered Lily Seed Ball#white
+Watered Lily Seed Ball#white
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

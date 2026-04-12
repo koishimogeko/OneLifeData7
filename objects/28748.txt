@@ -1,5 +1,5 @@
 id=28748
-锌壳和糊化氯化锌和纸 Zinc Shell and Gelatinized Zinc Chloride with Paper
+Zinc Shell and Gelatinized Zinc Chloride with Paper
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

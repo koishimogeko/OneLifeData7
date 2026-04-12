@@ -1,5 +1,5 @@
 id=28126
-干萌芽蒲公英 Dry Budding Dandelion
+Dry Budding Dandelion
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

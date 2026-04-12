@@ -1,5 +1,5 @@
 id=28039
-装着白色百合小种球的冷藏容器 Cold Bowl with Small Lily Bulb#White
+Cold Bowl with Small Lily Bulb#White
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

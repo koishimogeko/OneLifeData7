@@ -1,5 +1,5 @@
 id=28281
-干萌芽金鱼草 Dry Budding Snapdragon
+Dry Budding Snapdragon
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

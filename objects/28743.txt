@@ -1,5 +1,5 @@
 id=28743
-砖炉和糊化氯化锌 Hot Brick Oven with Gelatinized Zinc Chloride
+Hot Brick Oven with Gelatinized Zinc Chloride
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

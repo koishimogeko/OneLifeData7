@@ -1,5 +1,5 @@
 id=28302
-浇水萌芽风车菊 Watered Budding Red Windflower
+Watered Budding Red Windflower
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28508
-橡胶支架在工作台上 Rubber Bracket on Work Bench
+Rubber Bracket on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

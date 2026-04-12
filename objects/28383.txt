@@ -1,5 +1,5 @@
 id=28383
-浇水萌芽岛锦 Watered Island Brocade Peony Spout
+Watered Island Brocade Peony Spout
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

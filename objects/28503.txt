@@ -1,5 +1,5 @@
 id=28503
-定子转子和硅钢片 Stator and Rotor and Sheet Metal#little
+Stator and Rotor and Sheet Metal# little
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

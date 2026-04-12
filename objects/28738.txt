@@ -1,5 +1,5 @@
 id=28738
-一碗细碎面筋和淀粉水  Bowl of Finely Ground Gluten and Starch Water
+Bowl of Finely Ground Gluten and Starch Water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
 id=28207
-浇水萌芽黄雏菊 Watered Budding Yellow Daisy
+Watered Budding Yellow Daisy
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

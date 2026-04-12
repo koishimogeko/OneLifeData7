@@ -1,5 +1,5 @@
 id=28680
-切割桌 Cutting Table#open,broken,no elect
+Cutting Table# open,broken,no elect
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
