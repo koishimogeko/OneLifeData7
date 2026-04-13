@@ -1,5 +1,5 @@
-id=14535
-Springy Wooden Door with Berry Wreath# Installed +autoDefaultTrans +blocksMoving
+﻿id=14535
+带浆果花环的弹性木门# Installed +autoDefaultTrans +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

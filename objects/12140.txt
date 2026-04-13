@@ -1,5 +1,5 @@
-id=12140
-Black Cowboy Hat with Feather
+﻿id=12140
+黑色羽毛牛仔帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

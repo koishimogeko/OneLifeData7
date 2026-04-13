@@ -1,5 +1,5 @@
-id=14421
-Warp Weighted Loom with Linen Warp
+﻿id=14421
+亚麻经纱加重经纱织机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

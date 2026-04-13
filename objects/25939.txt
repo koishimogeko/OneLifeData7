@@ -1,4 +1,4 @@
-id=25939
+﻿id=25939
 石炉和转子冲压模具 回火Stone Kiln with Stamping Press#rotor insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

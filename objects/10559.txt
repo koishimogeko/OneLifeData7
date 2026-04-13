@@ -1,5 +1,5 @@
-id=10559
-Raw Beef with Dry Rub
+﻿id=10559
+干擦生牛肉
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

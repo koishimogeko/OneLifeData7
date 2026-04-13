@@ -1,5 +1,5 @@
-id=25053
-Water Hole with Polished Gutinous Rice# noHighlight
+﻿id=25053
+糯米池# noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

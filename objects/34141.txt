@@ -1,5 +1,5 @@
-id=34141
-Honeybee# Citron Paternal
+﻿id=34141
+蜜蜂# 香橼花粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

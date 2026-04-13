@@ -1,5 +1,5 @@
-id=32161
-Reborn 1 #green diesel engine power
+﻿id=32161
+轮回一号# green diesel engine power
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

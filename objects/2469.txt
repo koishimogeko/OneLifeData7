@@ -1,5 +1,5 @@
-id=2469
-Stone Block with Hole
+﻿id=2469
+带孔石块
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

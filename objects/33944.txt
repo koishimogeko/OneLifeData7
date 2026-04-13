@@ -1,5 +1,5 @@
-id=33944
-Pink Rose Arrangement
+﻿id=33944
+粉红玫瑰排列
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

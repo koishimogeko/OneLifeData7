@@ -1,5 +1,5 @@
-id=1612
-Ashes with Bowl of Cooked Wood Shavings
+﻿id=1612
+灰烬上的一碗熟木屑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

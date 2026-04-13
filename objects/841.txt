@@ -1,5 +1,5 @@
-id=841
-Bell Tower# just rang
+﻿id=841
+钟塔# 已响铃
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

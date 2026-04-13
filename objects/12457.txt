@@ -1,5 +1,5 @@
-id=12457
-Diesel Water Pump with Disconnected Water Tank
+﻿id=12457
+带断开水箱的柴油水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

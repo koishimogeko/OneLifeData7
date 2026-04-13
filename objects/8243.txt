@@ -1,5 +1,5 @@
-id=8243
-Stack of Green Dyed Paper
+﻿id=8243
+一叠绿色染色纸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4831
-Slaked Lime Bottle with Funnel
+﻿id=4831
+带漏斗的熟石灰瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

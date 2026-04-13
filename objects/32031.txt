@@ -1,4 +1,4 @@
-id=32031
+﻿id=32031
 一袋氧化铅# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000

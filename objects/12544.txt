@@ -1,5 +1,5 @@
-id=12544
-Perhaps sprayed Yew Cutting in Bowl
+﻿id=12544
+也许在碗里喷洒红豆杉切条
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7008
-Tipped Corn Kernels #last
+﻿id=7008
+最后一个玉米粒# last
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

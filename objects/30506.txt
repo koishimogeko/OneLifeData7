@@ -1,5 +1,5 @@
-id=30506
-Oiled Paper# justMade
+﻿id=30506
+油纸# justMade
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25828
+﻿id=25828
 有肥沃土堆的铸铁围栏 Cast Iron Fence withFertile Pile of Soil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

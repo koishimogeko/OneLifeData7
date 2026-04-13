@@ -1,4 +1,4 @@
-id=26213
+﻿id=26213
 带金圈的未染色长裙Undyed Long Dress with Hoops
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

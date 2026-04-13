@@ -1,5 +1,5 @@
-id=13576
-Fertile Soil Pile and Fireclay
+﻿id=13576
+肥沃的土堆和耐火粘土
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

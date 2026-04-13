@@ -1,5 +1,5 @@
-id=2740
-Wooden Box with Boards
+﻿id=2740
+木箱子与木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

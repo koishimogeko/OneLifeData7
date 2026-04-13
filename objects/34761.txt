@@ -1,4 +1,4 @@
-id=34761
+﻿id=34761
 @ Any Can Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

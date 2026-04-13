@@ -1,5 +1,5 @@
-id=11585
-Hot Bronze Axe Head on Flat Rock
+﻿id=11585
+扁平岩石上热的青铜斧头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

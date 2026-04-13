@@ -1,4 +1,4 @@
-id=25926
+﻿id=25926
 燃烧中的冲压机 Firing Newcomen Stamping Press#rotor
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

@@ -1,5 +1,5 @@
-id=39
-Dug Wild Carrot
+﻿id=39
+被挖起的野生胡萝卜
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

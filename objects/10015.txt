@@ -1,5 +1,5 @@
-id=10015
-Multipurpose Newcomen with Charcoal
+﻿id=10015
+装满木炭的多功能纽科门
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

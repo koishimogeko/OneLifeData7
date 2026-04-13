@@ -1,4 +1,4 @@
-id=26131
+﻿id=26131
 橡胶方向盘在工作台上 Hand wheel on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

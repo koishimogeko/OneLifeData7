@@ -1,5 +1,5 @@
-id=33836
-Expanded Perlite Insulation Wavy Boards
+﻿id=33836
+膨胀珍珠岩隔热波纹板
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

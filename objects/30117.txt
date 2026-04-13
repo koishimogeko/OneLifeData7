@@ -1,4 +1,4 @@
-id=30117
+﻿id=30117
 @ Football# M
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

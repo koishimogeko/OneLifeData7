@@ -1,5 +1,5 @@
-id=13924
-Beam Mold Filled with Molten Steel
+﻿id=13924
+充满钢水的梁模
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

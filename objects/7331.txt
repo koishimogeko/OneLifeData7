@@ -1,5 +1,5 @@
-id=7331
-Bee Smoker
+﻿id=7331
+烟雾驱蜂器
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

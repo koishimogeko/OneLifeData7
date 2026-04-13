@@ -1,5 +1,5 @@
-id=732
-Ashes with Bowl
+﻿id=732
+灰烬上的碗
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

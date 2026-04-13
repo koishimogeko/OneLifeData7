@@ -1,5 +1,5 @@
-id=1145
-Dry Planted Potatoes
+﻿id=1145
+干燥的马铃薯田
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30178
-Wooden Barrel of gem random
+﻿id=30178
+木制宝石桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

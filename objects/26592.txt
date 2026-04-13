@@ -1,4 +1,4 @@
-id=26592
+﻿id=26592
 一碗泡发的棕榈仁 Bowl of Soaked Palm Kernels
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=12134
-Bolts of Cotton Blend Cloth
+﻿id=12134
+棉混纺布匹
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

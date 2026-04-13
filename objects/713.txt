@@ -1,5 +1,5 @@
-id=713
-Indigo
+﻿id=713
+靛蓝
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

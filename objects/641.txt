@@ -1,5 +1,5 @@
-id=641
-Dead Grizzly Bear#2
+﻿id=641
+棕熊尸体# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10294
-Basket of Beaver Bones
+﻿id=10294
+一篮子海狸骨头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4706
-Mammoth Bones
+﻿id=4706
+猛犸骨
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

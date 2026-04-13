@@ -1,5 +1,5 @@
-id=12214
-Mason Jar with Pickles
+﻿id=12214
+梅森罐泡菜
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

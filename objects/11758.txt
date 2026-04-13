@@ -1,5 +1,5 @@
-id=11758
-Hand Wagon with Two Tires
+﻿id=11758
+有两个轮胎的手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=13

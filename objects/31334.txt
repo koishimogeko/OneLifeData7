@@ -1,5 +1,5 @@
-id=31334
-Bowl of Sulfur# 1S
+﻿id=31334
+一碗硫磺# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1353
-Domestic Pig with Piglet
+﻿id=1353
+有崽的家猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

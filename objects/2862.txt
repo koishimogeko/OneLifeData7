@@ -1,5 +1,5 @@
-id=2862
-Bowl of Salsa
+﻿id=2862
+一碗沙拉酱
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

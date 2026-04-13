@@ -1,5 +1,5 @@
-id=247
-Wood-filled Adobe Oven
+﻿id=247
+装有引火物的土坯烤炉
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

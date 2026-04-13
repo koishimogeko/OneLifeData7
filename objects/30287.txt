@@ -1,5 +1,5 @@
-id=30287
-Bucket of White Grape Juice # good
+﻿id=30287
+一桶白葡萄汁# good
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

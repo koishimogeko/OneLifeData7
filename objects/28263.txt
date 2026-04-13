@@ -1,5 +1,5 @@
-id=28263
-Blooming Pink Delphinium
+﻿id=28263
+盛开的飞燕草
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

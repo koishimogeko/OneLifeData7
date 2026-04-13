@@ -1,5 +1,5 @@
-id=34388
-Roman Style Half Fence# Expanded Perlite Insulation
+﻿id=34388
+罗马式半栅栏# Expanded Perlite Insulation
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

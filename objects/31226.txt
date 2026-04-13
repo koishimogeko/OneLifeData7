@@ -1,4 +1,4 @@
-id=31226
+﻿id=31226
 闪闪发光的黄铜钓鱼竿# 稀有
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

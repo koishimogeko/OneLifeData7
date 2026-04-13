@@ -1,5 +1,5 @@
-id=1250
-Empty Pot
+﻿id=1250
+空罐子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

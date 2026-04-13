@@ -1,4 +1,4 @@
-id=31298
+﻿id=31298
 试管与吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

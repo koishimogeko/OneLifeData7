@@ -1,5 +1,5 @@
-id=8307
-Perhaps Mouflon with Lamb Hit
+﻿id=8307
+也许击中带崽盘羊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

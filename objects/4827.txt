@@ -1,5 +1,5 @@
-id=4827
-Wild Tobacco Plants #picked
+﻿id=4827
+野生烟草植物# picked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

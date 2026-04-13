@@ -1,5 +1,5 @@
-id=13761
-Fractional Distiller with Kerosene Tank#Bitumen
+﻿id=13761
+带煤油罐的分馏器# Bitumen
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

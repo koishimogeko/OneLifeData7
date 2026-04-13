@@ -1,5 +1,5 @@
-id=25605
-Staked Bald Cypress Tree
+﻿id=25605
+木桩秃柏树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

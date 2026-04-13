@@ -1,5 +1,5 @@
-id=34905
-Full Fire Opal Mine with Mine Boes# 2
+﻿id=34905
+全火蛋白石矿# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=32367
-Bronze Axe Head Stack
+﻿id=32367
+青铜斧头堆叠
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

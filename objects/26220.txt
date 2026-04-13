@@ -1,4 +1,4 @@
-id=26220
+﻿id=26220
 一堆花岗岩#伴生石英 Stack of Granite Block #Associated Quartz
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

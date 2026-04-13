@@ -1,5 +1,5 @@
-id=34684
-Cave with Lit Explosive
+﻿id=34684
+装有点燃炸药的洞穴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

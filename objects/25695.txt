@@ -1,5 +1,5 @@
-id=25695
-Pile of Cooked Mammoth Meat
+﻿id=25695
+一堆熟猛犸肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

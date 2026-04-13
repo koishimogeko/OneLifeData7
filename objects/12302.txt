@@ -1,5 +1,5 @@
-id=12302
-Dye-Ready Bloomers
+﻿id=12302
+可染色灯笼裤
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

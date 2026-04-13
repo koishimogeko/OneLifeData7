@@ -1,5 +1,5 @@
-id=33941
-Scrap Metal Box
+﻿id=33941
+废金属箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

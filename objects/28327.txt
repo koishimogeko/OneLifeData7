@@ -1,5 +1,5 @@
-id=28327
-Dry Lily Seed Spout#Orange
+﻿id=28327
+干百合苗 Dry Lily Seed Spout#Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

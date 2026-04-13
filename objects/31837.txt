@@ -1,4 +1,4 @@
-id=31837
+﻿id=31837
 化学实验台# 测温 控制反应 没有煤气
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

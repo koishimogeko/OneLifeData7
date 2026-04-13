@@ -1,5 +1,5 @@
-id=11561
-Mine #1 #exhausted
+﻿id=11561
+1级矿井# 采空
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=10950
+﻿id=10950
 @ Kitten - dead
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

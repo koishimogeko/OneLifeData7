@@ -1,4 +1,4 @@
-id=26118
+﻿id=26118
 细钢棒和钢锭Thin Steel Rod and Steel Ingot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

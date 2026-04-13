@@ -1,5 +1,5 @@
-id=951
-Letter U
+﻿id=951
+字母 U
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

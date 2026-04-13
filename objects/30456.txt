@@ -1,5 +1,5 @@
-id=30456
-Rock With Plant
+﻿id=30456
+岩石与植物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

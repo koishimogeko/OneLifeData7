@@ -1,5 +1,5 @@
-id=3625
-Ketchup Bottle with Funnel
+﻿id=3625
+带漏斗的番茄酱瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

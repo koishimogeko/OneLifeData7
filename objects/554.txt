@@ -1,5 +1,5 @@
-id=554
-North-South Fence Holes
+﻿id=554
+南北栅栏孔
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

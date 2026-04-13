@@ -1,5 +1,5 @@
-id=32330
-Sandstone Half Wall with Detached Garland
+﻿id=32330
+独立加兰德砂岩半墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

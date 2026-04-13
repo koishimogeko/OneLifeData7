@@ -1,4 +1,4 @@
-id=27796
+﻿id=27796
 百合小种球 Lily Seed Ball # 1 # Orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

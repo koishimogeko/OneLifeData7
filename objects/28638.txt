@@ -1,5 +1,5 @@
-id=28638
-Cutting Machine with Chinese Chess Embryo#will broken,no elect
+﻿id=28638
+切割机和象棋木料# will broken,no elect
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

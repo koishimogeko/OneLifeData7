@@ -1,5 +1,5 @@
-id=14252
-Chair#pulled
+﻿id=14252
+椅子# pulled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

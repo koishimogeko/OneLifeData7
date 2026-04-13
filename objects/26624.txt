@@ -1,4 +1,4 @@
-id=26624
+﻿id=26624
 灯柱 Light Post # shut down E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

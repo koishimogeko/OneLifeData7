@@ -1,5 +1,5 @@
-id=13536
-Coal#1
+﻿id=13536
+煤炭# 1
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

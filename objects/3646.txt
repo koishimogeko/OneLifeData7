@@ -1,5 +1,5 @@
-id=3646
-Ultramarine Pigment Bottle with Funnel# inserted
+﻿id=3646
+插入漏斗# inserted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

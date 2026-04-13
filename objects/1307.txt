@@ -1,5 +1,5 @@
-id=1307
-Stack of Bean Tacos
+﻿id=1307
+一叠豆玉米饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

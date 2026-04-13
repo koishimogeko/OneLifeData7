@@ -1,5 +1,5 @@
-id=3124
-Temporary Fence Removal Receipt
+﻿id=3124
+（已过时）临时围栏拆除收据
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

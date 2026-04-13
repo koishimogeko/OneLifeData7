@@ -1,5 +1,5 @@
-id=13225
-North East Stakes with Bricks
+﻿id=13225
+带砖的东北地板木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

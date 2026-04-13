@@ -1,5 +1,5 @@
-id=7737
-Perhaps a Crow #wheat
+﻿id=7737
+也许是一只乌鸦# wheat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34236
+﻿id=34236
 @ Plant Dug
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

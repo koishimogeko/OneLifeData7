@@ -1,4 +1,4 @@
-id=28393
+﻿id=28393
 @ Watered Seed Spout#Flowerpot
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

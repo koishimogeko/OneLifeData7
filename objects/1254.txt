@@ -1,5 +1,5 @@
-id=1254
-Weak Stick# just dug
+﻿id=1254
+脆弱的木杆# just dug
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

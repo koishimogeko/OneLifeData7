@@ -1,5 +1,5 @@
-id=104
-Partial Wooden Frame
+﻿id=104
+局部木框架
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

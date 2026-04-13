@@ -1,5 +1,5 @@
-id=12315
-Green Slipper
+﻿id=12315
+绿色拖鞋
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

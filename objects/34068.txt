@@ -1,5 +1,5 @@
-id=34068
-Pile of Blanched Peppercorn Cluster
+﻿id=34068
+一堆烫过的胡椒簇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

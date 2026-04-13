@@ -1,5 +1,5 @@
-id=28049
-Cold Bowl with Big Tulip Bulb#Yellow
+﻿id=28049
+装黄色郁金香大种球的冷藏容器# Yellow
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

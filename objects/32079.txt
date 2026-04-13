@@ -1,4 +1,4 @@
-id=32079
+﻿id=32079
 一盆高岭土和萤石粉
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

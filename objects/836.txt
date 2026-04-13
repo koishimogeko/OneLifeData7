@@ -1,5 +1,5 @@
-id=836
-Tower Bell with Rope
+﻿id=836
+带绳索的塔钟
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

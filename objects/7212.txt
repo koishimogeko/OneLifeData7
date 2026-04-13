@@ -1,5 +1,5 @@
-id=7212
-Caged Rabbit
+﻿id=7212
+笼子中的兔子
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

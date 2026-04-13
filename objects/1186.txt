@@ -1,5 +1,5 @@
-id=1186
-Squash Seeds
+﻿id=1186
+笋瓜种子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

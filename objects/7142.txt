@@ -1,5 +1,5 @@
-id=7142
-(outdated) Pig in Cargo Wagon
+﻿id=7142
+货车上的清管器
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

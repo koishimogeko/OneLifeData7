@@ -1,5 +1,5 @@
-id=35009
-Staked Flowering Sweet Orange Tree
+﻿id=35009
+开花的甜橙树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

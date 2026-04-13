@@ -1,5 +1,5 @@
-id=8670
-Wheelbarrow with Bricks #1-5
+﻿id=8670
+装有砖块的独轮车# 1-5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

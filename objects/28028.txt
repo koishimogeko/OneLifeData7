@@ -1,5 +1,5 @@
-id=28028
-Cut Tulip Flowers on Hardened Row# Yellow
+﻿id=28028
+被剪下的郁金香# Yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

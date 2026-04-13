@@ -1,5 +1,5 @@
-id=13689
-Ladle Cart of Molten Steel and Ingot Mold
+﻿id=13689
+钢水包车及钢锭模
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

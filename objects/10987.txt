@@ -1,5 +1,5 @@
-id=10987
-Black Cat #yellow standing
+﻿id=10987
+黑猫# yellow standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31810
+﻿id=31810
 一碗草木灰水
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

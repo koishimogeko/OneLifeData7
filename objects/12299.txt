@@ -1,5 +1,5 @@
-id=12299
-Wool Blend Sheets #2
+﻿id=12299
+羊毛混纺床单# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

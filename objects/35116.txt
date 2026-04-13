@@ -1,4 +1,4 @@
-id=35116
+﻿id=35116
 Firing Double Chamber Furnace with Calcium Carbide# Excess lime
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

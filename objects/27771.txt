@@ -1,4 +1,4 @@
-id=27771
+﻿id=27771
 干燥的百合苗 Dry Lily Spout# Orange
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

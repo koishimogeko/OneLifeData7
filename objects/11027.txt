@@ -1,5 +1,5 @@
-id=11027
-Crates of Lemons #2
+﻿id=11027
+两箱未满柠檬
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

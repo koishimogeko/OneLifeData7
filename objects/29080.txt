@@ -1,4 +1,4 @@
-id=29080
+﻿id=29080
 黄色短裤 Yellow Shorts
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

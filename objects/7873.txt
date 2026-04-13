@@ -1,5 +1,5 @@
-id=7873
-Copper Pipe #NS loose
+﻿id=7873
+铜管# NS loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

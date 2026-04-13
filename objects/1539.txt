@@ -1,5 +1,5 @@
-id=1539
-Quenched Steel Spring in Wooden Tongs
+﻿id=1539
+被木钳夹着的淬火钢弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

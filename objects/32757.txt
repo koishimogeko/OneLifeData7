@@ -1,5 +1,5 @@
-id=32757
-Pile of Steel Pick Heads with Mine Boes
+﻿id=32757
+一堆满箱钢镐头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

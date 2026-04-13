@@ -1,4 +1,4 @@
-id=31967
+﻿id=31967
 煮沸的淡罗云紫染料
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

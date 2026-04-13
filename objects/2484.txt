@@ -1,5 +1,5 @@
-id=2484
-Seeping Endtower Base# monumentCall
+﻿id=2484
+渗透的末日塔基座# MonumentCall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

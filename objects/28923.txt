@@ -1,4 +1,4 @@
-id=28923
+﻿id=28923
 标桩和两个木板 Pit Stakes with Big Stack of Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

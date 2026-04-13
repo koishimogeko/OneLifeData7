@@ -1,5 +1,5 @@
-id=11658
-Bronze File with Chisel
+﻿id=11658
+带凿子的青铜锉刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

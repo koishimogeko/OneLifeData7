@@ -1,4 +1,4 @@
-id=27711
+﻿id=27711
 @ Wet Clay Flower Pot with Seed Ball
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

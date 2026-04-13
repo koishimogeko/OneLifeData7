@@ -1,5 +1,5 @@
-id=25042
-Ay Tsao Plant
+﻿id=25042
+艾草作物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

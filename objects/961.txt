@@ -1,5 +1,5 @@
-id=961
-Letter G
+﻿id=961
+字母 G
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

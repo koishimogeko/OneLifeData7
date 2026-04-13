@@ -1,5 +1,5 @@
-id=11082
-Crates of Wild Carrots #3 #Empty
+﻿id=11082
+三箱未满野生胡萝卜# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

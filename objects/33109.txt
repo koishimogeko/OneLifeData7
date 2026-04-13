@@ -1,5 +1,5 @@
-id=33109
-Closed Firing Stone with Glazed Firing Bone China Crucibe and Lid
+﻿id=33109
+熔炉中上釉的研钵和研杵# 焖烧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

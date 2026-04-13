@@ -1,4 +1,4 @@
-id=26160
+﻿id=26160
 在熊皮上的蓝色斗篷 Blue Cloak on Bear Skin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

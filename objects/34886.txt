@@ -1,5 +1,5 @@
-id=34886
-Horse-Drawn Wagon# Dappled Bit
+﻿id=34886
+马车# Dappled Bit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

@@ -1,5 +1,5 @@
-id=8987
-Skinned Beaver with Fur
+﻿id=8987
+带皮毛的海狸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

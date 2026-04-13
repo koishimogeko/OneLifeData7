@@ -1,5 +1,5 @@
-id=34279
-Bone Flower Pot with Wet Schefflera Sprouts
+﻿id=34279
+浇灌萌芽鸭掌木
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=32878
-Pyrophane and Quartz on Rock Ore Identification Work Bench
+﻿id=32878
+矿物鉴定台上的火欧泊和石英
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

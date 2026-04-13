@@ -1,5 +1,5 @@
-id=25793
-Steel Box # clean by VOG B 活动专用  VOG
+﻿id=25793
+钢箱# clean by VOG B 活动专用 VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

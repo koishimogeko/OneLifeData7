@@ -1,5 +1,5 @@
-id=12379
-Pink Cotton Short Dress #justremoved
+﻿id=12379
+粉色棉质短裙# justremoved
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

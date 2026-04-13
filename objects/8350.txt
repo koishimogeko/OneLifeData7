@@ -1,5 +1,5 @@
-id=8350
-Marked Grave with Written Paper# origGrave &written
+﻿id=8350
+用纸条标记的墓碑# origGrave &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

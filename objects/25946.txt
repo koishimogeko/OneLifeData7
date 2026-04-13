@@ -1,4 +1,4 @@
-id=25946
+﻿id=25946
 一堆石头和铜管和阀门 Pile of Cut Stones with Copper Pipe and Hand  wheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=12157
-Blue Cotton Long Dress
+﻿id=12157
+蓝色棉质长连衣裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

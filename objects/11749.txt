@@ -1,5 +1,5 @@
-id=11749
-Pile of Short Shafts with Curved Shafts
+﻿id=11749
+带曲轴的短轴堆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

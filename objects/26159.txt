@@ -1,4 +1,4 @@
-id=26159
+﻿id=26159
 在熊皮上的绿色色斗篷 Green Cloak on Bear Skin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=31306
+﻿id=31306
 三颈烧瓶
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

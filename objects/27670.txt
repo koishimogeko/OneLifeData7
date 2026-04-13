@@ -1,4 +1,4 @@
-id=27670
+﻿id=27670
 湿润的百合种球 Wet Clay Flower Pot with Lily Seed Ball # White
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

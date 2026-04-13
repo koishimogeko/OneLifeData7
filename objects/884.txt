@@ -1,5 +1,5 @@
-id=884
-Stone Floor# groundOnly
+﻿id=884
+石地板# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

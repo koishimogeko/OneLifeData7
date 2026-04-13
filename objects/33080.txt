@@ -1,5 +1,5 @@
-id=33080
-UnGlazed Firing Bone China Pot# 90%
+﻿id=33080
+上釉水的骨瓷花盆# 90%
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

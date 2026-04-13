@@ -1,5 +1,5 @@
-id=34489
-Honey Press# 6
+﻿id=34489
+蜂蜜压榨机# 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

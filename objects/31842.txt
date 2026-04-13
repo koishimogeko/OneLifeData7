@@ -1,4 +1,4 @@
-id=31842
+﻿id=31842
 一杯硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

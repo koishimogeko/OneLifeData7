@@ -1,5 +1,5 @@
-id=11814
-Picket Fence Gate #loose
+﻿id=11814
+尖桩栅栏门# loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

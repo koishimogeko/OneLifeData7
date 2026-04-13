@@ -1,4 +1,4 @@
-id=31183
+﻿id=31183
 一罐鱼骨粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=34257
-Wet Schefflera Sprouts
+﻿id=34257
+浇灌萌芽鸭掌木
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

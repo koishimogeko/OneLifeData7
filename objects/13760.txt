@@ -1,5 +1,5 @@
-id=13760
-Firing Fractional Distiller#Bitumen
+﻿id=13760
+燃烧分馏器# Bitumen
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

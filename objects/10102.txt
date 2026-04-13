@@ -1,5 +1,5 @@
-id=10102
-Soaking Fish Bones and Veggies
+﻿id=10102
+浸泡的鱼骨和蔬菜
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

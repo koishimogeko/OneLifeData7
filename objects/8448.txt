@@ -1,4 +1,4 @@
-id=8448
+﻿id=8448
 @ Any Board Color
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

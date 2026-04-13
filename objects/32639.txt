@@ -1,5 +1,5 @@
-id=32639
-Thin Steel Pipe and Two Steel Valves on Work Bench
+﻿id=32639
+工作台上的薄钢管和两个钢阀门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

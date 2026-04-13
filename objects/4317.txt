@@ -1,5 +1,5 @@
-id=4317
-Full Bowl of Ground Pepper# just ground
+﻿id=4317
+满满一碗胡椒粉# just ground
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

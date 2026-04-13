@@ -1,5 +1,5 @@
-id=6400
-Spinning Wheel
+﻿id=6400
+纺车
 containable=0
 containSize=1.000000,vertSlotRot=0.750000
 permanent=1,minPickupAge=3

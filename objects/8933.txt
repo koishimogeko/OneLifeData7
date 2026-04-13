@@ -1,5 +1,5 @@
-id=8933
-Pile of Steel Adze Heads
+﻿id=8933
+一堆钢锛头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

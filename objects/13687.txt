@@ -1,5 +1,5 @@
-id=13687
-Cylinder Mold Filled with Molten Cast Iron
+﻿id=13687
+充满熔融铸铁的缸模
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

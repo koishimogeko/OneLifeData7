@@ -1,5 +1,5 @@
-id=31069
-Bag of Fish Feed #2
+﻿id=31069
+一袋鱼饲料# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

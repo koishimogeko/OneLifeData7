@@ -1,5 +1,5 @@
-id=30800
-Deep Water with ArcticChar# +noHighlight groundOnly Eating
+﻿id=30800
+深水中的北极红点鲑与鱼饲料# 进食中 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26215
+﻿id=26215
 带金圈的蓝色长裙 Indigo Long Dress with Hoops
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

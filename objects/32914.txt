@@ -1,5 +1,5 @@
-id=32914
-Split Sandstone Rock with Chisel
+﻿id=32914
+分割砂岩与凿子
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

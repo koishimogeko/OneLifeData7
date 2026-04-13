@@ -1,5 +1,5 @@
-id=14688
-Blowpipe With Hot Glass Cylinder
+﻿id=14688
+带热玻璃缸的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

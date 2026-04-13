@@ -1,5 +1,5 @@
-id=4432
-Celebrated Shrine #A with camel
+﻿id=4432
+与骆驼起庆祝的神社# A with camel
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

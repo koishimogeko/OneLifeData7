@@ -1,5 +1,5 @@
-id=8854
-Tortoise#hidden
+﻿id=8854
+乌龟# hidden
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

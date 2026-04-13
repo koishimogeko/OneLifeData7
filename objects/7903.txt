@@ -1,5 +1,5 @@
-id=7903
-Tank with Fractional Distiller
+﻿id=7903
+带有分馏器的储罐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

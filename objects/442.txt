@@ -1,5 +1,5 @@
-id=442
-Steel Hammer Head on Anvil
+﻿id=442
+铁砧上的钢锤头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

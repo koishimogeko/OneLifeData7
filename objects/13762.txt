@@ -1,5 +1,5 @@
-id=13762
-Tank of Kerosene# just filled #Bitumen
+﻿id=13762
+煤油罐# just filled Bitumen
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

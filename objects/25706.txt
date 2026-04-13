@@ -1,5 +1,5 @@
-id=25706
-Bowl of Cut Sausage with Sugar
+﻿id=25706
+一碗糖切香肠
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

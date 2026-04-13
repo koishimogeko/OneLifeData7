@@ -1,5 +1,5 @@
-id=2817
-Net of Shrimp
+﻿id=2817
+一渔网的虾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

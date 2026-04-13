@@ -1,5 +1,5 @@
-id=32246
-Boards with Small Pulley
+﻿id=32246
+木板与小滑轮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

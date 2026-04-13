@@ -1,5 +1,5 @@
-id=32947
-Jansha Hydrothermal Oredeposits# Level2 Hot 4
+﻿id=32947
+粉尘浓度升高的热液矿床# 2级 炽热 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

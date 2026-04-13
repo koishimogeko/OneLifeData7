@@ -1,4 +1,4 @@
-id=35046
+﻿id=35046
 Pickled Flag Stand
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

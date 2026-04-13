@@ -1,5 +1,5 @@
-id=28906
-Cloth Bag#blue
+﻿id=28906
+布包# blue
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

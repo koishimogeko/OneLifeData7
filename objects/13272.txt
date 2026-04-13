@@ -1,5 +1,5 @@
-id=13272
-Ant Mound#ants #justBite
+﻿id=13272
+蚁丘# ants justBite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

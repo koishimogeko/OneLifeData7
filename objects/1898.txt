@@ -1,5 +1,5 @@
-id=1898
-Bowl of Mango-Infused Cow Urine
+﻿id=1898
+一碗芒果浸泡的牛尿
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1154
-Sprouting Potato
+﻿id=1154
+发芽的马铃薯
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

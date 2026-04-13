@@ -1,5 +1,5 @@
-id=9024
-Rooting Apple Cutting
+﻿id=9024
+生根的苹果剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

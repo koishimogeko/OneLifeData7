@@ -1,5 +1,5 @@
-id=25249
-Chess Board # Black Edge Bevel four # groundOnly
+﻿id=25249
+棋盘# Black Edge Bevel four groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

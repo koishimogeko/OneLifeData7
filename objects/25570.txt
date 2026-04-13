@@ -1,5 +1,5 @@
-id=25570
-Watered Snapdragon Seedling
+﻿id=25570
+湿润的红金鱼草幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

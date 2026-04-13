@@ -1,5 +1,5 @@
-id=30778
-fruiting Strawberry Sprouts# Bowl
+﻿id=30778
+草莓芽结果# Bowl
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

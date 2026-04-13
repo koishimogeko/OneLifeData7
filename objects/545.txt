@@ -1,5 +1,5 @@
-id=545
-Domestic Lamb#just left parent
+﻿id=545
+家养羊羔# just left parent
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

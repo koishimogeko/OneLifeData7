@@ -1,5 +1,5 @@
-id=1794
-Maple Tree Cutting
+﻿id=1794
+枫树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

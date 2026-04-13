@@ -1,5 +1,5 @@
-id=32797
-Hydrothermal Oredeposits# Level2 Hot 23
+﻿id=32797
+热液矿床# 2级 炽热 23
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

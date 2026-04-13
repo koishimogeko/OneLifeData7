@@ -1,5 +1,5 @@
-id=28747
-Zinc Shell and Gelatinized Zinc Chloride
+﻿id=28747
+锌壳和糊化氯化锌
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

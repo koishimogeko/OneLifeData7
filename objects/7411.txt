@@ -1,5 +1,5 @@
-id=7411
-Chopped Tree With Firewood #big,log2
+﻿id=7411
+带柴火的砍树# big,log2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

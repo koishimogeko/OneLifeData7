@@ -1,5 +1,5 @@
-id=7598
-Dye-Ready Top Hat with Feather
+﻿id=7598
+准备染色的羽毛高顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

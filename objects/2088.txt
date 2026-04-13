@@ -1,5 +1,5 @@
-id=2088
-Hidden Card# K of Diamonds
+﻿id=2088
+扑克背面# K of Diamonds
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

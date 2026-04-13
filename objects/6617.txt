@@ -1,4 +1,4 @@
-id=6617
+﻿id=6617
 @ Basket of Bones
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

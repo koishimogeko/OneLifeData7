@@ -1,5 +1,5 @@
-id=32541
-Plate of Sliced Wine Braised Pears
+﻿id=32541
+一盘红酒烩梨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

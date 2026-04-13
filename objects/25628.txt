@@ -1,5 +1,5 @@
-id=25628
-Filled Hole with Worms and Soil  # crow +tapoutTrigger,1,1,5,5
+﻿id=25628
+蠕虫与填过土的松软地# 有鸟的 +tapoutTrigger,1,1,5,5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

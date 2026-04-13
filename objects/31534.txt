@@ -1,4 +1,4 @@
-id=31534
+﻿id=31534
 雪地矿脉和白铅矿# 3级
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

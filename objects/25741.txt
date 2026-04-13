@@ -1,5 +1,5 @@
-id=25741
-Fishing Pole with Worm # 活动专用
+﻿id=25741
+带蠕虫的钓鱼竿# 活动专用
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

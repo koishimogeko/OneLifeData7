@@ -1,5 +1,5 @@
-id=33499
-Watchtower# Elife Mobility Group Transfer 1
+﻿id=33499
+瞭望塔# Elife 轮回机动小组转移 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

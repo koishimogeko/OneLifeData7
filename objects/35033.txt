@@ -1,5 +1,5 @@
-id=35033
-Flowering Sweet Orange Tree with Small Cut Stones
+﻿id=35033
+开有小石块的甜橙树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31792
+﻿id=31792
 被木夹夹住的未去汞的骨瓷长碟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

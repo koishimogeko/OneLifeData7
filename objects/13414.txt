@@ -1,5 +1,5 @@
-id=13414
-Brick Bell Tower# just rang
+﻿id=13414
+砖钟楼# just rang
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

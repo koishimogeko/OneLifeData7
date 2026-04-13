@@ -1,5 +1,5 @@
-id=8218
-Light Wooden Door with Berry Wreath# Installed
+﻿id=8218
+带浆果花环的浅色木门# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

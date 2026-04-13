@@ -1,5 +1,5 @@
-id=25714
-Perhaps a Filled Hole with Soil and Seed
+﻿id=25714
+也许是一个装满土壤和种子的洞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25632
-Filled Hole with Soil and Glass Seed # 1
+﻿id=25632
+填过土的松软地与草种子# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

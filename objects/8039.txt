@@ -1,5 +1,5 @@
-id=8039
-Light Wooden Door# Installed
+﻿id=8039
+浅色木门# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

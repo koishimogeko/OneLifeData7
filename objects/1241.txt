@@ -1,5 +1,5 @@
-id=1241
-Open Fermented Sauerkraut
+﻿id=1241
+打开的发酵酸菜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

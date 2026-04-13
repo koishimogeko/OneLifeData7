@@ -1,5 +1,5 @@
-id=13538
-Pile of Coal#2
+﻿id=13538
+一堆煤# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30721
-Cod# alive fish eggs
+﻿id=30721
+鳕鱼# alive fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

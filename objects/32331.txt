@@ -1,5 +1,5 @@
-id=32331
-Ancient Sandstone Half Wall with Detached Garland
+﻿id=32331
+独立加兰德古代砂岩半墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

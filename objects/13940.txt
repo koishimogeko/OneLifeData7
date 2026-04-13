@@ -1,4 +1,4 @@
-id=13940
+﻿id=13940
 @ Hot Pan Food - good cooked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

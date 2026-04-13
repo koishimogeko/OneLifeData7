@@ -1,5 +1,5 @@
-id=34751
-Open Mushroom Soup Canned
+﻿id=34751
+蘑菇汤罐头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

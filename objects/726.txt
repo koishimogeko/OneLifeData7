@@ -1,5 +1,5 @@
-id=726
-Red Wool Sweater
+﻿id=726
+玫瑰色羊毛衫
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

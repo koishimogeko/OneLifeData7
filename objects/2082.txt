@@ -1,5 +1,5 @@
-id=2082
-Hidden Card# 7 of Diamonds
+﻿id=2082
+扑克背面# 7 of Diamonds
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

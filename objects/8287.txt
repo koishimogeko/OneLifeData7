@@ -1,5 +1,5 @@
-id=8287
-Wolf #arrow missed
+﻿id=8287
+狼# arrow missed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12020
-Perhaps Hickory with Branch
+﻿id=12020
+也许有树枝的山核桃木
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

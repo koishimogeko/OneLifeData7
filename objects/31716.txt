@@ -1,4 +1,4 @@
-id=31716
+﻿id=31716
 干馏器组件
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

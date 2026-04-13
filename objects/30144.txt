@@ -1,5 +1,5 @@
-id=30144
-Football Net# East Miss
+﻿id=30144
+足球网# East Miss
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

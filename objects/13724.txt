@@ -1,5 +1,5 @@
-id=13724
-Cast Iron Sheet
+﻿id=13724
+铸铁片
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

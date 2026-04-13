@@ -1,5 +1,5 @@
-id=32261
-Firepit with Kindling and Tinder# eveHomeMarker
+﻿id=32261
+带引火柴和火种的壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

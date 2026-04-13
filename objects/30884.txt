@@ -1,5 +1,5 @@
-id=30884
-Bone China Pot with Hydrangea 3
+﻿id=30884
+绣球骨瓷锅3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=10043
-Horse #black,lead
+﻿id=10043
+马# black,lead
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

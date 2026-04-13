@@ -1,5 +1,5 @@
-id=6924
-Bowl of Raw Mutton
+﻿id=6924
+一碗生羊肉
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8867
-Ostrich #poked
+﻿id=8867
+鸵鸟# poked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

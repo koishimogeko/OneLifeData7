@@ -1,5 +1,5 @@
-id=7399
-Chopped Tree With Dark Firewood #small,wood2
+﻿id=7399
+带深色柴火的砍树# small,wood2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10517
-Shears with Bay Cutting
+﻿id=10517
+带湾切的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

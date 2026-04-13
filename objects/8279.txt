@@ -1,5 +1,5 @@
-id=8279
-Turkey #arrow missed
+﻿id=8279
+火鸡# arrow missed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

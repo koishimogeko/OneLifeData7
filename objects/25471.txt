@@ -1,5 +1,5 @@
-id=25471
-Ancient Sandstone Wall  with Windowsill # catLayingBall +noBackAccess
+﻿id=25471
+带窗台的古代砂岩墙# catLayingBall +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

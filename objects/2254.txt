@@ -1,5 +1,5 @@
-id=2254
-Small Pulley in Wooden Tongs
+﻿id=2254
+被木钳夹着的小滑轮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

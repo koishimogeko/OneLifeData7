@@ -1,5 +1,5 @@
-id=4709
-Ivory Spear
+﻿id=4709
+象牙长矛
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=8

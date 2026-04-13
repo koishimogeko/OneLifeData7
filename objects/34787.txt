@@ -1,4 +1,4 @@
-id=34787
+﻿id=34787
 Hot Forged lron Crucible
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

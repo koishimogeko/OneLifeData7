@@ -1,5 +1,5 @@
-id=31087
-fruiting Strawberry Sprouts# Wind
+﻿id=31087
+草莓芽结果# Wind
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2176
-Shot Turkey# with Arrow
+﻿id=2176
+用箭射中火鸡# with Arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

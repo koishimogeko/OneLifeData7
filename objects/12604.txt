@@ -1,5 +1,5 @@
-id=12604
-Perhaps sprayed Planted Red Windflower
+﻿id=12604
+也许喷洒了种植的红风花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

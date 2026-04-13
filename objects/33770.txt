@@ -1,5 +1,5 @@
-id=33770
-Pale Violet Coin# 4 Rare
+﻿id=33770
+淡紫色硬币# 4 Rare
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

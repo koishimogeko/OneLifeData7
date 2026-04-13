@@ -1,4 +1,4 @@
-id=31696
+﻿id=31696
 研钵和研杵与红色颜料
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

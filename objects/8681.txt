@@ -1,5 +1,5 @@
-id=8681
-Stone Block with Hand Cart#installed
+﻿id=8681
+带手推车的石块# installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

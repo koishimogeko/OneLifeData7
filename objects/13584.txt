@@ -1,5 +1,5 @@
-id=13584
-Stone Kiln with Wet Firebricks
+﻿id=13584
+湿法耐火砖石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

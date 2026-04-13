@@ -1,5 +1,5 @@
-id=32595
-Bowl of Expanded Perlite and Nitroglycerin
+﻿id=32595
+一碗膨胀珍珠岩混硝酸甘油
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

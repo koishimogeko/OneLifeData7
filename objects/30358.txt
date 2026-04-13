@@ -1,5 +1,5 @@
-id=30358
-Prepare Merger Wooden table# 1S
+﻿id=30358
+准备合并木桌# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

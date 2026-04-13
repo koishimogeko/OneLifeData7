@@ -1,5 +1,5 @@
-id=1576
-Track End #N #cartS
+﻿id=1576
+轨道终点# N cartS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

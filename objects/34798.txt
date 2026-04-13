@@ -1,5 +1,5 @@
-id=34798
-Rotor Lamination Stack with Copper Wire on Work Bench
+﻿id=34798
+工作台上的铜线转子叠片堆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

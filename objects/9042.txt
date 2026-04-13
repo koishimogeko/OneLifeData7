@@ -1,4 +1,4 @@
-id=9042
+﻿id=9042
 @ Rooting Cutting (trees and flowers)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

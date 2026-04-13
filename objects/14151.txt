@@ -1,5 +1,5 @@
-id=14151
-Concrete Floor# groundOnly
+﻿id=14151
+混凝土地板# groundOn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

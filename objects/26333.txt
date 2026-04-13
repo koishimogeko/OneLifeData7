@@ -1,4 +1,4 @@
-id=26333
+﻿id=26333
 @ wire NE
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

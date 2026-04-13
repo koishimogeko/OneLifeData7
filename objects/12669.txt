@@ -1,5 +1,5 @@
-id=12669
-Full Crates of Garlic Bulbs #3
+﻿id=12669
+三箱大蒜
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13550
-Stone Furnace with Coal
+﻿id=13550
+石炉煤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

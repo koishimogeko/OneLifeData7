@@ -1,5 +1,5 @@
-id=10142
-Dug England Ivy
+﻿id=10142
+挖出的英格兰常春藤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

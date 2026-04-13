@@ -1,5 +1,5 @@
-id=14221
-Wooden Table#justRemovedCloth
+﻿id=14221
+木桌# justRemovedCloth
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

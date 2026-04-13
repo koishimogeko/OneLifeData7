@@ -1,4 +1,4 @@
-id=10944
+﻿id=10944
 @ Kitten - fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

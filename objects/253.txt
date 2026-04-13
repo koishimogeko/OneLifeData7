@@ -1,5 +1,5 @@
-id=253
-Bowl of Gooseberries
+﻿id=253
+一碗醋栗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33094
-Stone Furnace with Glazed Firing Bone China Crucibe and Lid
+﻿id=33094
+熔炉中上釉水的研钵和研杵# 焦炭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

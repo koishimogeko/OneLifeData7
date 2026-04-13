@@ -1,5 +1,5 @@
-id=6831
-Pile of Dried Corn
+﻿id=6831
+一堆干玉米
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

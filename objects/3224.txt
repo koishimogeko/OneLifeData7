@@ -1,5 +1,5 @@
-id=3224
-Jack O' Lantern with Seeds
+﻿id=3224
+带籽的杰克南瓜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30301
-Sealed Champagne Bottle# No Spit Mud
+﻿id=30301
+密封香槟瓶# No Spit Mud
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

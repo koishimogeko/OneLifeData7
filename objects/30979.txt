@@ -1,5 +1,5 @@
-id=30979
-Copper Pipe# NE SE justGone
+﻿id=30979
+铜管# NE SE justGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

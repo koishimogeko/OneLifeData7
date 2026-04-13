@@ -1,5 +1,5 @@
-id=30248
-Firing Fractional Distiller# coke Bitumen Use6
+﻿id=30248
+燃烧馏分蒸馏器# coke Bitumen Use6
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

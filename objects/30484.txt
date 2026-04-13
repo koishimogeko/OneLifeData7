@@ -1,5 +1,5 @@
-id=30484
-Perhaps a Sparrow Strawberry
+﻿id=30484
+也许是麻雀草莓
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

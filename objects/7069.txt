@@ -1,5 +1,5 @@
-id=7069
-Nomad Pants #black
+﻿id=7069
+游牧者长裤# black
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

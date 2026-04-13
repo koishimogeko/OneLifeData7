@@ -1,5 +1,5 @@
-id=8757
-Wilting Rice Plant
+﻿id=8757
+枯萎的水稻植株
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

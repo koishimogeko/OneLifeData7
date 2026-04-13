@@ -1,5 +1,5 @@
-id=33555
-Basalt and Granite of Rockburst Hydrothermal Oredeposits# Level2 Hot 12 Spare Diesel Engine
+﻿id=33555
+突发花岗岩岩爆的热液矿床# 2级 炽热 抽水柴油发动机组
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

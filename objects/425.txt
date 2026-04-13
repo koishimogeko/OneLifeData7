@@ -1,5 +1,5 @@
-id=425
-Wolf Skin
+﻿id=425
+狼皮
 containable=1
 containSize=2.000000,vertSlotRot=-0.125000
 permanent=0,minPickupAge=3

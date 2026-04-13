@@ -1,5 +1,5 @@
-id=3619
-Whole Milk Bottle with Funnel
+﻿id=3619
+带漏斗的全脂牛奶瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

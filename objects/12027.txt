@@ -1,5 +1,5 @@
-id=12027
-Perhaps a Fish Tier 1
+﻿id=12027
+也许是 1 级鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3012
-Bowl of Copper Sulfate with Alum and Niter
+﻿id=3012
+一碗明矾和硝石和硫酸铜溶液
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

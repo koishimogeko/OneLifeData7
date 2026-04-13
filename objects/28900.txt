@@ -1,4 +1,4 @@
-id=28900
+﻿id=28900
 一碗氯化锌 Bowl of Starch
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

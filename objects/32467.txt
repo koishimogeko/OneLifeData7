@@ -1,5 +1,5 @@
-id=32467
-Clay Food Crock# Gooseberries Use6
+﻿id=32467
+食物陶罐# 醋栗 Use6
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

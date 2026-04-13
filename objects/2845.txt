@@ -1,5 +1,5 @@
-id=2845
-Dry Planted Wild Onion
+﻿id=2845
+干燥的野生洋葱田
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

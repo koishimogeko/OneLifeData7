@@ -1,5 +1,5 @@
-id=11601
-Mine with Limestone #2
+﻿id=11601
+2级矿井和石灰石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

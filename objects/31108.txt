@@ -1,4 +1,4 @@
-id=31108
+﻿id=31108
 @ Plastered Floor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

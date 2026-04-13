@@ -1,5 +1,5 @@
-id=33452
-Marble Opal Wall# Orange Guard
+﻿id=33452
+大理石镶蛋白石墙# 橙色 守护
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

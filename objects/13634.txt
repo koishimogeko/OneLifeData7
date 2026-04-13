@@ -1,5 +1,5 @@
-id=13634
-Stove Pot# silence object
+﻿id=13634
+炉灶# silence object
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

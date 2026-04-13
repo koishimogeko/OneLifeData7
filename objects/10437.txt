@@ -1,5 +1,5 @@
-id=10437
-Wet Planted Cucumber Seeds
+﻿id=10437
+湿种植黄瓜种子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

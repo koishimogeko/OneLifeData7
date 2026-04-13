@@ -1,5 +1,5 @@
-id=10978
-White Cat #yellow standing
+﻿id=10978
+白猫# yellow standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

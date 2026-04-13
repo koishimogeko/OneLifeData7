@@ -1,5 +1,5 @@
-id=25459
-Brick Wall  with Windowsill # catLaying +noBackAccess
+﻿id=25459
+带窗砖墙# catLaying +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

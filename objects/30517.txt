@@ -1,5 +1,5 @@
-id=30517
-Pot of Sugar Water
+﻿id=30517
+一壶糖水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

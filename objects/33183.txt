@@ -1,5 +1,5 @@
-id=33183
-Bowl of Albite Powder# Unmixed
+﻿id=33183
+一碗两份石英和氧化铝粉与氧化钠
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

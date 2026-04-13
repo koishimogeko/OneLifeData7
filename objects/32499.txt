@@ -1,5 +1,5 @@
-id=32499
-Mortar with Pestle of Rough Iron Red powder
+﻿id=32499
+研钵与研杵和铁红粉
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

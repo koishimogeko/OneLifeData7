@@ -1,4 +1,4 @@
-id=31586
+﻿id=31586
 积水的热液矿床# 1级 炽热 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

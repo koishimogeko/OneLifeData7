@@ -1,5 +1,5 @@
-id=28268
-Blooming Morning Glory
+﻿id=28268
+盛开的牵牛花
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25580
-Watered Snake Plant Seedling
+﻿id=25580
+湿润的柳兰幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

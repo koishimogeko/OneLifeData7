@@ -1,4 +1,4 @@
-id=3685
+﻿id=3685
 @ Pattern bowl of Bottle Stuff
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

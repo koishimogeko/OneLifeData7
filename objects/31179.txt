@@ -1,5 +1,5 @@
-id=31179
-一袋鱼肉粉 #2
+﻿id=31179
+一袋鱼肉粉# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

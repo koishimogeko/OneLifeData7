@@ -1,5 +1,5 @@
-id=34207
-Thicket with Dug WildCarrot
+﻿id=34207
+灌木丛和野生胡萝卜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

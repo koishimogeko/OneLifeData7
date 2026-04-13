@@ -1,5 +1,5 @@
-id=28479
-Cotton candy hairpin# blue
+﻿id=28479
+棉花糖发卡# blue
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32240
-Glittering brass Armor
+﻿id=32240
+闪闪发光的黄铜铠甲
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

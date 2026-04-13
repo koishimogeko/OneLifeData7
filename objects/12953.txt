@@ -1,5 +1,5 @@
-id=12953
-German Shepherd #holdingWildPepper
+﻿id=12953
+德国牧羊犬# holdingWildPepper
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26187
+﻿id=26187
 黄色玻璃板 Yellow Glass Pane # paint
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

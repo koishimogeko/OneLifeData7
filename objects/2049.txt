@@ -1,5 +1,5 @@
-id=2049
-Hidden Card# K of Clubs
+﻿id=2049
+扑克背面# K of Clubs
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31823
+﻿id=31823
 一碗氟氢化钾# 铅碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

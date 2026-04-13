@@ -1,4 +1,4 @@
-id=26320
+﻿id=26320
 @ wire WNES just close 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

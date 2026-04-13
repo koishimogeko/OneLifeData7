@@ -1,5 +1,5 @@
-id=34642
-Attacking Fury Old Wild Boar# 2
+﻿id=34642
+攻击愤怒的老野猪# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=665
-Dry Deep Well
+﻿id=665
+干枯的深井
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

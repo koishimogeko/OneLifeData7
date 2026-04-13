@@ -1,5 +1,5 @@
-id=4450
-Celebrated Shrine #A three crowns
+﻿id=4450
+庆祝的社# A three crowns
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

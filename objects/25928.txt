@@ -1,4 +1,4 @@
-id=25928
+﻿id=25928
 燃烧的石炉和转子冲压模具 Firing Stone Kiln with Stamping Press#rotor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

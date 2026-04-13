@@ -1,4 +1,4 @@
-id=34083
+﻿id=34083
 Pumpkin On Plate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

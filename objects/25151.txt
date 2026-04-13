@@ -1,5 +1,5 @@
-id=25151
-White Queen on Wood Work Bench
+﻿id=25151
+木制工作台上的白皇后
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

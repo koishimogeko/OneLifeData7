@@ -1,5 +1,5 @@
-id=14316
-Skinned Polar Bear#with hide
+﻿id=14316
+剥皮的北极熊# with hide
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

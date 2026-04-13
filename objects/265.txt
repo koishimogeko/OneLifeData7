@@ -1,5 +1,5 @@
-id=265
-Raw Berry Pie
+﻿id=265
+生的浆果派
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

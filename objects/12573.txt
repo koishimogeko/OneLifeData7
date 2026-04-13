@@ -1,5 +1,5 @@
-id=12573
-Perhaps sprayed Hickory Sapling
+﻿id=12573
+也许喷洒了山核桃树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

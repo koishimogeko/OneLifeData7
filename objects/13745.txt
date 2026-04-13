@@ -1,5 +1,5 @@
-id=13745
-Ladle Cart of Molten Cast Iron and Sheet Mold
+﻿id=13745
+铁水及板模钢包车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

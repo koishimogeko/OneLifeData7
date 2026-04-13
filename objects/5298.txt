@@ -1,4 +1,4 @@
-id=5298
+﻿id=5298
 @ Unshot 2HOL birds
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

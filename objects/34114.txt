@@ -1,5 +1,5 @@
-id=34114
-CitrusL. Tree Sapling
+﻿id=34114
+柑橘属树苗
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

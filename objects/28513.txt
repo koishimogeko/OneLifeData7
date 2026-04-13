@@ -1,5 +1,5 @@
-id=28513
-Stack of Red Sheet Metal#3
+﻿id=28513
+一堆红色钣金# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

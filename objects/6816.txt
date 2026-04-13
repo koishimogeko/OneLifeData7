@@ -1,5 +1,5 @@
-id=6816
-Shovel on Poipack
+﻿id=6816
+棉布背包上的钢铲
 containable=1
 containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=28926
+﻿id=28926
 狗窝 Doghouse#pillow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

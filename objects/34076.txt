@@ -1,5 +1,5 @@
-id=34076
-Bowl with Solder Ingot in Wooden Tongs
+﻿id=34076
+木钳锡锭碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

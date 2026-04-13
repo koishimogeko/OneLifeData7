@@ -1,5 +1,5 @@
-id=30743
-Deep Water# +noHighlight groundOnly seaweed Trout eggs
+﻿id=30743
+深水中的鳟鱼卵# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

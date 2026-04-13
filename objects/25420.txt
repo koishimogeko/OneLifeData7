@@ -1,5 +1,5 @@
-id=25420
-Stone Arch with Budding Rose
+﻿id=25420
+含苞待放的玫瑰石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

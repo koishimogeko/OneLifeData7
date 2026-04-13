@@ -1,5 +1,5 @@
-id=34298
-Short Board# light
+﻿id=34298
+小木板# 浅色
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

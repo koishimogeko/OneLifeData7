@@ -1,5 +1,5 @@
-id=25162
-White Rook # ground
+﻿id=25162
+白色车# 地上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

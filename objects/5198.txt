@@ -1,5 +1,5 @@
-id=5198
-Mammoth Hide Gambeson
+﻿id=5198
+猛犸象皮铠甲
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

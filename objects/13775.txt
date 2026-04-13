@@ -1,5 +1,5 @@
-id=13775
-Tundra Mine with Iron Ore #2 #exploratory
+﻿id=13775
+2级苔原铁矿矿井和铁矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

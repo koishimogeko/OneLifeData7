@@ -1,4 +1,4 @@
-id=31462
+﻿id=31462
 工作台上的钢刀片和细钢棒# 带钢尺
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

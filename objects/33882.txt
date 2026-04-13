@@ -1,5 +1,5 @@
-id=33882
-Winter Pomelo Tree
+﻿id=33882
+冬柚树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

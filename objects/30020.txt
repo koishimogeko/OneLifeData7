@@ -1,5 +1,5 @@
-id=30020
-FootBall# 1
+﻿id=30020
+足球# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

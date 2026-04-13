@@ -1,4 +1,4 @@
-id=26569
+﻿id=26569
 @ Electrical appliances powered WWW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

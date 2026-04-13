@@ -1,5 +1,5 @@
-id=10077
-Wet Birch Sapling Cutting
+﻿id=10077
+湿的白桦树剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

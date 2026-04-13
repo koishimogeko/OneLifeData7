@@ -1,5 +1,5 @@
-id=603
-Hungry Mouflon Lamb
+﻿id=603
+饥饿的盘羊羊羔
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

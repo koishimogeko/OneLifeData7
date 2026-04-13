@@ -1,5 +1,5 @@
-id=11914
-Rainie House Flag Stand
+﻿id=11914
+杨丞琳之家旗架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

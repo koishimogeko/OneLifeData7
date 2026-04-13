@@ -1,5 +1,5 @@
-id=30892
-Bone China Pot with Two Water One FeSO4 7H2O Hydrangea 3
+﻿id=30892
+骨瓷锅配二水一FeSO4 7H2O绣球3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

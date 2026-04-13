@@ -1,5 +1,5 @@
-id=30704
-Deep Water with Pike# +noHighlight groundOnly fish eggs
+﻿id=30704
+深水中的梭子鱼# 有鱼籽 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

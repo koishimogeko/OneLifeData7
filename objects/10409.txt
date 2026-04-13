@@ -1,4 +1,4 @@
-id=10409
+﻿id=10409
 @ Bottles - stopper
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

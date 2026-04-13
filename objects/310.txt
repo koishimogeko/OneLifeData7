@@ -1,5 +1,5 @@
-id=310
-Cold Iron Bloom
+﻿id=310
+生铁坯
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

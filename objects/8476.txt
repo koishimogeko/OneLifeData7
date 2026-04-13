@@ -1,5 +1,5 @@
-id=8476
-Dark Wooden Wall with Big Stack of Boards#just placed
+﻿id=8476
+带大堆木板的深色木墙# just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

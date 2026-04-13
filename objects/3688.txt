@@ -1,5 +1,5 @@
-id=3688
-Glass Bottle# just emptied of paste
+﻿id=3688
+玻璃瓶# just emptied of paste
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

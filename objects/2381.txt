@@ -1,5 +1,5 @@
-id=2381
-Diesel Cylinder Head with One Valve
+﻿id=2381
+带一个阀门的柴油机气缸盖
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15

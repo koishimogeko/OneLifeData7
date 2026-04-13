@@ -1,5 +1,5 @@
-id=25079
-Bowl of Ay Tsao Juice
+﻿id=25079
+一碗艾草汁
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

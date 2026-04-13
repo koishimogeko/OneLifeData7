@@ -1,5 +1,5 @@
-id=34346
-Wooden Flower Pot Epipremnum Aureum
+﻿id=34346
+绿萝盆栽
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

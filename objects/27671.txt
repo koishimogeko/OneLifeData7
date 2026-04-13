@@ -1,4 +1,4 @@
-id=27671
+﻿id=27671
 干燥的百合苗 Dry Lily Spout # White
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

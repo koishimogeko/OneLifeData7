@@ -1,4 +1,4 @@
-id=26167
+﻿id=26167
 矩形停车牌Rectangular Parking Sign
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

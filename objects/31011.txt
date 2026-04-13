@@ -1,4 +1,4 @@
-id=31011
+﻿id=31011
 鱼饵
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

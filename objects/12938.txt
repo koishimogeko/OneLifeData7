@@ -1,5 +1,5 @@
-id=12938
-German Shepherd #fetching
+﻿id=12938
+德国牧羊犬# fetching
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

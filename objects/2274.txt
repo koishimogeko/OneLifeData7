@@ -1,5 +1,5 @@
-id=2274
-Newcomen Bore with Full Boiler
+﻿id=2274
+装满水的纽科门蒸汽钻孔机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

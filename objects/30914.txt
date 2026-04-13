@@ -1,5 +1,5 @@
-id=30914
-Mason Jar of Water 3
+﻿id=30914
+梅森水罐3
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

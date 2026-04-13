@@ -1,5 +1,5 @@
-id=12184
-Red Silk Shirt on Hanger
+﻿id=12184
+衣架上的红色丝绸衬衫
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

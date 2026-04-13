@@ -1,4 +1,4 @@
-id=31295
+﻿id=31295
 带冷凝管的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=207
-Two Pieces of Cut Rabbit Fur
+﻿id=207
+两张分割的兔皮
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

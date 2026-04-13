@@ -1,5 +1,5 @@
-id=6941
-Bison Bones#dumped
+﻿id=6941
+野牛骨# 倒出
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=990
-Locked Small Sign# $10
+﻿id=990
+锁上的小牌子# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

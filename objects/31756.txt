@@ -1,4 +1,4 @@
-id=31756
+﻿id=31756
 化学实验台和煤焦油# 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

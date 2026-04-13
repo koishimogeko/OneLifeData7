@@ -1,5 +1,5 @@
-id=2626
-Low Frequency Marconi Receiver# on
+﻿id=2626
+低频无线电报接收器# on
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

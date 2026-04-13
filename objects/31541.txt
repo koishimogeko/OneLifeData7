@@ -1,4 +1,4 @@
-id=31541
+﻿id=31541
 钢包车和铸梁模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

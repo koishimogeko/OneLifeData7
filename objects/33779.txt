@@ -1,4 +1,4 @@
-id=33779
+﻿id=33779
 一瓶竹篁绿染料# 稀有
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

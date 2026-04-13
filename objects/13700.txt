@@ -1,5 +1,5 @@
-id=13700
-Stack of Sheet Metal
+﻿id=13700
+金属板堆栈
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

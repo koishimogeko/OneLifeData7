@@ -1,5 +1,5 @@
-id=31131
-Painted Picket Fence Gate# Pink justpainted
+﻿id=31131
+彩绘栅栏# 粉色 刚刚刷过
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

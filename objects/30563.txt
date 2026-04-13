@@ -1,5 +1,5 @@
-id=30563
-Chemical Reaction# H2O+NA2O
+﻿id=30563
+化学反应# H2O+NA2O
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

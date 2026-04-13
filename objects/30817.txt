@@ -1,5 +1,5 @@
-id=30817
-Bamboo Net with ArcticChar# Float
+﻿id=30817
+带ArcticChar的竹网# Float
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

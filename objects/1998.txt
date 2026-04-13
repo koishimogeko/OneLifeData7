@@ -1,5 +1,5 @@
-id=1998
-Nine of Clubs
+﻿id=1998
+梅花9
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

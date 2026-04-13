@@ -1,5 +1,5 @@
-id=30475
-Wet Strawberry Sprouts Cutting# Use4
+﻿id=30475
+湿草莓芽切割# Use4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

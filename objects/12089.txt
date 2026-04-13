@@ -1,5 +1,5 @@
-id=12089
-Sack of Dried Beans #3
+﻿id=12089
+一袋干豆# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.240000
 permanent=0,minPickupAge=3

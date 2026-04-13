@@ -1,5 +1,5 @@
-id=8494
-Ancient Stone Wall with Boards#just placed
+﻿id=8494
+带木板的古石墙# just placed#just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

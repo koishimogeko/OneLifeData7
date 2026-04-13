@@ -1,5 +1,5 @@
-id=14749
-Polar Bear Skin with Cotton
+﻿id=14749
+棉花北极熊皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

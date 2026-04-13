@@ -1,5 +1,5 @@
-id=2025
-Ten of Hearts
+﻿id=2025
+红桃10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

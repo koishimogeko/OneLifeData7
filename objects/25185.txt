@@ -1,5 +1,5 @@
-id=25185
-Cut Chess Embryo # just make
+﻿id=25185
+切开的象棋毛胚# 刚做好
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

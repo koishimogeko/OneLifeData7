@@ -1,5 +1,5 @@
-id=35026
-Citron Tree with Small Cut Stones
+﻿id=35026
+带有小石块的柠檬树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

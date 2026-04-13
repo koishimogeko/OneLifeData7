@@ -1,5 +1,5 @@
-id=13157
-Apple Tree with Small Cut Stones
+﻿id=13157
+带有小切石的苹果树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

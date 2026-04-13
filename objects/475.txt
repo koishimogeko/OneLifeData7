@@ -1,5 +1,5 @@
-id=475
-Wooden Wheel
+﻿id=475
+木轮子
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

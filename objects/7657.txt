@@ -1,5 +1,5 @@
-id=7657
-Stump with Goose Head# just left light
+﻿id=7657
+树桩和鹅头# just left light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

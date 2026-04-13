@@ -1,4 +1,4 @@
-id=34467
+﻿id=34467
 帐篷门# 关闭 竹篁绿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

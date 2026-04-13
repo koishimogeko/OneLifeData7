@@ -1,4 +1,4 @@
-id=34201
+﻿id=34201
 @ Plant Shovel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=30171
-Wooden Barrel of diamonds
+﻿id=30171
+木制钻石桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

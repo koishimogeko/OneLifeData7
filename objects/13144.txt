@@ -1,5 +1,5 @@
-id=13144
-Staked Birch Tree
+﻿id=13144
+带木桩的白桦树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

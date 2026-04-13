@@ -1,5 +1,5 @@
-id=13047
-Sack of Rice #3
+﻿id=13047
+一袋大米# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.240000
 permanent=0,minPickupAge=3

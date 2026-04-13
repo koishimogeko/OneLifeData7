@@ -1,5 +1,5 @@
-id=11726
-Broken Horse Cart with Tires #dappled,bit
+﻿id=11726
+带轮胎的破马车# dappled,bit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

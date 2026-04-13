@@ -1,5 +1,5 @@
-id=8340
-Leather Sheets
+﻿id=8340
+两张皮革片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

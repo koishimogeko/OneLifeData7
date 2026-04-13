@@ -1,5 +1,5 @@
-id=699
-Crown Blank with Wolf Skin
+﻿id=699
+素王冠和狼皮
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

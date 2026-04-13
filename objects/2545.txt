@@ -1,5 +1,5 @@
-id=2545
-Bowl with Dirty Filter Paper
+﻿id=2545
+一碗污浊滤纸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

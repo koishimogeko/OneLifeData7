@@ -1,4 +1,4 @@
-id=31873
+﻿id=31873
 碟子上的生氟橡胶盖
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

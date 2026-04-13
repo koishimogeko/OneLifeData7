@@ -1,5 +1,5 @@
-id=12023
-Primitive Fishing Pole#cast
+﻿id=12023
+原始钓鱼竿# cast
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

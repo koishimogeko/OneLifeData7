@@ -1,5 +1,5 @@
-id=14176
-Pot of Milk#heating
+﻿id=14176
+一壶牛奶# heating
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

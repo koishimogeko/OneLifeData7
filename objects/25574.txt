@@ -1,5 +1,5 @@
-id=25574
-Dry Snake Plant Seedling
+﻿id=25574
+干燥的虎尾兰幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

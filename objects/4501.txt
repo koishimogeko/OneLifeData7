@@ -1,5 +1,5 @@
-id=4501
-Raw Flatbread on Flat Rock
+﻿id=4501
+扁石上的生扁平面包
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

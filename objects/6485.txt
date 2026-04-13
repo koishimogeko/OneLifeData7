@@ -1,5 +1,5 @@
-id=6485
-Cooked Skewered Char Fillets
+﻿id=6485
+一串熟的北极红点鲑鱼片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

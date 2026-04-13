@@ -1,4 +1,4 @@
-id=33719
+﻿id=33719
 Torch# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

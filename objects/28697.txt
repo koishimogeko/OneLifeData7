@@ -1,5 +1,5 @@
-id=28697
-Boards Stacks with Steel Thin Rod#light
+﻿id=28697
+一堆宽木板# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

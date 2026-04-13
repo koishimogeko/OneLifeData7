@@ -1,4 +1,4 @@
-id=25957
+﻿id=25957
 燃烧的纽科门冲压机 Firing Newcomen Stamping Press#Stator
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

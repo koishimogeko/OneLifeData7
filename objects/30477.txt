@@ -1,5 +1,5 @@
-id=30477
-Perhaps Languishing sprayed Strawberry Sapling
+﻿id=30477
+也许是喷了狼嘴草莓汁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

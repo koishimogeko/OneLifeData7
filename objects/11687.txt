@@ -1,5 +1,5 @@
-id=11687
-Split Sandstone with Bronze Chisel
+﻿id=11687
+青铜凿子与裂开的砂岩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

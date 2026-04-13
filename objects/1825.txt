@@ -1,5 +1,5 @@
-id=1825
-Dry Ancient Yew Bonsai
+﻿id=1825
+干燥的古紫杉盆景
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

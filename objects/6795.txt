@@ -1,5 +1,5 @@
-id=6795
-Cooked Lobster on Ashes
+﻿id=6795
+灰烬上的一碗煮熟的龙虾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

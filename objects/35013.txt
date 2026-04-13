@@ -1,5 +1,5 @@
-id=35013
-Flowering Pomelo Tree in Tree Pit
+﻿id=35013
+树坑里的开花柚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

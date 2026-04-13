@@ -1,5 +1,5 @@
-id=2681
-Loom with Wool Warp
+﻿id=2681
+羊毛经编织机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

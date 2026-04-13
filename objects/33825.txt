@@ -1,5 +1,5 @@
-id=33825
-Expanded Perlite insulation in Box
+﻿id=33825
+箱内膨胀珍珠岩隔热层
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

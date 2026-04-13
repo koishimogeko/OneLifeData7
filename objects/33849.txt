@@ -1,5 +1,5 @@
-id=33849
-Partial Expanded Perlite Insulation Kit# 1
+﻿id=33849
+部分膨胀珍珠岩隔热套件# 1
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

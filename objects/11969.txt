@@ -1,5 +1,5 @@
-id=11969
-Palette with Paints #2
+﻿id=11969
+调色板# 2
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

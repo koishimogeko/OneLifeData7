@@ -1,5 +1,5 @@
-id=8837
-Dry Planted Beets
+﻿id=8837
+干燥的甜菜田
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12228
-Yellow Babydoll Tunic
+﻿id=12228
+黄色娃娃装外套
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

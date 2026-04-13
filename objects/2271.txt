@@ -1,5 +1,5 @@
-id=2271
-Firing Newcomen Bore
+﻿id=2271
+整在工作的纽科门钻孔机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

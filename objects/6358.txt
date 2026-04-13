@@ -1,5 +1,5 @@
-id=6358
-Armored War Charger #avalon
+﻿id=6358
+装甲战马# 阿瓦隆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25821
+﻿id=25821
 开启的铸铁栅栏闸门 Open Cast Iron Fence Gate #+blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

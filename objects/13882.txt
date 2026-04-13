@@ -1,5 +1,5 @@
-id=13882
-Partial Diesel Mining Kit
+﻿id=13882
+部分柴油采矿套件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=15

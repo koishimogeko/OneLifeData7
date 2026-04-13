@@ -1,4 +1,4 @@
-id=31770
+﻿id=31770
 化学实验台# 分馏硫酸化油 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

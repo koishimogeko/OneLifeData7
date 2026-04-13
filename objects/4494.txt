@@ -1,5 +1,5 @@
-id=4494
-Cheese Sandwich - 2
+﻿id=4494
+奶酪三明治# 2
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31410
+﻿id=31410
 玻璃切割台与试管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=34231
-Thicket with Amanita
+﻿id=34231
+灌木丛和毒蘑菇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

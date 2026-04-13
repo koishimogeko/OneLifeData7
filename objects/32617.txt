@@ -1,5 +1,5 @@
-id=32617
-Glycerol,Thin Springs,Brass Body,Steel Valve,Pieces of Glass,Steel Wire on Work Bench
+﻿id=32617
+工作台上的细弹簧和一杯带盖甘油与黄铜阀体以及钢阀门还有钢丝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25184
-Chess Embryo
+﻿id=25184
+象棋毛胚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

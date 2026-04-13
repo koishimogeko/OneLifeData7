@@ -1,5 +1,5 @@
-id=3048
-Bloody War Sword
+﻿id=3048
+血腥的战剑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

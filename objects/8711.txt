@@ -1,5 +1,5 @@
-id=8711
-Bronze Hoe
+﻿id=8711
+青铜锄头
 containable=1
 containSize=1.900000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

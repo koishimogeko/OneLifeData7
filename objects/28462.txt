@@ -1,4 +1,4 @@
-id=28462
+﻿id=28462
 Dark Wooden Door with Berry Wreath with Bell# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

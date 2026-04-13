@@ -1,5 +1,5 @@
-id=7846
-Burnt Skewered Cod Fillets
+﻿id=7846
+一串烧焦的鳕鱼片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

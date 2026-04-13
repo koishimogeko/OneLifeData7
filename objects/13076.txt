@@ -1,5 +1,5 @@
-id=13076
-White Pine Tree in Tree Pit
+﻿id=13076
+树坑里的白松树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

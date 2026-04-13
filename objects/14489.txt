@@ -1,5 +1,5 @@
-id=14489
-Used Straining Cloth
+﻿id=14489
+使用过的滤布
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

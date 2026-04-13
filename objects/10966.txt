@@ -1,5 +1,5 @@
-id=10966
-Calico Cat #black standing
+﻿id=10966
+印花布猫# black standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

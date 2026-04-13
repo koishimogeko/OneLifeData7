@@ -1,5 +1,5 @@
-id=30735
-Filleted Fish on Flat Rock# Arctic Char eggs
+﻿id=30735
+平坦岩石上的填鱼# Arctic Char eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11618
-Sack of Gold Flakes #3
+﻿id=11618
+一袋金片# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.240000
 permanent=0,minPickupAge=3

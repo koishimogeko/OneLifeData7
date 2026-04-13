@@ -1,5 +1,5 @@
-id=8004
-Dark Wooden Wall with Glass Pane
+﻿id=8004
+带玻璃板的深色木墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

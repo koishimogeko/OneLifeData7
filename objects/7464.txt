@@ -1,5 +1,5 @@
-id=7464
-Silver Key with Chisel
+﻿id=7464
+（已过时）带凿子的银质钥匙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

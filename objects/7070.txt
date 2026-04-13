@@ -1,5 +1,5 @@
-id=7070
-Nomad Robe #black
+﻿id=7070
+游牧者长袍# black
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

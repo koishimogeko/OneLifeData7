@@ -1,5 +1,5 @@
-id=14751
-Backpack with Polar Teddy Bear
+﻿id=14751
+北极泰迪熊背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

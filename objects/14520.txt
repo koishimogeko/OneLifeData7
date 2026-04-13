@@ -1,5 +1,5 @@
-id=14520
-Black Devil Hood
+﻿id=14520
+黑色恶魔兜帽
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

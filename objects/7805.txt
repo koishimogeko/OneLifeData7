@@ -1,5 +1,5 @@
-id=7805
-Fishing Pole with Bass# just caught
+﻿id=7805
+刚刚捕获的鲈鱼# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

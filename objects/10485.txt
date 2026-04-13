@@ -1,5 +1,5 @@
-id=10485
-Rubber Tree with Empty Pepper Vine
+﻿id=10485
+橡胶树与空胡椒藤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

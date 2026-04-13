@@ -1,5 +1,5 @@
-id=25479
-@ Wall  with Windowsill # catLaying +noBackAccess
+﻿id=25479
+@ Wall with Windowsill # catLaying +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

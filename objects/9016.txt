@@ -1,5 +1,5 @@
-id=9016
-Dead Sheep#shorn fleece no blood
+﻿id=9016
+死羊# shorn fleece no blood
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

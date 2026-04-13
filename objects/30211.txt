@@ -1,5 +1,5 @@
-id=30211
-Green Bean# +yum1175
+﻿id=30211
+绿豆# +yum1175
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

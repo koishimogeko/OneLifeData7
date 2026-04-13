@@ -1,4 +1,4 @@
-id=31639
+﻿id=31639
 铅锭
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

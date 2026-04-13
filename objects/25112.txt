@@ -1,5 +1,5 @@
-id=25112
-Dragon Boat for DuanWu #on Land
+﻿id=25112
+端午龙舟# on Land
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

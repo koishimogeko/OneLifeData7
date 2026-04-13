@@ -1,5 +1,5 @@
-id=11891
-Table with Raw Steak Pie
+﻿id=11891
+餐桌上有生牛排馅饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

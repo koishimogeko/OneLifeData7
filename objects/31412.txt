@@ -1,4 +1,4 @@
-id=31412
+﻿id=31412
 玻璃切割台和废砂纸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

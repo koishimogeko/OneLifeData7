@@ -1,4 +1,4 @@
-id=34648
+﻿id=34648
 Butchered Pig# Use5
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

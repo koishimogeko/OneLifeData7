@@ -1,5 +1,5 @@
-id=30877
-Clay Flower with Wet Sunflower 2
+﻿id=30877
+粘土花与湿向日葵2
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

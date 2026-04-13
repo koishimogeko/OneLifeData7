@@ -1,5 +1,5 @@
-id=8504
-Sliced Cooked Pig with Baked Potato on Flat Rock
+﻿id=8504
+扁石上熟猪肉片和烤土豆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

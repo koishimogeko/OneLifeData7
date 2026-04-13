@@ -1,5 +1,5 @@
-id=14317
-Polar Bear Skin
+﻿id=14317
+北极熊皮肤
 containable=1
 containSize=2.000000,vertSlotRot=-0.125000
 permanent=0,minPickupAge=3

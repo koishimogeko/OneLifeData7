@@ -1,4 +1,4 @@
-id=32017
+﻿id=32017
 一盆氧化铅
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

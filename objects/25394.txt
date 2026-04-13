@@ -1,5 +1,5 @@
-id=25394
-Sack of Polished Rice #4
+﻿id=25394
+袋装精米# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

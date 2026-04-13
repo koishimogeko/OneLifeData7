@@ -1,4 +1,4 @@
-id=31208
+﻿id=31208
 一碗碱石灰玻璃材料# 石英砂
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

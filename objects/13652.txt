@@ -1,5 +1,5 @@
-id=13652
-Hot Brick Oven with Cooked Turkey
+﻿id=13652
+热砖炉配熟火鸡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

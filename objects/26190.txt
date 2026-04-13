@@ -1,4 +1,4 @@
-id=26190
+﻿id=26190
 细铅棒 Thin Lead Rod
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

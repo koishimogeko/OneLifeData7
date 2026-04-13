@@ -1,5 +1,5 @@
-id=7717
-Stone Fireplace with Burning Tinder #eveHomeMarker
+﻿id=7717
+石制壁炉与燃烧的火种# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

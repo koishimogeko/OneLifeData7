@@ -1,4 +1,4 @@
-id=27176
+﻿id=27176
 铺设的电线 Laid Wires #NSW on-low #plasterwhite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=27598
+﻿id=27598
 剪刀和岛锦牡丹剪枝 Shears with Island Brocade Peony Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

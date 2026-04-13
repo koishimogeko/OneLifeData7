@@ -1,5 +1,5 @@
-id=2485
-Endtower Base
+﻿id=2485
+末日塔基座
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

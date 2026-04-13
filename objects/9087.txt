@@ -1,5 +1,5 @@
-id=9087
-Wooden Wall Structure with Vines
+﻿id=9087
+带藤蔓的木墙结构
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

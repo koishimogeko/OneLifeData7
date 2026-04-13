@@ -1,5 +1,5 @@
-id=28719
-Bowl of Crushed Manganese Iron Ore
+﻿id=28719
+一碗锰铁矿粉末
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

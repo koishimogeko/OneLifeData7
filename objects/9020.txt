@@ -1,5 +1,5 @@
-id=9020
-Rooting Yew Tree Cutting
+﻿id=9020
+生根的紫杉树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

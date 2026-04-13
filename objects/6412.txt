@@ -1,5 +1,5 @@
-id=6412
-Short and Curved Shaft
+﻿id=6412
+短木棍和弯曲木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

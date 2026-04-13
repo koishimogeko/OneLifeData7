@@ -1,4 +1,4 @@
-id=33616
+﻿id=33616
 Mason Jar of Nitric Sulfuric Mixed Acid# Use7
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

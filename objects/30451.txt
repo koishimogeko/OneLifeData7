@@ -1,5 +1,5 @@
-id=30451
-Dry planted Lettuce seed
+﻿id=30451
+旱种生菜种子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

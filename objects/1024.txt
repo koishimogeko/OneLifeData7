@@ -1,5 +1,5 @@
-id=1024
-Stratified Rose Seed# pink
+﻿id=1024
+分层的野玫瑰种子# pink
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=857
-Steel Hoe
+﻿id=857
+钢锄
 containable=1
 containSize=1.900000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

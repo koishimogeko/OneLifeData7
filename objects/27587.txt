@@ -1,4 +1,4 @@
-id=27587
+﻿id=27587
 岛锦牡丹种子 Island Brocade Peony Seed
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

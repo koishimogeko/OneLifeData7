@@ -1,5 +1,5 @@
-id=1072
-Marked Grave# origGrave just placed
+﻿id=1072
+墓碑# origGrave just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

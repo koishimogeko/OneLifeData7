@@ -1,5 +1,5 @@
-id=960
-Letter E
+﻿id=960
+字母 E
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

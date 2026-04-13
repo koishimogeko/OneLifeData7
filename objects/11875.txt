@@ -1,5 +1,5 @@
-id=11875
-Caged Black Cat
+﻿id=11875
+笼中黑猫
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

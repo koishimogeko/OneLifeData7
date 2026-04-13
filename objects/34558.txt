@@ -1,4 +1,4 @@
-id=34558
+﻿id=34558
 Bowl of Dried Psilocybe Mushrooms 
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

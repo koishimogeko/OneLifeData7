@@ -1,4 +1,4 @@
-id=31447
+﻿id=31447
 被木钳夹着的未回火细弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

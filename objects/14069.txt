@@ -1,5 +1,5 @@
-id=14069
-Clover Leaf Pile
+﻿id=14069
+三叶草叶堆
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30604
-Langing Strip Construction Blueprints
+﻿id=30604
+Langing Strip施工蓝图
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

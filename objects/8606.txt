@@ -1,5 +1,5 @@
-id=8606
-Leather Sheets with Sterile Pad
+﻿id=8606
+带无菌垫的皮革片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

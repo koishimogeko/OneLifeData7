@@ -1,5 +1,5 @@
-id=28226
-Dry Budding Fire Weed
+﻿id=28226
+干萌芽火草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13899
-Desert Niter Mine #4
+﻿id=13899
+4级沙漠硝石矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

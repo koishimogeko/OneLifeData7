@@ -1,4 +1,4 @@
-id=31618
+﻿id=31618
 一碗石英砂# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

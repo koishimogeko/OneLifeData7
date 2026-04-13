@@ -1,5 +1,5 @@
-id=28077
-Wet Lily Sapling# Orange
+﻿id=28077
+百合苗# Orange
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

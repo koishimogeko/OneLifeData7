@@ -1,4 +1,4 @@
-id=32826
+﻿id=32826
 @ XXX with Mine Boes# 2
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

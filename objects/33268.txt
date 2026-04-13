@@ -1,5 +1,5 @@
-id=33268
-Boiled Egg in Clay Bowl
+﻿id=33268
+陶碗煮鸡蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34865
-Lion# 1 Arrow Missed
+﻿id=34865
+狮子# 1 Arrow Missed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

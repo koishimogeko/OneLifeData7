@@ -1,4 +1,4 @@
-id=31801
+﻿id=31801
 化学实验台和醇酸树脂
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

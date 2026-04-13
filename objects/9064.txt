@@ -1,5 +1,5 @@
-id=9064
-Camping Stove with Mushroom Soup#ashes
+﻿id=9064
+野营炉和蘑菇汤# ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25077
-Ay Tsao on Hardened Row
+﻿id=25077
+土埂上的艾草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

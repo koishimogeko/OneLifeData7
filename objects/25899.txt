@@ -1,4 +1,4 @@
-id=25899
+﻿id=25899
 带矿组件的铜矿井 Copper Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

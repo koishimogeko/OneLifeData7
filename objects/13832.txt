@@ -1,5 +1,5 @@
-id=13832
-Mine #1 #justBuilt
+﻿id=13832
+1级矿井# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

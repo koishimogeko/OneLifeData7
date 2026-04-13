@@ -1,5 +1,5 @@
-id=25717
-Stack of Granite Tiles
+﻿id=25717
+花岗岩瓷砖堆叠
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

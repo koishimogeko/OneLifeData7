@@ -1,4 +1,4 @@
-id=32119
+﻿id=32119
 标记过的玻璃板
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

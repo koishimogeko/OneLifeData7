@@ -1,5 +1,5 @@
-id=34049
-Two Shafts and Copper Wire
+﻿id=34049
+两根轴和铜线
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

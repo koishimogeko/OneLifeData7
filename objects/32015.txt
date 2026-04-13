@@ -1,4 +1,4 @@
-id=32015
+﻿id=32015
 一碗硫酸钠溶液Bowl of NA2SO4
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

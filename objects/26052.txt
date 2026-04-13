@@ -1,4 +1,4 @@
-id=26052
+﻿id=26052
 石炉和研钵铁红粉 Stone Kiln with Rough Iron Red Powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

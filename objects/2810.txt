@@ -1,5 +1,5 @@
-id=2810
-Cast Net
+﻿id=2810
+被抛出的网
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

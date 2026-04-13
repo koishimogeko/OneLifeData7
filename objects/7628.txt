@@ -1,4 +1,4 @@
-id=7628
+﻿id=7628
 @ Pink Rose Hat Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

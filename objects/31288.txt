@@ -1,4 +1,4 @@
-id=31288
+﻿id=31288
 带热三颈烧瓶的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

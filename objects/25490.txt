@@ -1,5 +1,5 @@
-id=25490
-Ancient Sandstone Wall  with Windowsill and Goose on Pillow
+﻿id=25490
+凉亭枕鹅古砂岩墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

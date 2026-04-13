@@ -1,5 +1,5 @@
-id=8741
-Shot Polar Bear#1 attacking
+﻿id=8741
+被射中的北极熊# 1 attacking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

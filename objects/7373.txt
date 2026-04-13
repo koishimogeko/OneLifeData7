@@ -1,5 +1,5 @@
-id=7373
-Lemon Tree Cutting
+﻿id=7373
+柠檬树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31718
+﻿id=31718
 空石炉和干馏器组件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

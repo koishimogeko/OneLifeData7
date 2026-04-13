@@ -1,5 +1,5 @@
-id=8938
-Pile of Steel Pitchfork Heads
+﻿id=8938
+一堆钢干草叉头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

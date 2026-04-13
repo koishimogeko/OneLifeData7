@@ -1,5 +1,5 @@
-id=33500
-Watchtower# Elife Mobility Group Transfer
+﻿id=33500
+瞭望塔# Elife 轮回机动小组转移
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

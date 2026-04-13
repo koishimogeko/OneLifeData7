@@ -1,5 +1,5 @@
-id=34654
-Filled Hole with Soil and Wild Lettuce Seed# 1
+﻿id=34654
+用土壤和野莴苣种子填洞# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

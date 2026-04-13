@@ -1,4 +1,4 @@
-id=32052
+﻿id=32052
 一碗石英砂# 来自土袋
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=14625
-Meat on Drying Rack with Hot Coals
+﻿id=14625
+用热煤烘干架上的肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

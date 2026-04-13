@@ -1,5 +1,5 @@
-id=13012
-Schnauser #holdingWildCarrot
+﻿id=13012
+雪纳瑟# holdingWildCarrot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25538
-Potted Ivy
+﻿id=25538
+盆栽里的常春藤
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11757
-Large Rubber Tires
+﻿id=11757
+大型橡胶轮胎
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

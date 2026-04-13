@@ -1,5 +1,5 @@
-id=4649
-Dead Tree #hops empty
+﻿id=4649
+枯树# hops empty
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

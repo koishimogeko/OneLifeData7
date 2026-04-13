@@ -1,5 +1,5 @@
-id=4323
-Ground Pepper Bottle# just poured
+﻿id=4323
+胡椒粉瓶# just poured
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

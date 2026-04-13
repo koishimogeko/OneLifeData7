@@ -1,5 +1,5 @@
-id=4592
-(outdated) Domestic Hive #1A spawn
+﻿id=4592
+（已过时）# 1A spawn
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

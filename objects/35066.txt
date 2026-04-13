@@ -1,4 +1,4 @@
-id=35066
+﻿id=35066
 Anemometer Instrument on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

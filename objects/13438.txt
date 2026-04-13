@@ -1,5 +1,5 @@
-id=13438
-Brewery with Boiled Wort and Hops #open
+﻿id=13438
+啤酒厂煮麦芽汁和啤酒花# open
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

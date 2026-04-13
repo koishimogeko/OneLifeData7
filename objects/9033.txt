@@ -1,5 +1,5 @@
-id=9033
-Rooting Poplar Tree Cutting
+﻿id=9033
+生根的白杨树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

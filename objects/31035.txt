@@ -1,5 +1,5 @@
-id=31035
-Sturdy Primitive Fence#corner
+﻿id=31035
+坚固的原始围栏 #corner
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

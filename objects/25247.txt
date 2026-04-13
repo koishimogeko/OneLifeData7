@@ -1,5 +1,5 @@
-id=25247
-Chess Board # Black Edge Bevel two # groundOnly
+﻿id=25247
+棋盘# Black Edge Bevel two groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

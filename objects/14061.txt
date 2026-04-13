@@ -1,5 +1,5 @@
-id=14061
-East-West Fence Holes #nostakes
+﻿id=14061
+东西向栅栏孔# nostakes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

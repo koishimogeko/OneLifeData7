@@ -1,5 +1,5 @@
-id=4423
-Fallen Shrine #A
+﻿id=4423
+（已过时）堕落神社# A
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

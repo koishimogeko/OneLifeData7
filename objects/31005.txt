@@ -1,5 +1,5 @@
-id=31005
-Writing Table with Copied Map# &written +map
+﻿id=31005
+带复制地图的写字台# &written +map
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

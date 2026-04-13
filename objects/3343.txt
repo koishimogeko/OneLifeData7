@@ -1,5 +1,5 @@
-id=3343
-Blowpipe With Cool Funnel
+﻿id=3343
+带冷却漏斗的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

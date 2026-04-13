@@ -1,5 +1,5 @@
-id=30145
-Basket of Turquoises
+﻿id=30145
+一篮绿松石
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28761
-Zinc and Hydrochloric Acid Chemical Reaction# HCL+Zn
+﻿id=28761
+锌和盐酸反应 Zinc and Hydrochloric Acid Chemical Reaction# HCL+Zn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

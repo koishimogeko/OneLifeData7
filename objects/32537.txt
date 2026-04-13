@@ -1,5 +1,5 @@
-id=32537
-Camping Stove with Warm Wine,Bay Leaf,Orange
+﻿id=32537
+带糖与月桂叶和橘子红葡萄酒的露营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

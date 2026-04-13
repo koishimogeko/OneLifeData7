@@ -1,5 +1,5 @@
-id=34796
-litter Stator Rotor and Silicon Steel Sheet on Work Bench
+﻿id=34796
+工作台上的小定子转子和硅钢片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

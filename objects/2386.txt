@@ -1,5 +1,5 @@
-id=2386
-Pulley Timing Mechanism
+﻿id=2386
+滑轮正时装置
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=8496
+﻿id=8496
 @ Single Board Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

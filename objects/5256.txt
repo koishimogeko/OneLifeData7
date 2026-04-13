@@ -1,5 +1,5 @@
-id=5256
-Bucket of Grape Must #good
+﻿id=5256
+一桶葡萄汁# 好
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

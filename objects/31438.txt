@@ -1,4 +1,4 @@
-id=31438
+﻿id=31438
 碗里的钻石碎块# 没有合适的碎块
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

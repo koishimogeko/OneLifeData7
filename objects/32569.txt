@@ -1,5 +1,5 @@
-id=32569
-Bowl of Coal Gangue Powder
+﻿id=32569
+一碗煤矸石粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

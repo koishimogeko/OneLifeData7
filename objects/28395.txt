@@ -1,4 +1,4 @@
-id=28395
+﻿id=28395
 @ Flowerpot(Lily and Tulip)
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000

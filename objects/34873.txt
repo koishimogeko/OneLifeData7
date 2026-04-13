@@ -1,5 +1,5 @@
-id=34873
-Juniper Tree with Lion# Activity Zoo
+﻿id=34873
+狮子树# Activity Zoo
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

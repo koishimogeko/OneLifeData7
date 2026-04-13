@@ -1,5 +1,5 @@
-id=30925
-Bowl of Sauerkraut and Hot Pepper
+﻿id=30925
+一碗酸菜和辣椒
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

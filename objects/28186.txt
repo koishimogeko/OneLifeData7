@@ -1,5 +1,5 @@
-id=28186
-Dry Budding Peony
+﻿id=28186
+干萌芽牡丹
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

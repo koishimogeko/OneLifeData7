@@ -1,5 +1,5 @@
-id=2997
-Empty Camera
+﻿id=2997
+空摄像机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

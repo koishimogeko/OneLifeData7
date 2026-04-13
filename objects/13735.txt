@@ -1,5 +1,5 @@
-id=13735
-Blast Furnace with Coke#engineOn
+﻿id=13735
+高炉与焦炭# engineOn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

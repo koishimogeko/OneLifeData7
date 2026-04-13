@@ -1,5 +1,5 @@
-id=30832
-Bowl of Bamboo
+﻿id=30832
+竹碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

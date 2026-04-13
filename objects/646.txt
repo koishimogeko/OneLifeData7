@@ -1,4 +1,4 @@
-id=646
+﻿id=646
 @ Unshot Grizzly Bear
 containable=0
 containSize=1,vertSlotRot=0.000000

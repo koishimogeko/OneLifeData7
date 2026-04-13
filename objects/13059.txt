@@ -1,5 +1,5 @@
-id=13059
-Stone Arch with Ivy Sprout
+﻿id=13059
+长满常春藤芽的石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

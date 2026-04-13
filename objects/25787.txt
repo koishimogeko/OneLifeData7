@@ -1,5 +1,5 @@
-id=25787
-Activity Fence #close 活动专用  VOG
+﻿id=25787
+活动围栏#close 活动专用 VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

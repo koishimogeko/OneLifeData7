@@ -1,5 +1,5 @@
-id=25047
-Basket of Ay Tsao  Leaves
+﻿id=25047
+一篮新鲜艾草叶
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

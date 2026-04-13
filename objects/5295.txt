@@ -1,4 +1,4 @@
-id=5295
+﻿id=5295
 @ 2HOL Eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

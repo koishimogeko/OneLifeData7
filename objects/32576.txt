@@ -1,5 +1,5 @@
-id=32576
-Bowl of Spent Acid
+﻿id=32576
+一碗废酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

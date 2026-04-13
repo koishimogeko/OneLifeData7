@@ -1,5 +1,5 @@
-id=7814
-Fishing Pole with Pike# just caught
+﻿id=7814
+刚刚捕获的梭子鱼# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

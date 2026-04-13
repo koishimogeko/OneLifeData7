@@ -1,5 +1,5 @@
-id=14133
-Pot of Cooked Rice
+﻿id=14133
+一锅米饭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

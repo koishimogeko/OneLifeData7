@@ -1,5 +1,5 @@
-id=10048
-Work Bridle
+﻿id=10048
+工作缰绳
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

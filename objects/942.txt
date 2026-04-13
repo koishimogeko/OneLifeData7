@@ -1,5 +1,5 @@
-id=942
-(outdated) Ore Vein
+﻿id=942
+（已过时） 矿脉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

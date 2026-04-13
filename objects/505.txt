@@ -1,5 +1,5 @@
-id=505
-Split Big Rock#left
+﻿id=505
+分裂的大岩石# left
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

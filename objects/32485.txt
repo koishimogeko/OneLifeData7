@@ -1,5 +1,5 @@
-id=32485
-Bowl of Alum Powder# 1S
+﻿id=32485
+一碗明矾粉# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

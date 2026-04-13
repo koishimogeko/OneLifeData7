@@ -1,5 +1,5 @@
-id=3594
-Palm Oil Bottle
+﻿id=3594
+棕榈油瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

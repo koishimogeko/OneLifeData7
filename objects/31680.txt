@@ -1,5 +1,5 @@
-id=31680
-Painted Picket Fence Gate# Purple loose
+﻿id=31680
+彩绘栅栏门# 紫色 松动
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

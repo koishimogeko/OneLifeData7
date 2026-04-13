@@ -1,5 +1,5 @@
-id=2097
-Fishing Pole with Char# just caught
+﻿id=2097
+刚刚捕获的北极红点鲑# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

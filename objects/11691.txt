@@ -1,5 +1,5 @@
-id=11691
-Split Big Rock#bronze chisel
+﻿id=11691
+青铜凿子和裂开的大石头# bronze chisel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

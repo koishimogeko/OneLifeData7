@@ -1,5 +1,5 @@
-id=34859
-Lion with Broken Arrow
+﻿id=34859
+断箭狮子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1176
-Bowl of Dry Beans
+﻿id=1176
+一碗干燥的豆子
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

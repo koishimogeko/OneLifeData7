@@ -1,5 +1,5 @@
-id=25094
-Basket of Mohair
+﻿id=25094
+一篮艾绒
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

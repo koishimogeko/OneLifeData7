@@ -1,5 +1,5 @@
-id=2506
-Unforged Sealed Copper Crucible
+﻿id=2506
+未熔炼的铜坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

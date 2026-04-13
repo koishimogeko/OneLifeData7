@@ -1,5 +1,5 @@
-id=901
-Wormy Hardened Row
+﻿id=901
+有蠕虫的硬化土壤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

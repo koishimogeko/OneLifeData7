@@ -1,5 +1,5 @@
-id=1732
-Hungry Poodle Puppy
+﻿id=1732
+饥饿的贵宾犬崽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

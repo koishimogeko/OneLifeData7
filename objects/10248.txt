@@ -1,5 +1,5 @@
-id=10248
-Fuel Tank #wooden tongs
+﻿id=10248
+油罐# wooden tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

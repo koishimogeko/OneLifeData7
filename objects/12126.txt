@@ -1,5 +1,5 @@
-id=12126
-Silk Moth #just left
+﻿id=12126
+蚕蛾# just left
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

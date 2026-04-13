@@ -1,5 +1,5 @@
-id=7841
-Cod on Flat Rock
+﻿id=7841
+扁石上的大西洋鳕鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

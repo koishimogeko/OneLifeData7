@@ -1,5 +1,5 @@
-id=9059
-Camping Stove with Onions#hot
+﻿id=9059
+野营炉和洋葱# hot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

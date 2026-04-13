@@ -1,5 +1,5 @@
-id=4416
-Shrine #A one carrot
+﻿id=4416
+（已过时）神社# A one carrot
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

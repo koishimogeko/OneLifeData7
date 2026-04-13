@@ -1,5 +1,5 @@
-id=32220
-Trophy# &writable 第一纪元
+﻿id=32220
+季军奖杯 Trophy# &writable 第一纪元
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

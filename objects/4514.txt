@@ -1,5 +1,5 @@
-id=4514
-Wet Planted Hops
+﻿id=4514
+湿润的啤酒花田
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

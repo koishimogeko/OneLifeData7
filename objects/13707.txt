@@ -1,5 +1,5 @@
-id=13707
-Hand Cart with Bessemer Vessel
+﻿id=13707
+带贝塞麦容器的手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

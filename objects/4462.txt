@@ -1,5 +1,5 @@
-id=4462
-Hitched Dromedary
+﻿id=4462
+拴住的单峰骆驼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

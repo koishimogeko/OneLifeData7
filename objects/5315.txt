@@ -1,5 +1,5 @@
-id=5315
-Hen #brooding unfertilized
+﻿id=5315
+母鸡# brooding unfertilized
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

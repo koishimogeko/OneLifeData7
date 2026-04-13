@@ -1,5 +1,5 @@
-id=135
-Flint Chip
+﻿id=135
+燧石片
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

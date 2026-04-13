@@ -1,5 +1,5 @@
-id=12250
-Pair of Blue Slippers with Bows
+﻿id=12250
+一双带蝴蝶结的蓝色拖鞋
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

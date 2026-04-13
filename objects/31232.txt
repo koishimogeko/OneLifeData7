@@ -1,4 +1,4 @@
-id=31232
+﻿id=31232
 四块被剪裁的漂白过的皮革
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

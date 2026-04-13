@@ -1,5 +1,5 @@
-id=13835
-Limestone Mine #3 #justBuilt
+﻿id=13835
+3级石灰石矿井# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

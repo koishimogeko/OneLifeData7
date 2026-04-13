@@ -1,5 +1,5 @@
-id=301
-Small Charcoal Pile#2
+﻿id=301
+一堆木炭#2
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26162
+﻿id=26162
 在熊皮上的黑色斗篷 Black Cloak on Bear Skin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

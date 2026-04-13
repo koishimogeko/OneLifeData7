@@ -1,5 +1,5 @@
-id=13526
-Firing Stone Kiln with Wet Bricks
+﻿id=13526
+湿砖烧制石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

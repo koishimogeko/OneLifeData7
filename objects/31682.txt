@@ -1,5 +1,5 @@
-id=31682
-Bucket of Purple Paint
+﻿id=31682
+紫色油漆桶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

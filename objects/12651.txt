@@ -1,5 +1,5 @@
-id=12651
-Wattle Wall with Copper Pipe
+﻿id=12651
+带铜管的荆条墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

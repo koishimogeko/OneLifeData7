@@ -1,5 +1,5 @@
-id=30311
-Windmill with Pit# installed Lever
+﻿id=30311
+安装有# installed Lever
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

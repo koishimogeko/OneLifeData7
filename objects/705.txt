@@ -1,5 +1,5 @@
-id=705
-Penguin#slide
+﻿id=705
+企鹅# slide
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

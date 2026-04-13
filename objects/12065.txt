@@ -1,5 +1,5 @@
-id=12065
-Wooden Wall Arch Structure with Adobe
+﻿id=12065
+带土坯墙碎屑的木墙拱门结构
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

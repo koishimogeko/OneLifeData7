@@ -1,5 +1,5 @@
-id=14414
-Bowl of Cooled Dirty Bee Wax
+﻿id=14414
+一碗冷却的脏蜂蜡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28021
-Wet Tulip Spout # Red
+﻿id=28021
+湿润的郁金香苗# Red
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=10881
-Black Cat #black sitting
+﻿id=10881
+黑猫# black sitting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

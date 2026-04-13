@@ -1,5 +1,5 @@
-id=10132
-Basket of Small Cut Sandstone
+﻿id=10132
+一篮小切砂岩
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

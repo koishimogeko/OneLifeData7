@@ -1,5 +1,5 @@
-id=6683
-Horse Town Bottom#green
+﻿id=6683
+马镇下装# 绿色
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

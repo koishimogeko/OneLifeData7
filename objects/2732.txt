@@ -1,5 +1,5 @@
-id=2732
-Vulcanized Rubber Tire#removed
+﻿id=2732
+硫化橡胶胎# removed
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

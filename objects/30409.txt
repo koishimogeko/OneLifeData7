@@ -1,5 +1,5 @@
-id=30409
-Cloud# 3*3
+﻿id=30409
+云# 3*3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

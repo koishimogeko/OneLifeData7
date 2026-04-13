@@ -1,4 +1,4 @@
-id=31822
+﻿id=31822
 化学实验台和氢氟酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

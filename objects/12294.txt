@@ -1,5 +1,5 @@
-id=12294
-Bolts of Blue Cotton Blend Cloth
+﻿id=12294
+蓝色棉混纺布卷
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

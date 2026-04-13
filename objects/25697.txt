@@ -1,5 +1,5 @@
-id=25697
-Pile of Short Shafts and Two Boards
+﻿id=25697
+一堆短轴和两块板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

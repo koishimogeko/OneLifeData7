@@ -1,5 +1,5 @@
-id=10577
-Hot Cast Iron Pan with Seasoned Cod Fillet
+﻿id=10577
+热铁锅和调味鳕鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

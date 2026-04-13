@@ -1,4 +1,4 @@
-id=33751
+﻿id=33751
 一堆大石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

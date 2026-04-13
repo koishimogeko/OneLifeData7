@@ -1,5 +1,5 @@
-id=34500
-Hot Sheet Basin on Anvil
+﻿id=34500
+Anvil上的热板盆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

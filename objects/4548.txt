@@ -1,5 +1,5 @@
-id=4548
-Jar Mold
+﻿id=4548
+（已过时）罐子模具
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

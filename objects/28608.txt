@@ -1,4 +1,4 @@
-id=28608
+﻿id=28608
 @ Lamp
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

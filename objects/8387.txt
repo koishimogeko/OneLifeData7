@@ -1,5 +1,5 @@
-id=8387
-Stone Block with Written Paper and Chisel# &written
+﻿id=8387
+带有书面纸和凿子的石块# &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

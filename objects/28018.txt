@@ -1,5 +1,5 @@
-id=28018
-Dry Tulip Spout# Red
+﻿id=28018
+干燥的郁金香苗# Red
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=34168
-Flowering Sweet Orange Tree# Bee
+﻿id=34168
+开甜橙花的树# Bee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

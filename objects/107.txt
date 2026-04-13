@@ -1,5 +1,5 @@
-id=107
-Stakes
+﻿id=107
+木桩（标桩）
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

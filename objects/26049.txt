@@ -1,4 +1,4 @@
-id=26049
+﻿id=26049
 燃烧中的石炉和研钵铁粉 Firing Stone Kiln with Brown Iron Powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

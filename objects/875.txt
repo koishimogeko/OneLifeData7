@@ -1,5 +1,5 @@
-id=875
-Wooden Door
+﻿id=875
+木门
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13656
-Ladle Cart of Molten Steel
+﻿id=13656
+钢水包车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

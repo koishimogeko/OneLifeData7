@@ -1,5 +1,5 @@
-id=1441
-Dead Bison with Calf#arrow 2
+﻿id=1441
+野牛尸体与崽# arrow 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

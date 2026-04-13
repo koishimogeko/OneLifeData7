@@ -1,5 +1,5 @@
-id=10365
-Wet Dandelion Sprout
+﻿id=10365
+湿蒲公英芽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

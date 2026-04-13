@@ -1,4 +1,4 @@
-id=34954
+﻿id=34954
 Dromedary with Bridle# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

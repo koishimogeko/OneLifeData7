@@ -1,5 +1,5 @@
-id=5265
-Figure Eight and Mammoth Hide
+﻿id=5265
+两个套索与长毛象
 containable=1
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

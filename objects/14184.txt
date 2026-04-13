@@ -1,5 +1,5 @@
-id=14184
-Goose Crown
+﻿id=14184
+鹅冠
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

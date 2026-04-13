@@ -1,5 +1,5 @@
-id=6837
-Pile of Worms
+﻿id=6837
+一堆蠕虫
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

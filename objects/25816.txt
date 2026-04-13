@@ -1,4 +1,4 @@
-id=25816
+﻿id=25816
 铸铁栅栏闸门 Cast Iron Fence Gate #+blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

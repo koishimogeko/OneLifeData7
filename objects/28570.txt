@@ -1,5 +1,5 @@
-id=28570
-Wooden Work Bench with Bucket
+﻿id=28570
+工作台和木桶 Wooden Work Bench with Bucket
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

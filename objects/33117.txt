@@ -1,5 +1,5 @@
-id=33117
-Closed Stone with Glazed Firing Bone China Crucibe and Lid# 90%
+﻿id=33117
+封闭式石烧釉骨质瓷坩埚及盖# 90%
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

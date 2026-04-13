@@ -1,5 +1,5 @@
-id=25506
-Shears with Bald Cypress Cutting
+﻿id=25506
+带秃柏树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

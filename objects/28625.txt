@@ -1,5 +1,5 @@
-id=28625
-Cutting Machine# W will broke
+﻿id=28625
+切割机# W will broke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

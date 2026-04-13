@@ -1,4 +1,4 @@
-id=31286
+﻿id=31286
 带热试管的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

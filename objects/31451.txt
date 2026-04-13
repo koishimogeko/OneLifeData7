@@ -1,4 +1,4 @@
-id=31451
+﻿id=31451
 工作台上的细弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

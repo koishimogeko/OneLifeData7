@@ -1,4 +1,4 @@
-id=31577
+﻿id=31577
 热液矿床# 1级 炽热 地质灾害
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

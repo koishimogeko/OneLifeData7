@@ -1,5 +1,5 @@
-id=12579
-Perhaps sprayed Cedar Sapling
+﻿id=12579
+也许喷洒了雪松树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

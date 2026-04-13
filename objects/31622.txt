@@ -1,4 +1,4 @@
-id=31622
+﻿id=31622
 被木夹夹着的铜片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

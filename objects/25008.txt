@@ -1,5 +1,5 @@
-id=25008
-Ploughed Furrow with Straw
+﻿id=25008
+有稻草的犁沟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

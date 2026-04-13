@@ -1,4 +1,4 @@
-id=31598
+﻿id=31598
 @ 1级热液矿床概率
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

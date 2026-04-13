@@ -1,5 +1,5 @@
-id=14350
-Stone Kiln with Charcoal# charcoalIn
+﻿id=14350
+窑木炭# charcoalIn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

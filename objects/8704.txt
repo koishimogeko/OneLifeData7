@@ -1,5 +1,5 @@
-id=8704
-Disconnected Pulley Drive Mechanism with Timing Belt
+﻿id=8704
+带同步带的断开滑轮轮驱动装置
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

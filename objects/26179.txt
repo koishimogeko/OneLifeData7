@@ -1,4 +1,4 @@
-id=26179
+﻿id=26179
 轧机 Rolling Mill #wire
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

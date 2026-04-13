@@ -1,5 +1,5 @@
-id=14702
-Pineapple Plant with Pineapple
+﻿id=14702
+菠萝与菠萝果实
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

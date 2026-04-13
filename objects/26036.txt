@@ -1,4 +1,4 @@
-id=26036
+﻿id=26036
 三堆钣金 Stack of Sheet Metal#3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

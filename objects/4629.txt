@@ -1,5 +1,5 @@
-id=4629
-Dying Hops
+﻿id=4629
+垂死的啤酒花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

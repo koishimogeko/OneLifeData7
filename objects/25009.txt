@@ -1,5 +1,5 @@
-id=25009
-Wet Mushroom Field Spreading Hyphae
+﻿id=25009
+湿蘑菇地铺菌丝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

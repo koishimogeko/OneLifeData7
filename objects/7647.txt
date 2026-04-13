@@ -1,5 +1,5 @@
-id=7647
-Cotton Seed Bag
+﻿id=7647
+棉花种子袋
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

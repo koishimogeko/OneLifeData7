@@ -1,5 +1,5 @@
-id=32897
-Silica Rock
+﻿id=32897
+大块花岗岩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=16

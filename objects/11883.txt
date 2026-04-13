@@ -1,5 +1,5 @@
-id=11883
-Cold Iron Bloom on Anvil
+﻿id=11883
+铁砧上的冷铁绽放
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

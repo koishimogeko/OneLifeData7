@@ -1,5 +1,5 @@
-id=32753
-Full Steel Pick Heads with Mine Box
+﻿id=32753
+一箱钢镐头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=25681
-Wooden Disks with Steel Pole
+﻿id=25681
+钢柱木盘
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

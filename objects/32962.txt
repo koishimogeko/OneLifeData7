@@ -1,5 +1,5 @@
-id=32962
-Hydrothermal Oredeposits with Intermediate Sulfidation Epithermal Deposits Passage# Level2 Hot
+﻿id=32962
+中硫型浅成型热液矿床区域与采集通道# 2级 炽热
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4451
-White Silk Roll Tied
+﻿id=4451
+绑住的一卷丝绸
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

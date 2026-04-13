@@ -1,5 +1,5 @@
-id=11072
-Crates of Onions #3 #Empty
+﻿id=11072
+三箱未满洋葱# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

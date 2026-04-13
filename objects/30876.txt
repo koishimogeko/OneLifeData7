@@ -1,5 +1,5 @@
-id=30876
-Bone China Pot with Hydrangea 2
+﻿id=30876
+绣球骨瓷壶2
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

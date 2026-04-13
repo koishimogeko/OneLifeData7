@@ -1,5 +1,5 @@
-id=11681
-Cut Stones with Bronze Chisel
+﻿id=11681
+青铜凿子与碎石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

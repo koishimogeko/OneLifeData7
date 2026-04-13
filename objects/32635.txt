@@ -1,5 +1,5 @@
-id=32635
-Two Steel Sheets
+﻿id=32635
+两块钢板
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

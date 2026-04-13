@@ -1,4 +1,4 @@
-id=31420
+﻿id=31420
 玻璃刀
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=7972
-Squash Seeds #just harvested
+﻿id=7972
+南瓜种子# just harvested
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

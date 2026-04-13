@@ -1,5 +1,5 @@
-id=30827
-Closed Firing Stone with Clay Flower Crock
+﻿id=30827
+粘土花陶器密闭烧制石材
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

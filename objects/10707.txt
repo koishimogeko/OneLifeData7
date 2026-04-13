@@ -1,5 +1,5 @@
-id=10707
-Kitten #dark held
+﻿id=10707
+小猫# dark held
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

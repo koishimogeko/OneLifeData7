@@ -1,4 +1,4 @@
-id=32100
+﻿id=32100
 井筒组件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

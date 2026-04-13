@@ -1,5 +1,5 @@
-id=31081
-Console Wall# A VOG
+﻿id=31081
+控制台墙# A VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

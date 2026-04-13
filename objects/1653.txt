@@ -1,5 +1,5 @@
-id=1653
-Dachshund Puppy
+﻿id=1653
+腊肠犬幼崽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33642
+﻿id=33642
 Hydrothermal Oredeposits# Level2 Hot Back 16.3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

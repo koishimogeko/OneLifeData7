@@ -1,5 +1,5 @@
-id=4686
-Sword of Sparta
+﻿id=4686
+斯巴达之剑
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

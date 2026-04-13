@@ -1,5 +1,5 @@
-id=12290
-Wool Top Piece with Alpaca Fleece
+﻿id=12290
+羊驼毛羊毛上衣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

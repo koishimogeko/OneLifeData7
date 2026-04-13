@@ -1,5 +1,5 @@
-id=32578
-Chemical Work Bench with HG and HNO3
+﻿id=32578
+化学实验台# 制取硝酸汞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

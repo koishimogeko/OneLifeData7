@@ -1,5 +1,5 @@
-id=2806
-Empty Wild Pepper Plant
+﻿id=2806
+空的野生辣椒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

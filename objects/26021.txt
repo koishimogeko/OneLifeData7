@@ -1,4 +1,4 @@
-id=26021
+﻿id=26021
 转子叠片 Rotor Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

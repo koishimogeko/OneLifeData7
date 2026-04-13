@@ -1,5 +1,5 @@
-id=34140
-Honeybee# Orange Paternal
+﻿id=34140
+蜜蜂# 橘子花粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

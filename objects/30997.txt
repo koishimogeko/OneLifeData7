@@ -1,5 +1,5 @@
-id=30997
-Sturdy Pickety Fence# 4
+﻿id=30997
+坚固的栅栏# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

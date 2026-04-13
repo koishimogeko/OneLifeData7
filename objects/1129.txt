@@ -1,5 +1,5 @@
-id=1129
-(outdated) Snake-Bit Riding Horse# just died
+﻿id=1129
+（已过时）蛇咬骑马# just died
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

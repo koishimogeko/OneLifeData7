@@ -1,5 +1,5 @@
-id=9040
-Rooting Forsythia Cutting
+﻿id=9040
+生根的连翘树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

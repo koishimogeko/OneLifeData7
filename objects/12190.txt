@@ -1,5 +1,5 @@
-id=12190
-Yellow Button-down Shirt on Hanger
+﻿id=12190
+衣架上的黄色系扣衬衫
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

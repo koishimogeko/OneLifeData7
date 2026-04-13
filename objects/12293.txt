@@ -1,5 +1,5 @@
-id=12293
-Bolt of Black Cotton Blend Cloth
+﻿id=12293
+一匹黑色棉混纺布
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

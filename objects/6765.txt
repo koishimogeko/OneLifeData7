@@ -1,5 +1,5 @@
-id=6765
-Boards with Two Shafts
+﻿id=6765
+带有两根长直木棍的木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

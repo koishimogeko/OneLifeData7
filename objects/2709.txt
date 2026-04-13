@@ -1,5 +1,5 @@
-id=2709
-Large Slow Fire#tut_only burns forever
+﻿id=2709
+慢火# tut_only burns forever
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

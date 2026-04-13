@@ -1,5 +1,5 @@
-id=28354
-Blooming Lily Flower#Pink
+﻿id=28354
+盛开的百合苗 Blooming Lily Flower#Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

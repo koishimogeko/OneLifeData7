@@ -1,5 +1,5 @@
-id=7955
-Lit Candles on plate
+﻿id=7955
+盘子上点燃蜡烛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

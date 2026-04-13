@@ -1,4 +1,4 @@
-id=29092
+﻿id=29092
 长出侧芽的香蕉树 Banana trees with Side Shoots
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

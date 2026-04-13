@@ -1,5 +1,5 @@
-id=11070
-Crates of Mangoes #3 #Empty
+﻿id=11070
+三箱未满芒果# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

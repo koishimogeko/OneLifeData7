@@ -1,5 +1,5 @@
-id=2634
-Hot Steel Rod in Wooden Tongs# reheated
+﻿id=2634
+被木钳夹着的热钢条# reheated
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

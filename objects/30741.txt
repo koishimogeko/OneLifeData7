@@ -1,5 +1,5 @@
-id=30741
-Deep Water# +noHighlight groundOnly seaweed Bass eggs
+﻿id=30741
+深水中的鲈鱼卵# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

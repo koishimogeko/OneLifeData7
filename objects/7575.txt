@@ -1,5 +1,5 @@
-id=7575
-Sack of Wheat #3
+﻿id=7575
+一袋小麦# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.240000
 permanent=0,minPickupAge=3

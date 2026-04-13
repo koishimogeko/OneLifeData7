@@ -1,5 +1,5 @@
-id=2612
-Operating Low Frequency Transmitter# *global3
+﻿id=2612
+操作中的低频发报机# *global3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

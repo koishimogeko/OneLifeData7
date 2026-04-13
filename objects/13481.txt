@@ -1,5 +1,5 @@
-id=13481
-Simmering Maple Syrup
+﻿id=13481
+煮枫糖浆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

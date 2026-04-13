@@ -1,5 +1,5 @@
-id=30888
-Bone China Pot with Three Water Hydrangea 3
+﻿id=30888
+三水绣球骨瓷壶3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

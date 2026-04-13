@@ -1,5 +1,5 @@
-id=7191
-Empty Stone Kiln #door removed
+﻿id=7191
+拆除门的空石窑# door removed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

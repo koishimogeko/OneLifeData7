@@ -1,4 +1,4 @@
-id=31895
+﻿id=31895
 一锅棕色热玻璃# 1份
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

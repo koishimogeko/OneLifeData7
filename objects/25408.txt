@@ -1,5 +1,5 @@
-id=25408
-Chessboard Projection # close
+﻿id=25408
+棋盘投影# close
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1299
-Bowl of Limed Corn
+﻿id=1299
+一碗处理过的玉米
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

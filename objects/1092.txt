@@ -1,5 +1,5 @@
-id=1092
-Marked Grave with Chisel# origGrave daughter
+﻿id=1092
+墓碑与凿子# origGrave daughter
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

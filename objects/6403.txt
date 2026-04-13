@@ -1,5 +1,5 @@
-id=6403
-Loom with Cotton Cloth
+﻿id=6403
+织布机和棉布
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

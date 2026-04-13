@@ -1,5 +1,5 @@
-id=31121
-Adobe Floor# groundOnly just deplastered
+﻿id=31121
+抹灰地板# groundOnly just deplastered
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

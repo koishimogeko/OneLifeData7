@@ -1,5 +1,5 @@
-id=6476
-Cotton Sheet #1 #held
+﻿id=6476
+一个棉布片# 1 held
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

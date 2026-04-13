@@ -1,4 +1,4 @@
-id=31104
+﻿id=31104
 @ Newcomen Tool with Charcoal
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

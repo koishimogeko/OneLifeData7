@@ -1,5 +1,5 @@
-id=30502
-Crates of Strawberry# 3
+﻿id=30502
+三箱未满草莓
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

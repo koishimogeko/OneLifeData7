@@ -1,5 +1,5 @@
-id=32442
-Work Bench with S
+﻿id=32442
+工作台与S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

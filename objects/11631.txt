@@ -1,5 +1,5 @@
-id=11631
-Bronze Hammer Head on Flat Rock
+﻿id=11631
+扁平岩石上的青铜锤头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

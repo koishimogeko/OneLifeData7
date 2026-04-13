@@ -1,5 +1,5 @@
-id=32321
-Brick Half Wall with Garland
+﻿id=32321
+加兰德砖墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=27613
+﻿id=27613
 干燥的岛锦牡丹苗 Dry Sprouting Island Brocade Peony
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

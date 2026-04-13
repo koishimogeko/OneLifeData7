@@ -1,5 +1,5 @@
-id=4577
-(outdated) Domestic Hive #2C
+﻿id=4577
+（已过时）# 2C
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

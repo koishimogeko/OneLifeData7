@@ -1,5 +1,5 @@
-id=34020
-Newcomen Stamping Press with Charcoal# rotor No Water
+﻿id=34020
+纽科门木炭冲压机# rotor No Water
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

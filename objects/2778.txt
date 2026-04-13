@@ -1,5 +1,5 @@
-id=2778
-Cooked Sugarcane Pulp on Hot Coals
+﻿id=2778
+热炭上的煮过的甘蔗果肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

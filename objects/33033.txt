@@ -1,5 +1,5 @@
-id=33033
-Stakes in Clay Bowl
+﻿id=33033
+一盆硼酸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

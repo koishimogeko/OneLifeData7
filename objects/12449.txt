@@ -1,5 +1,5 @@
-id=12449
-Copper Pipe with Nozzle #NS
+﻿id=12449
+带喷嘴的铜管# NS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

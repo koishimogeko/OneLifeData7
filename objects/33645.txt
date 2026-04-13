@@ -1,4 +1,4 @@
-id=33645
+﻿id=33645
 Lifting Device Damaged Hydrothermal Oredeposits# Level2 Hot 1 B
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

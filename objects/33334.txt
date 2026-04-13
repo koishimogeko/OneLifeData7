@@ -1,5 +1,5 @@
-id=33334
-Bartenders with Vodka
+﻿id=33334
+伏特加调酒桌
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

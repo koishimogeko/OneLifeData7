@@ -1,5 +1,5 @@
-id=14513
-Bowl of Roasted Cocoa Beans #just scooped
+﻿id=14513
+一碗烤可可豆# just scooped
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

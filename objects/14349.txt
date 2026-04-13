@@ -1,5 +1,5 @@
-id=14349
-Stone Kiln with Charcoal# bellowRemoved
+﻿id=14349
+石窑木炭# bellowRemoved
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

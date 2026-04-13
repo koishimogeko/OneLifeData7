@@ -1,4 +1,4 @@
-id=31303
+﻿id=31303
 量筒
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

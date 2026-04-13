@@ -1,5 +1,5 @@
-id=33797
-Ingot Mold Filled with Sodium Silicate
+﻿id=33797
+硅酸钠填充铸锭模
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

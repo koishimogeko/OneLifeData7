@@ -1,5 +1,5 @@
-id=34896
-Full Limonite with Mine Box
+﻿id=34896
+带矿箱的全褐铁矿
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

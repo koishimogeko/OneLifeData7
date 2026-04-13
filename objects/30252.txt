@@ -1,5 +1,5 @@
-id=30252
-Pink Rose pile
+﻿id=30252
+粉红玫瑰绒头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

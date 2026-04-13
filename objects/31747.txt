@@ -1,4 +1,4 @@
-id=31747
+﻿id=31747
 一杯煤焦油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=13839
-Tundra Mine #3 #exhausted
+﻿id=13839
+3级苔原矿井# 采空
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

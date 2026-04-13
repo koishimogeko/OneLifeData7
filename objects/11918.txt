@@ -1,5 +1,5 @@
-id=11918
-Brick Nation Flag Stand
+﻿id=11918
+砖国旗架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

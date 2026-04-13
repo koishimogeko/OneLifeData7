@@ -1,5 +1,5 @@
-id=2226
-Newcomen Pump without Rope
+﻿id=2226
+没有绳子的纽科门蒸汽泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

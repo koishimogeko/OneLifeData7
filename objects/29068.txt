@@ -1,4 +1,4 @@
-id=29068
+﻿id=29068
 向日葵 Sunflower#fertile
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

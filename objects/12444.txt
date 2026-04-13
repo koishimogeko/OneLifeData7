@@ -1,5 +1,5 @@
-id=12444
-Copper Sprinkler #NS
+﻿id=12444
+铜喷头# NS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

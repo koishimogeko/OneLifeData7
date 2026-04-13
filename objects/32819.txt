@@ -1,4 +1,4 @@
-id=32819
+﻿id=32819
 @ HO# Level2 Hot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

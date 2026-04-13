@@ -1,5 +1,5 @@
-id=8951
-Pair of Green Wool Booties
+﻿id=8951
+一双绿色羊毛短靴
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

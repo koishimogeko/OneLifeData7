@@ -1,4 +1,4 @@
-id=26224
+﻿id=26224
 季军奖杯 Trophy# &written 第一纪元
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

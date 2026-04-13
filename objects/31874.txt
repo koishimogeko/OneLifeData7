@@ -1,4 +1,4 @@
-id=31874
+﻿id=31874
 碟子上的耐酸橡胶盖
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

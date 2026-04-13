@@ -1,4 +1,4 @@
-id=33591
+﻿id=33591
 Mason Jar of High HNO3# Acid Resistant Rubber
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=12170
-Wool Coat on Hanger
+﻿id=12170
+衣架上的羊毛大衣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

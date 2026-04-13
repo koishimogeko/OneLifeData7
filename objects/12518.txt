@@ -1,5 +1,5 @@
-id=12518
-Perhaps sprayed Planted Corn Seed
+﻿id=12518
+也许喷洒了种植的玉米种子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

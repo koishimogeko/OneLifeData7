@@ -1,5 +1,5 @@
-id=12344
-Pair of Slippers with Detached Bows
+﻿id=12344
+一双带分离蝴蝶结的拖鞋
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

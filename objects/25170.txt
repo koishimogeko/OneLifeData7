@@ -1,5 +1,5 @@
-id=25170
-White Queen # held
+﻿id=25170
+深色皇后# 拿
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

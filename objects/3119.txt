@@ -1,5 +1,5 @@
-id=3119
-Property Fence with Partial Notice
+﻿id=3119
+（已过时）带有部分通知的物业围栏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28387
-Dry Island Brocade Peony Spout
+﻿id=28387
+干萌芽岛锦 Dry Island Brocade Peony Spout
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3508
-Red Top Hat with White Rose
+﻿id=3508
+白玫瑰红色高顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

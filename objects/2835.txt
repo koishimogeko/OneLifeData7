@@ -1,5 +1,5 @@
-id=2835
-Fruiting Tomato Plant
+﻿id=2835
+结果的番茄
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

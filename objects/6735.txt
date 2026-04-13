@@ -1,5 +1,5 @@
-id=6735
-Random Unfertilized Egg Outcome
+﻿id=6735
+随机未受精卵结果
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

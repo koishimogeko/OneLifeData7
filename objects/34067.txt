@@ -1,5 +1,5 @@
-id=34067
-Pile of Fresh Peppercorn Cluster
+﻿id=34067
+一堆新鲜的胡椒簇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

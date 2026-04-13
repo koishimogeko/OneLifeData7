@@ -1,4 +1,4 @@
-id=27593
+﻿id=27593
 湿润的岛锦牡丹丛 Wet Island Brocade Peony Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

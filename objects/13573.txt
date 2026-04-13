@@ -1,5 +1,5 @@
-id=13573
-Wet Soil and Fireclay Mixture
+﻿id=13573
+湿土和耐火粘土混合物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

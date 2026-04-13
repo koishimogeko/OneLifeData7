@@ -1,5 +1,5 @@
-id=25003
-Dry Mushroom Field with Hyphae
+﻿id=25003
+菌丝干蘑菇地
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

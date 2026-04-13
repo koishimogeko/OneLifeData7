@@ -1,5 +1,5 @@
-id=8588
-Maple Tree with Maple Tap
+﻿id=8588
+带枫木水龙头的枫树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14281
-Bicycle Wheel without Rubber Tire on Work Bench
+﻿id=14281
+工作台上无橡胶轮胎的自行车车轮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

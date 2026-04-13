@@ -1,5 +1,5 @@
-id=4695
-apple4_all
+﻿id=4695
+应用程序4_all
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

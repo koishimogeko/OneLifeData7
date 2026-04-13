@@ -1,4 +1,4 @@
-id=31291
+﻿id=31291
 带量筒的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

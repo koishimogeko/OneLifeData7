@@ -1,4 +1,4 @@
-id=26369
+﻿id=26369
 在铁砧上的热细钢棒 Hot Thin Steel Rod on Anvil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

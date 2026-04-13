@@ -1,5 +1,5 @@
-id=1585
-Track #C #cartS
+﻿id=1585
+轨道# C cartS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26127
+﻿id=26127
 一碗生橡胶圈Bowl with Raw Rubber Rings
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

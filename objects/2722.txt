@@ -1,5 +1,5 @@
-id=2722
-Wet Juniper Sapling Cutting
+﻿id=2722
+湿的刺柏剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

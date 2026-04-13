@@ -1,5 +1,5 @@
-id=3665
-Sealed Whole Milk Bottle
+﻿id=3665
+密封的一瓶全脂牛奶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

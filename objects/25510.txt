@@ -1,5 +1,5 @@
-id=25510
-Wet Bald Cypress Sapling Cutting
+﻿id=25510
+湿秃柏树扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2056
-Hidden Card# 7 of Spades
+﻿id=2056
+扑克背面# 7 of Spades
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

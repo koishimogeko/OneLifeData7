@@ -1,5 +1,5 @@
-id=7082
-Caged Hen
+﻿id=7082
+笼子中的母鸡
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

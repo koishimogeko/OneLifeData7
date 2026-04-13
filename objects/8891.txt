@@ -1,5 +1,5 @@
-id=8891
-Brook with Cattail#cut
+﻿id=8891
+香蒲溪# cut
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

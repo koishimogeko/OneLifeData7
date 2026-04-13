@@ -1,5 +1,5 @@
-id=6904
-Pile of Steel Pipes
+﻿id=6904
+一堆钢管
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

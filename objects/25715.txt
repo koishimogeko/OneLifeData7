@@ -1,5 +1,5 @@
-id=25715
-Granite Block with Chisel
+﻿id=25715
+带凿子的花岗岩块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

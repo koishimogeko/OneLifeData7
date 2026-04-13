@@ -1,5 +1,5 @@
-id=30634
-Stone Furnace with Flat Rock# Coke
+﻿id=30634
+平底石炉# Coke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

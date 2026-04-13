@@ -1,4 +1,4 @@
-id=31982
+﻿id=31982
 钓上狗鱼的黄铜钓竿# 存活
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

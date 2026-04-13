@@ -1,4 +1,4 @@
-id=34649
+﻿id=34649
 @ Irritable Old Boar Hit 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

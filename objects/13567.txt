@@ -1,5 +1,5 @@
-id=13567
-Wheelbarrow with Firebricks#full
+﻿id=13567
+带火砖的独轮车# full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

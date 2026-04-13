@@ -1,4 +1,4 @@
-id=2899
+﻿id=2899
 @ Undyed Item Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

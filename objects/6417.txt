@@ -1,5 +1,5 @@
-id=6417
-(outdated) Spinning Wheel Frame and Wheel
+﻿id=6417
+（已过时）Spinning Wheel Frame and Wheel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

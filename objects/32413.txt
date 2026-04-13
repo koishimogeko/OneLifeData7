@@ -1,5 +1,5 @@
-id=32413
-Chemical Work Bench with Ice Water Mixture# Nitric Sulfuric Mixed Acid
+﻿id=32413
+化学实验台和冰水混合物# 硝硫混酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

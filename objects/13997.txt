@@ -1,5 +1,5 @@
-id=13997
-Cooked Skewered Cod Fillets#fromPlate
+﻿id=13997
+熟串鳕鱼片# fromPlate
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25548
-Blooming Dandelion
+﻿id=25548
+盆栽里的蒲公英
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

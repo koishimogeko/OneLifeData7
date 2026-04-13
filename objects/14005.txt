@@ -1,5 +1,5 @@
-id=14005
-Hot Cast Iron Pan with Trout Fillet
+﻿id=14005
+热铁锅和鳟鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

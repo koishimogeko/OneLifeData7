@@ -1,5 +1,5 @@
-id=30498
-Full Crates of Strawberry# 2
+﻿id=30498
+两箱草莓
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

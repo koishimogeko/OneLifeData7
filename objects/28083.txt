@@ -1,5 +1,5 @@
-id=28083
-Wet Tulip Sapling# Red
+﻿id=28083
+郁金香# Red
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

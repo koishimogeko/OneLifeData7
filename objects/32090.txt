@@ -1,4 +1,4 @@
-id=32090
+﻿id=32090
 弄脏的白色铁匠围裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000

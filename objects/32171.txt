@@ -1,5 +1,5 @@
-id=32171
-Clown Shirt
+﻿id=32171
+小丑衬衫
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

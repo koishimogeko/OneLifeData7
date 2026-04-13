@@ -1,5 +1,5 @@
-id=1211
-Cut Red Cabbage
+﻿id=1211
+被切下的红卷心菜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

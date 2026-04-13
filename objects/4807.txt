@@ -1,5 +1,5 @@
-id=4807
-Sword of Meow Empire
+﻿id=4807
+喵帝国之剑
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

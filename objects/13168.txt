@@ -1,5 +1,5 @@
-id=13168
-Field Maple Tree with Small Cut Stones
+﻿id=13168
+带小切石的田间枫树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

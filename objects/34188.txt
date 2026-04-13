@@ -1,5 +1,5 @@
-id=34188
-Perhaps sprayed Pomelo Sapling Cutting
+﻿id=34188
+也许喷洒了柚子树液
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=5170
-Ancient Stone Wall# templar
+﻿id=5170
+古老石墙# 圣殿骑士
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1235
-Shredded Cabbage with Salt
+﻿id=1235
+切碎的卷心菜和盐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

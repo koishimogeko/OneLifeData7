@@ -1,5 +1,5 @@
-id=30239
-Empty Sawn Coconut with Spoon
+﻿id=30239
+用勺子倒空切好的椰子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

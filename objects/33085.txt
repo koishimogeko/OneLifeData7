@@ -1,5 +1,5 @@
-id=33085
-上釉的钵杵# 90%
+﻿id=33085
+上釉水的研钵和研杵# 90%
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

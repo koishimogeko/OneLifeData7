@@ -1,5 +1,5 @@
-id=25567
-Watered Budding Chrysanthemum
+﻿id=25567
+浇水发芽的蓝菊花
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1362
-Dirty Raw Wheat Tortilla
+﻿id=1362
+脏的生小麦玉米饼
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

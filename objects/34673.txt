@@ -1,5 +1,5 @@
-id=34673
-Filled Hole with Soil and Herbaceous Plant Seed
+﻿id=34673
+用土壤和草本植物种子填充孔洞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

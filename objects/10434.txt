@@ -1,5 +1,5 @@
-id=10434
-Wild Cucumber
+﻿id=10434
+野黄瓜
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

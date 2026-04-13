@@ -1,4 +1,4 @@
-id=11667
+﻿id=11667
 @ Any Shears
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

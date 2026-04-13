@@ -1,5 +1,5 @@
-id=9109
-Quarry Cave
+﻿id=9109
+采石场
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

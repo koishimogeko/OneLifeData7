@@ -1,5 +1,5 @@
-id=8342
-Four Pieces of Cut Leather Sheet
+﻿id=8342
+四张切割皮革片
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

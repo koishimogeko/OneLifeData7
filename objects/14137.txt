@@ -1,5 +1,5 @@
-id=14137
-Cooked Crab in Clay Bowl#just removed
+﻿id=14137
+粘土碗里煮熟的螃蟹# just removed
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

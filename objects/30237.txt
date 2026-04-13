@@ -1,5 +1,5 @@
-id=30237
-Chcolate Coconut Ice Cream pile# Use1
+﻿id=30237
+巧克力椰子冰淇淋堆# Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

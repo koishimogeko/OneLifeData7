@@ -1,5 +1,5 @@
-id=4610
-Ashes with Bowl of Dirty Bee Wax
+﻿id=4610
+灰烬上的一碗脏蜂蜡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

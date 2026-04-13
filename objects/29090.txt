@@ -1,4 +1,4 @@
-id=29090
+﻿id=29090
 湿润的半个香蕉树 Wet Half Banana Tree
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

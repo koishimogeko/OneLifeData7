@@ -1,5 +1,5 @@
-id=32646
-Two Manometry Trigger Pipe,Pressure Gauge,Steel Wire on Work Bench
+﻿id=32646
+工作台上的两根传压管和压力表与钢丝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

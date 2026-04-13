@@ -1,5 +1,5 @@
-id=2365
-Diesel Engine
+﻿id=2365
+柴油发动机
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=15

@@ -1,5 +1,5 @@
-id=12364
-Christmas Dress on Hanger
+﻿id=12364
+衣架上的圣诞礼服
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

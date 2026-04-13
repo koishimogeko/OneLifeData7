@@ -1,4 +1,4 @@
-id=26372
+﻿id=26372
 半个钳子在砧座上 Plier Half on Anvil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

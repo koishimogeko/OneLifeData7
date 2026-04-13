@@ -1,5 +1,5 @@
-id=1522
-Moving Track Cart #E
+﻿id=1522
+移动中的轨道车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

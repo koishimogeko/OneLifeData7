@@ -1,4 +1,4 @@
-id=31118
+﻿id=31118
 @ Open Painted Picket Fence Gate# +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=4708
-Dead Bull Mammoth #gutted spear
+﻿id=4708
+死公猛犸象# gutted spear
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14739
-Empty Fountain# elephant
+﻿id=14739
+空喷泉# elephant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

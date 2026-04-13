@@ -1,4 +1,4 @@
-id=31388
+﻿id=31388
 长钢桌右方格子# 试管架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

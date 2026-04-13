@@ -1,5 +1,5 @@
-id=34385
-Expanded Perlite Insulation Half Wall
+﻿id=34385
+膨胀珍珠岩隔热半墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

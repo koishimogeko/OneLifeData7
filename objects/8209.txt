@@ -1,5 +1,5 @@
-id=8209
-Ancient Half Stone Wall with Detached Garland
+﻿id=8209
+古老半石墙和剪下的花环
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30923
-Steel basins of Mashed Meat Minced Beef, Fat Pork, and Ice
+﻿id=30923
+牛肉、肥猪肉和冰块的钢盆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

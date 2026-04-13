@@ -1,4 +1,4 @@
-id=33707
+﻿id=33707
 Torch# Scope (3*3) VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

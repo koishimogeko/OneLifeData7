@@ -1,5 +1,5 @@
-id=6952
-Cooked Pork and Apple Pie
+﻿id=6952
+熟猪肉苹果派
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31946
+﻿id=31946
 水浅蒽丝绸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

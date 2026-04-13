@@ -1,4 +1,4 @@
-id=25606
+﻿id=25606
 树坑中的秃柏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

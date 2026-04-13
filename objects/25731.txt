@@ -1,5 +1,5 @@
-id=25731
-Light Wooden Door with Bell Wreath# Installed VOG 活动使用
+﻿id=25731
+带铃铛花环的轻型木门# Installed VOG 活动使用
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

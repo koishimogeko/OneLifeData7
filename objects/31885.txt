@@ -1,4 +1,4 @@
-id=31885
+﻿id=31885
 被插起的一锅未烧制玻璃和辅助材料# 2级
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

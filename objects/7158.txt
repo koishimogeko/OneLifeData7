@@ -1,5 +1,5 @@
-id=7158
-Soil Box
+﻿id=7158
+装有土壤的箱子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

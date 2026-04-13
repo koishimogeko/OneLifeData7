@@ -1,5 +1,5 @@
-id=29101
-Small Painting# 16
+﻿id=29101
+小型绘画# 16
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

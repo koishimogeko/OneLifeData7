@@ -1,5 +1,5 @@
-id=1704
-Dachshund with Puppies#2
+﻿id=1704
+腊肠犬与幼崽# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33985
-Sack of Expanded Perlite# 2
+﻿id=33985
+膨胀珍珠岩袋# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

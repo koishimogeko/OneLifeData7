@@ -1,5 +1,5 @@
-id=30723
-Cod on Flat Rock# fish eggs
+﻿id=30723
+平坦岩石上的鳕鱼# fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30578
-Charcoal of Sand
+﻿id=30578
+沙子的木炭
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

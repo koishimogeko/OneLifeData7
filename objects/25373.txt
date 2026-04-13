@@ -1,5 +1,5 @@
-id=25373
-3D Chess Projector # +tapoutTrigger,5,-3 black reset
+﻿id=25373
+3D象棋投影仪# +tapoutTrigger,5,-3 black reset
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=5232
-Spring Apple Tree
+﻿id=5232
+春天的苹果树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

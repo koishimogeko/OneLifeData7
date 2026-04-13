@@ -1,5 +1,5 @@
-id=14708
-Steel Wheelbarrow with Gold Nuggets
+﻿id=14708
+带黄金块的钢制手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

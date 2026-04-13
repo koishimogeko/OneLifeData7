@@ -1,5 +1,5 @@
-id=32626
-Block Mold Filled with Molten Steel
+﻿id=32626
+充满铁水的铸钢材模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

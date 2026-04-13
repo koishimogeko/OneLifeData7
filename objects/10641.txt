@@ -1,5 +1,5 @@
-id=10641
-(outdated) Stone Oven #hot, steak pie
+﻿id=10641
+（已过时）#hot, steak pie
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

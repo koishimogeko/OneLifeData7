@@ -1,4 +1,4 @@
-id=28936
+﻿id=28936
 德牧在狗窝中 German Shepherd in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

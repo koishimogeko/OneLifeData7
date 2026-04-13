@@ -1,5 +1,5 @@
-id=12066
-Damp Adobe Wall Arch
+﻿id=12066
+潮湿的土坯墙拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

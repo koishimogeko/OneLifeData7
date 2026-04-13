@@ -1,5 +1,5 @@
-id=1742
-Dead Poodle Puppy
+﻿id=1742
+贵宾犬崽尸体
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

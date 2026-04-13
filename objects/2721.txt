@@ -1,5 +1,5 @@
-id=2721
-Dry Juniper Sapling Cutting
+﻿id=2721
+干的刺柏剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

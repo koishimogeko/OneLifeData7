@@ -1,5 +1,5 @@
-id=7145
-(outdated) Fed Pig in Hitched Cargo Wagon
+﻿id=7145
+挂接货车中的喂入式清管器
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=543
-Domestic Lamb#rope
+﻿id=543
+家养羊羔# rope
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

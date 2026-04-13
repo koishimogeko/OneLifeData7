@@ -1,5 +1,5 @@
-id=971
-Letter R
+﻿id=971
+字母 R
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

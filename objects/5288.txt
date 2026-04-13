@@ -1,5 +1,5 @@
-id=5288
-Cool Blank and Copper Plate in Tongs
+﻿id=5288
+（已过时）木钳中的冷却钢刀毛坯和铜板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

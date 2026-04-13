@@ -1,4 +1,4 @@
-id=34508
+﻿id=34508
 Long Steel Block with Hole
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=32673
-Sulfur Water Enrichment Station# Not Corrected
+﻿id=32673
+硫水浓缩站# 未校准
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

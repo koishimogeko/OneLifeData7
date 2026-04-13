@@ -1,5 +1,5 @@
-id=506
-Split Big Rock
+﻿id=506
+裂开的大石块
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

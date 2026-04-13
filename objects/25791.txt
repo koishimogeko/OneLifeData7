@@ -1,5 +1,5 @@
-id=25791
-Pile of Worms in Steel Box # 活动专用  VOG
+﻿id=25791
+钢箱中的蠕虫堆# 活动专用 VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

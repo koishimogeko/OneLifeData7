@@ -1,5 +1,5 @@
-id=7674
-Hot Thin Rod in Wooden Tongs #grabbed
+﻿id=7674
+被木钳夹着的热细钢棒# grabbed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

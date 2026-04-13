@@ -1,4 +1,4 @@
-id=30909
+﻿id=30909
 @ Bone China Pot with Sunflower 3
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

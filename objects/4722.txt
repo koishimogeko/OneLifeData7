@@ -1,5 +1,5 @@
-id=4722
-Cheroot #unlit 2
+﻿id=4722
+雪茄烟# unlit 2
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

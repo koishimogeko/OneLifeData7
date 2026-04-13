@@ -1,5 +1,5 @@
-id=13666
-Bowl with Crushed Copper Ore in Wooden Tongs
+﻿id=13666
+被木钳夹着的一碗碎原生铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

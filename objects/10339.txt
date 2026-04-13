@@ -1,5 +1,5 @@
-id=10339
-Wet Planted Red Windflower
+﻿id=10339
+湿红银莲花扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

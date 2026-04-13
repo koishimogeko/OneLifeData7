@@ -1,5 +1,5 @@
-id=497
-Dug Sapling Stump
+﻿id=497
+被挖起的树苗树桩
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30790
-Mason Jar of Strawberry Jam with Rose Sugared Honey
+﻿id=30790
+玫瑰糖蜂蜜草莓果酱梅森罐
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

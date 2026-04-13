@@ -1,5 +1,5 @@
-id=7948
-Big Stack of Boards #dark
+﻿id=7948
+大堆木板# dark
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

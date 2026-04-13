@@ -1,5 +1,5 @@
-id=34148
-Flowering Orange Tree# bee Pomelo Paternal
+﻿id=34148
+橙花树# bee Pomelo Paternal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

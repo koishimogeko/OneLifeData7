@@ -1,5 +1,5 @@
-id=25320
-@ 象棋 投影 # Black held
+﻿id=25320
+@ 象棋 投影# Black held
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

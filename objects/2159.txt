@@ -1,5 +1,5 @@
-id=2159
-Rubber Tree with Sealed Slash
+﻿id=2159
+有割口的橡胶树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

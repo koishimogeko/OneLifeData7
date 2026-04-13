@@ -1,5 +1,5 @@
-id=1291
-Stack of Wheat Tortillas
+﻿id=1291
+一叠小麦饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

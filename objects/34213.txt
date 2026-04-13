@@ -1,5 +1,5 @@
-id=34213
-Thicket with Wheat Seed Head
+﻿id=34213
+灌木丛和小麦种子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

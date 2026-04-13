@@ -1,5 +1,5 @@
-id=7197
-Cut Ball of Thread
+﻿id=7197
+被剪的毛线
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11765
-Wagon Panels with Shaft
+﻿id=11765
+带轴的货车面板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

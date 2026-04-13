@@ -1,5 +1,5 @@
-id=2281
-Newcomen Roller with Full Boiler
+﻿id=2281
+装满水的纽科门蒸汽滚筒机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

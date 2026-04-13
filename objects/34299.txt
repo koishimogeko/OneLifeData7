@@ -1,5 +1,5 @@
-id=34299
-Short Board# dark
+﻿id=34299
+小木板# 深色
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

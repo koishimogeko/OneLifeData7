@@ -1,5 +1,5 @@
-id=30442
-Bowl of Wild Lettuce Seeds
+﻿id=30442
+一碗野生生菜种子
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

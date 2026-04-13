@@ -1,5 +1,5 @@
-id=34470
-Citrus Fly
+﻿id=34470
+柑橘蝇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

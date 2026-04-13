@@ -1,5 +1,5 @@
-id=8412
-Black Plaster Wall with Double Shelf# +noBackAccess +useOnContained
+﻿id=8412
+带双架子的黑色石膏墙# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

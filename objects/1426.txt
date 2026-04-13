@@ -1,5 +1,5 @@
-id=1426
-Tutorial Stone# tutorial 24
+﻿id=1426
+教程石# tutorial 24
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31210
+﻿id=31210
 研钵和研杵与生石灰以及木炭粉
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

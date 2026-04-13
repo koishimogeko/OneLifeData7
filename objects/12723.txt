@@ -1,5 +1,5 @@
-id=12723
-Hunting White Cat #readyToPounce
+﻿id=12723
+狩猎白猫# readyToPounce
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

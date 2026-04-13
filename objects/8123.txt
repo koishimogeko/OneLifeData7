@@ -1,5 +1,5 @@
-id=8123
-Stone Arch with Lights#flowers
+﻿id=8123
+带灯的石拱门# flowers
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

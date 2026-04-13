@@ -1,5 +1,5 @@
-id=2542
-Bowl of Dissolved Niter with Ashes
+﻿id=2542
+一碗带灰的硝石溶液
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

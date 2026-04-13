@@ -1,4 +1,4 @@
-id=13530
+﻿id=13530
 Adobe Kiln# just cooled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

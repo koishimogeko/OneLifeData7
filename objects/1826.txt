@@ -1,5 +1,5 @@
-id=1826
-Wet Pruned Old Yew Bonsai
+﻿id=1826
+湿剪老紫杉盆景
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

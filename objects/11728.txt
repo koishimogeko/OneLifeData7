@@ -1,5 +1,5 @@
-id=11728
-Horse-Drawn Cart #dappled,hitched
+﻿id=11728
+马车# dappled,hitched
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31110
+﻿id=31110
 @ Painted Picket Fence
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

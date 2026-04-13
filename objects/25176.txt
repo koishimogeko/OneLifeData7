@@ -1,5 +1,5 @@
-id=25176
-Dark Knight # held
+﻿id=25176
+深色马# 拿
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

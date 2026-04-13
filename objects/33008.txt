@@ -1,5 +1,5 @@
-id=33008
-Wheeled Hand Cart with Basalt Rock
+﻿id=33008
+带玄武岩的轮式手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

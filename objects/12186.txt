@@ -1,5 +1,5 @@
-id=12186
-Undyed Button-down Shirt on Hanger
+﻿id=12186
+衣架上未染色的系扣衬衫
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

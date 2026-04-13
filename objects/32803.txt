@@ -1,5 +1,5 @@
-id=32803
-Tool with Mine Box# 3
+﻿id=32803
+工具箱# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

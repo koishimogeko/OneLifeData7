@@ -1,5 +1,5 @@
-id=4602
-Swarm of Angry Bees
+﻿id=4602
+愤怒的蜂群
 containable=0
 containSize=1,vertSlotRot=0.250000
 permanent=1,minPickupAge=3

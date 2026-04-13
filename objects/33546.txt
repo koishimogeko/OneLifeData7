@@ -1,5 +1,5 @@
-id=33546
-Rubber Tree with Pepper Vine# Does not refresh
+﻿id=33546
+橡胶树及胡椒藤# 不刷新
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

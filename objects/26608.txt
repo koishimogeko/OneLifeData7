@@ -1,4 +1,4 @@
-id=26608
+﻿id=26608
 两块铸铁华丽面板和模板 Two Cast Iron Ornate Panels and Board
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

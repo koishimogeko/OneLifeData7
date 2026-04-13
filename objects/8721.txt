@@ -1,5 +1,5 @@
-id=8721
-Melting Snow Bank#3
+﻿id=8721
+融化的雪堆# 3
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

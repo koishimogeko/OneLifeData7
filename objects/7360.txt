@@ -1,5 +1,5 @@
-id=7360
-Shears with Apple Cutting
+﻿id=7360
+带苹果树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

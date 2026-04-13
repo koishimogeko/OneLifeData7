@@ -1,5 +1,5 @@
-id=647
-Bear Cave#waking
+﻿id=647
+熊洞# waking
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

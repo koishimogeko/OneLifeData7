@@ -1,5 +1,5 @@
-id=10353
-Rooting Pink Delphinium Cutting
+﻿id=10353
+生根粉红飞燕草剪枝
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

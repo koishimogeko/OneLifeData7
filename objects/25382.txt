@@ -1,5 +1,5 @@
-id=25382
-3D Chess Projector # EW
+﻿id=25382
+3D象棋投影仪# EW
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

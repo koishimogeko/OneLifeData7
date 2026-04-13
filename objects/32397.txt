@@ -1,5 +1,5 @@
-id=32397
-Full Clay Food Crock# Wheat
+﻿id=32397
+食物陶罐# 小麦
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

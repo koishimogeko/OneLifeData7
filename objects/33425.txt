@@ -1,5 +1,5 @@
-id=33425
-Hedge Wall# half Guard
+﻿id=33425
+树篱墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

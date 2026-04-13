@@ -1,5 +1,5 @@
-id=11856
-Mason Jar with Beets and Garlic
+﻿id=11856
+梅森罐甜菜和大蒜
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31750
+﻿id=31750
 化学实验台和朱砂粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=2461
-Pine Tree with Cardinals
+﻿id=2461
+松树与一对红雀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

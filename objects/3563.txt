@@ -1,5 +1,5 @@
-id=3563
-Undyed Bowler Hat with Yellow Rose
+﻿id=3563
+黄玫瑰未染色圆顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

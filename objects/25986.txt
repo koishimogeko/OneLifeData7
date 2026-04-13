@@ -1,4 +1,4 @@
-id=25986
+﻿id=25986
 木钳上的热硅锭坩埚 Hot Silicon Crucible in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

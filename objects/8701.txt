@@ -1,5 +1,5 @@
-id=8701
-Wheelbarrow with Wet Bricks #half full
+﻿id=8701
+带湿砖的独轮车# half full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

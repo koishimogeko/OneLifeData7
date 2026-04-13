@@ -1,5 +1,5 @@
-id=10303
-Shears with Yellow Daisy Cutting
+﻿id=10303
+带黄色雏菊剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

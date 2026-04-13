@@ -1,4 +1,4 @@
-id=25895
+﻿id=25895
 带矿组件的沙漠硝石矿井 Desert Niter Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

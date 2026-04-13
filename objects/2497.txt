@@ -1,5 +1,5 @@
-id=2497
-Drill Mechanism# just grabbed
+﻿id=2497
+钻机装置# just grabbed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

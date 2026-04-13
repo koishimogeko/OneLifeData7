@@ -1,5 +1,5 @@
-id=25730
-Granite Tiles on Floor Blueprint
+﻿id=25730
+地板上的花岗岩瓷砖蓝图
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

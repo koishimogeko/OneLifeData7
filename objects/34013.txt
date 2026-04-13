@@ -1,5 +1,5 @@
-id=34013
-Newcomen Bore with Charcoal# No Water
+﻿id=34013
+Newcomen无聊与木炭# No Water
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

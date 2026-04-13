@@ -1,4 +1,4 @@
-id=26137
+﻿id=26137
 化学实验台#蒸馏酒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

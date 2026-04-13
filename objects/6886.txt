@@ -1,5 +1,5 @@
-id=6886
-Blowpipe With Cool Glass Tube
+﻿id=6886
+吹管与冷却玻璃管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

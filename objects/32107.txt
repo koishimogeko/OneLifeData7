@@ -1,4 +1,4 @@
-id=32107
+﻿id=32107
 沙漠矿井# 爆破 炸塌
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

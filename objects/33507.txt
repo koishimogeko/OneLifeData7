@@ -1,5 +1,5 @@
-id=33507
-Yule Tree with Half Candles# Perpetual No Blocking
+﻿id=33507
+半支蜡烛的圣诞树# 常亮 稀有
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2188
-Drum Sticks on Plate
+﻿id=2188
+放在盘子上的两个火鸡腿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

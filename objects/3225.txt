@@ -1,5 +1,5 @@
-id=3225
-Jack O' Lantern #ground
+﻿id=3225
+杰克南瓜灯笼# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13502
-Stone Kiln with Limestone Pile
+﻿id=13502
+石灰石堆石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

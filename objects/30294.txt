@@ -1,5 +1,5 @@
-id=30294
-Sealed White Wine Bottle
+﻿id=30294
+密封白葡萄酒瓶
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

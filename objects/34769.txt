@@ -1,5 +1,5 @@
-id=34769
-Mason Jar with Pickled Beets and Lid
+﻿id=34769
+腌制甜菜和盖子的梅森罐
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

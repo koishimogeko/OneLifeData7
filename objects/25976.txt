@@ -1,4 +1,4 @@
-id=25976
+﻿id=25976
 炉冷好的定子冲压模具 Closed Stone Kiln with Stamping Press#Stator insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

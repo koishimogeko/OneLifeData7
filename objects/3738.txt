@@ -1,5 +1,5 @@
-id=3738
-Soda Ash Bottle# just poured
+﻿id=3738
+刚刚倒的纯碱# just poured
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

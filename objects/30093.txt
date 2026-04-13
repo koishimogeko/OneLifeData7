@@ -1,5 +1,5 @@
-id=30093
-Mason Jar of Rubber Cover
+﻿id=30093
+梅森橡胶罩
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28959
-Linen Cloak#black
+﻿id=28959
+亚麻斗篷 # black
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

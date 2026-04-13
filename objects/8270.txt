@@ -1,5 +1,5 @@
-id=8270
-Black Cowboy Hat
+﻿id=8270
+黑色牛仔帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1152
-Potato in Water
+﻿id=1152
+用水浸泡的马铃薯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

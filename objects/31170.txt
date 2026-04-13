@@ -1,4 +1,4 @@
-id=31170
+﻿id=31170
 一碗鱼骨头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

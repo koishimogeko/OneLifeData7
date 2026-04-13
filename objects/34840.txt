@@ -1,4 +1,4 @@
-id=34840
+﻿id=34840
 Irrtable Grizzly Bear# Arrow Missed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

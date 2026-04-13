@@ -1,5 +1,5 @@
-id=1855
-Cut Stones with Bear Skin
+﻿id=1855
+熊皮与碎石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

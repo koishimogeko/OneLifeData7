@@ -1,5 +1,5 @@
-id=32284
-Chemical Work Bench with Potassium hydroxide solution
+﻿id=32284
+化学实验台与氢氧化钾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

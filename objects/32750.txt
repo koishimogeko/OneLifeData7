@@ -1,5 +1,5 @@
-id=32750
-Two Mine Boes
+﻿id=32750
+两箱矿物箱
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

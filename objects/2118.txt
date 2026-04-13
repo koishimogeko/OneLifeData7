@@ -1,5 +1,5 @@
-id=2118
-Deck of Cards with No Black
+﻿id=2118
+一副没有黑色的牌
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25321
-@ 象棋 投影 # Red held
+﻿id=25321
+@ 象棋 投影# Red held
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

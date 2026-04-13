@@ -1,5 +1,5 @@
-id=183
-Rabbit Fur
+﻿id=183
+兔皮
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

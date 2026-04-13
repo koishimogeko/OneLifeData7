@@ -1,5 +1,5 @@
-id=10009
-Pile of Cooked Beef
+﻿id=10009
+一堆熟牛肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

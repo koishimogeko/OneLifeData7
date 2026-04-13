@@ -1,5 +1,5 @@
-id=11077
-Crates of Potatoes #3
+﻿id=11077
+三箱未满土豆
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13992
-Hot Cast Iron Pan with Cooked Bass Fillet
+﻿id=13992
+热铁锅和烤熟的鲈鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

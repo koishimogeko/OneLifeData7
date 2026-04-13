@@ -1,5 +1,5 @@
-id=33453
-Marble Inlay Opal Block with Chisel# Blue
+﻿id=33453
+大理石镶蛋白石块与凿子# 蓝色
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,4 +1,4 @@
-id=35109
+﻿id=35109
 Firing Double Chamber Furnace with Calcium Carbide
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

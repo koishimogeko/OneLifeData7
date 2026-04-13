@@ -1,5 +1,5 @@
-id=32990
-Accumulation Depth Water Hydrothermal Oredeposits# Level2 Hot 1
+﻿id=32990
+深层积水的热液矿床# 2级 炽热 抽水中
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

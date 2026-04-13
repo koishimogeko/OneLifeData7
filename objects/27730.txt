@@ -1,4 +1,4 @@
-id=27730
+﻿id=27730
 湿润的百合大种球 Wet Planted Big Lily Seed Ball# Pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

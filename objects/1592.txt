@@ -1,5 +1,5 @@
-id=1592
-Partial Track Cart Kit#3 wheel remade
+﻿id=1592
+不完整矿车组件# 3 wheel remade
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8351
-Written Grave with Written Paper and Chisel# writting origGrave &written
+﻿id=8351
+带纸条和凿子的刻字墓碑# writting origGrave &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32536
-Camping Stove with Warm Wine of Bay Leaf
+﻿id=32536
+带糖与月桂叶沸红葡萄酒的露营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

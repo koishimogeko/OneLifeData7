@@ -1,5 +1,5 @@
-id=11041
-Crates of Oranges #2 #Empty
+﻿id=11041
+两箱未满橙子# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

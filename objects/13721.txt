@@ -1,5 +1,5 @@
-id=13721
-Blast Furnace#justBuilt
+﻿id=13721
+高炉# justBuilt
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

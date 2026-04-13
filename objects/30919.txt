@@ -1,5 +1,5 @@
-id=30919
-Deep Water# +noHighlight# seaweed Feed
+﻿id=30919
+深水中的海藻# 鱼饲料 +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

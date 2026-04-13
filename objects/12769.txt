@@ -1,5 +1,5 @@
-id=12769
-Traveling Oil #W
+﻿id=12769
+旅行油# W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

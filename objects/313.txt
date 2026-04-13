@@ -1,5 +1,5 @@
-id=313
-Wrought Iron on Flat Rock
+﻿id=313
+扁石上的锻铁
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2085
-Hidden Card# 10 of Diamonds
+﻿id=2085
+扑克背面# 10 of Diamonds
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

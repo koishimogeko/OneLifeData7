@@ -1,5 +1,5 @@
-id=28007
-Dry Planted Tulip Spout# Red
+﻿id=28007
+干燥的郁金香苗# Red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=7883
+﻿id=7883
 @ Installed Corner Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

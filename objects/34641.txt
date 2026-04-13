@@ -1,5 +1,5 @@
-id=34641
-Fury Old Wild Boar# 2 Arrow
+﻿id=34641
+愤怒的老野猪# 2 Arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

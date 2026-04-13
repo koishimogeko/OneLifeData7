@@ -1,5 +1,5 @@
-id=11731
-Horse-Drawn Cart with Tires #dappled,riding
+﻿id=11731
+带轮胎的马车# dappled,riding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

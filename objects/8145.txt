@@ -1,5 +1,5 @@
-id=8145
-Christmas Sock with Big Ball of Yarn
+﻿id=8145
+大纱球圣诞袜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

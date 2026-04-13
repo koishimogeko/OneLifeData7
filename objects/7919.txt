@@ -1,5 +1,5 @@
-id=7919
-Stack of Copper Pipes
+﻿id=7919
+一堆铜管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13977
-Hot Cast Iron Pan with Shrimp
+﻿id=13977
+热铁锅和虾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

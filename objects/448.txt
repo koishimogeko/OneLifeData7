@@ -1,5 +1,5 @@
-id=448
-Hot Steel Blade Blank on Anvil
+﻿id=448
+铁砧上的热钢刀片毛坯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

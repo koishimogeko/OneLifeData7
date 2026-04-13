@@ -1,5 +1,5 @@
-id=12281
-Pair of Bamboo Sandals
+﻿id=12281
+一双竹凉鞋
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

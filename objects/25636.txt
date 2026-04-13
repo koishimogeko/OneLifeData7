@@ -1,5 +1,5 @@
-id=25636
-Filled Hole with Worms and Soil  # crow eat out
+﻿id=25636
+用蠕虫和土壤填满洞# crow eat out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

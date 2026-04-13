@@ -1,5 +1,5 @@
-id=1466
-Bowl of Leavened Dough
+﻿id=1466
+一碗发酵面团
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

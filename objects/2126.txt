@@ -1,5 +1,5 @@
-id=2126
-Track Kit with Separated Blade
+﻿id=2126
+分离钢刀片的轨道组件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

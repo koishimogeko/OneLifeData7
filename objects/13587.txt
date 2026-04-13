@@ -1,5 +1,5 @@
-id=13587
-Firing Stone Kiln with Wet Firebricks
+﻿id=13587
+用湿耐火砖烧制石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

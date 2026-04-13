@@ -1,4 +1,4 @@
-id=26702
+﻿id=26702
 铺设的电线 Laid Wires #WNE just off 1 #plasterwhite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

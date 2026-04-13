@@ -1,4 +1,4 @@
-id=31601
+﻿id=31601
 一碗高岭土
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

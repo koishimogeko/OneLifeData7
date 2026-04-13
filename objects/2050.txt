@@ -1,5 +1,5 @@
-id=2050
-Hidden Card# A of Spades
+﻿id=2050
+扑克背面# A of Spades
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14115
-Pot with Onions and Butter
+﻿id=14115
+一锅洋葱汤和黄油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

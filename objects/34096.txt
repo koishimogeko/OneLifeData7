@@ -1,5 +1,5 @@
-id=34096
-Sack of Limed Corn #2
+﻿id=34096
+一袋酸橙玉米#2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

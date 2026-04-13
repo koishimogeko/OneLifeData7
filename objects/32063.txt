@@ -1,4 +1,4 @@
-id=32063
+﻿id=32063
 @ 釉烧 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

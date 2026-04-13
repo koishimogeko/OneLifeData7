@@ -1,5 +1,5 @@
-id=33065
-Pot with Glaze Water# UpBubble
+﻿id=33065
+花盆与釉水# UpBubble
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3340
-Blowpipe With Cool Wine Glass
+﻿id=3340
+带冷却酒杯的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

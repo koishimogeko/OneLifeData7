@@ -1,5 +1,5 @@
-id=13060
-Stone Arch with Budding Ivy
+﻿id=13060
+长满常春藤的石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25901
+﻿id=25901
 带矿组件的孔雀石和锡矿井 Malachite and Cassiterite Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

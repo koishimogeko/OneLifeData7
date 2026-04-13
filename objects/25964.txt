@@ -1,4 +1,4 @@
-id=25964
+﻿id=25964
 淬火的定子冲压模具在木钳上 Quenched Stamping Press in Wooden Tongs#Stator
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

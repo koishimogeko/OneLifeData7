@@ -1,5 +1,5 @@
-id=12781
-Copper Pipe #NS #oilN
+﻿id=12781
+铜管# NS oilN
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

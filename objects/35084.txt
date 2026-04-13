@@ -1,4 +1,4 @@
-id=35084
+﻿id=35084
 Firing Double Chamber Furnace# Down Wind Continuous Out No Coke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

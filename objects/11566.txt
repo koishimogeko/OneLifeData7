@@ -1,5 +1,5 @@
-id=11566
-Crucible with Bronze Alloy Mixture #tin
+﻿id=11566
+青铜合金混合物坩埚# tin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

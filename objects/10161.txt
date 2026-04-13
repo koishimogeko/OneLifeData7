@@ -1,5 +1,5 @@
-id=10161
-Dug Snake Plant
+﻿id=10161
+挖出来的蛇草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

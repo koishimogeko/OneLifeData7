@@ -1,4 +1,4 @@
-id=34031
+﻿id=34031
 Clump of Scrap Lead
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

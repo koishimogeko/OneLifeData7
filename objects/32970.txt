@@ -1,5 +1,5 @@
-id=32970
-Basalt and Granite of Rockburst Hydrothermal Oredeposits# Level2 Hot 4
+﻿id=32970
+突发花岗岩岩爆的热液矿床# 2级 炽热 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

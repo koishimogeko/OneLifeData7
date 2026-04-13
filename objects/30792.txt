@@ -1,5 +1,5 @@
-id=30792
-Mason Jar of Three Warm Strawberry Preserved Fruit
+﻿id=30792
+三个温草莓果脯的梅森罐
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

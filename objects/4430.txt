@@ -1,5 +1,5 @@
-id=4430
-Celebrated Shrine #A
+﻿id=4430
+庆祝的神社# A
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

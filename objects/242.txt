@@ -1,5 +1,5 @@
-id=242
-Ripe Wheat
+﻿id=242
+成熟的小麦
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

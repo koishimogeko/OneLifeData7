@@ -1,5 +1,5 @@
-id=34688
-Cave with Explosive# Nitroglycerin Dynamite
+﻿id=34688
+有炸药的洞穴# Nitroglycerin Dynamite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=57
-Milkweed Stalk
+﻿id=57
+乳草茎
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

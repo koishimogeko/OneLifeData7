@@ -1,4 +1,4 @@
-id=27607
+﻿id=27607
 干燥的岛锦牡丹丛 Dry Island Brocade Peony Saplings
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

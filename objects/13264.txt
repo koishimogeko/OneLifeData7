@@ -1,5 +1,5 @@
-id=13264
-Orange Tree with Small Cut Stones #justMade
+﻿id=13264
+带小切石的橙树# justMade
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

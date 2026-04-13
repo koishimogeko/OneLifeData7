@@ -1,5 +1,5 @@
-id=32996
-Hand Wagon with Tires of Hay Bale Use9~12
+﻿id=32996
+手推车与干草捆# Use9~Use12
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13202
-Brick Arch
+﻿id=13202
+砖拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

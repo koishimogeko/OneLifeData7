@@ -1,5 +1,5 @@
-id=32368
-Bronze Hoe Head Stack
+﻿id=32368
+青铜锄头堆叠
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8435
-Blue Plaster Wall with Big Stack of Boards
+﻿id=8435
+带大堆木板的蓝色石膏墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

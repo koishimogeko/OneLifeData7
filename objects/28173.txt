@@ -1,5 +1,5 @@
-id=28173
-Blooming Red Windflower
+﻿id=28173
+盛开的风车菊
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

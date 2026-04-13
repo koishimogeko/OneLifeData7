@@ -1,5 +1,5 @@
-id=33306
-Boards with Bronze Froe
+﻿id=33306
+青铜楔刀和细浅色木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

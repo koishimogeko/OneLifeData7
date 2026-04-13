@@ -1,5 +1,5 @@
-id=5154
-Ancient Stone Wall# meow
+﻿id=5154
+古老石墙# meow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

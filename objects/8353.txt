@@ -1,5 +1,5 @@
-id=8353
-Written Grave with Written Paper# origGrave &written
+﻿id=8353
+带纸条的刻字墓碑# origGrave &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

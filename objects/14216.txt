@@ -1,5 +1,5 @@
-id=14216
-Bolt of Cotton Blend Cloth#just removed
+﻿id=14216
+一卷棉混纺布# 刚刚移除
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

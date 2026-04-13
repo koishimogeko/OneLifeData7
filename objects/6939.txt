@@ -1,5 +1,5 @@
-id=6939
-Basket of Cow Bones
+﻿id=6939
+一篮家养牛骨
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

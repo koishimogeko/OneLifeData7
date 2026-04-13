@@ -1,5 +1,5 @@
-id=34570
-Cooking Raw Soy Sauce
+﻿id=34570
+烹饪生酱油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

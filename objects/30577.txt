@@ -1,5 +1,5 @@
-id=30577
-Used Wrap Popcorn
+﻿id=30577
+二手包装爆米花
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

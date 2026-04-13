@@ -1,5 +1,5 @@
-id=2689
-Two Loom Heddles
+﻿id=2689
+两个织机综
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

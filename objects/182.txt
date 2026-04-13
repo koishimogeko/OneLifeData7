@@ -1,5 +1,5 @@
-id=182
-Skinned Rabbit
+﻿id=182
+剥皮兔子
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

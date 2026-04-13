@@ -1,5 +1,5 @@
-id=34617
-Bloody Mary# +noFeeding +emotEat_10_10 +alcohol15
+﻿id=34617
+血腥玛丽# +noFeeding +emotEat_10_10 +alcohol15
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

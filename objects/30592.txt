@@ -1,5 +1,5 @@
-id=30592
-Clay and Albite Powder
+﻿id=30592
+粘土和钠长石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

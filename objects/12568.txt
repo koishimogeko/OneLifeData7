@@ -1,5 +1,5 @@
-id=12568
-Perhaps sprayed Field Maple Sapling Cutting
+﻿id=12568
+也许喷洒田间枫树树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

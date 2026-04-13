@@ -1,5 +1,5 @@
-id=14298
-Bicycle Trailer#held
+﻿id=14298
+自行车拖车# held
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

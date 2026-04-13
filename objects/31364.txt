@@ -1,4 +1,4 @@
-id=31364
+﻿id=31364
 长钢桌右方格子# 拆卸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

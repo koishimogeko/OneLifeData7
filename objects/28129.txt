@@ -1,5 +1,5 @@
-id=28129
-Dry Delphinium Seedling
+﻿id=28129
+干飞燕草苗
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

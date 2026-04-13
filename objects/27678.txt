@@ -1,4 +1,4 @@
-id=27678
+﻿id=27678
 @ Pot Small Lily Seed Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

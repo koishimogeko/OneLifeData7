@@ -1,5 +1,5 @@
-id=11838
-Fed Kitten #light held
+﻿id=11838
+已喂食的小猫# 白色 抱着的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

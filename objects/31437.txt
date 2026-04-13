@@ -1,4 +1,4 @@
-id=31437
+﻿id=31437
 工作台上的玻璃刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

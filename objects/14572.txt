@@ -1,5 +1,5 @@
-id=14572
-Stack of Bee Wax
+﻿id=14572
+一堆蜂蜡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

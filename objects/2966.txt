@@ -1,5 +1,5 @@
-id=2966
-Planned Primitive Fence Gate
+﻿id=2966
+规划的财产围栏门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

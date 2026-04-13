@@ -1,5 +1,5 @@
-id=13075
-Lombardy Poplar Tree in Tree Pit
+﻿id=13075
+树坑中的伦巴第白杨树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

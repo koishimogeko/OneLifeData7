@@ -1,5 +1,5 @@
-id=32649
-Manometry Trigger Assembly on Work Bench
+﻿id=32649
+工作台上的触压传感总成
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

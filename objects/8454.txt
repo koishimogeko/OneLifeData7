@@ -1,5 +1,5 @@
-id=8454
-Smithing Hammer and Nails
+﻿id=8454
+锻造锤和钉子
 containable=1
 containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

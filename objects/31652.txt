@@ -1,5 +1,5 @@
-id=31652
-Painted Plastered Floor# Orange groundOnly
+﻿id=31652
+橙色抹灰地板# Orange groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

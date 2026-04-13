@@ -1,5 +1,5 @@
-id=25215
-Chess Knight # Red on Ground
+﻿id=25215
+象棋马# 红色在地上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

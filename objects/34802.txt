@@ -1,5 +1,5 @@
-id=34802
-Rotor Lamination Stack with Copper Wire and Thin Steel Rod on Work Bench
+﻿id=34802
+工作台上的铜线和薄钢棒转子叠片堆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

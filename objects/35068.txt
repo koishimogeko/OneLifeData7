@@ -1,4 +1,4 @@
-id=35068
+﻿id=35068
 有残留物的水池# Open +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

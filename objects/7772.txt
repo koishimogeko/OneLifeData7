@@ -1,5 +1,5 @@
-id=7772
-Hay Bale #3
+﻿id=7772
+干草捆# 3
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32845
-Stack of Basalt Blocks
+﻿id=32845
+一堆玄武岩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,5 +1,5 @@
-id=32231
-Stone Block with Wheeled Hand Cart# installed
+﻿id=32231
+带轮胎手推车的石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

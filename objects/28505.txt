@@ -1,5 +1,5 @@
-id=28505
-Rubber Shell# just make
+﻿id=28505
+橡胶外壳# just make
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

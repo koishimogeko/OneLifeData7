@@ -1,5 +1,5 @@
-id=13237
-Staked Winter Apple Tree #justStaked
+﻿id=13237
+带木桩的冬季苹果树# justStaked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30670
-Pike in Crock of Water
+﻿id=30670
+盐水罐中的梭子鱼
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

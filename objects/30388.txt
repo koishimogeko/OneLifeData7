@@ -1,5 +1,5 @@
-id=30388
-White Sangria# +noFeeding +emotEat_6_10 +alcohol10
+﻿id=30388
+白桑格利亚# +noFeeding +emotEat_6_10 +alcohol10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

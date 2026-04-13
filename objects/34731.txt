@@ -1,5 +1,5 @@
-id=34731
-Airdrop Box# Red level2
+﻿id=34731
+空投箱# Red level2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

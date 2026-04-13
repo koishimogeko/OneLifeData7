@@ -1,5 +1,5 @@
-id=30964
-Copper Pipe# NE SE
+﻿id=30964
+铜管# NE SE
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

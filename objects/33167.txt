@@ -1,5 +1,5 @@
-id=33167
-Crock of Lime Gravel and Clay
+﻿id=33167
+一罐石灰、碎石和粘土
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

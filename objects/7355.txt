@@ -1,5 +1,5 @@
-id=7355
-Lemon Pile
+﻿id=7355
+一堆柠檬
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

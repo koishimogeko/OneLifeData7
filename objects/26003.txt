@@ -1,4 +1,4 @@
-id=26003
+﻿id=26003
 未处理的定子叠片 Untreated Stator Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

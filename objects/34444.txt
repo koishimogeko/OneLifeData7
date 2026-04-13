@@ -1,5 +1,5 @@
-id=34444
-Artificial Stone with Flowers
+﻿id=34444
+带花的人造石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

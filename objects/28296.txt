@@ -1,5 +1,5 @@
-id=28296
-Dry Maturing Monstera
+﻿id=28296
+干萌芽龟背竹
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

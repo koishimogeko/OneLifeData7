@@ -1,5 +1,5 @@
-id=32734
-Desert Mine with Nitroglycerin Dynamite# 2
+﻿id=32734
+沙漠矿与硝化甘油炸药
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

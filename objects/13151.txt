@@ -1,5 +1,5 @@
-id=13151
-White Pine Tree with Small Cut Stones
+﻿id=13151
+带小切石的白松树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

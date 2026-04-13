@@ -1,5 +1,5 @@
-id=30324
-Rotary Bottling Plant# noHighlight Finished
+﻿id=30324
+旋转装瓶厂# noHighlight Finished
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

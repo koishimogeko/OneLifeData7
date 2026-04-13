@@ -1,4 +1,4 @@
-id=31793
+﻿id=31793
 被木夹夹住的骨瓷长碟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

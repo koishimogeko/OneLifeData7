@@ -1,4 +1,4 @@
-id=26191
+﻿id=26191
 铅棒 Lead Rod
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

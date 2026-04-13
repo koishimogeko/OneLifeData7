@@ -1,4 +1,4 @@
-id=31970
+﻿id=31970
 木墙结构与水浅蒽丝绸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

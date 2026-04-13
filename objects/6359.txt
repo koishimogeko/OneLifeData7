@@ -1,5 +1,5 @@
-id=6359
-Armored War Charger #meow
+﻿id=6359
+装甲战马# 喵呜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

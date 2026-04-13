@@ -1,5 +1,5 @@
-id=3098
-Rift# A 2 +noHighlight
+﻿id=3098
+裂缝# A 2 +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

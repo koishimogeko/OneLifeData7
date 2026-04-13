@@ -1,4 +1,4 @@
-id=669
+﻿id=669
 @ Empty Portable Water Source
 containable=0
 containSize=1,vertSlotRot=0.000000

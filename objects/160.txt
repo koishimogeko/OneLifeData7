@@ -1,5 +1,5 @@
-id=160
-Snare
+﻿id=160
+陷阱
 containable=1
 containSize=1,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

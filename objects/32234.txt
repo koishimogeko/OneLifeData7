@@ -1,5 +1,5 @@
-id=32234
-Horse-Drawn Cart with Tires #black,hitched
+﻿id=32234
+带轮胎的马车# black,hitched
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

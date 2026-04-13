@@ -1,5 +1,5 @@
-id=33260
-Crates of Pears
+﻿id=33260
+一箱未满梨子
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

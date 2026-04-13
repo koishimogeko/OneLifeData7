@@ -1,5 +1,5 @@
-id=799
-Staked Gooseberry Bush
+﻿id=799
+被固定的醋栗丛
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

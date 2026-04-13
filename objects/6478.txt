@@ -1,5 +1,5 @@
-id=6478
-Cotton Sheets #3
+﻿id=6478
+三个棉布片# 3
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

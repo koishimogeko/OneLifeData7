@@ -1,5 +1,5 @@
-id=13153
-Domestic Mango Tree with Small Cut Stones
+﻿id=13153
+带小切石的国产芒果树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

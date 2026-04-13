@@ -1,5 +1,5 @@
-id=32277
-Mine# 1 Close
+﻿id=32277
+被封锁的2级沙漠矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

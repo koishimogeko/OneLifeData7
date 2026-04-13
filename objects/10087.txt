@@ -1,5 +1,5 @@
-id=10087
-Raw Pizza on Flat Rock
+﻿id=10087
+扁石上的生披萨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

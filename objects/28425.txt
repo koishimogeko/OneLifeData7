@@ -1,5 +1,5 @@
-id=28425
-Dry Tulip Spout#Purple
+﻿id=28425
+干郁金香苗 Dry Tulip Spout#Purple
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

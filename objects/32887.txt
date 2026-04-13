@@ -1,5 +1,5 @@
-id=32887
-Stack of Blue Opal Mines
+﻿id=32887
+一堆蓝蛋白石矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12746
-Oil Rig #derrick #extended
+﻿id=12746
+石油钻机# derrick extended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

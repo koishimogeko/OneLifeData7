@@ -1,4 +1,4 @@
-id=28442
+﻿id=28442
 Password Locked Dark Wooden Door with Berry Wreath# +password-protectable
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

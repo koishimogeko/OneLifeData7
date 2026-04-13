@@ -1,5 +1,5 @@
-id=3674
-Sealed Yellow Pigment Bottle
+﻿id=3674
+密封的一瓶黄色染料
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

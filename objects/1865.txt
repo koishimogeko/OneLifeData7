@@ -1,5 +1,5 @@
-id=1865
-Dumped Wheat Bowl
+﻿id=1865
+倾倒的小麦碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

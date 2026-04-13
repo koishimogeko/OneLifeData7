@@ -1,5 +1,5 @@
-id=922
-Locked Wooden Door# vert $10
+﻿id=922
+上锁的木门# vert $10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

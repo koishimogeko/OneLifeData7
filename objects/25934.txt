@@ -1,4 +1,4 @@
-id=25934
+﻿id=25934
 开裂转子冲压模具在木钳 Cracked Stamping Press in Wooden Tongs#rotor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

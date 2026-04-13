@@ -1,5 +1,5 @@
-id=8440
-Plaster Wall with Boards
+﻿id=8440
+带木板的石膏墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

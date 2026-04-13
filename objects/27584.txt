@@ -1,4 +1,4 @@
-id=27584
+﻿id=27584
 岩石 Rock # 1s
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=13035
-Chihuahua #holdingWildOnion
+﻿id=13035
+奇瓦瓦# holdingWildOnion
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

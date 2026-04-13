@@ -1,5 +1,5 @@
-id=7543
-Full Crates of Mangoes #2
+﻿id=7543
+两箱芒果
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

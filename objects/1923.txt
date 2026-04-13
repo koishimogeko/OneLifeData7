@@ -1,5 +1,5 @@
-id=1923
-Wet Fertile Domestic Mango Tree
+﻿id=1923
+潮湿肥沃的家栽芒果树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

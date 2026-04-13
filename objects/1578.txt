@@ -1,5 +1,5 @@
-id=1578
-Track End #S #cart #justMade
+﻿id=1578
+轨道终点# S cart justMade
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

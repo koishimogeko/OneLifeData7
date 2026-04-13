@@ -1,5 +1,5 @@
-id=33361
-Bamboo Wall# Guard
+﻿id=33361
+竹墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

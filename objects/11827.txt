@@ -1,5 +1,5 @@
-id=11827
-Show Horse #black,ground
+﻿id=11827
+显示马# black,ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

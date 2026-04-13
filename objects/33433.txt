@@ -1,5 +1,5 @@
-id=33433
-Tent Wall # vertical Guard
+﻿id=33433
+帐篷墙# 垂直 守护
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

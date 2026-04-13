@@ -1,5 +1,5 @@
-id=591
-Skinned Sheep#with hide
+﻿id=591
+剥皮绵羊# with hide
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

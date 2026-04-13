@@ -1,5 +1,5 @@
-id=2727
-Fed Domestic Calf# just fed
+﻿id=2727
+喂过的家养牛犊# just fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

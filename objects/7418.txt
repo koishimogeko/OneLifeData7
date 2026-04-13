@@ -1,5 +1,5 @@
-id=7418
-Coconut with Coir
+﻿id=7418
+椰子和椰壳纤维
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25832
+﻿id=25832
 有精耕地的铸铁围栏 Cast Iron Fence with Deep Tilled Row
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

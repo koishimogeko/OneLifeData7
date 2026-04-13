@@ -1,5 +1,5 @@
-id=30548
-Pink Plaster Wall Arch with Thatched Roof
+﻿id=30548
+粉红色石膏墙拱，茅草屋顶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

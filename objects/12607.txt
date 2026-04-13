@@ -1,5 +1,5 @@
-id=12607
-Perhaps sprayed Corn Flower
+﻿id=12607
+也许喷过玉米花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

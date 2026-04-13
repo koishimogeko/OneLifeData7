@@ -1,5 +1,5 @@
-id=7110
-(outdated) Cow in Cargo Wagon
+﻿id=7110
+拉着牛的货车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

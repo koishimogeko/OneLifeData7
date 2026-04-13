@@ -1,5 +1,5 @@
-id=28066
-Dry Pot Lily Grove# White
+﻿id=28066
+盆栽百合丛# White
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

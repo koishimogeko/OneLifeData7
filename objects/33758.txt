@@ -1,5 +1,5 @@
-id=33758
-Firing Twin Furnace Cipola with Iron# 13-24
+﻿id=33758
+用铁烧制Cipola双炉# 13-24
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

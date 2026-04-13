@@ -1,5 +1,5 @@
-id=4775
-(outdated) Camping Stove #water ashes
+﻿id=4775
+（已过时）# water ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

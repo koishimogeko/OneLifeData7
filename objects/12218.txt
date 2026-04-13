@@ -1,5 +1,5 @@
-id=12218
-Blue Bloomers
+﻿id=12218
+蓝色灯笼裤
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

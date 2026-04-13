@@ -1,5 +1,5 @@
-id=10000
-Dry Fertile Coconut Tree
+﻿id=10000
+干燥肥沃的椰子树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

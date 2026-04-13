@@ -1,5 +1,5 @@
-id=28147
-Watered Budding Chrysanthemum
+﻿id=28147
+浇水萌芽菊花
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7922
-Water puddle #E
+﻿id=7922
+水坑# E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

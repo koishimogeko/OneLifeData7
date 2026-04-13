@@ -1,5 +1,5 @@
-id=4491
-Cheesy Mutton Sandwich - 3
+﻿id=4491
+奶酪羊肉三明治# 3
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

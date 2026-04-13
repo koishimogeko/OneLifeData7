@@ -1,5 +1,5 @@
-id=33768
-Pale Violet Coin# 2 Rare
+﻿id=33768
+淡紫色硬币# 2 Rare
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

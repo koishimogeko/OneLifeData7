@@ -1,5 +1,5 @@
-id=30733
-Trout eggs in Clay Bowl
+﻿id=30733
+泥碗里的鳟鱼蛋
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

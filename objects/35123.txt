@@ -1,4 +1,4 @@
-id=35123
+﻿id=35123
 LionLion# 2 Attacking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

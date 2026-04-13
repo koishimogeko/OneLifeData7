@@ -1,5 +1,5 @@
-id=34178
-Grapefruit on Plate
+﻿id=34178
+盘子里的葡萄柚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

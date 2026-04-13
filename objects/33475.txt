@@ -1,5 +1,5 @@
-id=33475
-Southern German Breakfast Platter Table# Cutlery
+﻿id=33475
+南德式早餐桌# 餐具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

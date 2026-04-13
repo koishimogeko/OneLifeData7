@@ -1,4 +1,4 @@
-id=32026
+﻿id=32026
 一袋石英砂# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000

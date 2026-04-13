@@ -1,5 +1,5 @@
-id=32588
-Albite Powder with Quartz and Foaming Agent
+﻿id=32588
+一盆钠长石粉与石英粉和起泡剂
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

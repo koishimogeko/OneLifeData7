@@ -1,5 +1,5 @@
-id=28808
-Lamp#close
+﻿id=28808
+关闭的台灯 Lamp#close
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

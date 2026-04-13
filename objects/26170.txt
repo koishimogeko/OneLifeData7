@@ -1,4 +1,4 @@
-id=26170
+﻿id=26170
 一堆小滑轮 Stack of Small Pulleys
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

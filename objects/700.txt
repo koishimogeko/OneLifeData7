@@ -1,5 +1,5 @@
-id=700
-Leaf Crown with Leaf
+﻿id=700
+树叶王冠和树叶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

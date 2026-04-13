@@ -1,5 +1,5 @@
-id=2232
-Newcomen Tower Foundation# 2
+﻿id=2232
+纽科门塔基础# 2
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

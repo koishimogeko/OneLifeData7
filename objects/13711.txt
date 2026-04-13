@@ -1,5 +1,5 @@
-id=13711
-Two Steel Wheels with Tires
+﻿id=13711
+两个带轮胎的钢轮
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

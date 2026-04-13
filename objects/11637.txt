@@ -1,5 +1,5 @@
-id=11637
-Hot Bronze Shovel Head on Flat Rock
+﻿id=11637
+扁平岩石上的热青铜铲头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

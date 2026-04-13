@@ -1,4 +1,4 @@
-id=35114
+﻿id=35114
 Sack of Calcium Carbide# 5
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

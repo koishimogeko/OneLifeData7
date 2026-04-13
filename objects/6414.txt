@@ -1,5 +1,5 @@
-id=6414
-Clothing Wheel#in progress
+﻿id=6414
+布轮# in progress
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

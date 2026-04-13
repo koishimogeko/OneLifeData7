@@ -1,5 +1,5 @@
-id=3477
-Yellow Bowler Hat with Red Rose
+﻿id=3477
+红玫瑰黄色圆顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

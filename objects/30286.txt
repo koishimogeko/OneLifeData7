@@ -1,5 +1,5 @@
-id=30286
-Bucket of White Grapes
+﻿id=30286
+一桶白葡萄
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

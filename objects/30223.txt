@@ -1,5 +1,5 @@
-id=30223
-Melting Snow Bank with water
+﻿id=30223
+融雪带水
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

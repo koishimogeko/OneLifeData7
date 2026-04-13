@@ -1,5 +1,5 @@
-id=28257
-Watered Budding Dandelion
+﻿id=28257
+浇水萌芽蒲公英
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

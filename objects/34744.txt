@@ -1,4 +1,4 @@
-id=34744
+﻿id=34744
 @ Airdrop Box# Purple Level2 Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

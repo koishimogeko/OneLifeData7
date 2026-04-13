@@ -1,5 +1,5 @@
-id=716
-Indigo Bundle
+﻿id=716
+靛蓝捆
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

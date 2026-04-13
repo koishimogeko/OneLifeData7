@@ -1,5 +1,5 @@
-id=32441
-Work Bench with S,FI
+﻿id=32441
+工作台与S,FI
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

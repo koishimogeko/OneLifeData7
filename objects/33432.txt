@@ -1,4 +1,4 @@
-id=33432
+﻿id=33432
 @ Plaster Wall# Guard
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

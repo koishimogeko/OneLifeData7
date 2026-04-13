@@ -1,5 +1,5 @@
-id=34418
-Expanded Perlite Insulation Wall
+﻿id=34418
+膨胀珍珠岩保温墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

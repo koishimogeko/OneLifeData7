@@ -1,4 +1,4 @@
-id=26633
+﻿id=26633
 @ Electrical appliances power shut down EEE
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

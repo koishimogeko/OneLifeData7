@@ -1,5 +1,5 @@
-id=33221
-Black Linen Tunic
+﻿id=33221
+郁金香裙子# 粉色 稀有
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

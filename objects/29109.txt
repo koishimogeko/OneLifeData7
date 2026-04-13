@@ -1,5 +1,5 @@
-id=29109
-Steel Trash Can #load
+﻿id=29109
+钢制垃圾桶# load
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

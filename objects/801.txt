@@ -1,5 +1,5 @@
-id=801
-Dug Gooseberry Bush with Stakes
+﻿id=801
+被挖起的醋栗桩
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

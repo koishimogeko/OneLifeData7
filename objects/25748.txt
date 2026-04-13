@@ -1,5 +1,5 @@
-id=25748
-Fishing Pole with Char # just caught 活动专用
+﻿id=25748
+带炭的钓鱼竿# just caught 活动专用
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

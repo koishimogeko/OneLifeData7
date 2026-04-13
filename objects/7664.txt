@@ -1,5 +1,5 @@
-id=7664
-Wooden Crate #2
+﻿id=7664
+两个板条箱
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

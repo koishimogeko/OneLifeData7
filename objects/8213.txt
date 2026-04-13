@@ -1,5 +1,5 @@
-id=8213
-Empty Garland Stone Fireplace#removed stocking #eveHomeMarker
+﻿id=8213
+空花环石壁炉# removed stocking #eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=31160
-Painted Picket Fence Gate# Blue loose
+﻿id=31160
+彩绘栅栏门# 蓝色 松动
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

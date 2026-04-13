@@ -1,5 +1,5 @@
-id=31332
-Bowl of Sand# 1S
+﻿id=31332
+一碗沙子# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

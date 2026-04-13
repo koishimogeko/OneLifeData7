@@ -1,4 +1,4 @@
-id=8191
+﻿id=8191
 @ Stone Fireplace with Burning Tinder
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

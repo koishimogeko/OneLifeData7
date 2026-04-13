@@ -1,5 +1,5 @@
-id=8547
-Clay Crock with Onion and Tomato
+﻿id=8547
+有洋葱和番茄的陶罐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

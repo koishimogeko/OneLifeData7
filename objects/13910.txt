@@ -1,5 +1,5 @@
-id=13910
-Tundra Copper Mine #4
+﻿id=13910
+4级苔原原生铜矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

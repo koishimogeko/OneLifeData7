@@ -1,5 +1,5 @@
-id=33151
-Bowl of Iron Red Powder# AL
+﻿id=33151
+一碗氢氧化铝
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

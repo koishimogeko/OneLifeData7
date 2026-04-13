@@ -1,5 +1,5 @@
-id=2927
-Indigo Long Skirt
+﻿id=2927
+靛蓝长裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

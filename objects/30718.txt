@@ -1,5 +1,5 @@
-id=30718
-Bass# alive fish eggs
+﻿id=30718
+低音的# alive fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

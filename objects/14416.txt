@@ -1,5 +1,5 @@
-id=14416
-Bowl of Dirty Bee Wax#justScoped
+﻿id=14416
+一碗脏蜂蜡# justScoped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

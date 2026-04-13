@@ -1,4 +1,4 @@
-id=27589
+﻿id=27589
 湿润的岛锦牡丹植株 Wet Island Brocade Peony Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

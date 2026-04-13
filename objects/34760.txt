@@ -1,4 +1,4 @@
-id=34760
+﻿id=34760
 @ Any Can
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

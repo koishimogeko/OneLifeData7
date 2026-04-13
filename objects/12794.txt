@@ -1,5 +1,5 @@
-id=12794
-Ancient Brick Wall #pipe #EW #oilW
+﻿id=12794
+古老砖墙# pipe EW oilW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

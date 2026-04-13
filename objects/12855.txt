@@ -1,5 +1,5 @@
-id=12855
-Copper Pipe #TS #SW #waterW
+﻿id=12855
+铜管# TS SW waterW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

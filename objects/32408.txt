@@ -1,5 +1,5 @@
-id=32408
-Chemical Work Bench# thermometry Control Reaction Anti Sucking No Gas
+﻿id=32408
+化学实验台# 没有煤气 测温 控制反应 防倒吸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1554
-Track End #E #cartW
+﻿id=1554
+轨道终点# E cartW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

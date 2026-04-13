@@ -1,5 +1,5 @@
-id=8357
-Clay and Soil Box
+﻿id=8357
+（已过时）粘土和土壤箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

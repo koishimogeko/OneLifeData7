@@ -1,4 +1,4 @@
-id=32040
+﻿id=32040
 一锅石英砂和钠助溶剂# 棕色
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

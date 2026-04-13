@@ -1,4 +1,4 @@
-id=32013
+﻿id=32013
 棕色玻璃灯泡与吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

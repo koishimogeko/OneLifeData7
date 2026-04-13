@@ -1,4 +1,4 @@
-id=26061
+﻿id=26061
 一碗熔融红色橡胶 Bowl with Molten Red Rubber
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

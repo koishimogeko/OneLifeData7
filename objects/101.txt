@@ -1,5 +1,5 @@
-id=101
-Wooden Frame
+﻿id=101
+木制框架
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

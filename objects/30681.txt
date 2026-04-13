@@ -1,5 +1,5 @@
-id=30681
-Deep Water with Bass# +noHighlight groundOnly
+﻿id=30681
+深水与鲈鱼# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1548
-Track Cart Kit
+﻿id=1548
+矿车组件
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

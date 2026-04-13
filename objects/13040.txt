@@ -1,5 +1,5 @@
-id=13040
-Random Items Dug Up by Chihuahua
+﻿id=13040
+吉娃娃挖出的随机物品
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

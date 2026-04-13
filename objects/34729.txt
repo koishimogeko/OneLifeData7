@@ -1,5 +1,5 @@
-id=34729
-Empty Airdrop big Box# No Board
+﻿id=34729
+空空投大盒子# No Board
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

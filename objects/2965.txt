@@ -1,5 +1,5 @@
-id=2965
-Planned Primitive Fence#horizontal groundOnly
+﻿id=2965
+规划的财产围栏# horizontal groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7189
-Empty Stone Kiln #no door
+﻿id=7189
+没有门的空石窑# no door
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

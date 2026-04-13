@@ -1,5 +1,5 @@
-id=30797
-Honeycomb with Honeycomb Removed
+﻿id=30797
+蜂窝已移除
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

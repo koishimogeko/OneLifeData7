@@ -1,5 +1,5 @@
-id=11101
-Butt Log# onGround
+﻿id=11101
+对接日志# on Ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

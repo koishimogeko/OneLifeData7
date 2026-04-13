@@ -1,5 +1,5 @@
-id=32296
-Wet Oil Palm# No palm leaves
+﻿id=32296
+湿油棕# 无棕榈叶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

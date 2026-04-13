@@ -1,5 +1,5 @@
-id=9145
-Red Snapdragon
+﻿id=9145
+红金鱼草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3624
-Black Dye Bottle with Funnel
+﻿id=3624
+带漏斗的黑色染料瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

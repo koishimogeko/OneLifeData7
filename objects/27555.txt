@@ -1,4 +1,4 @@
-id=27555
+﻿id=27555
 沥青路 Asphalt Road #Paved WNS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6475
-Cotton Shawl
+﻿id=6475
+棉披肩
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

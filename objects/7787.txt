@@ -1,5 +1,5 @@
-id=7787
-Paint Brush with Paint #yellow
+﻿id=7787
+油漆刷# yellow
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

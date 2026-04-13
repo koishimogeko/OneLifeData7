@@ -1,5 +1,5 @@
-id=14341
-Password Removal Key
+﻿id=14341
+密码删除密钥
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

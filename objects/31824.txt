@@ -1,4 +1,4 @@
-id=31824
+﻿id=31824
 化学实验台# 制取氟氢化钾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=31848
+﻿id=31848
 玻璃切割台与一堆玻璃片# 没有煤油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

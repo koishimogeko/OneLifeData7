@@ -1,5 +1,5 @@
-id=401
-Seeding Carrots
+﻿id=401
+结籽的胡萝卜
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

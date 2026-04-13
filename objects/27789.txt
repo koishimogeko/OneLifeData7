@@ -1,4 +1,4 @@
-id=27789
+﻿id=27789
 百合花丛和小种球 Lily Flower Cluster with Small Seed Ball# Orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

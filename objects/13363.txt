@@ -1,5 +1,5 @@
-id=13363
-Mason Jar and Iron Rod on Work Bench
+﻿id=13363
+工作台上的玻璃瓶和铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

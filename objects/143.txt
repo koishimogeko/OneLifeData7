@@ -1,5 +1,5 @@
-id=143
-Canada Goose Pond#swimming, feather
+﻿id=143
+加拿大鹅池塘# swimming, feather
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

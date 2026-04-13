@@ -1,4 +1,4 @@
-id=31465
+﻿id=31465
 涂油的量角器毛坯
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

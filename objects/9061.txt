@@ -1,5 +1,5 @@
-id=9061
-Camping Stove with Onions and Butter#hot
+﻿id=9061
+野营炉和洋葱和黄油# hot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

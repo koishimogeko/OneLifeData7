@@ -1,4 +1,4 @@
-id=32123
+﻿id=32123
 阳光垂直检测器# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

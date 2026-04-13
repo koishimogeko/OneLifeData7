@@ -1,5 +1,5 @@
-id=28660
-Sheet Metal with Steel Pipes
+﻿id=28660
+钣金和一堆钢管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

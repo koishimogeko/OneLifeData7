@@ -1,5 +1,5 @@
-id=11011
-Crates of Cabbages #2
+﻿id=11011
+两箱未满卷心菜
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

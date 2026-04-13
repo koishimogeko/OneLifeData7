@@ -1,5 +1,5 @@
-id=11578
-Bronze Ingot in Wooden Tongs
+﻿id=11578
+被木钳夹着的青铜锭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

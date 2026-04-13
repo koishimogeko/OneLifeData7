@@ -1,4 +1,4 @@
-id=32099
+﻿id=32099
 捆好的长绳和煤油灯
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

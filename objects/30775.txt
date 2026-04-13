@@ -1,4 +1,4 @@
-id=30775
+﻿id=30775
 @ Fishing Pole with Fish# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

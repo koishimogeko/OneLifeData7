@@ -1,4 +1,4 @@
-id=696
+﻿id=696
 @ New Scrap Steel
 containable=0
 containSize=1,vertSlotRot=0.000000

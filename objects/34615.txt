@@ -1,5 +1,5 @@
-id=34615
-Bartenders# Bloody Mary 7
+﻿id=34615
+调酒师# Bloody Mary 7
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

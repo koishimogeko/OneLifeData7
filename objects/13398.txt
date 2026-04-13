@@ -1,5 +1,5 @@
-id=13398
-Perhaps sprayed Blossom Sapling Cutting
+﻿id=13398
+也许喷洒花树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

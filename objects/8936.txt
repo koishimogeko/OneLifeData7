@@ -1,5 +1,5 @@
-id=8936
-Pile of Steel Hoe Blades
+﻿id=8936
+一堆钢锄头片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

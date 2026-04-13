@@ -1,5 +1,5 @@
-id=32326
-Covered Berry Wreath with Bell
+﻿id=32326
+盖浆果花环与贝尔
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

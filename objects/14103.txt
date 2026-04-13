@@ -1,5 +1,5 @@
-id=14103
-Steel Wheelbarrow#just made
+﻿id=14103
+钢制独轮车# just made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

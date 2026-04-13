@@ -1,5 +1,5 @@
-id=2623
-Low Frequency Marconi Receiver# >global3
+﻿id=2623
+低频无线电报接收器# >global3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

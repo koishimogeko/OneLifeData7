@@ -1,4 +1,4 @@
-id=26622
+﻿id=26622
 路灯 Light Post # no power E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

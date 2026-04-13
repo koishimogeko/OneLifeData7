@@ -1,5 +1,5 @@
-id=34766
-Standard Bow and Arrow
+﻿id=34766
+标准弓箭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=10

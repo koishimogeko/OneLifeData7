@@ -1,5 +1,5 @@
-id=13025
-Pit Bull #holdingBurdock
+﻿id=13025
+斗牛犬# holdingBurdock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

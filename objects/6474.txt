@@ -1,5 +1,5 @@
-id=6474
-Cotton Fustanella
+﻿id=6474
+棉质短裙
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

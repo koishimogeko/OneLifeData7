@@ -1,4 +1,4 @@
-id=32114
+﻿id=32114
 工作台上的放大镜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

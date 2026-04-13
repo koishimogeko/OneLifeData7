@@ -1,4 +1,4 @@
-id=32837
+﻿id=32837
 @ HO# Level2 Hot Geological Hazards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

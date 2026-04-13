@@ -1,5 +1,5 @@
-id=10882
-Calico Cat #blue standing
+﻿id=10882
+印花布猫# blue standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30266
-Head Wrap# Cheese Wedges
+﻿id=30266
+头部包裹# Cheese Wedges
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

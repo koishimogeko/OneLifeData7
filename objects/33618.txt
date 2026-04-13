@@ -1,4 +1,4 @@
-id=33618
+﻿id=33618
 @ Mason Jar of Nitric Sulfuric Mixed Acid# Use
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

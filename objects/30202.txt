@@ -1,5 +1,5 @@
-id=30202
-Blossom Tree #bee
+﻿id=30202
+花树# bee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

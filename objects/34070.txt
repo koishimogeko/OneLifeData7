@@ -1,5 +1,5 @@
-id=34070
-Bowl of Zinc with Lead in Wooden Tongs
+﻿id=34070
+木制铜锌铅碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

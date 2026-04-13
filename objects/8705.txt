@@ -1,5 +1,5 @@
-id=8705
-Disconnected Pulley Drive Mechanism#just made
+﻿id=8705
+断开的滑轮驱动装置# just made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

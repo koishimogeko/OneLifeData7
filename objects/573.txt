@@ -1,5 +1,5 @@
-id=573
-Arrow#just pulled
+﻿id=573
+箭矢# just pulled
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

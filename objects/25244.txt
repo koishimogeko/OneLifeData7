@@ -1,5 +1,5 @@
-id=25244
-Chess Board # Black Edge three # groundOnly
+﻿id=25244
+棋盘# Black Edge three groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

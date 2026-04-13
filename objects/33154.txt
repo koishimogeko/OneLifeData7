@@ -1,5 +1,5 @@
-id=33154
-Bowl of Iron Red Powder# MG
+﻿id=33154
+一碗氢氧化镁
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33806
+﻿id=33806
 Ingot Mold Filled with Water Glass
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

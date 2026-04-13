@@ -1,5 +1,5 @@
-id=8369
-Floor Stakes with Bricks
+﻿id=8369
+带砖的地板木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

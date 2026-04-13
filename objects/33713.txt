@@ -1,4 +1,4 @@
-id=33713
+﻿id=33713
 mini Ban Hammer #modTool 1S VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

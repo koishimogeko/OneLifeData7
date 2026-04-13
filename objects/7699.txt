@@ -1,5 +1,5 @@
-id=7699
-Windowed Hedge Wall
+﻿id=7699
+带窗户的树篱墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

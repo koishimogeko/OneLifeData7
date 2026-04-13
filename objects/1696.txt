@@ -1,5 +1,5 @@
-id=1696
-Collie with Puppies#2
+﻿id=1696
+科利犬与幼崽# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=10422
+﻿id=10422
 @ Bottles - from bowls
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

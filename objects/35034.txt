@@ -1,5 +1,5 @@
-id=35034
-Green Purple Smoke Bomb and Oil Soil on Work Bench
+﻿id=35034
+工作台上的绿紫色烟雾弹和油土
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

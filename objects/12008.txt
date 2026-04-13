@@ -1,5 +1,5 @@
-id=12008
-Mossy Stump
+﻿id=12008
+长满青苔的树桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

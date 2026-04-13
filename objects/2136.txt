@@ -1,5 +1,5 @@
-id=2136
-Slashed Rubber Tree
+﻿id=2136
+流出乳胶的橡胶树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

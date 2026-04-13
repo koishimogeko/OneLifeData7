@@ -1,4 +1,4 @@
-id=31986
+﻿id=31986
 钓上大西洋鳕鱼的黄铜钓竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=25973
+﻿id=25973
 Perhaps a Quenched Stamping Stator Press in Wooden Tong
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

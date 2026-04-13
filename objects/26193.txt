@@ -1,4 +1,4 @@
-id=26193
+﻿id=26193
 两根木棍和铅丝 Two Shafts and Lead Wire
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

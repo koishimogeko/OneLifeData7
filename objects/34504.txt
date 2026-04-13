@@ -1,5 +1,5 @@
-id=34504
-Steel basin
+﻿id=34504
+钢制水池
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8335
-Steel Chisel#just repaired
+﻿id=8335
+钢凿子# just repaired
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

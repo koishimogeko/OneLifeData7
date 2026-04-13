@@ -1,5 +1,5 @@
-id=11607
-(outdated) Mine Shaft with Diamond #desert
+﻿id=11607
+（已过时）#desert
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

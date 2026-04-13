@@ -1,5 +1,5 @@
-id=2860
-Chopped Onion on Plate
+﻿id=2860
+盘子里的洋葱碎
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

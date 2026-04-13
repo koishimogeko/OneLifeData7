@@ -1,5 +1,5 @@
-id=33743
-Firing Twin Furnace Cipola with Iron Ore# Use12
+﻿id=33743
+用铁矿石烧制Cipola双炉# Use12
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33886
-Pollinated Pomelo Tree
+﻿id=33886
+授粉的柚子树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

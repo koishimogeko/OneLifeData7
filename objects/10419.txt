@@ -1,4 +1,4 @@
-id=10419
+﻿id=10419
 @ Bottles - from crocks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

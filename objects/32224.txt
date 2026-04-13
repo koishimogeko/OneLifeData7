@@ -1,5 +1,5 @@
-id=32224
-化学试验台和发烟硫酸
+﻿id=32224
+化学试验台和浓硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

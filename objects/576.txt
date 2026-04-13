@@ -1,5 +1,5 @@
-id=576
-Shorn Domestic Sheep
+﻿id=576
+剪过毛的家养绵羊
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

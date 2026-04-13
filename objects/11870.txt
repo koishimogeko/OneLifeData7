@@ -1,5 +1,5 @@
-id=11870
-Brown Snake #attacking
+﻿id=11870
+棕色蛇# attacking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

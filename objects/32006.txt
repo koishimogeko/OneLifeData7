@@ -1,4 +1,4 @@
-id=32006
+﻿id=32006
 化学实验台和氟磺酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

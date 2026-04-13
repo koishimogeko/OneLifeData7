@@ -1,5 +1,5 @@
-id=613
-Domestic Lamb#rope fed post hungry
+﻿id=613
+绵羊羊羔# rope fed post hungry
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

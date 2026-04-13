@@ -1,5 +1,5 @@
-id=7738
-Perhaps a Crow
+﻿id=7738
+也许是一只乌鸦
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

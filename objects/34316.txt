@@ -1,5 +1,5 @@
-id=34316
-Crowbar with Rivet
+﻿id=34316
+铆钉撬棍
 containable=1
 containSize=2.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

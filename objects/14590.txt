@@ -1,5 +1,5 @@
-id=14590
-Veil
+﻿id=14590
+面纱
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

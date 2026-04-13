@@ -1,5 +1,5 @@
-id=1904
-Bucket of Blue Paint
+﻿id=1904
+一桶蓝色油漆
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

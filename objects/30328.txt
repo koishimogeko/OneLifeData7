@@ -1,5 +1,5 @@
-id=30328
-Two Spit mud Pipe
+﻿id=30328
+双吐泥管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

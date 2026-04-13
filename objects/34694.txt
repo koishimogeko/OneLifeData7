@@ -1,5 +1,5 @@
-id=34694
-Empty Airdrop Box
+﻿id=34694
+空空投箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

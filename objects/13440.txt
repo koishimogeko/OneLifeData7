@@ -1,5 +1,5 @@
-id=13440
-Brewery with Fermenting Wort #1
+﻿id=13440
+发酵麦汁啤酒厂# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

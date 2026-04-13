@@ -1,5 +1,5 @@
-id=6453
-Stone Wall#horseflag
+﻿id=6453
+石墙# horseflag
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8286
-Perhaps Bear 2 Arrow Hit
+﻿id=8286
+也许击中两箭灰熊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

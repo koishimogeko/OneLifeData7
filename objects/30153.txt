@@ -1,5 +1,5 @@
-id=30153
-Mosaic Floor with pile Amethyst 1
+﻿id=30153
+马赛克地板与堆紫水晶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32684
-Open Top Tank with Steel Chisel
+﻿id=32684
+巨型粗制钢罐与钢凿子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

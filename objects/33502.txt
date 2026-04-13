@@ -1,5 +1,5 @@
-id=33502
-Stone Road with Langing Strip Constructio Blueprint# 5S
+﻿id=33502
+带立柱的石路施工蓝图# 5S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

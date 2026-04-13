@@ -1,4 +1,4 @@
-id=31612
+﻿id=31612
 一碗黄色颜料# 1S 由褐铁矿制作
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

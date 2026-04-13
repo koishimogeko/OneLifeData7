@@ -1,5 +1,5 @@
-id=6823
-Pile of Seal Skins
+﻿id=6823
+一堆海豹皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

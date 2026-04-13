@@ -1,5 +1,5 @@
-id=4426
-Blessed Shrine #A two pies
+﻿id=4426
+（已过时）受祝福的神社# A two pies
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

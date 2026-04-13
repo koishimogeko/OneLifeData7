@@ -1,5 +1,5 @@
-id=13108
-Birch Tree in Tree Pit
+﻿id=13108
+树坑里的白桦树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

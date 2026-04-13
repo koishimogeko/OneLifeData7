@@ -1,5 +1,5 @@
-id=8510
-Ashes with Spit Roast Frame
+﻿id=8510
+灰烬上的烤架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

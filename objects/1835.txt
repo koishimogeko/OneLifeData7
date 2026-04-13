@@ -1,5 +1,5 @@
-id=1835
-Stack of Blank Paper
+﻿id=1835
+一摞空白纸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

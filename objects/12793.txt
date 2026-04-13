@@ -1,5 +1,5 @@
-id=12793
-Ancient Stone Wall #pipe #EW #oilW
+﻿id=12793
+古老石墙# pipe EW oilW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

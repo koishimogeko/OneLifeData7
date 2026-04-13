@@ -1,5 +1,5 @@
-id=28484
-Unpainted Railing
+﻿id=28484
+没涂漆的栏杆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

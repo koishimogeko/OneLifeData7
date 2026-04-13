@@ -1,5 +1,5 @@
-id=948
-Hyphen
+﻿id=948
+连字符
 containable=1
 containSize=0.500000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

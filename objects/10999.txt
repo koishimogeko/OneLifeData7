@@ -1,5 +1,5 @@
-id=10999
-Yellow Pillow Case
+﻿id=10999
+黄色枕套
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

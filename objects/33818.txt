@@ -1,5 +1,5 @@
-id=33818
-Partial Bucket of Cement and Silicate
+﻿id=33818
+部分水泥和硅酸盐桶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

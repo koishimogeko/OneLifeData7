@@ -1,5 +1,5 @@
-id=11848
-Bowl of Cocoa Powder
+﻿id=11848
+一碗可可粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

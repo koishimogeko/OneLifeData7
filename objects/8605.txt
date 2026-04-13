@@ -1,5 +1,5 @@
-id=8605
-Backpack with Medic Bag
+﻿id=8605
+带医疗包的兔皮背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32487
-Bowl of Copper Sulfate with Alum Powder
+﻿id=32487
+一碗硫酸铜与明矾粉
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

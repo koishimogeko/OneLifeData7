@@ -1,4 +1,4 @@
-id=31501
+﻿id=31501
 铁砧上的热黄铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

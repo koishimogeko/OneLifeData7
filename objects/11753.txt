@@ -1,5 +1,5 @@
-id=11753
-Wagon Panels with Wheels
+﻿id=11753
+带轮子的货车面板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

@@ -1,5 +1,5 @@
-id=14127
-Pot of Soaking Beans
+﻿id=14127
+一锅泡豆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

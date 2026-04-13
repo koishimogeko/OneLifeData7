@@ -1,4 +1,4 @@
-id=8497
+﻿id=8497
 @ Double Board Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

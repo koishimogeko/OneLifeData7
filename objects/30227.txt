@@ -1,5 +1,5 @@
-id=30227
-Small sonwdrifts with Coconut# Ice Cream
+﻿id=30227
+椰子冰淇淋小三明治# Ice Cream
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

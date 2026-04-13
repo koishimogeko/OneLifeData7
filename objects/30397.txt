@@ -1,5 +1,5 @@
-id=30397
-Bartenders with White Sangria
+﻿id=30397
+白桑格利亚酒保
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

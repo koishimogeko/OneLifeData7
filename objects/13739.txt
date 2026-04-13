@@ -1,5 +1,5 @@
-id=13739
-Firing Blast Furnace Charged with Lime Stone
+﻿id=13739
+装有石灰石的燃烧高炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

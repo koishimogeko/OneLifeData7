@@ -1,5 +1,5 @@
-id=30481
-fruiting Strawberry Sprouts# Sparrow flee
+﻿id=30481
+草莓芽结果# Sparrow flee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

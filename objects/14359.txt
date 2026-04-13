@@ -1,5 +1,5 @@
-id=14359
-Bee Box with Honeycomb Removed
+﻿id=14359
+移除蜂窝的蜂箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

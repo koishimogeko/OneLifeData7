@@ -1,5 +1,5 @@
-id=30958
-Copper pipe with Two Steel Valve# just removed
+﻿id=30958
+带两个钢制阀门的铜管# just removed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

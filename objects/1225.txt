@@ -1,5 +1,5 @@
-id=1225
-Shredded Cabbage with Board
+﻿id=1225
+切菜板与切碎的卷心菜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

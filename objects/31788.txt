@@ -1,4 +1,4 @@
-id=31788
+﻿id=31788
 排水池# 倒废水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=32089
+﻿id=32089
 白色铁匠围裙# 带锤子
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000

@@ -1,5 +1,5 @@
-id=1237
-Covered Fresh Sauerkraut
+﻿id=1237
+带盖的新鲜酸菜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

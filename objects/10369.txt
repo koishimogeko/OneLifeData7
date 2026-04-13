@@ -1,5 +1,5 @@
-id=10369
-Rooting Pink Peony Cutting
+﻿id=10369
+生根的粉红牡丹剪枝
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

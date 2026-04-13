@@ -1,4 +1,4 @@
-id=31221
+﻿id=31221
 研钵和研杵与细研石灰炭粉# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

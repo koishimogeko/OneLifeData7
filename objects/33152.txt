@@ -1,5 +1,5 @@
-id=33152
-Bowl of Slaked Lime
+﻿id=33152
+一碗硝酸锂钠
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

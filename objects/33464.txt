@@ -1,5 +1,5 @@
-id=33464
-Southern German Breakfast Platter Table# 4
+﻿id=33464
+南德式早餐桌# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

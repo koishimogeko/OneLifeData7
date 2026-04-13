@@ -1,5 +1,5 @@
-id=12112
-Big Ball of Cotton Yarn
+﻿id=12112
+大棉纱球
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

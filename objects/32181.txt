@@ -1,5 +1,5 @@
-id=32181
-Noble dress #justremoved yellow
+﻿id=32181
+贵族连衣裙# justremoved yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

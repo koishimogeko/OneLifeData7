@@ -1,5 +1,5 @@
-id=1737
-Dead German Shepherd Puppy
+﻿id=1737
+德国牧羊犬崽尸体
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

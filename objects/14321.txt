@@ -1,5 +1,5 @@
-id=14321
-Horse-Drawn Cart with Tires #black, hitched, feather hat
+﻿id=14321
+带轮胎的马车# black, hitched, feather hat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30560
-Chemical Reaction# HCL+NA2O
+﻿id=30560
+化学反应# HCL+NA2O
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

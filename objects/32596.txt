@@ -1,5 +1,5 @@
-id=32596
-Bowl of Expanded Perlite,Nitroglycerin,Mercury Thunderate
+﻿id=32596
+一碗膨胀珍珠岩混硝酸甘油与雷酸汞
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

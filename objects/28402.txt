@@ -1,5 +1,5 @@
-id=28402
-Flower Box# EW
+﻿id=28402
+花箱# EW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

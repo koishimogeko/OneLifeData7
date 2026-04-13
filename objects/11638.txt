@@ -1,5 +1,5 @@
-id=11638
-Bronze Adze
+﻿id=11638
+青铜锛
 containable=1
 containSize=1.900000,vertSlotRot=-0.370000
 permanent=0,minPickupAge=3

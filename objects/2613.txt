@@ -1,5 +1,5 @@
-id=2613
-Partial Marconi Receiver# 1
+﻿id=2613
+不完整无线电报接收器# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

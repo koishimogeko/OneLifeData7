@@ -1,4 +1,4 @@
-id=32072
+﻿id=32072
 工作台上的两根钢管和吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

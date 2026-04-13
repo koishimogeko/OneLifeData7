@@ -1,5 +1,5 @@
-id=142
-Canada Goose Pond#swimming
+﻿id=142
+加拿大鹅池塘# swimming
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30788
-Bowl of Rose Sugared Honey
+﻿id=30788
+一碗玫瑰糖蜂蜜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

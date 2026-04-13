@@ -1,5 +1,5 @@
-id=588
-Sheep Bones
+﻿id=588
+绵羊骨堆
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

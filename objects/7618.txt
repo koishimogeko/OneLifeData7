@@ -1,5 +1,5 @@
-id=7618
-Crate of Burdock
+﻿id=7618
+一箱未满牛蒡
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

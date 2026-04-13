@@ -1,5 +1,5 @@
-id=8314
-Angry Bison with Calf
+﻿id=8314
+愤怒的带崽野牛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

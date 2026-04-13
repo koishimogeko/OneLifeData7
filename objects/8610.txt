@@ -1,5 +1,5 @@
-id=8610
-Female031 A
+﻿id=8610
+女031A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

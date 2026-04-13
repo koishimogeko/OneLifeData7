@@ -1,4 +1,4 @@
-id=31784
+﻿id=31784
 化学实验台# 分馏 废弃溶液
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

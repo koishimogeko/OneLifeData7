@@ -1,4 +1,4 @@
-id=27769
+﻿id=27769
 干燥的百合小种球 Dry Small Lily Seed Ball# Orange
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

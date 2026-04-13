@@ -1,5 +1,5 @@
-id=8043
-Big Stack of Boards with Short Shaft#dark
+﻿id=8043
+大堆木板和短木棍# dark
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7029
-Full Watering Can
+﻿id=7029
+装满水的喷壶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

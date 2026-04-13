@@ -1,5 +1,5 @@
-id=3792
-Track #SE #cartS
+﻿id=3792
+轨道# SE cartS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

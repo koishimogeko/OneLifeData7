@@ -1,5 +1,5 @@
-id=1201
-Plate of Squash Chunks with Seeds
+﻿id=1201
+一盘带籽南瓜块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

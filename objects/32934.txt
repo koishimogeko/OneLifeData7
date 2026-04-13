@@ -1,5 +1,5 @@
-id=32934
-Split Basalt Rock with Chisel
+﻿id=32934
+分割玄武岩与凿子
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

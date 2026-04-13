@@ -1,5 +1,5 @@
-id=25073
-Salted Egg Yolk on Clay Plate
+﻿id=25073
+一盘咸蛋黄
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

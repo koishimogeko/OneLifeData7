@@ -1,5 +1,5 @@
-id=2177
-Shot Turkey# no arrow
+﻿id=2177
+被射中的火鸡# no arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34874
-Lion# Activity Zoo
+﻿id=34874
+狮子# Activity Zoo
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

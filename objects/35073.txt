@@ -1,4 +1,4 @@
-id=35073
+﻿id=35073
 Firing Double Chamber Furnace# Up Wind Continuous Out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

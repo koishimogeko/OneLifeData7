@@ -1,5 +1,5 @@
-id=7209
-Removed Sign Panel #small sign
+﻿id=7209
+拆除标志板# small sign
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

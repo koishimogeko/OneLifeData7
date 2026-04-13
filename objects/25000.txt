@@ -1,5 +1,5 @@
-id=25000
-Ploughed Furrow with Support Bracket
+﻿id=25000
+带支架的犁沟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

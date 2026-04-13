@@ -1,5 +1,5 @@
-id=12014
-Field Maple Tree #straight branch
+﻿id=12014
+田间枫树# straight branch
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

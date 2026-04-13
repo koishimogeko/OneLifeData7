@@ -1,5 +1,5 @@
-id=4497
-Milk Bucket
+﻿id=4497
+牛奶桶
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

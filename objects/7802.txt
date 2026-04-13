@@ -1,5 +1,5 @@
-id=7802
-Bass# alive
+﻿id=7802
+大西洋鲈鱼# 活的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

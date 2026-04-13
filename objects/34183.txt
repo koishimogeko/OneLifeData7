@@ -1,5 +1,5 @@
-id=34183
-Pile of Grapefruit
+﻿id=34183
+一堆葡萄柚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

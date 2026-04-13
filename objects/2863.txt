@@ -1,5 +1,5 @@
-id=2863
-Chopped Tomato and Onion on Plate
+﻿id=2863
+番茄洋葱碎
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

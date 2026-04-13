@@ -1,5 +1,5 @@
-id=4774
-Empty Camping Stove on Ashes
+﻿id=4774
+灰烬上的空露营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

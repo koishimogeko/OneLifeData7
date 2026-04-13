@@ -1,4 +1,4 @@
-id=26058
+﻿id=26058
 未完成退火的定子模具在石炉中 Stone Kiln with Stamping Press#rotor insulation incomplete
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

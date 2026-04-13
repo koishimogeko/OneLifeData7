@@ -1,5 +1,5 @@
-id=4595
-(outdated) Domestic Hive #2B spawn
+﻿id=4595
+（已过时）# 2B spawn
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

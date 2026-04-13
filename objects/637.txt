@@ -1,5 +1,5 @@
-id=637
-Shot Grizzly Bear#3
+﻿id=637
+被射中的棕熊# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

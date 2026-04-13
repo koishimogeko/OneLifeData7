@@ -1,4 +1,4 @@
-id=35094
+﻿id=35094
 Chemical Work Bench# Fractional Packaging
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

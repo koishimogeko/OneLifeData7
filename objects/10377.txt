@@ -1,5 +1,5 @@
-id=10377
-Rooting Red Snapdragon Cutting
+﻿id=10377
+生根红金鱼草剪枝
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12012
-Flint Knife #just broken
+﻿id=12012
+燧石刀# just broken
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

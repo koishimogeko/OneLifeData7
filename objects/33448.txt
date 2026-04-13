@@ -1,5 +1,5 @@
-id=33448
-Marble Inlay Opal Block# Orange
+﻿id=33448
+大理石镶蛋白石块# 橙色
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

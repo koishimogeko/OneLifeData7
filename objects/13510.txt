@@ -1,5 +1,5 @@
-id=13510
-Closed Stone Kiln with Quicklime
+﻿id=13510
+封闭式生石灰石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

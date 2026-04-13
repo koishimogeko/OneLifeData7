@@ -1,5 +1,5 @@
-id=1544
-Partial Track Cart Kit#1 wheel
+﻿id=1544
+不完整矿车组件# 1 wheel
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

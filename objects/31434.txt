@@ -1,4 +1,4 @@
-id=31434
+﻿id=31434
 工作台上的细钢棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

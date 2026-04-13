@@ -1,5 +1,5 @@
-id=4600
-Wild Honeycomb
+﻿id=4600
+野生蜂窝
 containable=1
 containSize=1.000000,vertSlotRot=0.250000
 permanent=0,minPickupAge=3

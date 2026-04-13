@@ -1,4 +1,4 @@
-id=31336
+﻿id=31336
 一碗鱼饲料# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

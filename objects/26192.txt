@@ -1,4 +1,4 @@
-id=26192
+﻿id=26192
 铅丝 Lead Wire
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

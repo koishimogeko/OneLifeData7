@@ -1,5 +1,5 @@
-id=8398
-Springy Dark Wooden Door# Installed +autoDefaultTrans +blocksMoving
+﻿id=8398
+弹簧深色木门# Installed +autoDefaultTrans +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

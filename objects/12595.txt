@@ -1,5 +1,5 @@
-id=12595
-Perhaps sprayed England Ivy Sprout
+﻿id=12595
+也许喷了英格兰常春藤芽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

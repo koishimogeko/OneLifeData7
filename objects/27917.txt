@@ -1,4 +1,4 @@
-id=27917
+﻿id=27917
 干燥的郁金香大种球 Dry Planted Big Tulip Seed Ball# Red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

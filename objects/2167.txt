@@ -1,5 +1,5 @@
-id=2167
-Bowl with Vulcanized Rubber Ball
+﻿id=2167
+带硫化橡胶球的碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

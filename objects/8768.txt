@@ -1,5 +1,5 @@
-id=8768
-Female048 G
+﻿id=8768
+女048G
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

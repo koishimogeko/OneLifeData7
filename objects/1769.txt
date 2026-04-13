@@ -1,5 +1,5 @@
-id=1769
-Dead German Shepherd
+﻿id=1769
+德国牧羊犬尸体
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

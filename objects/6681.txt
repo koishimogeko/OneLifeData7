@@ -1,5 +1,5 @@
-id=6681
-Horse Town Top#red
+﻿id=6681
+马镇上衣# 红色
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

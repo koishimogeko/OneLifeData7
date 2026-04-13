@@ -1,4 +1,4 @@
-id=27635
+﻿id=27635
 百合花 Lily Flower# White
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

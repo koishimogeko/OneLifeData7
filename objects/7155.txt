@@ -1,5 +1,5 @@
-id=7155
-Two Steel Blade Blanks
+﻿id=7155
+两个钢刀毛坯
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32474
-Wool Blend Sheets# 1
+﻿id=32474
+黑色混纺布# 1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

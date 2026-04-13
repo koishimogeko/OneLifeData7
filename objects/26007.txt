@@ -1,4 +1,4 @@
-id=26007
+﻿id=26007
 石炉和热的定子叠片 Stone Kiln with Hot Stator Lamination#Stator annealing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

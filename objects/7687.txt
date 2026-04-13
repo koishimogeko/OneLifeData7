@@ -1,5 +1,5 @@
-id=7687
-Wattle Wall with Two Shafts
+﻿id=7687
+荆条墙和两根长直木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

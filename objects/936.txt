@@ -1,5 +1,5 @@
-id=936
-Sapling Cutting
+﻿id=936
+切下的树苗
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

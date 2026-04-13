@@ -1,4 +1,4 @@
-id=26126
+﻿id=26126
 一堆橡胶片 Stack of Rubber Sheet#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

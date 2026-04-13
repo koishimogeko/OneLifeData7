@@ -1,4 +1,4 @@
-id=31592
+﻿id=31592
 热液矿床和正在抽水的水泵# 1级 炽热
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

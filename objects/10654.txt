@@ -1,5 +1,5 @@
-id=10654
-(outdated) Stone Oven #cool, mutton pie
+﻿id=10654
+（已过时）#cool, mutton pie
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

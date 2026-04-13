@@ -1,5 +1,5 @@
-id=11929
-Pink Flower Petals
+﻿id=11929
+粉红色的花瓣
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

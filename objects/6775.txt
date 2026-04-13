@@ -1,5 +1,5 @@
-id=6775
-Cooked Lobster
+﻿id=6775
+熟龙虾
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

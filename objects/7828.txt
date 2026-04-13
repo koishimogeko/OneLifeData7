@@ -1,5 +1,5 @@
-id=7828
-Pile of Cod
+﻿id=7828
+一堆大西洋鳕鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

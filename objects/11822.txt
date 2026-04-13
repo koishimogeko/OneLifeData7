@@ -1,5 +1,5 @@
-id=11822
-Horse-Drawn Cart with Tires #dappled,ground
+﻿id=11822
+带轮胎的马车# dappled,ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

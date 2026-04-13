@@ -1,4 +1,4 @@
-id=26119
+﻿id=26119
 热的万向杆 Hot Gimbal Rod
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

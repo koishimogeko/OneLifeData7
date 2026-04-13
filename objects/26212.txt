@@ -1,4 +1,4 @@
-id=26212
+﻿id=26212
 带有黄色丝线大球的缝纫机 Sewing Machine with Big Ball of Silk Yarn#yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

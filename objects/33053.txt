@@ -1,5 +1,5 @@
-id=33053
-一锅未烧制玻璃和辅助材料# 3级
+﻿id=33053
+一锅未烧制玻璃和辅助材料# 4级
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=12

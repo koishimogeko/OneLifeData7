@@ -1,5 +1,5 @@
-id=13984
-Skewered Cooked Sardines#fromPlate
+﻿id=13984
+串烧沙丁鱼# fromPlate
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

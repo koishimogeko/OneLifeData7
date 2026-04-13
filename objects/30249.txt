@@ -1,5 +1,5 @@
-id=30249
-Fractional Distiller with Kerosene Tank#Bitumen Use6
+﻿id=30249
+带煤油罐的馏分蒸馏器# Bitumen Use6
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

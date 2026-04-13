@@ -1,5 +1,5 @@
-id=3740
-Soda Ash Bottle with Funnel
+﻿id=3740
+带漏斗的纯碱瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

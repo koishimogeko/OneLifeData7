@@ -1,5 +1,5 @@
-id=34111
-Bison Bones with Cow Scapula
+﻿id=34111
+带牛肩胛骨的野牛骨
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34627
+﻿id=34627
 @ Excited Boar Hit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=35146
+﻿id=35146
 Sack of Quicklime #1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

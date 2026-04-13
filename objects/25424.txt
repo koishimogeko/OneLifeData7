@@ -1,5 +1,5 @@
-id=25424
-Stone Arch with Cut Rose Branch # watered
+﻿id=25424
+石头拱门与切割玫瑰枝# watered
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

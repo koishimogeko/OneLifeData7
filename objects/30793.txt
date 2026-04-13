@@ -1,5 +1,5 @@
-id=30793
-Bee Hive# 4 honey Breed
+﻿id=30793
+蜜蜂蜂巢# 4 honey Breed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

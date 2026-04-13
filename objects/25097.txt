@@ -1,5 +1,5 @@
-id=25097
-Just Ignited Moxa Stick
+﻿id=25097
+刚刚点燃的艾条
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

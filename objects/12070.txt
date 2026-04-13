@@ -1,5 +1,5 @@
-id=12070
-Ancient Brick Wall with Big Stack of Boards
+﻿id=12070
+带大堆木板的古老砖墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

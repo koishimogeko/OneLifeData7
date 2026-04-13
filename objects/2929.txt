@@ -1,5 +1,5 @@
-id=2929
-Indigo Short Trousers
+﻿id=2929
+靛蓝短裤
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

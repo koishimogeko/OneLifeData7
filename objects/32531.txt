@@ -1,5 +1,5 @@
-id=32531
-Pot of Wine
+﻿id=32531
+一壶红葡萄酒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

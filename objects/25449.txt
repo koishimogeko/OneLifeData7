@@ -1,4 +1,4 @@
-id=25449
+﻿id=25449
 @ Wall remove Boards
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

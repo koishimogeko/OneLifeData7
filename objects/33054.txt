@@ -1,5 +1,5 @@
-id=33054
-一锅未烧制玻璃和辅助材料# 2级 棕色
+﻿id=33054
+一锅未烧制玻璃和辅助材料# 4级 棕色
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=12

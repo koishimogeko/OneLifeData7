@@ -1,5 +1,5 @@
-id=34287
-Plant Box with Dry Schefflera Sprouts
+﻿id=34287
+干燥的萌芽鸭掌木
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

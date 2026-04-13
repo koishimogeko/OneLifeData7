@@ -1,5 +1,5 @@
-id=8686
-Small Curved Shaft with Rope
+﻿id=8686
+系绳小曲木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

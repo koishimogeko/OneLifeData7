@@ -1,5 +1,5 @@
-id=25059
-Tipped Bowl of Hulled Polished Glutinous Rice
+﻿id=25059
+一碗带皮糯米
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

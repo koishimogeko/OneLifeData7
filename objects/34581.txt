@@ -1,5 +1,5 @@
-id=34581
-Wooden Barrel of Cooked Hot Pepper
+﻿id=34581
+熟辣椒木桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

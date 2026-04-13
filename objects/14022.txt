@@ -1,5 +1,5 @@
-id=14022
-Hot Sheet Metal in Wooden Tongs
+﻿id=14022
+被木钳夹着的热金属板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

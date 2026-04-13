@@ -1,4 +1,4 @@
-id=8188
+﻿id=8188
 @ Empty Fireplace
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

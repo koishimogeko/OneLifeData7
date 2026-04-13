@@ -1,5 +1,5 @@
-id=7813
-Fishing Pole with Pike
+﻿id=7813
+带梭子鱼的钓竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

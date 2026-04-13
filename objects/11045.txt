@@ -1,5 +1,5 @@
-id=11045
-Crates of Wild Carrots #2 #Empty
+﻿id=11045
+两箱未满野生胡萝# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

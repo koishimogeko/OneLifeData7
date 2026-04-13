@@ -1,4 +1,4 @@
-id=25963
+﻿id=25963
 热的定子冲压模具在木钳上 Hot Stamping Press in Wooden Tongs#Stator quenching
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

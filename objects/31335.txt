@@ -1,5 +1,5 @@
-id=31335
-Bowl of Wheat# 1S
+﻿id=31335
+一碗小麦# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33708
+﻿id=33708
 Dark Wooden Door with Bell Wreath# Installed VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

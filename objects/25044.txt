@@ -1,5 +1,5 @@
-id=25044
-Ay Tsao
+﻿id=25044
+艾草
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

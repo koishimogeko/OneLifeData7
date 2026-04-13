@@ -1,5 +1,5 @@
-id=14626
-Jerky on Drying Rack with Hot Coals
+﻿id=14626
+用热煤将肉干放在干燥架上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

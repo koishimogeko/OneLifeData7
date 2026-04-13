@@ -1,5 +1,5 @@
-id=714
-Rose Madder
+﻿id=714
+玫瑰茜草
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

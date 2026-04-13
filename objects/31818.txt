@@ -1,4 +1,4 @@
-id=31818
+﻿id=31818
 一碗氢氟酸
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

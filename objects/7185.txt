@@ -1,5 +1,5 @@
-id=7185
-Stone Fireplace with Hot Coals #eveHomeMarker
+﻿id=7185
+带热碳的石壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

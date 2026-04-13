@@ -1,4 +1,4 @@
-id=26168
+﻿id=26168
 矩形停车牌和钢管 Rectangular Parking Sign and Steel Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

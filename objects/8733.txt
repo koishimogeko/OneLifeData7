@@ -1,5 +1,5 @@
-id=8733
-Dead Polar Bear#2
+﻿id=8733
+死去的北极熊# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

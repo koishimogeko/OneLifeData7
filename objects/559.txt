@@ -1,5 +1,5 @@
-id=559
-Steel Blade
+﻿id=559
+钢刀刃
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

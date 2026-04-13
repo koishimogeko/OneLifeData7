@@ -1,5 +1,5 @@
-id=13880
-Running Desert Coal Mine #4
+﻿id=13880
+运行中的4级沙漠煤矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

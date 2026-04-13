@@ -1,5 +1,5 @@
-id=2605
-Partial Spark Gap Transmitter# 2
+﻿id=2605
+不完整火花隙变送器# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26606
+﻿id=26606
 湿可可树树苗 Wet Cocoa Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

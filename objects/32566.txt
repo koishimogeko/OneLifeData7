@@ -1,5 +1,5 @@
-id=32566
-Mortar with Pestle of Crucible with Coal Gangue
+﻿id=32566
+研钵与研杵和煤矸石
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

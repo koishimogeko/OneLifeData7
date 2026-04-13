@@ -1,5 +1,5 @@
-id=30573
-Wrap Chips
+﻿id=30573
+包裹薯片
 containable=1
 containSize=1.000000,vertSlotRot=0.500000
 permanent=0,minPickupAge=3

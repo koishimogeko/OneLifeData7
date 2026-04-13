@@ -1,5 +1,5 @@
-id=10251
-Hot Iron Door #wooden tongs
+﻿id=10251
+热铁门# wooden tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

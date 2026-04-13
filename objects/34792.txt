@@ -1,5 +1,5 @@
-id=34792
-litter Stator Rotor and Scrap Steel on Work Bench
+﻿id=34792
+工作台上的定子转子和废钢
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

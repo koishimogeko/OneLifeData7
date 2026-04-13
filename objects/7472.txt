@@ -1,5 +1,5 @@
-id=7472
-Native Copper Pile
+﻿id=7472
+一堆原生铜矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

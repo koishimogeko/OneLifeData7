@@ -1,5 +1,5 @@
-id=4635
-Distillery with Hops
+﻿id=4635
+装有啤酒花的啤酒厂
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

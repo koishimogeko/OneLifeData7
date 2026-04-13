@@ -1,5 +1,5 @@
-id=471
-Wooden Sledge
+﻿id=471
+带手柄的木箱
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

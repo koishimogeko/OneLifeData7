@@ -1,5 +1,5 @@
-id=12459
-Running Diesel Water Pump with Dry Water Tank
+﻿id=12459
+带干水箱的运行柴油水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

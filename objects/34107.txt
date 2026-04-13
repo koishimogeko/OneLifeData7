@@ -1,5 +1,5 @@
-id=34107
-An Yue Lemon# +emotEat_28_10
+﻿id=34107
+安岳柠檬# +emotEat_28_10
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

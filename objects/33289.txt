@@ -1,5 +1,5 @@
-id=33289
-Open Wooden Courtyard Gate# +blocksMoving +autoDefaultTrans
+﻿id=33289
+打开木制庭院大门# +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

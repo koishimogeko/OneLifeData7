@@ -1,5 +1,5 @@
-id=13790
-Tundra Iron Mine with Iron Ore #3
+﻿id=13790
+3级苔原铁矿矿井和铁矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=35096
+﻿id=35096
 Furnace Tower# Scope (0,1)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

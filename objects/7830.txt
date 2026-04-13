@@ -1,5 +1,5 @@
-id=7830
-Fish Leftovers #trout
+﻿id=7830
+鱼骨# 虹鳟
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

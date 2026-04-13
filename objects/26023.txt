@@ -1,4 +1,4 @@
-id=26023
+﻿id=26023
 石炉和退火好的转子叠片 Closed Stone Kiln with Hot Rotor Lamination#Rotor annealing end
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

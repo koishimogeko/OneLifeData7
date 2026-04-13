@@ -1,5 +1,5 @@
-id=2244
-Newcomen Engine without Shaft
+﻿id=2244
+没有木棍的纽科门蒸汽引擎
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

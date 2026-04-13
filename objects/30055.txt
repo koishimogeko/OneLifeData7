@@ -1,4 +1,4 @@
-id=30055
+﻿id=30055
 @ Loose Small Arrow Sign 100%
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=4682
-Shield of Lucky Foot Nation
+﻿id=4682
+幸运足国之盾
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

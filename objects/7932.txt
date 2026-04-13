@@ -1,5 +1,5 @@
-id=7932
-Painted Plastered Floor# blue groundOnly
+﻿id=7932
+蓝色抹灰地板# blue groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

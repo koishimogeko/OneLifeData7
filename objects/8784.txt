@@ -1,5 +1,5 @@
-id=8784
-Mole Hole#mole peeking
+﻿id=8784
+鼹鼠洞# mole peeking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

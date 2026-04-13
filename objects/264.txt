@@ -1,5 +1,5 @@
-id=264
-Raw Pie Crust
+﻿id=264
+生馅饼皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

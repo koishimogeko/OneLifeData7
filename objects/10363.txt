@@ -1,5 +1,5 @@
-id=10363
-Wet Planted Dandelion
+﻿id=10363
+湿蒲公英扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

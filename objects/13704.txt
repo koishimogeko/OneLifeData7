@@ -1,5 +1,5 @@
-id=13704
-Bessemer Vessel with Steel Rods
+﻿id=13704
+带钢棒的贝塞麦容器
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

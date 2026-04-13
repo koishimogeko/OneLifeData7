@@ -1,5 +1,5 @@
-id=28490
-Two Cast Iron Cylinders with Steel Pipes and Glass Pane and Ornate Panel
+﻿id=28490
+铸铁筒和钢管与玻璃板与装饰面板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

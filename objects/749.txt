@@ -1,5 +1,5 @@
-id=749
-Yew Bow#just murdered
+﻿id=749
+紫衫弓# just murdered
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

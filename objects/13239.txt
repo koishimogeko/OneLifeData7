@@ -1,5 +1,5 @@
-id=13239
-Staked Winter Orange Tree #justStaked
+﻿id=13239
+带木桩的冬季橙树# justStaked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

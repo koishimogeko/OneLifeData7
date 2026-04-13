@@ -1,5 +1,5 @@
-id=5171
-Banner# meow
+﻿id=5171
+横幅# 喵呜
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

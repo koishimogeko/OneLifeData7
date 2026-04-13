@@ -1,4 +1,4 @@
-id=27579
+﻿id=27579
 在重型背包上的钢镐 Steel Pick on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

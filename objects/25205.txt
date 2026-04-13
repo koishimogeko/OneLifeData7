@@ -1,5 +1,5 @@
-id=25205
-Chess Canon # Red on Ground
+﻿id=25205
+象棋炮# 红色在地上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

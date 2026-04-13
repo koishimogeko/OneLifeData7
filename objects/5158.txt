@@ -1,5 +1,5 @@
-id=5158
-Crown of Republique du Baget
+﻿id=5158
+巴格特共和国国王
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

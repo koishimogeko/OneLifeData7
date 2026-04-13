@@ -1,5 +1,5 @@
-id=12129
-Loom with Cut Wool Blend Cloth
+﻿id=12129
+剪毛混纺布织机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

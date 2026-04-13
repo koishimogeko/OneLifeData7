@@ -1,4 +1,4 @@
-id=26156
+﻿id=26156
 Steel Rod with Drawn Lines
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

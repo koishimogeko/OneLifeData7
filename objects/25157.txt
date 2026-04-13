@@ -1,5 +1,5 @@
-id=25157
-White Knight on Wood Work Bench
+﻿id=25157
+工作台上的白色马
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

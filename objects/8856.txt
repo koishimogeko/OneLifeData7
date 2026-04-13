@@ -1,5 +1,5 @@
-id=8856
-Ant Mound#ants
+﻿id=8856
+蚁丘# ants
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

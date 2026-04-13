@@ -1,5 +1,5 @@
-id=4542
-Native Copper Ore
+﻿id=4542
+原生铜
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

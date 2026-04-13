@@ -1,5 +1,5 @@
-id=28322
-Dry Lily Seed Spout#Pink
+﻿id=28322
+干百合苗 Dry Lily Seed Spout#Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

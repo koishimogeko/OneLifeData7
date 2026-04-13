@@ -1,5 +1,5 @@
-id=30156
-Wooden Barrel of Turquoises
+﻿id=30156
+绿松石木桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

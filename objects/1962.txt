@@ -1,5 +1,5 @@
-id=1962
-Die Roll of Five
+﻿id=1962
+骰子# 5
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13529
-Brick in Wooden Tongs# just removed
+﻿id=13529
+被木钳夹着的砖# just removed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

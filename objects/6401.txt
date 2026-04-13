@@ -1,5 +1,5 @@
-id=6401
-Spinning Wheel#in use
+﻿id=6401
+使用中的纺车# in use
 containable=0
 containSize=1.000000,vertSlotRot=0.750000
 permanent=1,minPickupAge=3

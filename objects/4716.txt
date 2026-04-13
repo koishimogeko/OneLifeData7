@@ -1,5 +1,5 @@
-id=4716
-Fresh Tobacco Leaves
+﻿id=4716
+新鲜烟叶
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

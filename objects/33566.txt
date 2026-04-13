@@ -1,4 +1,4 @@
-id=33566
+﻿id=33566
 @ HO LS EDP# Level2 Hot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

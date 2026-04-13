@@ -1,5 +1,5 @@
-id=8360
-Flat Rock with Brick Mixture
+﻿id=8360
+扁石与砖混合物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2670
-Medium Frequency AM Receiver# speechOut_1
+﻿id=2670
+中频调幅收音机# speechOut_1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

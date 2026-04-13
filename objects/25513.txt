@@ -1,5 +1,5 @@
-id=25513
-Perhaps sprayed Willow Sapling Cutting
+﻿id=25513
+也许喷洒柳树汁切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

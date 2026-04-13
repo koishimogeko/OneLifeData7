@@ -1,5 +1,5 @@
-id=3085
-Ropeless Dismantled Oil Pumpjack# 2
+﻿id=3085
+无绳的拆卸的抽油机# 2
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

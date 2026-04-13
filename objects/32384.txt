@@ -1,5 +1,5 @@
-id=32384
-Motorbike# blue idle
+﻿id=32384
+摩托# 蓝色 地面
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

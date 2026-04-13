@@ -1,4 +1,4 @@
-id=33709
+﻿id=33709
 Open Dark Wooden Door with Bell Wreath# installed VOG
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

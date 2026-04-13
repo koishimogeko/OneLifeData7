@@ -1,5 +1,5 @@
-id=7501
-Small Arrow NW Sign
+﻿id=7501
+小箭头NW标志
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

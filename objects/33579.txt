@@ -1,4 +1,4 @@
-id=33579
+﻿id=33579
 Stack Granite Blocks# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

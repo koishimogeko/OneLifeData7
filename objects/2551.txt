@@ -1,5 +1,5 @@
-id=2551
-Sulfuric Acid on Ashes
+﻿id=2551
+灰烬上的一碗硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

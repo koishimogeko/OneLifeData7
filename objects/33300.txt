@@ -1,5 +1,5 @@
-id=33300
-Light Log on Wood Work Bench
+﻿id=33300
+木质工作台上的浅色木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

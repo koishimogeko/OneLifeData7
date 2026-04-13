@@ -1,5 +1,5 @@
-id=5178
-Banner# sparta
+﻿id=5178
+横幅# 斯巴达
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13963
-Bowl of Beaten Egg
+﻿id=13963
+一碗打散的鸡蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

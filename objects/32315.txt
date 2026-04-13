@@ -1,5 +1,5 @@
-id=32315
-Stone Arch with Rose Branch# red
+﻿id=32315
+红玫瑰枝石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

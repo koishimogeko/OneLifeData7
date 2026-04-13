@@ -1,5 +1,5 @@
-id=28863
-Wet Lily Seed Ball#pink
+﻿id=28863
+湿润的百合种球 Wet Lily Seed Ball#pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

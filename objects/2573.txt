@@ -1,5 +1,5 @@
-id=2573
-Soda Lime Glass Batch
+﻿id=2573
+碱石灰玻璃坯
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

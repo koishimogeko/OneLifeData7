@@ -1,5 +1,5 @@
-id=169
-Snared Rabbit Hole#peeking1,single
+﻿id=169
+放置了陷阱的兔子洞# peeking1,single
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

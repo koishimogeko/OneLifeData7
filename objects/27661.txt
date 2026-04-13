@@ -1,4 +1,4 @@
-id=27661
+﻿id=27661
 一瓶水 Bottle of Water# White
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

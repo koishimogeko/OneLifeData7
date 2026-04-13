@@ -1,5 +1,5 @@
-id=8333
-Smithing Hammer #just repaired
+﻿id=8333
+锻造锤# just repaired
 containable=1
 containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

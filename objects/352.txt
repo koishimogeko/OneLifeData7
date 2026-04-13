@@ -1,5 +1,5 @@
-id=352
-Male005 D
+﻿id=352
+男性005 D
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

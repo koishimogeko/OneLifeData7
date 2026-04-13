@@ -1,5 +1,5 @@
-id=34253
-Wet Schefflera Cutting
+﻿id=34253
+浇灌鸭掌木幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

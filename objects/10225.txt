@@ -1,5 +1,5 @@
-id=10225
-Crock with Wood Shavings
+﻿id=10225
+瓦罐与木屑
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

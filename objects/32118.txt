@@ -1,4 +1,4 @@
-id=32118
+﻿id=32118
 一叠玻璃片
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

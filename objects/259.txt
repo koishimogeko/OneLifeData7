@@ -1,5 +1,5 @@
-id=259
-Bowl of Mashed Berries, Rabbit, and Carrot
+﻿id=259
+一碗浆果兔肉胡萝卜泥
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

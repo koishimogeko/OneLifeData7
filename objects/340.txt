@@ -1,5 +1,5 @@
-id=340
-Chopped Tree with Firewood#big,log,wood2
+﻿id=340
+砍倒的树与木柴# big,log,wood2
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

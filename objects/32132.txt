@@ -1,4 +1,4 @@
-id=32132
+﻿id=32132
 测地数据
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

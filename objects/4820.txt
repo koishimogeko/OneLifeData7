@@ -1,5 +1,5 @@
-id=4820
-Bull Mammoth #saddled 2
+﻿id=4820
+公猛犸象# saddled 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

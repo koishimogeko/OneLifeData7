@@ -1,5 +1,5 @@
-id=11586
-Hot Bronze Froe Head on Flat Rock
+﻿id=11586
+扁平岩石上热的青铜楔刀片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

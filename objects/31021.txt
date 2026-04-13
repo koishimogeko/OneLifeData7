@@ -1,5 +1,5 @@
-id=31021
-Fishing Pole with Searfish
+﻿id=31021
+Searfish钓鱼竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

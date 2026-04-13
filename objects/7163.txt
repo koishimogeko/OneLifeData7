@@ -1,5 +1,5 @@
-id=7163
-Compost Box with Worms
+﻿id=7163
+装有蠕虫的堆肥箱子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

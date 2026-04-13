@@ -1,5 +1,5 @@
-id=11907
-Dull Knife
+﻿id=11907
+钝刀
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=8

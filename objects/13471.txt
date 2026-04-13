@@ -1,5 +1,5 @@
-id=13471
-Brewery Under Construction #Boil Kettle #2
+﻿id=13471
+正在建设的啤酒厂# Boil Kettle 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

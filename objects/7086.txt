@@ -1,5 +1,5 @@
-id=7086
-Tanning Rack
+﻿id=7086
+制革架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

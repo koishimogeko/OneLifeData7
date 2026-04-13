@@ -1,4 +1,4 @@
-id=26207
+﻿id=26207
 制作中的彩绘玻璃 Painted Glass in Production#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=989
-Unlocked Wooden Chest# $10
+﻿id=989
+解锁的木箱子# $10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

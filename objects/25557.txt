@@ -1,5 +1,5 @@
-id=25557
-Watered Budding Morning Glory
+﻿id=25557
+浇水发芽的牵牛花
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

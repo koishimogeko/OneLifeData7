@@ -1,5 +1,5 @@
-id=5318
-Milkweed Coin
+﻿id=5318
+乳草硬币
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

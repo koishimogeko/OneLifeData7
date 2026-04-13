@@ -1,5 +1,5 @@
-id=6511
-Woolly Mammoth with Plough
+﻿id=6511
+猛犸象与犁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=13

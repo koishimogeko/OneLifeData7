@@ -1,4 +1,4 @@
-id=29045
+﻿id=29045
 干燥的绣球花种子 Dry Hydrangea Seed Ball
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

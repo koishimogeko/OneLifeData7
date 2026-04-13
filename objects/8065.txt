@@ -1,5 +1,5 @@
-id=8065
-Dry Field Maple Sapling
+﻿id=8065
+干田野枫树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

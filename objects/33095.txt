@@ -1,5 +1,5 @@
-id=33095
-Firing Stone Furnace with Glazed Firing Bone China Pot
+﻿id=33095
+熔炉中上釉水的骨瓷花盆# 燃烧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

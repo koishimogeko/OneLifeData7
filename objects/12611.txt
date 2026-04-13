@@ -1,5 +1,5 @@
-id=12611
-Perhaps sprayed Dandelion
+﻿id=12611
+也许喷过蒲公英
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

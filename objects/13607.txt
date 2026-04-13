@@ -1,5 +1,5 @@
-id=13607
-Wood-filled Brick Oven
+﻿id=13607
+填充木材的砖烤箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

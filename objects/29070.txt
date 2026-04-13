@@ -1,4 +1,4 @@
-id=29070
+﻿id=29070
 白色卫衣 White Hoodie
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=28799
-Lamp#empty battery
+﻿id=28799
+电量耗尽的台灯 Lamp#empty battery
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

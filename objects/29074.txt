@@ -1,4 +1,4 @@
-id=29074
+﻿id=29074
 绿色卫衣 Green Hoodie
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

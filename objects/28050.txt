@@ -1,5 +1,5 @@
-id=28050
-Cold Bowl with Small Tulip Bulb#Purple
+﻿id=28050
+装着紫色郁金香大种球的冷藏容器# Purple
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

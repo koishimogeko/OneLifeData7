@@ -1,4 +1,4 @@
-id=28941
+﻿id=28941
 贵宾犬在狗窝中 Poodle in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

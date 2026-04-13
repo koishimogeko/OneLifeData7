@@ -1,5 +1,5 @@
-id=30394
-Mug of Orange Juice# No sugar +yum14503
+﻿id=30394
+一杯橙汁# No sugar +yum14503
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

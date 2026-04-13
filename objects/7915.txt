@@ -1,5 +1,5 @@
-id=7915
-Paint Brush with Paint #white
+﻿id=7915
+油漆刷# white
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

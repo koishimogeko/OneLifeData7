@@ -1,5 +1,5 @@
-id=1287
-Flat Rock with Masa Dough
+﻿id=1287
+扁石上的玉米面团
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

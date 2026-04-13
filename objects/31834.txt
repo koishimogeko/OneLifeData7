@@ -1,4 +1,4 @@
-id=31834
+﻿id=31834
 三颈烧瓶和温度计与分馏漏斗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

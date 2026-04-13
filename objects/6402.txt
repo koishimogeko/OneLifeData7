@@ -1,5 +1,5 @@
-id=6402
-Cotton Capsule
+﻿id=6402
+棉花球
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

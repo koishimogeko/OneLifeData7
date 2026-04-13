@@ -1,5 +1,5 @@
-id=833
-Stable Bell Tower Base#6
+﻿id=833
+稳定的钟塔基座# 6
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

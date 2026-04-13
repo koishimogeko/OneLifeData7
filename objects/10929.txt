@@ -1,5 +1,5 @@
-id=10929
-Kitten #light fed
+﻿id=10929
+小猫# light fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

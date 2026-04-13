@@ -1,5 +1,5 @@
-id=4471
-(outdated) Milky Creamery
+﻿id=4471
+（已过时）有奶的奶油碗
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33098
-Firing Stone Furnace with Glazed Firing Bone China LongPlant
+﻿id=33098
+熔炉中上釉水的骨瓷长板# 燃烧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

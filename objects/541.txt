@@ -1,5 +1,5 @@
-id=541
-Domestic Mouflon
+﻿id=541
+家养盘羊
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

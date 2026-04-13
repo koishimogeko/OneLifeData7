@@ -1,4 +1,4 @@
-id=32054
+﻿id=32054
 一碗钠长石# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

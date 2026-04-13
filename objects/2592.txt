@@ -1,5 +1,5 @@
-id=2592
-Iron Filings
+﻿id=2592
+铁屑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

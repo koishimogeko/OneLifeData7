@@ -1,5 +1,5 @@
-id=34941
-Oil Field Fire# 1S
+﻿id=34941
+油田火灾# 1S
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10985
-Black Cat #black laying
+﻿id=10985
+黑猫# black laying
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

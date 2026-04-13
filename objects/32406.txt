@@ -1,5 +1,5 @@
-id=32406
-Chemical Work Bench with High HNO3
+﻿id=32406
+化学实验台与浓硝酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

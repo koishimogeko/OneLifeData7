@@ -1,5 +1,5 @@
-id=114
-Pine Door
+﻿id=114
+松木门
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

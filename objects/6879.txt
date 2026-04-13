@@ -1,5 +1,5 @@
-id=6879
-Stakes in Clay Bowl
+﻿id=6879
+陶碗中的木桩
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

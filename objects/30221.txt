@@ -1,5 +1,5 @@
-id=30221
-Bowl of Ice cubes
+﻿id=30221
+一碗冰块
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14683
-Stack of Cast Iron Ornate Panels with Glass Panes#justStacked
+﻿id=14683
+带玻璃板的铸铁华丽面板堆叠# justStacked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

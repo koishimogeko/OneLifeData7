@@ -1,5 +1,5 @@
-id=30531
-Crude Airplane with Empty Tank# Rope
+﻿id=30531
+空油箱原油飞机# Rope
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

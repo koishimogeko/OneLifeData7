@@ -1,5 +1,5 @@
-id=30063
-Four Black and White of Cut Leather Sheet
+﻿id=30063
+四种黑白剪裁皮革单品
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

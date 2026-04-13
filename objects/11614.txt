@@ -1,5 +1,5 @@
-id=11614
-Sack of Silver Flakes #4
+﻿id=11614
+一袋银片# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

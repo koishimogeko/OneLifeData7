@@ -1,4 +1,4 @@
-id=29059
+﻿id=29059
 @ Dry flower Seed#sunflower and hydrangea
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

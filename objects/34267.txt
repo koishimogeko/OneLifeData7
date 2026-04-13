@@ -1,5 +1,5 @@
-id=34267
-Clay Flower Pot with Dry Epipremnum Aureum Sprouts
+﻿id=34267
+干燥的萌芽绿萝
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

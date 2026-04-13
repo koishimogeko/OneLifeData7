@@ -1,4 +1,4 @@
-id=31941
+﻿id=31941
 帐篷墙# 水浅蒽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

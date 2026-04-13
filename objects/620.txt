@@ -1,5 +1,5 @@
-id=620
-Small Trash Pit with Stakes# groundOnly
+﻿id=620
+带木桩的垃圾堆坑# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

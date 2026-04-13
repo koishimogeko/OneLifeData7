@@ -1,5 +1,5 @@
-id=32789
-Stack of Track Kit
+﻿id=32789
+一堆轨道组件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

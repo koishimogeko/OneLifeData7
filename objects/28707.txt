@@ -1,5 +1,5 @@
-id=28707
-Nightstand and Lamp#close $10
+﻿id=28707
+床头柜和台灯# close $10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33038
-Chemical Work Bench with Fluorescent Powder# Wastewater
+﻿id=33038
+化学试验台与萤石粉# 废水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

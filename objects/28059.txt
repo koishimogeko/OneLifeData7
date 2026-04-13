@@ -1,5 +1,5 @@
-id=28059
-Dry Lily Grove# Pink
+﻿id=28059
+干百合丛# Pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32567
-Mortar with Pestle of Crucible with Coal Gangue Powder# 1S
+﻿id=32567
+研钵与研杵和煤矸石粉# 1S
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

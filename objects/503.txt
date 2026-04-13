@@ -1,5 +1,5 @@
-id=503
-Dug Big Rock
+﻿id=503
+被挖起的大石块
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

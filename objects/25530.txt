@@ -1,5 +1,5 @@
-id=25530
-Watered Corn Flower Seedling
+﻿id=25530
+湿润的矢车菊幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

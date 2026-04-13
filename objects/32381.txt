@@ -1,5 +1,5 @@
-id=32381
-Clay Food Crock# Draw 1
+﻿id=32381
+食物陶罐# 绘画 1
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

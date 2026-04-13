@@ -1,5 +1,5 @@
-id=2877
-Bowl of Ketchup
+﻿id=2877
+一碗番茄酱
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

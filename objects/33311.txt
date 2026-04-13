@@ -1,5 +1,5 @@
-id=33311
-Boards with Froe
+﻿id=33311
+钢楔刀和深色细木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

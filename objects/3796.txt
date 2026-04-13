@@ -1,5 +1,5 @@
-id=3796
-Track #SW #cartS
+﻿id=3796
+轨道# SW cartS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

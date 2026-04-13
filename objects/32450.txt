@@ -1,5 +1,5 @@
-id=32450
-Work Bench with F
+﻿id=32450
+工作台与F
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

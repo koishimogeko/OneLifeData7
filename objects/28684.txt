@@ -1,5 +1,5 @@
-id=28684
-Cutting Table# take apart 2
+﻿id=28684
+切割桌# take apart 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

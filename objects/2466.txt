@@ -1,5 +1,5 @@
-id=2466
-Dark Nosaj
+﻿id=2466
+神秘洞穴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

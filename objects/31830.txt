@@ -1,4 +1,4 @@
-id=31830
+﻿id=31830
 一碗二氟乙烯溶液# 铅碗
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

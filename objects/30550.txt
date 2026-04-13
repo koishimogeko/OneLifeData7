@@ -1,5 +1,5 @@
-id=30550
-Pink Plaster Wall with Big Stack of Boards#just placed
+﻿id=30550
+粉红色石膏墙，有一大堆木板#just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

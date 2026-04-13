@@ -1,4 +1,4 @@
-id=27543
+﻿id=27543
 带砖的砖墙 Brick Wall with Bricks
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

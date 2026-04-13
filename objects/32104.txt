@@ -1,4 +1,4 @@
-id=32104
+﻿id=32104
 矿井# 爆破 炸塌
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

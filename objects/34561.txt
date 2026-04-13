@@ -1,5 +1,5 @@
-id=34561
-Crock of Fermented Bean Psilocybe Mushrooms Powder and Salt
+﻿id=34561
+豆豉发酵粉和盐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

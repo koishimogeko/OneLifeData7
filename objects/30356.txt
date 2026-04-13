@@ -1,5 +1,5 @@
-id=30356
-Prepare Merger Wooden Table# +tapoutTrigger,-1,0
+﻿id=30356
+准备合并木桌# +tapoutTrigger,-1,0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

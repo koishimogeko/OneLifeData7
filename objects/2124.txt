@@ -1,5 +1,5 @@
-id=2124
-Full Bucket of Skim Milk
+﻿id=2124
+满满一桶脱脂牛奶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4418
-Shrine #A three carrots
+﻿id=4418
+（已过时）神社# A three carrots
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

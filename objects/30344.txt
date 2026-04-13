@@ -1,5 +1,5 @@
-id=30344
-Rotary Bottling Plant# noHighlight Finished Finished
+﻿id=30344
+旋转装瓶厂# noHighlight Finished Finished
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

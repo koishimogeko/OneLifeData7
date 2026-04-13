@@ -1,5 +1,5 @@
-id=34804
-litter Stator Lamination Stack and Copper Wire on Work Bench
+﻿id=34804
+工作台上的定子叠片堆和铜线
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

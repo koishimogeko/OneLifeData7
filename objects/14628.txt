@@ -1,5 +1,5 @@
-id=14628
-Drying Rack with Ashes
+﻿id=14628
+带灰的晾衣架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

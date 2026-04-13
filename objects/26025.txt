@@ -1,4 +1,4 @@
-id=26025
+﻿id=26025
 转子 Rotor without Shaft#partialWindings
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

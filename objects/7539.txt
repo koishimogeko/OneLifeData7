@@ -1,5 +1,5 @@
-id=7539
-Full Crates of Grapes #2
+﻿id=7539
+两箱葡萄
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

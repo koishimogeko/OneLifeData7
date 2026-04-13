@@ -1,4 +1,4 @@
-id=8392
+﻿id=8392
 @ Sealed Crucible
 containable=0
 containSize=1.000000,vertSlotRot=0.250000

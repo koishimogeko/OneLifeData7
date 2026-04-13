@@ -1,4 +1,4 @@
-id=32105
+﻿id=32105
 沙漠矿井和炸药# 2级 炸药过量
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

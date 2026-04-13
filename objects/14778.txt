@@ -1,5 +1,5 @@
-id=14778
-Full Wooden Barrel of Water#just sheared
+﻿id=14778
+刚刚剪好的满木桶水# just sheared
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

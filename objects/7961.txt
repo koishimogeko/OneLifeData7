@@ -1,5 +1,5 @@
-id=7961
-Bridge#groundOnly
+﻿id=7961
+桥# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

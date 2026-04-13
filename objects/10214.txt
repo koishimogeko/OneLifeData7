@@ -1,5 +1,5 @@
-id=10214
-Quarry Cave Rubble#1
+﻿id=10214
+采石场洞穴碎石# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

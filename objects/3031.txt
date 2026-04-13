@@ -1,5 +1,5 @@
-id=3031
-Exhausted Deep Well
+﻿id=3031
+枯竭的深井
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

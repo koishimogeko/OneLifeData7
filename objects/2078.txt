@@ -1,5 +1,5 @@
-id=2078
-Hidden Card# 3 of Diamonds
+﻿id=2078
+扑克背面# 3 of Diamonds
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

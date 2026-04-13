@@ -1,5 +1,5 @@
-id=959
-Letter F
+﻿id=959
+字母 F
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

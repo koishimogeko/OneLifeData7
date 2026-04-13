@@ -1,5 +1,5 @@
-id=3368
-Cooked Sugared Pumpkin
+﻿id=3368
+烹饪好的糖霜南瓜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

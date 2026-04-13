@@ -1,5 +1,5 @@
-id=6405
-Bolt of Cotton Cloth
+﻿id=6405
+一卷棉布
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

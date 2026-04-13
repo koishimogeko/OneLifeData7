@@ -1,4 +1,4 @@
-id=34432
+﻿id=34432
 West Track End Stakes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

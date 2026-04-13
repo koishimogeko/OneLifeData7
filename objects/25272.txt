@@ -1,5 +1,5 @@
-id=25272
-Chess Board # Red Center # groundOnly
+﻿id=25272
+棋盘# Red Center groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

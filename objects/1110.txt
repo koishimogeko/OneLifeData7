@@ -1,5 +1,5 @@
-id=1110
-Wet Planted Corn Seed
+﻿id=1110
+湿润的玉米地
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28976
-Blossom Tree in Tree Pit
+﻿id=28976
+树坑里的桃花树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

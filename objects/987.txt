@@ -1,5 +1,5 @@
-id=987
-Closed Wooden Chest
+﻿id=987
+关闭的木箱子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31415
+﻿id=31415
 温度计
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=724
-Boards with Disk
+﻿id=724
+木板和圆木片
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

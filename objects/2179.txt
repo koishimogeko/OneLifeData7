@@ -1,5 +1,5 @@
-id=2179
-Shot Turkey# no feathers
+﻿id=2179
+被射中的火鸡# no feathers
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

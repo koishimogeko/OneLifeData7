@@ -1,5 +1,5 @@
-id=30433
-cooked Lard residue on Plate
+﻿id=30433
+盘子上的熟猪油残渣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

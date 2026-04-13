@@ -1,5 +1,5 @@
-id=33202
-Angry Bison
+﻿id=33202
+愤怒的野牛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

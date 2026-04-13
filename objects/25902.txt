@@ -1,4 +1,4 @@
-id=25902
+﻿id=25902
 带矿组件的冻原煤矿井 Tundra Coal Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

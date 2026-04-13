@@ -1,4 +1,4 @@
-id=12996
+﻿id=12996
 @ Airedale Digging Pattern
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

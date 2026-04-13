@@ -1,5 +1,5 @@
-id=30384
-Bartenders# White Sangria 2
+﻿id=30384
+调酒师# White Sangria 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

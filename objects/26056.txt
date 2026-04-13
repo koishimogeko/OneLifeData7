@@ -1,4 +1,4 @@
-id=26056
+﻿id=26056
 细腻的研钵铁红粉 Mortar of Delicate Iron Red powder
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=2635
-Hot Steel Rod in Wooden Tongs# grabbed
+﻿id=2635
+被木钳夹着的热钢条# grabbed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

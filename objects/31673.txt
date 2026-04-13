@@ -1,5 +1,5 @@
-id=31673
-Open Painted Picket Fence Gate# Purple +blocksMoving
+﻿id=31673
+打开的彩绘栅栏门# 紫色 +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

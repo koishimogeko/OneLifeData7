@@ -1,5 +1,5 @@
-id=34632
-Attacking Irrtable Wild Boar
+﻿id=34632
+攻击可攻击野猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

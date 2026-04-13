@@ -1,5 +1,5 @@
-id=100
-White Pine Tree with Needles
+﻿id=100
+含有松针的白松树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

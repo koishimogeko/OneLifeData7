@@ -1,5 +1,5 @@
-id=11928
-Engine Empire Flag Roll
+﻿id=11928
+引擎帝国卷旗
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

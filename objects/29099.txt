@@ -1,4 +1,4 @@
-id=29099
+﻿id=29099
 波奈特 Bonnet
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

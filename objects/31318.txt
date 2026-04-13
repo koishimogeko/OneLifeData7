@@ -1,4 +1,4 @@
-id=31318
+﻿id=31318
 一碗碎玻璃
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

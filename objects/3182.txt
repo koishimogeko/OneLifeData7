@@ -1,5 +1,5 @@
-id=3182
-Marked Map# writing happening &written +map
+﻿id=3182
+已标记的地图# writing happening &written +map
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

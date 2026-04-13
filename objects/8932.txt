@@ -1,5 +1,5 @@
-id=8932
-Stack of Weak Sticks
+﻿id=8932
+一堆脆弱的木杆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

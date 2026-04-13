@@ -1,5 +1,5 @@
-id=8623
-Male044 A
+﻿id=8623
+男044A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

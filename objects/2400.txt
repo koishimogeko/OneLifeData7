@@ -1,5 +1,5 @@
-id=2400
-Crude Car with Empty Tank#driven
+﻿id=2400
+无油的柴油车# driven
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

@@ -1,5 +1,5 @@
-id=8285
-Perhaps Bear 1 Arrow Hit
+﻿id=8285
+也许击中一箭灰熊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

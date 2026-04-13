@@ -1,5 +1,5 @@
-id=32162
-Reborn 1 #blue diesel engine
+﻿id=32162
+轮回一号# blue diesel engine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

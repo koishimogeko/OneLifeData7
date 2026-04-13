@@ -1,5 +1,5 @@
-id=6819
-Axe on Poipack
+﻿id=6819
+棉布背包上的钢斧
 containable=1
 containSize=2.000000,vertSlotRot=-1.250000
 permanent=0,minPickupAge=3

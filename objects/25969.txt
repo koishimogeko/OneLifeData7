@@ -1,4 +1,4 @@
-id=25969
+﻿id=25969
 炉冷中的热定子冲压模具 Closed Stone Kiln with Stamping Press#Stator tempering
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

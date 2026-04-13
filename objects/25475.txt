@@ -1,5 +1,5 @@
-id=25475
-Wooden Wall  with Windowsill # catLayingBall light +noBackAccess
+﻿id=25475
+带窗台的木墙# catLayingBall light +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

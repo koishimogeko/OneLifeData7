@@ -1,4 +1,4 @@
-id=31207
+﻿id=31207
 拖动位置中的柴油车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

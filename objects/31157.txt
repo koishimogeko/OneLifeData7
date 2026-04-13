@@ -1,5 +1,5 @@
-id=31157
-Painted Picket Fence# Blue
+﻿id=31157
+彩绘栅栏# 蓝色
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

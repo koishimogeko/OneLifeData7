@@ -1,5 +1,5 @@
-id=13073
-(outdated) Ground Tree Pit With Basket#+useOnContained
+﻿id=13073
+（已过时）#+useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

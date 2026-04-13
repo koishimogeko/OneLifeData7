@@ -1,5 +1,5 @@
-id=25659
-Pot of Boiling Water and Cooked Bean
+﻿id=25659
+一锅开水和熟豆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

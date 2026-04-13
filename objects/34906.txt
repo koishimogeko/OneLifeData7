@@ -1,5 +1,5 @@
-id=34906
-Pile of Fire Opal Mine with Mine Boes
+﻿id=34906
+火堆蛋白石矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

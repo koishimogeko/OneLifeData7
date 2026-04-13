@@ -1,5 +1,5 @@
-id=6869
-Sand Pile#ground footsteps
+﻿id=6869
+沙堆# 地面有脚印
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

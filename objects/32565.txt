@@ -1,5 +1,5 @@
-id=32565
-Crucible with Coal Gangue
+﻿id=32565
+一碗煤矸石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

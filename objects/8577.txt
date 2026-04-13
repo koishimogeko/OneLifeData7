@@ -1,5 +1,5 @@
-id=8577
-Green Wool Sweater
+﻿id=8577
+绿色羊毛毛衣
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

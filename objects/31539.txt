@@ -1,4 +1,4 @@
-id=31539
+﻿id=31539
 充满铁水的铸梁模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

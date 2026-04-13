@@ -1,5 +1,5 @@
-id=34280
-Bone Flower Pot with Wet Epipremnum Aureum Sprouts
+﻿id=34280
+浇灌萌芽绿萝
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=6927
-Skinned Bison
+﻿id=6927
+剥皮野牛
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

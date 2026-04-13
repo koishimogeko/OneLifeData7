@@ -1,4 +1,4 @@
-id=31875
+﻿id=31875
 耐酸橡胶盖
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=32739
-Mine with Nitroglycerin Dynamite Lit# 2 exhausted
+﻿id=32739
+矿井与点燃的硝化甘油炸药
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

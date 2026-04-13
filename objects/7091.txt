@@ -1,5 +1,5 @@
-id=7091
-Large Wooden Slot Box
+﻿id=7091
+大木制槽盒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

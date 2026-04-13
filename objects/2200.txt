@@ -1,5 +1,5 @@
-id=2200
-Turkey Bones on Plate
+﻿id=2200
+盘子里的火鸡骨头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

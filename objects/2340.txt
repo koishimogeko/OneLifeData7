@@ -1,5 +1,5 @@
-id=2340
-Fractional Distiller with Kerosene Tank
+﻿id=2340
+带煤油罐的分馏器
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

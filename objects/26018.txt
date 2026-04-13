@@ -1,4 +1,4 @@
-id=26018
+﻿id=26018
 石炉和热的转子叠片 Stone Kiln with Hot Rotor Lamination#Rotor annealing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

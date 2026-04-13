@@ -1,5 +1,5 @@
-id=12142
-Beaver Leather Hat
+﻿id=12142
+海狸皮帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

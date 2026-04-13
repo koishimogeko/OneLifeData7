@@ -1,4 +1,4 @@
-id=31852
+﻿id=31852
 化学实验台# 制取发烟硫酸 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

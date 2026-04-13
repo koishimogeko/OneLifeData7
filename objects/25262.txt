@@ -1,5 +1,5 @@
-id=25262
-Chess Board # Red Corner three # groundOnly
+﻿id=25262
+棋盘# Red Corner three groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

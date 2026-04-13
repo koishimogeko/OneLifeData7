@@ -1,5 +1,5 @@
-id=6421
-Mine #1
+﻿id=6421
+1级矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

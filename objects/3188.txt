@@ -1,5 +1,5 @@
-id=3188
-Stack of Blue Dyed Paper
+﻿id=3188
+一叠蓝色染色纸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

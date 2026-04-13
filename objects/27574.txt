@@ -1,4 +1,4 @@
-id=27574
+﻿id=27574
 在重型背包上的锄头 Hoe on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

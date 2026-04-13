@@ -1,5 +1,5 @@
-id=14677
-Two Cast Iron Cylinders with Steel Pipes and Glass Pane
+﻿id=14677
+两个带钢管和玻璃板的铸铁圆筒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

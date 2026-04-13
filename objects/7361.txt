@@ -1,5 +1,5 @@
-id=7361
-Apple Tree Cutting
+﻿id=7361
+苹果树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

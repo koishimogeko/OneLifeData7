@@ -1,5 +1,5 @@
-id=8641
-Ancient Stone Wall#blacksmithflag
+﻿id=8641
+古老石墙# blacksmithflag
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

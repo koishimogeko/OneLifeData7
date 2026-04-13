@@ -1,5 +1,5 @@
-id=33169
-Fertile Soil Pile and Clay
+﻿id=33169
+肥沃的土堆和粘土
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

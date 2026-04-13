@@ -1,5 +1,5 @@
-id=441
-Smithing Hammer
+﻿id=441
+锻造锤
 containable=1
 containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

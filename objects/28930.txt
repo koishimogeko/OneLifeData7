@@ -1,4 +1,4 @@
-id=28930
+﻿id=28930
 比特犬在狗窝 Pit Bull in Doghouse#pillow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

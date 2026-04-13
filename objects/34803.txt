@@ -1,5 +1,5 @@
-id=34803
-little Rotor Lamination Stack and Copper Wire on Work Bench
+﻿id=34803
+工作台上的小转子叠片堆和铜线
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

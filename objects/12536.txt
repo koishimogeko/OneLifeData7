@@ -1,5 +1,5 @@
-id=12536
-Perhaps sprayed Poplar Sapling Cutting
+﻿id=12536
+也许喷过杨树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

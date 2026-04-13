@@ -1,5 +1,5 @@
-id=13995
-Hot Cast Iron Pan with Cooked Cod Fillet
+﻿id=13995
+热铁锅和烤熟的鳕鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

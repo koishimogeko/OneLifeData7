@@ -1,5 +1,5 @@
-id=11538
-(outdated) Stone Oven #hot, pizza
+﻿id=11538
+（已过时）#hot, pizza
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

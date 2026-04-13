@@ -1,4 +1,4 @@
-id=25959
+﻿id=25959
 燃烧的石炉和定子冲压模具 Firing Stone Kiln with Stamping Press#Stator
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

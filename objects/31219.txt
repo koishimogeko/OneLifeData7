@@ -1,5 +1,5 @@
-id=31219
-大石块与标桩# 安装
+﻿id=31219
+大石块与木桩# 安装
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,5 +1,5 @@
-id=8386
-Stone Block with Written Paper# &written
+﻿id=8386
+带纸条的石块# &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

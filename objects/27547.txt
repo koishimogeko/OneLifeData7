@@ -1,4 +1,4 @@
-id=27547
+﻿id=27547
 沥青路 Asphalt Road #NW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

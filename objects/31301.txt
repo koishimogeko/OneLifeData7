@@ -1,4 +1,4 @@
-id=31301
+﻿id=31301
 冷凝管与吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

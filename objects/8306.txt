@@ -1,5 +1,5 @@
-id=8306
-Mouflon with Lamb#arrow missed
+﻿id=8306
+盘羊羊肉# arrow missed
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

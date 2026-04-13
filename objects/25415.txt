@@ -1,5 +1,5 @@
-id=25415
-Stone Arch with Dry Rose Seed
+﻿id=25415
+干玫瑰籽石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

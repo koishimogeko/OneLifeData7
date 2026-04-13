@@ -1,5 +1,5 @@
-id=14417
-Pot of Hot Dirty Bee Wax
+﻿id=14417
+一壶热脏蜂蜡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

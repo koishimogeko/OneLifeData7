@@ -1,4 +1,4 @@
-id=25956
+﻿id=25956
 装木炭的纽科门冲压机 Newcomen Stamping Press with Full Boiler#Stator
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

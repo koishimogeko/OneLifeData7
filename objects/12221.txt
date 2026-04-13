@@ -1,5 +1,5 @@
-id=12221
-Black Babydoll Tunic
+﻿id=12221
+黑色娃娃装外套
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

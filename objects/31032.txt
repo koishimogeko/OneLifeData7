@@ -1,4 +1,4 @@
-id=31032
+﻿id=31032
 鱼骨头
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

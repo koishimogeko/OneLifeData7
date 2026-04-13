@@ -1,4 +1,4 @@
-id=31762
+﻿id=31762
 化学实验台# 分馏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

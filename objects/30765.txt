@@ -1,4 +1,4 @@
-id=30765
+﻿id=30765
 @ Bamboo Net with Fish# Fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

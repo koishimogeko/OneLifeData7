@@ -1,5 +1,5 @@
-id=4799
-Sword of Ivory
+﻿id=4799
+象牙之剑
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

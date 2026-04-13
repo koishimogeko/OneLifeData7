@@ -1,5 +1,5 @@
-id=14460
-Crock of Retted Flax
+﻿id=14460
+一缸沤制亚麻
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

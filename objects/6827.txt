@@ -1,5 +1,5 @@
-id=6827
-Pile of Sharp Stones
+﻿id=6827
+一堆锋利的石头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30300
-Champagne Bottle with Funnel# No Spit Mud
+﻿id=30300
+漏斗香槟瓶# No Spit Mud
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

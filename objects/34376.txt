@@ -1,5 +1,5 @@
-id=34376
-Lamp# open Perpetual
+﻿id=34376
+灯# open Perpetual
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30002
-Turquoise Mosaic Floor# groundOnly 1
+﻿id=30002
+绿松石马赛克地板# groundOnly 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

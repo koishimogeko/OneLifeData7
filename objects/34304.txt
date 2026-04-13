@@ -1,5 +1,5 @@
-id=34304
-Wide Board with Pile of Short Boards# light
+﻿id=34304
+一堆小木板和宽木板 # 浅色
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

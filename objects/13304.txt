@@ -1,5 +1,5 @@
-id=13304
-Brick Wall#justCleaned
+﻿id=13304
+砖墙# justCleaned
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

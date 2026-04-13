@@ -1,5 +1,5 @@
-id=13569
-Wheelbarrow with Wet Firebricks #half full
+﻿id=13569
+带湿耐火砖的独轮车# half full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

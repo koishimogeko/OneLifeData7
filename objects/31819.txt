@@ -1,4 +1,4 @@
-id=31819
+﻿id=31819
 化学实验台和萤石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

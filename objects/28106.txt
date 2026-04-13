@@ -1,5 +1,5 @@
-id=28106
-Wooden Flowerpot with Soil#Little
+﻿id=28106
+有土的木制花盆# Little
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

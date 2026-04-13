@@ -1,5 +1,5 @@
-id=13618
-(outdated) Mine Shaft with Coal #precious
+﻿id=13618
+（已过时）装有煤的矿井#precious
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26589
+﻿id=26589
 湿的椰子树苗 Wet Coconut Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

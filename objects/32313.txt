@@ -1,5 +1,5 @@
-id=32313
-Stone Arch with Rose Bush# red
+﻿id=32313
+玫瑰布什石拱门# red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

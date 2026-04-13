@@ -1,5 +1,5 @@
-id=25662
-Bowl of Polished Flour with Sugar
+﻿id=25662
+一碗糖粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

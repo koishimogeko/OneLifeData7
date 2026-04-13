@@ -1,4 +1,4 @@
-id=26035
+﻿id=26035
 两堆钣金 Stack of Sheet Metal#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

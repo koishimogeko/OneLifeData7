@@ -1,5 +1,5 @@
-id=12194
-Indigo Long Dress on Hanger
+﻿id=12194
+衣架上的靛蓝长裙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

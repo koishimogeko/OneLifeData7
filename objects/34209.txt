@@ -1,5 +1,5 @@
-id=34209
-Thicket with Wild Potato
+﻿id=34209
+灌木丛和野生马铃薯块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

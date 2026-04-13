@@ -1,5 +1,5 @@
-id=1861
-Deep Well# was empty
+﻿id=1861
+深井# was empty
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=838
-Wormless Soil Pit with Mushroom
+﻿id=838
+生蘑菇的无虫土坑
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

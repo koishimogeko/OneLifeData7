@@ -1,4 +1,4 @@
-id=28990
+﻿id=28990
 棉花混纺布 Cotton Blend Sheet #1 #held
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

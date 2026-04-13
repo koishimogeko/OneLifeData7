@@ -1,5 +1,5 @@
-id=4472
-(outdated) Cultured Creamery
+﻿id=4472
+（已过时）凝结中的奶油碗
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

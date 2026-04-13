@@ -1,5 +1,5 @@
-id=2388
-Dry Diesel Water Pump
+﻿id=2388
+干柴油水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

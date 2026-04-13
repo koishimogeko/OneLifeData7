@@ -1,4 +1,4 @@
-id=27750
+﻿id=27750
 百合小种球 Lily Seed Ball # 2 # Pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

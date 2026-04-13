@@ -1,5 +1,5 @@
-id=12913
-North East Stakes
+﻿id=12913
+东北锦标赛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

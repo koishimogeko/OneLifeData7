@@ -1,5 +1,5 @@
-id=7452
-Silver Flakes#just mined
+﻿id=7452
+刚刚开采的银箔# just mined
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

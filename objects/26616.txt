@@ -1,4 +1,4 @@
-id=26616
+﻿id=26616
 花圈与拆下来的纸条 Wreath with Removed Note# &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

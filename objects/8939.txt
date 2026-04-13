@@ -1,5 +1,5 @@
-id=8939
-Pile of Steel Shovel Heads
+﻿id=8939
+一堆钢铲头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

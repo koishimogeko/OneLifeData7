@@ -1,5 +1,5 @@
-id=240
-Wet Plate in Wooden Tongs
+﻿id=240
+被木钳夹着的湿粘土盘
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

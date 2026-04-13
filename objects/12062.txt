@@ -1,5 +1,5 @@
-id=12062
-Wooden Wall Arch Structure with Rubble
+﻿id=12062
+带碎土坯的木墙拱门结构
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

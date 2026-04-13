@@ -1,5 +1,5 @@
-id=31164
-Open Painted Picket Fence Gate# Blue +blocksMoving
+﻿id=31164
+打开的彩绘栅栏门# 蓝色 +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

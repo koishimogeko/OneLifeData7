@@ -1,5 +1,5 @@
-id=14629
-Jerky on Drying Rack with Ashes
+﻿id=14629
+灰烬上的熟培根
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

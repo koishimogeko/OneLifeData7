@@ -1,5 +1,5 @@
-id=10557
-Chopped Garlic on Plate
+﻿id=10557
+切碎的大蒜放在盘子里
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

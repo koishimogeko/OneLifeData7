@@ -1,4 +1,4 @@
-id=31573
+﻿id=31573
 热液矿床和锡矿# 1级 炽热
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

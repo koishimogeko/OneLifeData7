@@ -1,5 +1,5 @@
-id=33320
-Wooden Stake
+﻿id=33320
+浅色长木桩和一叠浅色木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

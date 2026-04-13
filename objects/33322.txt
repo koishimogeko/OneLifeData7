@@ -1,5 +1,5 @@
-id=33322
-Wooden Courtyard Gate# +blocksMoving +autoDefaultTrans
+﻿id=33322
+木制庭院大门# +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

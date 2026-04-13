@@ -1,5 +1,5 @@
-id=10270
-Crock with Apples #full
+﻿id=10270
+罐装苹果# full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

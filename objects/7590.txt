@@ -1,5 +1,5 @@
-id=7590
-Bowl of Flour #just scooped
+﻿id=7590
+刚刚舀的一碗面粉# just scooped
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

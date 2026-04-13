@@ -1,5 +1,5 @@
-id=11553
-(outdated) Mine Shaft #exhausted precious
+﻿id=11553
+（已过时）#exhausted precious
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

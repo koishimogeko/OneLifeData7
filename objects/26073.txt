@@ -1,4 +1,4 @@
-id=26073
+﻿id=26073
 纵向传动杆 Longitudinal Transmission Rod
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

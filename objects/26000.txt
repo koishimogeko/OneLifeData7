@@ -1,4 +1,4 @@
-id=26000
+﻿id=26000
 装有硅钢片的片材模具 Mold with Silicon Steel Sheet Metal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

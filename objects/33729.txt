@@ -1,5 +1,5 @@
-id=33729
-Double Chamber Furnace# 10
+﻿id=33729
+双腔窑# 10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

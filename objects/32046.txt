@@ -1,4 +1,4 @@
-id=32046
+﻿id=32046
 @ 插起热玻璃态
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

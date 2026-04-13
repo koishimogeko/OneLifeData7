@@ -1,5 +1,5 @@
-id=30186
-Stone Hole# noHighlight
+﻿id=30186
+石洞# noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

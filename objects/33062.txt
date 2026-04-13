@@ -1,5 +1,5 @@
-id=33062
-一锅棕色玻璃# 4份
+﻿id=33062
+一锅棕色玻璃# 5份
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=12

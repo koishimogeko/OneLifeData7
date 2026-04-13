@@ -1,5 +1,5 @@
-id=14374
-Bee Hive #3 #honey3 #justLeft
+﻿id=14374
+蜂巢#3 honey3 justLeft
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

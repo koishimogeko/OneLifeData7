@@ -1,4 +1,4 @@
-id=26136
+﻿id=26136
 化学实验台 #制取乙醇 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

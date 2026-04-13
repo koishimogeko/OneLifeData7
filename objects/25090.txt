@@ -1,5 +1,5 @@
-id=25090
-Cut Yellow Banana Leaf on Plate
+﻿id=25090
+在盘子里的切黄色香蕉叶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

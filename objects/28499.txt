@@ -1,5 +1,5 @@
-id=28499
-Rotor in assembly# little 2
+﻿id=28499
+组装中的转子# little 2
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

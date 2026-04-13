@@ -1,4 +1,4 @@
-id=31540
+﻿id=31540
 铁梁和梁模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

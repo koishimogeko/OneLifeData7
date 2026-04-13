@@ -1,5 +1,5 @@
-id=655
-Shot Grizzly Bear#2 attacking
+﻿id=655
+被射中的棕熊# 2 attacking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

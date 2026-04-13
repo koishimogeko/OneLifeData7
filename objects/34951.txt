@@ -1,5 +1,5 @@
-id=34951
-Tarry Spot# Explosion Extinguish
+﻿id=34951
+塔里斑点# Explosion Extinguish
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

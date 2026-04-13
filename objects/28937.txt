@@ -1,4 +1,4 @@
-id=28937
+﻿id=28937
 科利犬在狗窝中 Collie in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

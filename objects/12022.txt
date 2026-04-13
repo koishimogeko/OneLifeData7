@@ -1,5 +1,5 @@
-id=12022
-Primitive Fishing Pole with Worm
+﻿id=12022
+带蠕虫的原始钓鱼竿
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

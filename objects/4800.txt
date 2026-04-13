@@ -1,5 +1,5 @@
-id=4800
-Sword of Ivory #scabbard
+﻿id=4800
+象牙之剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

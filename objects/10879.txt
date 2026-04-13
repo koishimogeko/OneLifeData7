@@ -1,5 +1,5 @@
-id=10879
-Tabby Cat #black sitting
+﻿id=10879
+虎斑猫# black sitting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

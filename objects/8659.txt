@@ -1,5 +1,5 @@
-id=8659
-Wheelbarrow with Soil
+﻿id=8659
+装有土壤的独轮车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

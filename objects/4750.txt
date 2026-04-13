@@ -1,5 +1,5 @@
-id=4750
-Cow Mammoth #1 arrow
+﻿id=4750
+母猛犸象# 1 arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

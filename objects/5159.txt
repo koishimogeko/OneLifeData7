@@ -1,5 +1,5 @@
-id=5159
-Crown of Oblivion Empire
+﻿id=5159
+遗忘帝国的王冠
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

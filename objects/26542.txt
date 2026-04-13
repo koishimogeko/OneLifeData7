@@ -1,4 +1,4 @@
-id=26542
+﻿id=26542
 铺设的电线 Laid Wires #NES on-high #concrete
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

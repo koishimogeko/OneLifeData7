@@ -1,5 +1,5 @@
-id=32335
-Bucket of KNO3 extracted
+﻿id=32335
+一桶硝酸钾提取物
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=79
-Spent Tinder
+﻿id=79
+燃尽的火种
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

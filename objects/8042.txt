@@ -1,5 +1,5 @@
-id=8042
-Big Stack of Boards with Short Shaft#light
+﻿id=8042
+大堆木板和短木棍# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

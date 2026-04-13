@@ -1,4 +1,4 @@
-id=25823
+﻿id=25823
 铸铁围栏 Cast Iron Fence
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

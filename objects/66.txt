@@ -1,5 +1,5 @@
-id=66
-Small Curved Branch
+﻿id=66
+弯树枝
 containable=1
 containSize=2,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

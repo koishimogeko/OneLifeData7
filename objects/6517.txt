@@ -1,5 +1,5 @@
-id=6517
-(outdated) Tipped Horse-Drawn Cart with Tires# ground
+﻿id=6517
+（已过时）# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

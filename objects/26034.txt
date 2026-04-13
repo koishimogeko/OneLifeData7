@@ -1,4 +1,4 @@
-id=26034
+﻿id=26034
 转子和定子 Rotor and Stator
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

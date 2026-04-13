@@ -1,5 +1,5 @@
-id=25498
-Caged Wild Goose
+﻿id=25498
+笼中的鹅
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

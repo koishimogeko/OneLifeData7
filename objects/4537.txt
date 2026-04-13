@@ -1,5 +1,5 @@
-id=4537
-(outdated) Bowl of Sand
+﻿id=4537
+（已过时）一碗河沙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

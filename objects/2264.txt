@@ -1,5 +1,5 @@
-id=2264
-Partial Pulley Mechanism
+﻿id=2264
+不完整的滑轮装置
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

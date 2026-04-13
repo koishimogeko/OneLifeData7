@@ -1,5 +1,5 @@
-id=8567
-Old Dachshund# just fed
+﻿id=8567
+老腊肠犬# just fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

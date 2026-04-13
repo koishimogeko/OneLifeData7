@@ -1,5 +1,5 @@
-id=28208
-Blooming Yellow Daisy
+﻿id=28208
+盛开的黄雏菊
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

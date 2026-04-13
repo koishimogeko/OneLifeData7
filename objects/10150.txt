@@ -1,5 +1,5 @@
-id=10150
-Dug Pink Peony
+﻿id=10150
+挖出的粉红牡丹
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

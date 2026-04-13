@@ -1,4 +1,4 @@
-id=32134
+﻿id=32134
 带测地数据的书写台
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

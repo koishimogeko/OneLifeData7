@@ -1,4 +1,4 @@
-id=31984
+﻿id=31984
 钓上北极红点鲑的黄铜钓竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

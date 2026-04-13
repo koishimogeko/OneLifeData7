@@ -1,5 +1,5 @@
-id=11564
-Scrap Bronze
+﻿id=11564
+废青铜
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

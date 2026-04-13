@@ -1,5 +1,5 @@
-id=33131
-Bone China Crucibe and Lid Lose
+﻿id=33131
+失败的研钵和研杵
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8098
-Shears with Bubinga Cutting
+﻿id=8098
+带山核桃树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

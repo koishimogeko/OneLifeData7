@@ -1,5 +1,5 @@
-id=880
-Big Stack of Boards
+﻿id=880
+叠起来的木板
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

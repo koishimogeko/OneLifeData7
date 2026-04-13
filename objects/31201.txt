@@ -1,4 +1,4 @@
-id=31201
+﻿id=31201
 手推车和大石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

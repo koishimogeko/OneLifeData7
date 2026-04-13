@@ -1,5 +1,5 @@
-id=7491
-Yellow Bowler Hat with Feather
+﻿id=7491
+带羽毛的黄色礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2992
-Primitive Fence Twigs# just set down
+﻿id=2992
+财产围栏# just set down
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

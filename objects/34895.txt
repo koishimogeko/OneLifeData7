@@ -1,5 +1,5 @@
-id=34895
-Limonite with Mine Box
+﻿id=34895
+褐铁矿与矿箱
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

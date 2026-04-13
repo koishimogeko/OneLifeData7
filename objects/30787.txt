@@ -1,5 +1,5 @@
-id=30787
-Strawberry Orange Jam in Bowl
+﻿id=30787
+碗里的草莓橙果酱
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

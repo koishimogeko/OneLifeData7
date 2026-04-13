@@ -1,5 +1,5 @@
-id=14725
-Dye-Ready Linen Skirt
+﻿id=14725
+染色亚麻裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

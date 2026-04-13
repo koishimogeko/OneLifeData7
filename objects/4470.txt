@@ -1,5 +1,5 @@
-id=4470
-(outdated) Empty Creamery
+﻿id=4470
+（已过时）空的奶油碗
 containable=1
 containSize=2,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

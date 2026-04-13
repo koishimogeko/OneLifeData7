@@ -1,5 +1,5 @@
-id=28619
-Music Box#open
+﻿id=28619
+八音盒# 开
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11829
-Leather Sheets with Gold Flakes
+﻿id=11829
+带金片的皮革片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

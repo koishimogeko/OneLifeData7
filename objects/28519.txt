@@ -1,5 +1,5 @@
-id=28519
-Cutting Machine in Assembly# 3
+﻿id=28519
+组装中的切割机# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

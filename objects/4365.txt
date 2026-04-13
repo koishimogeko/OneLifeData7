@@ -1,5 +1,5 @@
-id=4365
-Pile of Coins (6)
+﻿id=4365
+金币堆# 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

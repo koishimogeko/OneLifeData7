@@ -1,5 +1,5 @@
-id=10470
-Bowl of Garlic Cloves
+﻿id=10470
+碗蒜瓣
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

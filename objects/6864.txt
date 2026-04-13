@@ -1,5 +1,5 @@
-id=6864
-Sand Castle#ground
+﻿id=6864
+沙堡# 地面
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32573
-Bowl of Gold in Wooden Tongs
+﻿id=32573
+被木钳夹着的一碗煅烧煤矸石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

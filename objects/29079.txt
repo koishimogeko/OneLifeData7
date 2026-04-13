@@ -1,4 +1,4 @@
-id=29079
+﻿id=29079
 红色短裤 Red Shorts
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

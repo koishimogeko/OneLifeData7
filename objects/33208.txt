@@ -1,5 +1,5 @@
-id=33208
-Butchered Bison
+﻿id=33208
+屠宰后的野牛
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

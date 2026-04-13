@@ -1,4 +1,4 @@
-id=31712
+﻿id=31712
 @ 研钵和研杵研磨物# 1S
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

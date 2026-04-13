@@ -1,4 +1,4 @@
-id=28924
+﻿id=28924
 建造中的狗窝 Building Doghouse
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

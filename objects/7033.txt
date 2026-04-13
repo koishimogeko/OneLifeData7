@@ -1,5 +1,5 @@
-id=7033
-Bucket and Two Pipes on Work Bench
+﻿id=7033
+工作台上的桶和两根钢管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

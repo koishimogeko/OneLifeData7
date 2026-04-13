@@ -1,5 +1,5 @@
-id=32571
-Bowl of Acid Leached Coal Gangue Powder
+﻿id=32571
+一碗酸洗过的煤矸石粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

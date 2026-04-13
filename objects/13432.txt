@@ -1,5 +1,5 @@
-id=13432
-Brewery with Wort #firewood
+﻿id=13432
+啤酒厂麦芽汁# firewood
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

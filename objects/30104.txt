@@ -1,5 +1,5 @@
-id=30104
-Football Net Frame# East
+﻿id=30104
+足球网架# East
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30714
-Bamboo Net with Pike fish eggs
+﻿id=30714
+带派克鱼卵的竹网
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

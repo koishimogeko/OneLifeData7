@@ -1,4 +1,4 @@
-id=26060
+﻿id=26060
 一碗生红色橡胶球 Bowl with Raw Red Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

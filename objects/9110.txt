@@ -1,5 +1,5 @@
-id=9110
-Random Quarry Cave Outcome
+﻿id=9110
+随机采石场洞穴结果
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

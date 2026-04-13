@@ -1,5 +1,5 @@
-id=34577
-Bowl of Mushroom Soy Sauce
+﻿id=34577
+蘑菇酱油碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

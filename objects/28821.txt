@@ -1,4 +1,4 @@
-id=28821
+﻿id=28821
 @ Lamp#empty battery
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

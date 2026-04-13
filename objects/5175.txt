@@ -1,5 +1,5 @@
-id=5175
-Banner# templar
+﻿id=5175
+横幅# 圣殿骑士
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

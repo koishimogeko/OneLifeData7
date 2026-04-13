@@ -1,5 +1,5 @@
-id=25720
-Plant Box with Dry Soil and Catharanthus Roseus Seed# up
+﻿id=25720
+干燥土壤和长春花种子植物箱# up
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

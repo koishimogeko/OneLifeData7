@@ -1,5 +1,5 @@
-id=4340
-Dry Rub Bottle with Funnel
+﻿id=4340
+带漏斗的干擦瓶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

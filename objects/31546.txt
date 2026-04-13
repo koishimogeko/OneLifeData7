@@ -1,4 +1,4 @@
-id=31546
+﻿id=31546
 风化矿床和风簸黏土# 1级 有寒风 +hungryWork1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

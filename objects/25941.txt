@@ -1,4 +1,4 @@
-id=25941
+﻿id=25941
 石头水池 Stone Pool #1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=8456
-Full Bucket of Water#just extinguished
+﻿id=8456
+满桶水# just extinguished
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

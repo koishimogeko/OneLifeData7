@@ -1,5 +1,5 @@
-id=32382
-Clay Food Crock# Draw Good
+﻿id=32382
+食物陶罐# 绘画完成
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

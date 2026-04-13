@@ -1,5 +1,5 @@
-id=31155
-Painted Picket Fence Gate# Green justpainted
+﻿id=31155
+彩绘栅栏门# 绿色 刚刚刷过
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

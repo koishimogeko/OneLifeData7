@@ -1,5 +1,5 @@
-id=4796
-Windy Windmill
+﻿id=4796
+风力风车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

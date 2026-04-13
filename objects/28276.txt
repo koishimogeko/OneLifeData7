@@ -1,5 +1,5 @@
-id=28276
-Dry Budding Chrysanthemum
+﻿id=28276
+干萌芽
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

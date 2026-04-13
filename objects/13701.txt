@@ -1,5 +1,5 @@
-id=13701
-Stack of Sheet Metal#3
+﻿id=13701
+金属板堆叠# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

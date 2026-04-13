@@ -1,5 +1,5 @@
-id=2730
-Fed Domestic Calf with Rope
+﻿id=2730
+喂过的家养牛犊与绳子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

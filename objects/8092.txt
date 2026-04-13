@@ -1,5 +1,5 @@
-id=8092
-Wet Ash Sapling Cutting
+﻿id=8092
+湿白蜡树苗扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

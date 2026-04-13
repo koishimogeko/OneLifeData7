@@ -1,5 +1,5 @@
-id=13509
-Empty Stone Kiln# just emptied
+﻿id=13509
+空石窑# just emptied
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

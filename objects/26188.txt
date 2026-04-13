@@ -1,4 +1,4 @@
-id=26188
+﻿id=26188
 绿色玻璃板 Green Glass Pane # paint
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

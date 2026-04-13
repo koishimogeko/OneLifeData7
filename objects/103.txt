@@ -1,5 +1,5 @@
-id=103
-Netted Wooden Frame
+﻿id=103
+网状木框架
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25728
-Quartz Floor# pink
+﻿id=25728
+石英地板# pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

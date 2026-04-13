@@ -1,5 +1,5 @@
-id=2505
-Crucible with Malachite and Charcoal
+﻿id=2505
+装着孔雀石和木炭的坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

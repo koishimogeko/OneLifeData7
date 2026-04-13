@@ -1,5 +1,5 @@
-id=890
-Cracking Adobe Wall
+﻿id=890
+开裂的土坯墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

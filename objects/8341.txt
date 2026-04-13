@@ -1,5 +1,5 @@
-id=8341
-Leather Sheet
+﻿id=8341
+皮革片
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

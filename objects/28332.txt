@@ -1,5 +1,5 @@
-id=28332
-Dry Tulip Spout#yellow
+﻿id=28332
+干郁金香苗 Dry Tulip Spout#yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

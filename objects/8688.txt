@@ -1,5 +1,5 @@
-id=8688
-Stone Block with Hand Cart and Tires#installed
+﻿id=8688
+带手推车的石块和轮胎# installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

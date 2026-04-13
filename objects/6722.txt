@@ -1,5 +1,5 @@
-id=6722
-Head Wrap#basket
+﻿id=6722
+头巾# 篮子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

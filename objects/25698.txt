@@ -1,5 +1,5 @@
-id=25698
-Plant Box# down
+﻿id=25698
+植物箱# down
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

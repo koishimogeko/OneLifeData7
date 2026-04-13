@@ -1,5 +1,5 @@
-id=30233
-Chcolate Coconut ice Cream Pile# Use2
+﻿id=30233
+巧克力椰子冰淇淋堆# Use2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33819
+﻿id=33819
 Paint Brush with Paint# Cement and Silicat
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000

@@ -1,5 +1,5 @@
-id=8122
-Stone Arch with Lights
+﻿id=8122
+带灯的石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

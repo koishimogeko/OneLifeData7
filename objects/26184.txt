@@ -1,4 +1,4 @@
-id=26184
+﻿id=26184
 运行中的轧机 Running Rolling Mill #turn on
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=9125
-Nepenthe in Plant Pot#ate
+﻿id=9125
+花盆中的猪笼草# ate
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25266
-Chess Board # Red Edge three # groundOnly
+﻿id=25266
+棋盘# Red Edge three groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

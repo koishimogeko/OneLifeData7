@@ -1,5 +1,5 @@
-id=1130
-(outdated) Snake-Bit Riding Horse# ground
+﻿id=1130
+（已过时）蛇咬骑马# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

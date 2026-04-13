@@ -1,5 +1,5 @@
-id=6800
-Bucket of Maple Sap
+﻿id=6800
+一桶枫树汁
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

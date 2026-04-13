@@ -1,5 +1,5 @@
-id=28556
-Broken Circular Steel Sheet #Quenched Fail
+﻿id=28556
+圆形钢片 Broken Circular Steel Sheet #Quenched Fail
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

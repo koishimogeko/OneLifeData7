@@ -1,4 +1,4 @@
-id=31544
+﻿id=31544
 风化矿床和褐铁矿# 1级 有寒风 +hungryWork1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

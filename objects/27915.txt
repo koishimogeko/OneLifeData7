@@ -1,4 +1,4 @@
-id=27915
+﻿id=27915
 郁金香剪枝叶 Cut Tulip# Red
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000

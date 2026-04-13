@@ -1,5 +1,5 @@
-id=30590
-Bowl of Albite Powder# Unmixed
+﻿id=30590
+一碗钠长石粉# Unmixed
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

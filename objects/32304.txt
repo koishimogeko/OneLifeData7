@@ -1,5 +1,5 @@
-id=32304
-Half SandStone Wall with Shelf# +useOnContained
+﻿id=32304
+带架子的半砂岩墙# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

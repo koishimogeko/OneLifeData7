@@ -1,5 +1,5 @@
-id=12108
-Bowl of Cooked Silk Cocoons
+﻿id=12108
+一碗熟蚕丝
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

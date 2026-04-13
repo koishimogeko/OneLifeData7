@@ -1,4 +1,4 @@
-id=26307
+﻿id=26307
 @ wire WE close
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

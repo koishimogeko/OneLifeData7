@@ -1,4 +1,4 @@
-id=33224
+﻿id=33224
 @ Blue Opal Mine
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

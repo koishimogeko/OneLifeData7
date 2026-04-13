@@ -1,5 +1,5 @@
-id=10472
-Bowl of Garlic Cloves# just peeled
+﻿id=10472
+一碗蒜瓣# just peeled
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

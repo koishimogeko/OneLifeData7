@@ -1,4 +1,4 @@
-id=31851
+﻿id=31851
 化学实验台# 测温 控制反应 浓硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

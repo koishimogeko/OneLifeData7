@@ -1,5 +1,5 @@
-id=10546
-Full Bowl of Dry Rub# just ground
+﻿id=10546
+满碗干擦# just ground
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

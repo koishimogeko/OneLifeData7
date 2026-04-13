@@ -1,4 +1,4 @@
-id=33752
+﻿id=33752
 Freestanding Newcomen Tower
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

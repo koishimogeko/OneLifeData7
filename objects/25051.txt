@@ -1,5 +1,5 @@
-id=25051
-Water Hole with Polished Glutinous Rice Sapling# noHighlight
+﻿id=25051
+水孔与糯米树苗# noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2590
-Carbon Filament with Wire Leads
+﻿id=2590
+带引线的炭丝
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

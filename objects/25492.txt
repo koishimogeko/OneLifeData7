@@ -1,5 +1,5 @@
-id=25492
-Brick Wall  with Windowsill  and Goose on Pillow # +noBackAccess
+﻿id=25492
+砖墙，窗台和鹅枕# +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

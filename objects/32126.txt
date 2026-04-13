@@ -1,4 +1,4 @@
-id=32126
+﻿id=32126
 阳光垂直检测器# 白纸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

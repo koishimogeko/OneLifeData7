@@ -1,4 +1,4 @@
-id=35082
+﻿id=35082
 Firing Double Chamber Furnace# Middle Wind Continuous Out No Slag Coke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

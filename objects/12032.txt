@@ -1,5 +1,5 @@
-id=12032
-Backpack with Primitive Fishing Pole
+﻿id=12032
+带原始钓鱼竿的背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

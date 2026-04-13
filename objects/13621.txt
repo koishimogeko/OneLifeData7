@@ -1,5 +1,5 @@
-id=13621
-Pile of Bauxite
+﻿id=13621
+一堆铝土矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

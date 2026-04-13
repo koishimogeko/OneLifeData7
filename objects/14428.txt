@@ -1,5 +1,5 @@
-id=14428
-Perhaps sprayed Planted Flax
+﻿id=14428
+也许喷洒了种植亚麻
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

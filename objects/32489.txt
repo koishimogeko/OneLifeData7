@@ -1,5 +1,5 @@
-id=32489
-Bowl of Copper Sulfate with Alum powder and Saltpeter
+﻿id=32489
+一碗硫酸铜与明矾粉和硝酸钾
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

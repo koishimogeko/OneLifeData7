@@ -1,5 +1,5 @@
-id=8138
-Clay Crock with Soil
+﻿id=8138
+装土的陶罐
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14117
-Pot of French Onion Soup
+﻿id=14117
+一锅法式洋葱汤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

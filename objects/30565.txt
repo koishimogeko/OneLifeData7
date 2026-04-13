@@ -1,5 +1,5 @@
-id=30565
-Full Crate of Peach
+﻿id=30565
+一箱桃子
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

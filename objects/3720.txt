@@ -1,5 +1,5 @@
-id=3720
-Sealed Saltpeter Bottle
+﻿id=3720
+密封的一瓶硝酸钾
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

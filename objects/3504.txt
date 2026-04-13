@@ -1,5 +1,5 @@
-id=3504
-Green Top Hat with White Rose
+﻿id=3504
+白玫瑰绿色礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

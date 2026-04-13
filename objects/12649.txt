@@ -1,5 +1,5 @@
-id=12649
-Wattle Wall #pipe #EW #waterE
+﻿id=12649
+荆条墙# pipe EW waterE
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

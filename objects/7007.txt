@@ -1,5 +1,5 @@
-id=7007
-Tipped Corn Kernels
+﻿id=7007
+倾斜的玉米粒
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

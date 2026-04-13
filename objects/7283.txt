@@ -1,5 +1,5 @@
-id=7283
-Gold Key Blank with Lock
+﻿id=7283
+（已过时）带锁的金质钥匙毛坯
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

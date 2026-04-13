@@ -1,5 +1,5 @@
-id=14676
-Two Cast Iron Cylinders with Steel Pipes
+﻿id=14676
+两个带钢管的铸铁缸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

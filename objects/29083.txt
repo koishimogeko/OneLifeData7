@@ -1,4 +1,4 @@
-id=29083
+﻿id=29083
 黑色短裤 Black Shorts
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

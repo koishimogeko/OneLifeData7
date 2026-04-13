@@ -1,5 +1,5 @@
-id=6888
-Blowpipe With Detached Glass Tube
+﻿id=6888
+分离的吹管与玻璃管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

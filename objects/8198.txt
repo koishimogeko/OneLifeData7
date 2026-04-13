@@ -1,4 +1,4 @@
-id=8198
+﻿id=8198
 @ Removed Garland Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

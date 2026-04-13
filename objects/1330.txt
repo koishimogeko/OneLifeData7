@@ -1,5 +1,5 @@
-id=1330
-Shot Boar# arrow
+﻿id=1330
+被射中的野猪# arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

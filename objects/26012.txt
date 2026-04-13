@@ -1,4 +1,4 @@
-id=26012
+﻿id=26012
 石炉和退火好的定子叠片 Closed Stone Kiln with Hot Stator Lamination#Stator annealing end
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

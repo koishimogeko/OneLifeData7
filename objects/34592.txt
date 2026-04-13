@@ -1,5 +1,5 @@
-id=34592
-Clay Crock with Onion Tomato and Kraut Board
+﻿id=34592
+洋葱、番茄和蟹肉板泥
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

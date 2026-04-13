@@ -1,4 +1,4 @@
-id=25995
+﻿id=25995
 硅钢水包车 Ladle Cart of Molten Silicon Steel
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=33816
-Full Bucket of Cement and Silicate# Use1
+﻿id=33816
+满桶水泥和硅酸盐# Use1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

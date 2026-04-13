@@ -1,5 +1,5 @@
-id=2158
-Slashed Rubber Tree with Full Bucket
+﻿id=2158
+满桶的砍倒橡胶树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

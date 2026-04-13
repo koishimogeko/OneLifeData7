@@ -1,5 +1,5 @@
-id=34274
-Bone Flower Pot with Dry Epipremnum Aureum Cutting
+﻿id=34274
+干燥的绿萝幼苗
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

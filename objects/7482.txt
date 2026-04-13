@@ -1,4 +1,4 @@
-id=7482
+﻿id=7482
 @ Crate of Goods
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

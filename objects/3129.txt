@@ -1,5 +1,5 @@
-id=3129
-Ready Diesel Mining Pick
+﻿id=3129
+（已过时）柴油矿井
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

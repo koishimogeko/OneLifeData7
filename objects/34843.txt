@@ -1,5 +1,5 @@
-id=34843
-Irrtable Shot Grizzly Bear# 1 Attacking
+﻿id=34843
+Irrtable射击灰熊# 1 Attacking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

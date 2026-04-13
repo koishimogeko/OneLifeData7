@@ -1,5 +1,5 @@
-id=14228
-Copper Pipe #TN #NE #justGone
+﻿id=14228
+铜管# TN NE justGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

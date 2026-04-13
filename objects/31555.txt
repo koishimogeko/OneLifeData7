@@ -1,4 +1,4 @@
-id=31555
+﻿id=31555
 @ 1级风化矿床灾害演变概率
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

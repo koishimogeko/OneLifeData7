@@ -1,5 +1,5 @@
-id=13164
-Flowering Lemon Tree with Small Cut Stones
+﻿id=13164
+带小切石的开花柠檬树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

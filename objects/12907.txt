@@ -1,5 +1,5 @@
-id=12907
-Hanger#onRack
+﻿id=12907
+衣架# onRack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

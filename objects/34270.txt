@@ -1,5 +1,5 @@
-id=34270
-Clay Flower Pot with Schefflera
+﻿id=34270
+鸭掌木盆栽
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

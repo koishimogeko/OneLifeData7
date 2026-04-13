@@ -1,4 +1,4 @@
-id=27562
+﻿id=27562
 一堆硅钢片Stack of Silicon Steel Sheets#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

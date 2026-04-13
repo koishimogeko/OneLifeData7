@@ -1,5 +1,5 @@
-id=2993
-Gathering Primitive Fence Twigs
+﻿id=2993
+收集基本围栏细枝
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

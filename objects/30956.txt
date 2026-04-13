@@ -1,5 +1,5 @@
-id=30956
-Copper Pipe# WS ES justInstalled
+﻿id=30956
+铜管# WS ES justInstalled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

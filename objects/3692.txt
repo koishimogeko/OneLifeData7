@@ -1,5 +1,5 @@
-id=3692
-Bowl of Nitric Acid# jsutMade
+﻿id=3692
+硝酸碗# jsutMade
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7237
-Copper Pipe #NS #waterS
+﻿id=7237
+铜管# NS waterS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

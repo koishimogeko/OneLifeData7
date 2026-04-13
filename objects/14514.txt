@@ -1,5 +1,5 @@
-id=14514
-Small Pile of Short Shafts with Curved Shafts
+﻿id=14514
+小堆短轴弯轴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

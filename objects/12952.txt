@@ -1,5 +1,5 @@
-id=12952
-German Shepherd #holdingWildGarlic
+﻿id=12952
+德国牧羊犬# holdingWildGarlic
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

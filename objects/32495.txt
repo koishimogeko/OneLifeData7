@@ -1,5 +1,5 @@
-id=32495
-Bowl of Copperas Powder in Wooden Tongs
+﻿id=32495
+被木钳夹着的一碗绿矾粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

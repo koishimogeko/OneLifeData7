@@ -1,5 +1,5 @@
-id=34550
-Crock of Cooked Bean and Crushed Malt
+﻿id=34550
+煮熟的豆子和碎麦芽
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

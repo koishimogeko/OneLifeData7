@@ -1,5 +1,5 @@
-id=30172
-Wooden Barrel of Cinnabars
+﻿id=30172
+朱砂木桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

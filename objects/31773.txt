@@ -1,4 +1,4 @@
-id=31773
+﻿id=31773
 化学实验台和焦油萘
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

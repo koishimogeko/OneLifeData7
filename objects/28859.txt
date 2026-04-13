@@ -1,5 +1,5 @@
-id=28859
-Desert Mine with Manganese Deposit #2 #exploratory
+﻿id=28859
+沙漠锰铁矿 Desert Mine with Manganese Deposit #2 #exploratory
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

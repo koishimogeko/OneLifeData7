@@ -1,5 +1,5 @@
-id=12208
-Pile of Thin Iron Rods
+﻿id=12208
+一堆细铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

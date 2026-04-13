@@ -1,5 +1,5 @@
-id=33377
-Red Plaster Wall# Guard
+﻿id=33377
+红色石膏墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

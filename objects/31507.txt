@@ -1,4 +1,4 @@
-id=31507
+﻿id=31507
 一堆黄铜块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

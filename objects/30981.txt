@@ -1,5 +1,5 @@
-id=30981
-Copper Pipe# NW SW JustGone
+﻿id=30981
+铜管# NW SW JustGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

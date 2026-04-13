@@ -1,5 +1,5 @@
-id=4816
-Scabbard #ivory
+﻿id=4816
+剑鞘# ivory
 containable=1
 containSize=2,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

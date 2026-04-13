@@ -1,5 +1,5 @@
-id=32933
-Split Basalt Rock
+﻿id=32933
+分割玄武岩
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

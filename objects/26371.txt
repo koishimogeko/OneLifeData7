@@ -1,4 +1,4 @@
-id=26371
+﻿id=26371
 半个热钳在砧座上 Hot Plier Half on Anvil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

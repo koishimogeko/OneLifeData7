@@ -1,4 +1,4 @@
-id=35105
+﻿id=35105
 Plant Box with Soil# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

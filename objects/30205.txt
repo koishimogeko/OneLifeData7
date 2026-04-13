@@ -1,5 +1,5 @@
-id=30205
-Peach on a Plate
+﻿id=30205
+盘子里的桃子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

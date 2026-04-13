@@ -1,5 +1,5 @@
-id=6825
-Pile of Wolf Skins
+﻿id=6825
+一堆狼皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

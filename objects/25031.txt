@@ -1,5 +1,5 @@
-id=25031
-Marinated Goose Egg in Salt Water
+﻿id=25031
+盐水鹅蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

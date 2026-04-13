@@ -1,5 +1,5 @@
-id=4684
-Shield of Baget Republic
+﻿id=4684
+巴格特共和国之盾
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

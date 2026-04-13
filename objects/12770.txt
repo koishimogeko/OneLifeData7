@@ -1,5 +1,5 @@
-id=12770
-Try Traveling Oil #E
+﻿id=12770
+尝试旅行油# E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

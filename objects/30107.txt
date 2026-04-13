@@ -1,5 +1,5 @@
-id=30107
-Football Net# West M
+﻿id=30107
+足球网# West M
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

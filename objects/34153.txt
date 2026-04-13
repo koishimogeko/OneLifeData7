@@ -1,5 +1,5 @@
-id=34153
-Dry Sweet Orange Sapling Cutting
+﻿id=34153
+干甜橙树液扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

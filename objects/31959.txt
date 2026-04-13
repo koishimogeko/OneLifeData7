@@ -1,4 +1,4 @@
-id=31959
+﻿id=31959
 帐篷门# 关闭 淡罗云紫
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=8877
-Wet Blossom Sapling
+﻿id=8877
+湿的桃花树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

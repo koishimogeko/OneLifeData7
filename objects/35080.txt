@@ -1,4 +1,4 @@
-id=35080
+﻿id=35080
 Firing Double Chamber Furnace# Close Wind Close Out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

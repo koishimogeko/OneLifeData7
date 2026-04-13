@@ -1,4 +1,4 @@
-id=26123
+﻿id=26123
 橡胶片在钣金上 Rubber Sheet on Sheet Metal#black
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

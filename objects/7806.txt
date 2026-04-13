@@ -1,5 +1,5 @@
-id=7806
-Fishing Pole with Bass
+﻿id=7806
+带鲈鱼的钓竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

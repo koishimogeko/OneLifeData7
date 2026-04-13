@@ -1,5 +1,5 @@
-id=14776
-Partial Wooden Barrel of Water#just built
+﻿id=14776
+刚刚建造的部分木桶水# just built
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

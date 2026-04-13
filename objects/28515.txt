@@ -1,5 +1,5 @@
-id=28515
-Cutting Machine Casing
+﻿id=28515
+切割机外壳
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

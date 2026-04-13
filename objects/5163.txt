@@ -1,5 +1,5 @@
-id=5163
-Crown of Meow Empire
+﻿id=5163
+喵帝国之冠
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

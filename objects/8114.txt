@@ -1,5 +1,5 @@
-id=8114
-Elf Hat with Bell
+﻿id=8114
+带铃铛的精灵帽
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13905
-Running Desert Mineral Mine #4
+﻿id=13905
+运行中的4级沙漠铝土矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

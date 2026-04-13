@@ -1,5 +1,5 @@
-id=25512
-Wet Bald Cypress Sapling
+﻿id=25512
+湿秃柏树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

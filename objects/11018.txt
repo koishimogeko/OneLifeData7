@@ -1,5 +1,5 @@
-id=11018
-Crates of Grapes #2
+﻿id=11018
+两箱未满葡萄
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

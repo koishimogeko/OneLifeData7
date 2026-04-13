@@ -1,5 +1,5 @@
-id=30685
-Bamboo Net with ArcticChar# just caught
+﻿id=30685
+竹网中的北极红点鲑# 活的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=30906
+﻿id=30906
 @ Bone China Pot with Wet Sunflower 1
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

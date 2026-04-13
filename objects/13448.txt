@@ -1,5 +1,5 @@
-id=13448
-Crock of Soaked Wheat
+﻿id=13448
+一缸泡过的小麦
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

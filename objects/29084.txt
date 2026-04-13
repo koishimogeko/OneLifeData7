@@ -1,4 +1,4 @@
-id=29084
+﻿id=29084
 粉色短裤 Pink Shorts
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

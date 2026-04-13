@@ -1,5 +1,5 @@
-id=1743
-Dead Schnauser Puppy
+﻿id=1743
+雪纳瑞崽尸体
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

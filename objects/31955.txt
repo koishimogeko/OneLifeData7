@@ -1,4 +1,4 @@
-id=31955
+﻿id=31955
 煮沸的水浅蒽染料
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

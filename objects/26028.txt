@@ -1,4 +1,4 @@
-id=26028
+﻿id=26028
 铜环 Copper Ring
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

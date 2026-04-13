@@ -1,5 +1,5 @@
-id=13172
-Balsam Tree with Small Cut Stones
+﻿id=13172
+带小切石的香脂树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

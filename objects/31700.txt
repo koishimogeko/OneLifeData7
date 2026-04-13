@@ -1,4 +1,4 @@
-id=31700
+﻿id=31700
 研钵和研杵与黄色颜料
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=1832
-Shears with Pine Cutting
+﻿id=1832
+带松树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

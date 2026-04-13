@@ -1,5 +1,5 @@
-id=12016
-Hickory Tree #straight branch
+﻿id=12016
+山核桃树# straight branch
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

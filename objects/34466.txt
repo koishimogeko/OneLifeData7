@@ -1,4 +1,4 @@
-id=34466
+﻿id=34466
 帐篷墙# 竹篁绿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

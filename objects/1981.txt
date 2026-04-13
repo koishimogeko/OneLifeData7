@@ -1,5 +1,5 @@
-id=1981
-Dice Roll of Eight# 2 6
+﻿id=1981
+骰子# 2 6
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

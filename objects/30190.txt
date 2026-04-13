@@ -1,5 +1,5 @@
-id=30190
-Tied Bridge Foundation hole
+﻿id=30190
+系杆桥基础孔
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

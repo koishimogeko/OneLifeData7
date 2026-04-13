@@ -1,5 +1,5 @@
-id=618
-Filled Small Trash Pit
+﻿id=618
+填满的垃圾坑
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

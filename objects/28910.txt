@@ -1,4 +1,4 @@
-id=28910
+﻿id=28910
 一堆锰铁矿 Manganese Iron Ore Pile
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

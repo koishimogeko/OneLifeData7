@@ -1,5 +1,5 @@
-id=13242
-Staked Autumn Orange Tree #justStaked
+﻿id=13242
+带木桩的秋季橙树# justStaked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

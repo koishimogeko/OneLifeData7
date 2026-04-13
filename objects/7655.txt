@@ -1,5 +1,5 @@
-id=7655
-Beheaded Goose On Stump #light
+﻿id=7655
+树桩上的断头鹅# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

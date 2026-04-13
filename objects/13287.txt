@@ -1,5 +1,5 @@
-id=13287
-Stack of Granite Block
+﻿id=13287
+一堆花岗岩块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

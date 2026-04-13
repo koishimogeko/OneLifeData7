@@ -1,5 +1,5 @@
-id=1645
-Beagle Puppy
+﻿id=1645
+比格猎犬幼崽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

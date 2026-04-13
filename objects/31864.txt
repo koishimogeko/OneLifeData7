@@ -1,4 +1,4 @@
-id=31864
+﻿id=31864
 石炉和电石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

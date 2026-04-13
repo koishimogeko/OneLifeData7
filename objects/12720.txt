@@ -1,5 +1,5 @@
-id=12720
-Perhaps Fed Maine Coon Cat Outcome
+﻿id=12720
+也许美联储缅因猫的结果
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7502
-Small Arrow NE Sign
+﻿id=7502
+小箭头NE标志
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

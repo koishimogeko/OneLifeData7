@@ -1,5 +1,5 @@
-id=7861
-Copper Pipe #just removed
+﻿id=7861
+刚刚拆除的铜管# just removed
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

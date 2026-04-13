@@ -1,5 +1,5 @@
-id=11886
-Dead Domestic Mouflon #shot
+﻿id=11886
+死国内摩弗伦羊# shot
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

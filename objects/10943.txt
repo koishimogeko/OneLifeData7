@@ -1,4 +1,4 @@
-id=10943
+﻿id=10943
 @ Cat - held
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=13847
-Desert Mine with Native Copper #2 #exploratory
+﻿id=13847
+2级沙漠原生铜矿井和原生铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

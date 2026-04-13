@@ -1,5 +1,5 @@
-id=1415
-Final Tutorial Torch
+﻿id=1415
+教程结束火炬
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

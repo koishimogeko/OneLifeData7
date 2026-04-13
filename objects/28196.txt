@@ -1,5 +1,5 @@
-id=28196
-Dry Budding Delphinium
+﻿id=28196
+干萌芽
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34310
-Flower Shelf# light
+﻿id=34310
+花架# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34725
+﻿id=34725
 @ Airdrop Box# Yellow Level1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

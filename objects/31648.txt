@@ -1,5 +1,5 @@
-id=31648
-Open Painted Picket Fence Gate# Orange +blocksMoving
+﻿id=31648
+打开的彩绘栅栏门#橙色 +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

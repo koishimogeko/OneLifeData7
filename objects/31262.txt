@@ -1,4 +1,4 @@
-id=31262
+﻿id=31262
 游标卡尺
 containable=1
 containSize=1.900000,vertSlotRot=0.000000

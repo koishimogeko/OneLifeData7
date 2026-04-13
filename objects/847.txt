@@ -1,5 +1,5 @@
-id=847
-Broken Stick
+﻿id=847
+断棍
 containable=0
 containSize=1.000000,vertSlotRot=-0.415000
 permanent=0,minPickupAge=3

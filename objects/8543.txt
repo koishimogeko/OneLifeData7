@@ -1,5 +1,5 @@
-id=8543
-Clay Crock with Onion Tomato and Pepper
+﻿id=8543
+有洋葱、番茄和胡椒的陶罐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

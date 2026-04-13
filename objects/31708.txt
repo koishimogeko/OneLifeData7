@@ -1,4 +1,4 @@
-id=31708
+﻿id=31708
 研钵和研杵与褐铁矿
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

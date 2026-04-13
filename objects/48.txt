@@ -1,5 +1,5 @@
-id=48
-Maple Tree
+﻿id=48
+枫树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

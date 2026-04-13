@@ -1,5 +1,5 @@
-id=33813
-Twin Furnace Cupola with Expanded Perlite
+﻿id=33813
+膨胀珍珠岩双炉冲天炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

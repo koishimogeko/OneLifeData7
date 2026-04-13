@@ -1,5 +1,5 @@
-id=11552
-(outdated) Mine Shaft #exhausted desert
+﻿id=11552
+（已过时）#exhausted desert
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

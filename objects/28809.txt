@@ -1,5 +1,5 @@
-id=28809
-Lamp#open
+﻿id=28809
+开启的台灯 Lamp#open
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

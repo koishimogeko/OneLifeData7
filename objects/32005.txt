@@ -1,4 +1,4 @@
-id=32005
+﻿id=32005
 化学实验台# 测温 控制反应 防倒吸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

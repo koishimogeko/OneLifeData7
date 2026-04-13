@@ -1,5 +1,5 @@
-id=4436
-Bolt of Silk Cloth
+﻿id=4436
+一卷丝绸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

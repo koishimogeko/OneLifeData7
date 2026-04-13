@@ -1,4 +1,4 @@
-id=28996
+﻿id=28996
 湿润的向日葵种子Wet Sunflower Seed Ball
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

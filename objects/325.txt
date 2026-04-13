@@ -1,5 +1,5 @@
-id=325
-Crucible with Steel
+﻿id=325
+装着钢锭的坩埚
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

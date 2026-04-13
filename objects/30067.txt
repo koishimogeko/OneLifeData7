@@ -1,5 +1,5 @@
-id=30067
-Mason Jar of H2SO4 in Wooden Tongs
+﻿id=30067
+被木钳夹着的一罐硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

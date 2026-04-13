@@ -1,5 +1,5 @@
-id=7425
-Chopped Tree With Light Firewood #big,log2,wood1 justchopped
+﻿id=7425
+带浅色柴火的砍树# big,log2,wood1 justchopped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

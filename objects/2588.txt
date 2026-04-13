@@ -1,5 +1,5 @@
-id=2588
-Carbon Filament in Clay Bowl
+﻿id=2588
+一碗炭丝
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

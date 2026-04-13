@@ -1,5 +1,5 @@
-id=25671
-Plate of Chocolate Mooncake
+﻿id=25671
+一盘巧克力月饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

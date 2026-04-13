@@ -1,4 +1,4 @@
-id=31775
+﻿id=31775
 化学实验台和水银混苯酐# 氧化
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

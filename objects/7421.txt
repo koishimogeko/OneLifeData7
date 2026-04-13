@@ -1,5 +1,5 @@
-id=7421
-Big Hard Rock with Split Coconut
+﻿id=7421
+大石块和裂开的椰子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

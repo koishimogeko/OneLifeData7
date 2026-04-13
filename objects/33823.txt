@@ -1,5 +1,5 @@
-id=33823
-Paint Brush with Paint# Cement
+﻿id=33823
+带油漆的画笔# Cement
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

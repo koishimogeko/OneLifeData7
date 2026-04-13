@@ -1,5 +1,5 @@
-id=9002
-Poked Raccoon#poked
+﻿id=9002
+戳戳浣熊# poked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

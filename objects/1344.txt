@@ -1,5 +1,5 @@
-id=1344
-Basket of Pig Bones
+﻿id=1344
+一篮猪骨头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10781
-Tabby Cat #white standing
+﻿id=10781
+虎斑猫# white standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

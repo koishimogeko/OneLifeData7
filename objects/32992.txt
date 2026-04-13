@@ -1,5 +1,5 @@
-id=32992
-Caged Cardinals
+﻿id=32992
+受惊的笼中红雀
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

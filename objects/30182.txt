@@ -1,5 +1,5 @@
-id=30182
-Wooden Barrel of Lapis lazulis use1
+﻿id=30182
+青金石木桶# use1
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=7470
-Gold Ingot with Chisel
+﻿id=7470
+带凿子的金锭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

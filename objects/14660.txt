@@ -1,5 +1,5 @@
-id=14660
-Cast Iron Bench#sitting
+﻿id=14660
+铸铁长凳# 坐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

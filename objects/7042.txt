@@ -1,5 +1,5 @@
-id=7042
-Dry Planted Grape Cutting
+﻿id=7042
+干葡萄扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34511
+﻿id=34511
 工作台上的涂油钢刀片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

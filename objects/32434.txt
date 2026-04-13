@@ -1,5 +1,5 @@
-id=32434
-Work Bench with Diesel Piston Block
+﻿id=32434
+工作台与柴油机活塞块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

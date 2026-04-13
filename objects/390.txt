@@ -1,5 +1,5 @@
-id=390
-Dead Gooseberry Bush
+﻿id=390
+枯萎的醋栗树丛
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

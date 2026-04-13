@@ -1,5 +1,5 @@
-id=4834
-Slaked Lime Bottle# just poured
+﻿id=4834
+熟石灰瓶# just poured
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

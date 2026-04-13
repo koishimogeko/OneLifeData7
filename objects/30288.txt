@@ -1,5 +1,5 @@
-id=30288
-Bucket of White Grape Must # good
+﻿id=30288
+一桶白葡萄一定不错# good
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28580
-Glass and Lamp Base#red and yellow
+﻿id=28580
+玻璃片和台灯底座 Glass and Lamp Base#red and yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

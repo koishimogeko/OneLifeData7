@@ -1,4 +1,4 @@
-id=31244
+﻿id=31244
 煮过的裸盖菇# +Yum837
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

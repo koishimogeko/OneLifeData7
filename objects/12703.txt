@@ -1,5 +1,5 @@
-id=12703
-Tabby Cat #pouncing
+﻿id=12703
+虎斑猫# pouncing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

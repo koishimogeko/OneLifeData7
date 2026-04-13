@@ -1,4 +1,4 @@
-id=31742
+﻿id=31742
 燃烧中的焦炭干馏炉# 关闭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

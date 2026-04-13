@@ -1,4 +1,4 @@
-id=26065
+﻿id=26065
 一碗生的蓝色橡胶球 Bowl with Raw Blue Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

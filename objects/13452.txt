@@ -1,5 +1,5 @@
-id=13452
-Crock of Germinating Wheat
+﻿id=13452
+一缸发芽的小麦
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

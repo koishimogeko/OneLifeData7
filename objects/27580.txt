@@ -1,4 +1,4 @@
-id=27580
+﻿id=27580
 绿色旗卷 Green Flag Roll #2
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

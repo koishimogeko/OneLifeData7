@@ -1,5 +1,5 @@
-id=14032
-Mine with Malachite #1
+﻿id=14032
+1级矿井和孔雀石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

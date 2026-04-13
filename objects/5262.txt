@@ -1,5 +1,5 @@
-id=5262
-Bolts of Silk Cloth #4
+﻿id=5262
+四卷丝绸
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

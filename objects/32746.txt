@@ -1,5 +1,5 @@
-id=32746
-Board and Steel Frame on Work Bench
+﻿id=32746
+工作台上的木板和一些钢架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

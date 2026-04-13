@@ -1,4 +1,4 @@
-id=31805
+﻿id=31805
 一罐浓硫酸# 刚烧制
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

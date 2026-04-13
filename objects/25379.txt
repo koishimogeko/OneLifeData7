@@ -1,4 +1,4 @@
-id=25379
+﻿id=25379
 @ Next 3D Chess Projector # black all open
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

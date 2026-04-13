@@ -1,4 +1,4 @@
-id=29028
+﻿id=29028
 干燥的绣球花植株 Dry Hydrangea Sprouts
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

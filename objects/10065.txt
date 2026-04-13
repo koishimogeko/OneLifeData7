@@ -1,5 +1,5 @@
-id=10065
-Broken Horse Cart #black,ground
+﻿id=10065
+断马车# black,ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

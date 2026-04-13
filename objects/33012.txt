@@ -1,5 +1,5 @@
-id=33012
-Two Silica Block with Chisel
+﻿id=33012
+两块砂岩块与凿子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

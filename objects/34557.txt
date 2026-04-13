@@ -1,4 +1,4 @@
-id=34557
+﻿id=34557
 Bowl of Psilocybe Mushrooms
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

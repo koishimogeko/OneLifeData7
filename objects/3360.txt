@@ -1,5 +1,5 @@
-id=3360
-Rubber Stopper# just pulled
+﻿id=3360
+橡胶瓶塞# just pulled
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

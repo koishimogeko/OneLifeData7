@@ -1,5 +1,5 @@
-id=34969
-Shallow Water with Deadwood Thicket and Dark Small Curved Branch# +noHighlight
+﻿id=34969
+浅水带枯木厚层和深色小弯枝# +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

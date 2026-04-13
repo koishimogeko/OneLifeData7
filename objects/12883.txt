@@ -1,5 +1,5 @@
-id=12883
-Copper Pipe #TN #NW loose
+﻿id=12883
+铜管# TN NW loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

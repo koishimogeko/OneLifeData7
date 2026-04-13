@@ -1,5 +1,5 @@
-id=6484
-Skewered Char Fillets
+﻿id=6484
+一串北极红点鲑鱼片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10235
-Crock with Soaked Wood Shavings #full
+﻿id=10235
+瓦罐与浸泡的木屑# full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30916
-Mason Jar of FeSO4 7H2O 2 Water 1
+﻿id=30916
+FeSO4 7H2O 2水1的梅森罐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25629
-Filled Hole with Worms and Soil  # crow eating
+﻿id=25629
+蠕虫与填过土的松软地# 正在吃虫的鸟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

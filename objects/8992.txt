@@ -1,5 +1,5 @@
-id=8992
-Beaver on Tanning Rack
+﻿id=8992
+制革架上的海狸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

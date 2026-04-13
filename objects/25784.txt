@@ -1,5 +1,5 @@
-id=25784
-Pair of Old Boots # 活动专用
+﻿id=25784
+一双旧靴子# 活动专用
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

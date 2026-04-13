@@ -1,5 +1,5 @@
-id=8217
-Dark Wooden Door with Plain Wreath# Installed
+﻿id=8217
+带素花环的深色木门# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

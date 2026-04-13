@@ -1,5 +1,5 @@
-id=8417
-Dark Wooden Wall with Double Shelf# +noBackAccess +useOnContained
+﻿id=8417
+带双架子的深色木墙# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

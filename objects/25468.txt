@@ -1,5 +1,5 @@
-id=25468
-Wooden Wall  with Windowsill # catSittingBall light +noBackAccess
+﻿id=25468
+带窗台的木墙# catSittingBall light +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

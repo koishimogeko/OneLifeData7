@@ -1,5 +1,5 @@
-id=4621
-Half Jar of Beer#remapStart
+﻿id=4621
+半罐啤酒# remapStart
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

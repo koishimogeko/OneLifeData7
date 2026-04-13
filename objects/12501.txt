@@ -1,5 +1,5 @@
-id=12501
-Perhaps sprayed Ancient Yew Bonsai
+﻿id=12501
+也许喷洒了古红豆杉盆景
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

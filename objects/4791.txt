@@ -1,5 +1,5 @@
-id=4791
-Cooked Apple Pie
+﻿id=4791
+熟苹果派
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

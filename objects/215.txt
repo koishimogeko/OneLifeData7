@@ -1,5 +1,5 @@
-id=215
-Wet Planted Milkweed Seed
+﻿id=215
+湿润的乳草田
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25027
-Cooked Yolk Zongzi
+﻿id=25027
+熟的咸蛋黄粽子
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

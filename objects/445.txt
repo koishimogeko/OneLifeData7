@@ -1,5 +1,5 @@
-id=445
-Hot Steel Chisel on Anvil
+﻿id=445
+铁砧上的热钢凿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

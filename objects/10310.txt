@@ -1,5 +1,5 @@
-id=10310
-Budding Yellow Daisy
+﻿id=10310
+含苞待放的黄色雏菊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

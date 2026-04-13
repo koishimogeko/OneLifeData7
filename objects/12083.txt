@@ -1,5 +1,5 @@
-id=12083
-Sack of Glasswort Ashes #4
+﻿id=12083
+一袋碱性草木灰# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

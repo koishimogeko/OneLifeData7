@@ -1,5 +1,5 @@
-id=14570
-Bamboo Stalks
+﻿id=14570
+竹竿堆
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

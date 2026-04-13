@@ -1,5 +1,5 @@
-id=32847
-Cut Silicas
+﻿id=32847
+碎硅石
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

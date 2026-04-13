@@ -1,4 +1,4 @@
-id=25952
+﻿id=25952
 石炉和转子冲压模具 Closed Stone Kiln with Stamping Press#rotor insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

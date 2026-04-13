@@ -1,5 +1,5 @@
-id=11745
-Hand Wagon with Tires
+﻿id=11745
+带轮胎的手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=4677
-Sword of Avalon #scabbard
+﻿id=4677
+阿瓦隆之剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

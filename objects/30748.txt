@@ -1,5 +1,5 @@
-id=30748
-Deep Water# +noHighlight groundOnly seaweed Trout Fry
+﻿id=30748
+深水中的鳟鱼卵# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

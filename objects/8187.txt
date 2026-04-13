@@ -1,5 +1,5 @@
-id=8187
-Garland Stone Fireplace with Burning Tinder#stockings #eveHomeMarker
+﻿id=8187
+带燃烧火种的花环石壁炉# stockings eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

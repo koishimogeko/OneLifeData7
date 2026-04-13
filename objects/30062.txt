@@ -1,5 +1,5 @@
-id=30062
-Four Black and White Vulcanized Rubber Ball of Valve
+﻿id=30062
+四个黑白硫化胶球
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

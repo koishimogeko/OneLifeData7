@@ -1,4 +1,4 @@
-id=32084
+﻿id=32084
 红纸
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

@@ -1,4 +1,4 @@
-id=27039
+﻿id=27039
 铺设的电线 Laid Wires #WS off #plasterwhite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

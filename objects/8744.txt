@@ -1,5 +1,5 @@
-id=8744
-Perhaps Polar Bear 2 Arrow Hit
+﻿id=8744
+也许北极熊2箭命中
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32685
-Sulfur Water Enrichment Station# Bask17
+﻿id=32685
+硫水浓缩站# 17 拆卸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

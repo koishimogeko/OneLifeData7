@@ -1,5 +1,5 @@
-id=30511
-Stack of Green Dyed Paper# Use5
+﻿id=30511
+一堆绿色染色纸# Use5
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

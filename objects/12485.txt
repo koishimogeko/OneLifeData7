@@ -1,5 +1,5 @@
-id=12485
-Copper Rod
+﻿id=12485
+铜棒
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31027
+﻿id=31027
 黏土盘上的三暖色草莓酱面包
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

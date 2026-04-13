@@ -1,4 +1,4 @@
-id=27743
+﻿id=27743
 挖过的百合花丛 Empty Lily Flower Cluster with Big Seed Ball# Pink 
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

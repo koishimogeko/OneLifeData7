@@ -1,5 +1,5 @@
-id=30553
-Pink Plaster Wall with Double Shelf# +noBackAccess +useOnContained
+﻿id=30553
+粉红色石膏墙，带双层架子# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

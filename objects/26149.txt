@@ -1,4 +1,4 @@
-id=26149
+﻿id=26149
 化学实验台#制取乙二醇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

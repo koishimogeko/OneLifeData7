@@ -1,5 +1,5 @@
-id=10157
-Budding Morning Glory
+﻿id=10157
+含苞待放的牵牛花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

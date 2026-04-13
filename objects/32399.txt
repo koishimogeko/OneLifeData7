@@ -1,5 +1,5 @@
-id=32399
-Clay Food Crock# Egg
+﻿id=32399
+食物陶罐# 鸡蛋
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

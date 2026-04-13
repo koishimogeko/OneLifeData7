@@ -1,5 +1,5 @@
-id=33503
-Watchtower# Keep Watch# Construction Prohibited
+﻿id=33503
+瞭望塔# 放哨 禁止施工
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

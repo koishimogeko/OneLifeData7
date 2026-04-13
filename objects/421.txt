@@ -1,5 +1,5 @@
-id=421
-Dead Wolf with Arrow
+﻿id=421
+插有箭矢的狼尸体
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

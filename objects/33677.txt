@@ -1,4 +1,4 @@
-id=33677
+﻿id=33677
 Open Wooden Courtyard Gate# +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

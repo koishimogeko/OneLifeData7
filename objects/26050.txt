@@ -1,4 +1,4 @@
-id=26050
+﻿id=26050
 焖烧的石炉和研钵铁粉 Closed Stone Kiln with Hot Brown iron powder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

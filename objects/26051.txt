@@ -1,4 +1,4 @@
-id=26051
+﻿id=26051
 关闭的石炉和研钵铁红粉 Closed Stone Kiln with Hot Brown iron powder#end
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

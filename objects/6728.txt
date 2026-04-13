@@ -1,5 +1,5 @@
-id=6728
-Pile of Turkey Feather
+﻿id=6728
+一堆火鸡羽毛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

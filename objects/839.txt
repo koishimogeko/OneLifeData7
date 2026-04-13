@@ -1,5 +1,5 @@
-id=839
-Bell Tower# monumentCall
+﻿id=839
+钟塔# 响铃
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

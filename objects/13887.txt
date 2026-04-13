@@ -1,5 +1,5 @@
-id=13887
-Copper Mine #4
+﻿id=13887
+4级原生铜矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34893
+﻿id=34893
 @ Party Animal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

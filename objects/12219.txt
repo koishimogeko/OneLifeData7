@@ -1,5 +1,5 @@
-id=12219
-Red Bloomers
+﻿id=12219
+红色灯笼裤
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

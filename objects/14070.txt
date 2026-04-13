@@ -1,5 +1,5 @@
-id=14070
-Pile of Goose Eggs
+﻿id=14070
+堆鹅蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

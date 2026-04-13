@@ -1,5 +1,5 @@
-id=8920
-Marble Floor with Stakes
+﻿id=8920
+（已过时）带木桩的大理石地板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

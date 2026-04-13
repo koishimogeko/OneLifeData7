@@ -1,5 +1,5 @@
-id=8582
-Simmering Maple Sap
+﻿id=8582
+沸腾的枫树汁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

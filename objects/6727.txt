@@ -1,5 +1,5 @@
-id=6727
-Pirate Hat
+﻿id=6727
+海盗帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4429
-Neglected Shrine #A2
+﻿id=4429
+被忽视神社# A2
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

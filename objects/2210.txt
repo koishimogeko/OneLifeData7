@@ -1,5 +1,5 @@
-id=2210
-Crude Cylinder on Flat Rock
+﻿id=2210
+扁石上的粗气缸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28581
-Glass and Lamp Base with Lead Wire#red and yellow
+﻿id=28581
+玻璃片和台灯底座和铅丝 Glass and Lamp Base with Lead Wire#red and yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12235
-Blue Ribbon with Bow
+﻿id=12235
+带蝴蝶结的蓝丝带
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

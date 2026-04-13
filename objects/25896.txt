@@ -1,4 +1,4 @@
-id=25896
+﻿id=25896
 带矿组件的沙漠矿矿井 Desert Mineral Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

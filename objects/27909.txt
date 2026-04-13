@@ -1,4 +1,4 @@
-id=27909
+﻿id=27909
 大郁金香种球 Big Tulip Seed Ball# Red YJX
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

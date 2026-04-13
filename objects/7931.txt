@@ -1,5 +1,5 @@
-id=7931
-Painted Plastered Floor# red groundOnly
+﻿id=7931
+红色抹灰地板# red groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

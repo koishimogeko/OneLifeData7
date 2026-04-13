@@ -1,4 +1,4 @@
-id=32130
+﻿id=32130
 测地数据A和木炭笔
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

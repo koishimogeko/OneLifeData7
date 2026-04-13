@@ -1,4 +1,4 @@
-id=2900
+﻿id=2900
 @ Dye-ready Item Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

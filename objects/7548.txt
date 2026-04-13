@@ -1,5 +1,5 @@
-id=7548
-Full Crates of Bananas #3
+﻿id=7548
+三箱香蕉
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

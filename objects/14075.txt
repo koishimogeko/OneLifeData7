@@ -1,5 +1,5 @@
-id=14075
-Steel Wheelbarrow with Silver Ingots
+﻿id=14075
+有银锭的钢独轮车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

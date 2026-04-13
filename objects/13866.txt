@@ -1,5 +1,5 @@
-id=13866
-Desert Niter Mine with Niter #3
+﻿id=13866
+3级沙漠硝石矿井和硝石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

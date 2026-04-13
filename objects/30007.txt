@@ -1,5 +1,5 @@
-id=30007
-Concrete Floor with pile Lapis Lazuli
+﻿id=30007
+带青金石的混凝土地板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

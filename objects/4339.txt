@@ -1,5 +1,5 @@
-id=4339
-Sealed Dry Rub Bottle
+﻿id=4339
+密封干擦瓶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

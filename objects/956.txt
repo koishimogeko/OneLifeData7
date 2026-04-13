@@ -1,5 +1,5 @@
-id=956
-Letter A
+﻿id=956
+字母 A
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34981
+﻿id=34981
 Plate of Doner Kebab# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=14173
-Camping Stove with Hot Chocolate
+﻿id=14173
+野营炉热巧克力
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25651
-Plate of Raw Cheese Mooncake
+﻿id=25651
+生奶酪月饼盘
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32607
-Pear Flower Hairpin
+﻿id=32607
+梨花头饰
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33888
-Flowering Pomelo Tree# Bee Sweet Orange Paternal
+﻿id=33888
+开花的柚子树# Bee Sweet Orange Paternal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

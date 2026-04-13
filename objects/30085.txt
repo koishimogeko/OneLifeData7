@@ -1,5 +1,5 @@
-id=30085
-Mason Jar of NACLO+NACL
+﻿id=30085
+次氯酸钠与氯化钠梅森罐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

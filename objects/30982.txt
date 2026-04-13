@@ -1,5 +1,5 @@
-id=30982
-Sturdy Planned Primitive Fence# horizontal groundOnly
+﻿id=30982
+坚固的规划原始围栏# horizontal groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

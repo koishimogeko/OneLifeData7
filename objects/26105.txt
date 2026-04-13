@@ -1,4 +1,4 @@
-id=26105
+﻿id=26105
 组装中的初代车 The First Generation Car in Assembly#29
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

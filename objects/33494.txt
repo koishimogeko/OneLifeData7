@@ -1,5 +1,5 @@
-id=33494
-Watchtower# Elife Mobility Group Deploy
+﻿id=33494
+瞭望塔# 轮回机动小组部署
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

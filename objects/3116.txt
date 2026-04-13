@@ -1,5 +1,5 @@
-id=3116
-Property Fence with Removal Notice
+﻿id=3116
+（已过时）带拆除通知的物业围栏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

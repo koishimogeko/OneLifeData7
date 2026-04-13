@@ -1,5 +1,5 @@
-id=13663
-Bessemer Converter#horizontal
+﻿id=13663
+贝塞麦转换器# horizontal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34656
-Partial Clay Pit and Old Wild Boar
+﻿id=34656
+局部泥坑与老野猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

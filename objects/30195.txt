@@ -1,5 +1,5 @@
-id=30195
-Bridge#groundOnly hole
+﻿id=30195
+桥梁# groundOnly hole
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

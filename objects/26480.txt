@@ -1,4 +1,4 @@
-id=26480
+﻿id=26480
 铺设的电线 Laid Wires #WE on-high #concrete
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

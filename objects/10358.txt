@@ -1,5 +1,5 @@
-id=10358
-Budding Pink Delphinium
+﻿id=10358
+含苞待放的粉红飞燕草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

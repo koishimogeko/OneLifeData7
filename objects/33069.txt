@@ -1,5 +1,5 @@
-id=33069
-一锅热玻璃# 4份
+﻿id=33069
+一锅热玻璃# 5份
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=28913
+﻿id=28913
 没有电池的台灯 Lamp#without Light Bulb
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

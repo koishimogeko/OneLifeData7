@@ -1,4 +1,4 @@
-id=25794
+﻿id=25794
 Male059 C
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

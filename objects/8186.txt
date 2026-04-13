@@ -1,5 +1,5 @@
-id=8186
-Garland Stone Fireplace with Ashes#stockings #eveHomeMarker
+﻿id=8186
+带灰烬的花环石壁炉# stockings eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

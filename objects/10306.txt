@@ -1,5 +1,5 @@
-id=10306
-Dry Planted Yellow Daisy
+﻿id=10306
+干黄雏菊扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

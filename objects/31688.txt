@@ -1,5 +1,5 @@
-id=31688
-Purple Plaster Wall with Big Stack of Boards#just placed
+﻿id=31688
+带大堆木板的紫色石膏墙# 刚刚放好
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

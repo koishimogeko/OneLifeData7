@@ -1,5 +1,5 @@
-id=34315
-Crowbar# 1S
+﻿id=34315
+撬棍# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

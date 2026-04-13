@@ -1,5 +1,5 @@
-id=14342
-Removed Password Lock and Key
+﻿id=14342
+删除密码锁和钥匙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

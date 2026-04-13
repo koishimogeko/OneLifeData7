@@ -1,5 +1,5 @@
-id=7745
-Ate Scarecrow #crow flee
+﻿id=7745
+吃了稻草人# crow flee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11583
-Hot Bronze Ingot on Flat Rock
+﻿id=11583
+平坦岩石上热的青铜锭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

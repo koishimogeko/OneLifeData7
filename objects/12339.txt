@@ -1,5 +1,5 @@
-id=12339
-Black Dress Skirt
+﻿id=12339
+黑色礼服裙
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

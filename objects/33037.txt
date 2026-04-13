@@ -1,5 +1,5 @@
-id=33037
-Chemical Work Bench# Preparation Fluorescent Powder
+﻿id=33037
+化学实验台# 制取萤石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

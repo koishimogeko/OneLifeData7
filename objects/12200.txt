@@ -1,5 +1,5 @@
-id=12200
-Cowskin Coat on Hanger
+﻿id=12200
+衣架上的牛皮大衣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

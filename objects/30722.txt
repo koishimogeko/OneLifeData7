@@ -1,5 +1,5 @@
-id=30722
-Cod# fish eggs
+﻿id=30722
+鳕鱼# fish eggs
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

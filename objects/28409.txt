@@ -1,5 +1,5 @@
-id=28409
-Watered Lily Seed Ball#Pink
+﻿id=28409
+浇水百合种球 Watered Lily Seed Ball#Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

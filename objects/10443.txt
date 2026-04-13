@@ -1,5 +1,5 @@
-id=10443
-Ripe Cucumber Plant
+﻿id=10443
+成熟的黄瓜植物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

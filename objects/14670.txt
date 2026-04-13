@@ -1,5 +1,5 @@
-id=14670
-Work Bench with Blank Paper
+﻿id=14670
+带白纸的工作台
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

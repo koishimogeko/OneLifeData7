@@ -1,5 +1,5 @@
-id=1621
-Written Paper# writing happening &written
+﻿id=1621
+写好的纸# writing happening &written
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

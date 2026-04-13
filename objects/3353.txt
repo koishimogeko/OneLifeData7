@@ -1,5 +1,5 @@
-id=3353
-Bowl with Vulcanized Rubber Stopper
+﻿id=3353
+一碗硫化橡胶瓶塞
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

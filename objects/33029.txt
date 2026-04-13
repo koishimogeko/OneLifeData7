@@ -1,5 +1,5 @@
-id=33029
-Mixed Acid and Hydrofluoric Acid in Lead Bowl
+﻿id=33029
+一碗氟硝混酸# 铅碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

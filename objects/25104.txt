@@ -1,5 +1,5 @@
-id=25104
-Dragon Boat #on Land
+﻿id=25104
+陆地上的龙舟# on Land
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

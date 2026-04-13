@@ -1,5 +1,5 @@
-id=12706
-Maine Coon Cat #pouncing
+﻿id=12706
+缅因猫# pouncing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

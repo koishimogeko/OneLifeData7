@@ -1,5 +1,5 @@
-id=3790
-Track #NW #cartW
+﻿id=3790
+轨道# NW cartW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

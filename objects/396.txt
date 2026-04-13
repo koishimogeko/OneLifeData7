@@ -1,5 +1,5 @@
-id=396
-Dry Planted Carrots
+﻿id=396
+干燥的胡萝卜田
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

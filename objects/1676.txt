@@ -1,5 +1,5 @@
-id=1676
-Collie# just fed raw
+﻿id=1676
+柯利牧羊犬# 刚喂生食
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

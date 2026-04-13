@@ -1,5 +1,5 @@
-id=14409
-Bowl of Filtered Honey
+﻿id=14409
+一碗过滤过的蜂蜜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

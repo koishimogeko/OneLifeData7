@@ -1,5 +1,5 @@
-id=14102
-Unassembled Steel Wheelbarrow - 1
+﻿id=14102
+未组装的钢独轮车# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

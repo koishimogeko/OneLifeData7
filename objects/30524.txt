@@ -1,5 +1,5 @@
-id=30524
-Pot of Rose Sugar
+﻿id=30524
+玫瑰糖壶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

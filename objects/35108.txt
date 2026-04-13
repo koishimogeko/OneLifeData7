@@ -1,4 +1,4 @@
-id=35108
+﻿id=35108
 Firing Double Chamber Furnace with Quicklime# Calcium Carbide
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

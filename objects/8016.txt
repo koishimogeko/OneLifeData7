@@ -1,5 +1,5 @@
-id=8016
-Sack of Sulfur #4
+﻿id=8016
+一袋硫磺# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14647
-Cast Iron Ornate Panel
+﻿id=14647
+铸铁华丽面板
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

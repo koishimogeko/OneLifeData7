@@ -1,5 +1,5 @@
-id=30891
-Clay Flower with Two Water One FeSO4 7H2O Hydrangea 3
+﻿id=30891
+泥花二水一FeSO4 7H2O绣球3
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

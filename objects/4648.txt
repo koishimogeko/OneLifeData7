@@ -1,5 +1,5 @@
-id=4648
-Dead Tree #hops fruit
+﻿id=4648
+枯树# hops fruit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

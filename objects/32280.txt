@@ -1,5 +1,5 @@
-id=32280
-Tied Short Shaft with Steel Blade
+﻿id=32280
+绳系短木棍与刀片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

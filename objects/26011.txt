@@ -1,4 +1,4 @@
-id=26011
+﻿id=26011
 涂漆定子叠片 Varnished Stator Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

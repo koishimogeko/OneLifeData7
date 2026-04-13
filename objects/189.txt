@@ -1,5 +1,5 @@
-id=189
-Rabbit Bone
+﻿id=189
+兔子骨
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

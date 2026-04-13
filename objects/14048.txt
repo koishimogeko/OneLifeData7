@@ -1,5 +1,5 @@
-id=14048
-Corner Blueprint
+﻿id=14048
+角落蓝图
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

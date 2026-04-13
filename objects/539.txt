@@ -1,5 +1,5 @@
-id=539
-Shot Mouflon#arrow
+﻿id=539
+被射中的盘羊# arrow
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

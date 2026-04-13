@@ -1,5 +1,5 @@
-id=8488
-Red Plaster Wall with Big Stack of Boards#just placed
+﻿id=8488
+带大堆木板的红色石膏墙# just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

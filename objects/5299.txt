@@ -1,4 +1,4 @@
-id=5299
+﻿id=5299
 @ Unshot Mammoth cows
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

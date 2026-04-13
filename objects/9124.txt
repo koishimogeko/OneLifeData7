@@ -1,5 +1,5 @@
-id=9124
-Bear Cave with Explosive#empty lit
+﻿id=9124
+点燃炸药的熊洞# empty lit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

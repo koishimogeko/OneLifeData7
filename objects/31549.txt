@@ -1,4 +1,4 @@
-id=31549
+﻿id=31549
 风化矿床# 1级 有寒风 地质灾害
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

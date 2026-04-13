@@ -1,5 +1,5 @@
-id=28012
-Dry Tulip Spout # Yellow
+﻿id=28012
+干燥的郁金香苗# Yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

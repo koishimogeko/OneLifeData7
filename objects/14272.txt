@@ -1,5 +1,5 @@
-id=14272
-Boards with Two Short Shafts# just dismantled
+﻿id=14272
+有两个短轴的板# 刚刚拆除
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

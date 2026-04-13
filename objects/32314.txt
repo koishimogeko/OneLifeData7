@@ -1,5 +1,5 @@
-id=32314
-Stone Arch with Rose Bush and Steel Wire# red
+﻿id=32314
+玫瑰布什和钢丝石拱门# red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

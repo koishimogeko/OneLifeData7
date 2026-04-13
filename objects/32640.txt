@@ -1,5 +1,5 @@
-id=32640
-Thin Steel Pipe,Steel Valves,Steel Wire on Work Bench
+﻿id=32640
+工作台上的薄钢管和两个钢阀门与钢丝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

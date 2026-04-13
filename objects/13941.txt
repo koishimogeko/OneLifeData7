@@ -1,4 +1,4 @@
-id=13941
+﻿id=13941
 @ Hot Pan Food - bad
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

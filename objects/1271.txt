@@ -1,5 +1,5 @@
-id=1271
-Beheaded Goose On Stump
+﻿id=1271
+在树桩上的断头鹅
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

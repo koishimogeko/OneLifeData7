@@ -1,5 +1,5 @@
-id=11507
-Hot Cast Iron Pan with Cooked Pork
+﻿id=11507
+热铁锅和烤熟的猪肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7259
-Fill Station #N #partial #flow
+﻿id=7259
+加油站# N partial flow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28609
-Glass# purple and yellow
+﻿id=28609
+玻璃片# purple and yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

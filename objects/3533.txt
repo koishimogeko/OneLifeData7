@@ -1,5 +1,5 @@
-id=3533
-Yellow Top Hat with Black Rose
+﻿id=3533
+黑玫瑰黄色礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

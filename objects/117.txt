@@ -1,5 +1,5 @@
-id=117
-Open Pine Door# installed vert
+﻿id=117
+打开的松木门# installed vert
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

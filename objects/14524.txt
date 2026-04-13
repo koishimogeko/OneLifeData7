@@ -1,5 +1,5 @@
-id=14524
-Full Bundle of Harvested Flax
+﻿id=14524
+整捆收获的亚麻
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

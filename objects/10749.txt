@@ -1,5 +1,5 @@
-id=10749
-Hungry Kitten #light
+﻿id=10749
+饥饿的小猫# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

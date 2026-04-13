@@ -1,5 +1,5 @@
-id=25034
-Peeled Salted Goose Egg on Clay Plate
+﻿id=25034
+一盘切开的咸鹅蛋
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

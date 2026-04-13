@@ -1,5 +1,5 @@
-id=8305
-Perhaps Mouflon Hit
+﻿id=8305
+也许击中盘羊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

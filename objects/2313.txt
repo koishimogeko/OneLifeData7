@@ -1,5 +1,5 @@
-id=2313
-Oil Drilling Rig without Bit
+﻿id=2313
+没有钻头的石油钻机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4804
-Sword of The Commonwealth #scabbard
+﻿id=4804
+英联邦之剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

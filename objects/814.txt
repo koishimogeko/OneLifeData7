@@ -1,5 +1,5 @@
-id=814
-Half Bell Tower Base
+﻿id=814
+半钟楼底座
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

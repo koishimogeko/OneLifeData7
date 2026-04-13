@@ -1,5 +1,5 @@
-id=28614
-Music Box#close
+﻿id=28614
+八音盒# 关
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

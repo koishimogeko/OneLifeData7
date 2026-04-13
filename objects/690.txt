@@ -1,5 +1,5 @@
-id=690
-Bowl of Gold in Wooden Tongs
+﻿id=690
+被木钳夹着的一碗金箔
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

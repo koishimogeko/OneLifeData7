@@ -1,5 +1,5 @@
-id=3471
-Black Bowler Hat with Pink Rose
+﻿id=3471
+粉玫瑰黑色圆顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

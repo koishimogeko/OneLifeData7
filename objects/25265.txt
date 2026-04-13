@@ -1,5 +1,5 @@
-id=25265
-Chess Board # Red Edge two # groundOnly
+﻿id=25265
+棋盘# Red Edge two groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

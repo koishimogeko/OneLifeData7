@@ -1,5 +1,5 @@
-id=30885
-Clay Flower with Bone meal Sunflower 3
+﻿id=30885
+泥花骨粉向日葵3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

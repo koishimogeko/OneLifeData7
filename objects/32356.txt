@@ -1,5 +1,5 @@
-id=32356
-Sack of Ashes Meal# 1
+﻿id=32356
+一袋灰烬# 1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

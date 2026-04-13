@@ -1,5 +1,5 @@
-id=1909
-Blue Plaster Wall# +useOnContained
+﻿id=1909
+蓝色石膏墙# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

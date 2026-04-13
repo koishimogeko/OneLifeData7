@@ -1,5 +1,5 @@
-id=7085
-Cow Hide on Tanning Rack
+﻿id=7085
+制革架上的牛皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

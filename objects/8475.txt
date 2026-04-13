@@ -1,5 +1,5 @@
-id=8475
-Light Wooden Wall with Boards#just placed
+﻿id=8475
+带木板的浅色木墙# just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

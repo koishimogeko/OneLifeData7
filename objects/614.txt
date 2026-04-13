@@ -1,5 +1,5 @@
-id=614
-Fed Shorn Domestic Sheep
+﻿id=614
+喂过的剪过毛的家养绵羊
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

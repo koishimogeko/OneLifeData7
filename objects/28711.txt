@@ -1,4 +1,4 @@
-id=28711
+﻿id=28711
 @ Lamp# for nightstand
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=28290
-Watered Snake Plant Seedling
+﻿id=28290
+浇水火草苗
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

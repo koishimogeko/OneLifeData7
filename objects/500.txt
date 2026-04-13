@@ -1,5 +1,5 @@
-id=500
-Steel Shovel Head on Anvil
+﻿id=500
+铁砧上的钢铲头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

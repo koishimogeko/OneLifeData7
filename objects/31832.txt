@@ -1,4 +1,4 @@
-id=31832
+﻿id=31832
 一碗生石灰和木炭粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

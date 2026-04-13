@@ -1,4 +1,4 @@
-id=25948
+﻿id=25948
 淬火的转子冲压模具 Quenched Stamping Die for Rotor Lamination
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

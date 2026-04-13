@@ -1,5 +1,5 @@
-id=2047
-Hidden Card# J of Clubs
+﻿id=2047
+扑克背面# J of Clubs
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33444
-Marble Opal Wall# Orange
+﻿id=33444
+大理石镶蛋白石墙 # 橙色
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

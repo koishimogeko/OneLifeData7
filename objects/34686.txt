@@ -1,5 +1,5 @@
-id=34686
-Cave Rubble
+﻿id=34686
+洞穴碎石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

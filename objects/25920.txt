@@ -1,4 +1,4 @@
-id=25920
+﻿id=25920
 Perhaps sprayed Clover Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

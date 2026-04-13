@@ -1,5 +1,5 @@
-id=6875
-Boiled Egg on Ashes
+﻿id=6875
+灰烬上的一碗煮鸡蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

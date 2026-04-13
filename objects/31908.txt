@@ -1,4 +1,4 @@
-id=31908
+﻿id=31908
 被插起的一锅玻璃# 2份
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=27576
+﻿id=27576
 在重型背包上的草叉 Pitchfork on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

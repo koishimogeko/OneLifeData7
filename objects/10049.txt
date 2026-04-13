@@ -1,5 +1,5 @@
-id=10049
-Show Bridle
+﻿id=10049
+装饰缰绳
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

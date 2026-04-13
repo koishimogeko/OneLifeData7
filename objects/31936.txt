@@ -1,4 +1,4 @@
-id=31936
+﻿id=31936
 棕色玻璃罐
 containable=1
 containSize=1.000000,vertSlotRot=0.750000

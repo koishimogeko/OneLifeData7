@@ -1,4 +1,4 @@
-id=3557
+﻿id=3557
 @ Green Rose Hat Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

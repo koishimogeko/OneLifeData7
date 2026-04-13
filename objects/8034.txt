@@ -1,5 +1,5 @@
-id=8034
-Wheat Tortilla Table
+﻿id=8034
+铺着小麦玉米饼的桌子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

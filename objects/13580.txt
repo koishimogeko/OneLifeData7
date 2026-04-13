@@ -1,5 +1,5 @@
-id=13580
-Flat Rock with Wet Shaped Firebrick
+﻿id=13580
+带湿形耐火砖的扁平岩石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

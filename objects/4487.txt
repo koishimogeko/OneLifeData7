@@ -1,5 +1,5 @@
-id=4487
-(outdated) Ripe Cheese Wheel #2A
+﻿id=4487
+（已过时）到时间的车轮奶酪# 2A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

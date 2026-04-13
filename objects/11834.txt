@@ -1,5 +1,5 @@
-id=11834
-Show Horse with Saddle Bag#dappled,hitched
+﻿id=11834
+展示带马鞍袋的马# dappled,hitched
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

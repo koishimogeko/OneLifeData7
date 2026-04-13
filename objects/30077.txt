@@ -1,5 +1,5 @@
-id=30077
-Bowl of High HCL
+﻿id=30077
+一碗浓盐酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

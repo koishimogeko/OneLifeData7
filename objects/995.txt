@@ -1,5 +1,5 @@
-id=995
-Locked Big Sign on Stone Wall# $10
+﻿id=995
+石墙上锁的大牌子# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12657
-Ancient Stone Wall #pipe #EW loose
+﻿id=12657
+古老石墙# pipe EW loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

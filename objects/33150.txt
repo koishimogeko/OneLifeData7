@@ -1,5 +1,5 @@
-id=33150
-Iron Red Powder Bowl in Wooden Tongs
+﻿id=33150
+被木钳夹着的一碗铁红粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

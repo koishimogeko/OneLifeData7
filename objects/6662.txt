@@ -1,5 +1,5 @@
-id=6662
-Empty Cheroot Box
+﻿id=6662
+空的雪茄烟盒
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

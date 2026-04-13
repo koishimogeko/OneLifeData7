@@ -1,4 +1,4 @@
-id=31741
+﻿id=31741
 燃烧中的焦炭干馏炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

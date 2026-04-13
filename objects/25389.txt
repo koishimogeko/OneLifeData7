@@ -1,5 +1,5 @@
-id=25389
-@ 象棋 投影 # Black on Ground use
+﻿id=25389
+@ 象棋 投影# Black on Ground use
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

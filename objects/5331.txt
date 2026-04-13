@@ -1,5 +1,5 @@
-id=5331
-Silver Ore #2HOL
+﻿id=5331
+银矿石# 2HOL
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

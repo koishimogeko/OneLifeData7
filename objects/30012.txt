@@ -1,5 +1,5 @@
-id=30012
-Basket of Cinnabars
+﻿id=30012
+一篮朱砂
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=27600
+﻿id=27600
 生根的岛锦牡丹剪枝 Rooting Island Brocade Peony Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000

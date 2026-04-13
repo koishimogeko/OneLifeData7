@@ -1,5 +1,5 @@
-id=30716
-Arctic Char# fish eggs
+﻿id=30716
+北极查尔# fish eggs
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

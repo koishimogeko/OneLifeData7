@@ -1,5 +1,5 @@
-id=8637
-Ancient Stone Wall#horseflag
+﻿id=8637
+古老石墙# horseflag
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

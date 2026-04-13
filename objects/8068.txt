@@ -1,5 +1,5 @@
-id=8068
-Wet Jelutong Sapling Cutting
+﻿id=8068
+湿日落洞树树苗扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

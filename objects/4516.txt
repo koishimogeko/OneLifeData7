@@ -1,5 +1,5 @@
-id=4516
-Empty Trellis Plot#fertile
+﻿id=4516
+空啤酒话棚架# fertile
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

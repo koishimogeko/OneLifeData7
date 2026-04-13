@@ -1,5 +1,5 @@
-id=25614
-Fermented Apple in Mason Jar with Water and Sugar # test
+﻿id=25614
+在梅森罐中用水和糖发酵苹果# test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

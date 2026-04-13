@@ -1,5 +1,5 @@
-id=966
-Letter L
+﻿id=966
+字母 L
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

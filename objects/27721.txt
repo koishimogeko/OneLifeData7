@@ -1,4 +1,4 @@
-id=27721
+﻿id=27721
 百合大种球 Big Lily Seed Ball# Pink BaiHe
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

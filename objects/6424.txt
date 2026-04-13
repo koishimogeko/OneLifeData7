@@ -1,5 +1,5 @@
-id=6424
-(outdated) Mine Shaft #upgrade 3
+﻿id=6424
+（已过时）# upgrade 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

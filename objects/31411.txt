@@ -1,4 +1,4 @@
-id=31411
+﻿id=31411
 玻璃切割台与温度计
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

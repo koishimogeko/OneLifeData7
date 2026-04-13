@@ -1,5 +1,5 @@
-id=25206
-Chess Rook
+﻿id=25206
+象棋车
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

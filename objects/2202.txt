@@ -1,5 +1,5 @@
-id=2202
-Hot Wrought Iron#flat rock
+﻿id=2202
+扁石上的热锻铁# flat rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

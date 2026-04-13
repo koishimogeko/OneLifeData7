@@ -1,4 +1,4 @@
-id=32139
+﻿id=32139
 带钢尺和刻度基准的书写台
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6744
-Brooding Hen #female
+﻿id=6744
+孵蛋中的母鸡# female
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

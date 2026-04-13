@@ -1,5 +1,5 @@
-id=25275
-Chess Board # Red Center Bevel three # groundOnly
+﻿id=25275
+棋盘# Red Center Bevel three groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

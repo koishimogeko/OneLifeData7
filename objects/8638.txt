@@ -1,5 +1,5 @@
-id=8638
-Ancient Stone Wall#wolfflag
+﻿id=8638
+古老石墙# wolfflag
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

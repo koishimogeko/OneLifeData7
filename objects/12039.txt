@@ -1,5 +1,5 @@
-id=12039
-Blue Plaster Wall Arch with Thatched Roof
+﻿id=12039
+带茅草屋顶的蓝色石膏墙拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

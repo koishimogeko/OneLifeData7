@@ -1,4 +1,4 @@
-id=34333
+﻿id=34333
 一碗氟氢化钾# 带盖铅碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

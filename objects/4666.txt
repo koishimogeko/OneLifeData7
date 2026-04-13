@@ -1,5 +1,5 @@
-id=4666
-Cow Mammoth and Calf
+﻿id=4666
+母猛犸象和小牛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32586
-Beaker of Ethanol and Quicklime
+﻿id=32586
+一杯无水乙醇与石灰膏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

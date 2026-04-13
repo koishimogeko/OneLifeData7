@@ -1,4 +1,4 @@
-id=871
+﻿id=871
 @ Decaying Shirt
 containable=0
 containSize=1,vertSlotRot=0.000000

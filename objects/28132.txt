@@ -1,5 +1,5 @@
-id=28132
-Watered Budding Delphinium
+﻿id=28132
+浇水萌芽飞燕草
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

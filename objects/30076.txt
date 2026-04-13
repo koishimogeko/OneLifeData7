@@ -1,5 +1,5 @@
-id=30076
-Bowl of NA2SO4
+﻿id=30076
+一碗硫酸钠溶液
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

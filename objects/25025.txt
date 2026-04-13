@@ -1,5 +1,5 @@
-id=25025
-Banana Leaves with Polished Glutinous Rice and Salted Egg Yolk
+﻿id=25025
+蕉叶配糯米和咸蛋黄
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

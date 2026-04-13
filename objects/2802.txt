@@ -1,5 +1,5 @@
-id=2802
-Dug Wild Tomato Plant
+﻿id=2802
+被挖起的野生番茄
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

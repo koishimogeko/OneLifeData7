@@ -1,5 +1,5 @@
-id=5304
-Firewood Stack
+﻿id=5304
+一堆柴火
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

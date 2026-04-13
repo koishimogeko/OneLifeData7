@@ -1,4 +1,4 @@
-id=31548
+﻿id=31548
 风化矿床# 1级 有寒风 采空
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

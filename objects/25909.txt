@@ -1,4 +1,4 @@
-id=25909
+﻿id=25909
 挖了的芦荟 Dug Aloe Vera
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

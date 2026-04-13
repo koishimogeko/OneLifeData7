@@ -1,4 +1,4 @@
-id=25954
+﻿id=25954
 纽科门冲压机 Newcomen Stamping Press#Stator
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

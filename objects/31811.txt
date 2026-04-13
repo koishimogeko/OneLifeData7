@@ -1,4 +1,4 @@
-id=31811
+﻿id=31811
 一碗加了滤纸的草木灰水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

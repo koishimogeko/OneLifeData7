@@ -1,4 +1,4 @@
-id=31767
+﻿id=31767
 化学实验台# 分馏未中和的硫酸化油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

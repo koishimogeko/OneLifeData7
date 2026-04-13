@@ -1,5 +1,5 @@
-id=14204
-Watered Flower Pot with Seed
+﻿id=14204
+用种子浇水的花盆
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

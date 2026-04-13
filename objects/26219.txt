@@ -1,4 +1,4 @@
-id=26219
+﻿id=26219
 花岗岩#伴生石英 Granite Block # Associated Quartz
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

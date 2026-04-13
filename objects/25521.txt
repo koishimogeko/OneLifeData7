@@ -1,5 +1,5 @@
-id=25521
-Black Powder Bottle #just poured
+﻿id=25521
+黑色粉末瓶# just poured
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

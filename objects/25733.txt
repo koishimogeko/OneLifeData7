@@ -1,5 +1,5 @@
-id=25733
-Fishing Pole # VOG
+﻿id=25733
+钓鱼竿# VOG
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

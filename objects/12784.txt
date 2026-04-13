@@ -1,5 +1,5 @@
-id=12784
-Copper Pipe #EW #oilW
+﻿id=12784
+铜管# EW oilW
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

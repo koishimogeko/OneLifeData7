@@ -1,5 +1,5 @@
-id=1677
-German Shepherd# just fed raw
+﻿id=1677
+德国牧羊犬# 刚喂生食
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

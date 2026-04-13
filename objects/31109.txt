@@ -1,4 +1,4 @@
-id=31109
+﻿id=31109
 @ Plaster Wall Arch with Thatched Roof
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

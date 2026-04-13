@@ -1,5 +1,5 @@
-id=12375
-Pink Cotton Long Dress #justremoved
+﻿id=12375
+粉色棉质长裙# justremoved
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=32255
-Firepit# eveHomeMarker
+﻿id=32255
+壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=30767
+﻿id=30767
 @ Fish# fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

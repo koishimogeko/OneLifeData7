@@ -1,5 +1,5 @@
-id=3013
-Bowl of Nitric Acid
+﻿id=3013
+一碗硝酸
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

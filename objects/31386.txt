@@ -1,4 +1,4 @@
-id=31386
+﻿id=31386
 空的煤气罐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

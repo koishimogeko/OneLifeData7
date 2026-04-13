@@ -1,5 +1,5 @@
-id=12356
-Dye-Ready Bow
+﻿id=12356
+可染色蝴蝶结
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12113
-Huge Ball of Silk Yarn
+﻿id=12113
+巨大的丝线球
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

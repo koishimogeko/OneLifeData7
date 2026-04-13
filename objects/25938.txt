@@ -1,4 +1,4 @@
-id=25938
+﻿id=25938
 关闭的石炉和热转子冲压模具 Closed Stone Kiln with Stamping Press#rotor tempering
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

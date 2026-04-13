@@ -1,5 +1,5 @@
-id=12076
-Sack of Bagasse #5
+﻿id=12076
+一袋甘蔗渣# 5
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

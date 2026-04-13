@@ -1,4 +1,4 @@
-id=28943
+﻿id=28943
 雪纳瑞在狗窝中 Schnauser in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

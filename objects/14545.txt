@@ -1,5 +1,5 @@
-id=14545
-Springy Light Wooden Door with Rose Wreath# Installed +autoDefaultTrans +blocksMoving
+﻿id=14545
+带玫瑰花环的弹性浅色木门# Installed +autoDefaultTrans +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

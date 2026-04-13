@@ -1,5 +1,5 @@
-id=14558
-Springy Open Light Wooden Door with Bell Wreath# Installed +blocksMoving
+﻿id=14558
+带铃花环的弹性开放式浅色木门# Installed +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

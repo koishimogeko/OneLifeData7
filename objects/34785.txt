@@ -1,4 +1,4 @@
-id=34785
+﻿id=34785
 Hot Iron Crucible in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

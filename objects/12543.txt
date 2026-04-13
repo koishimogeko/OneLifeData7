@@ -1,5 +1,5 @@
-id=12543
-Perhaps sprayed White Rose Bush
+﻿id=12543
+也许喷过白玫瑰丛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25637
-Perhaps a Filled Hole with Grass Seed and Soil  # crow eat out
+﻿id=25637
+也许是一个装满草籽和土壤的洞# crow eat out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

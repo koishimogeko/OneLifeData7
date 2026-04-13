@@ -1,5 +1,5 @@
-id=2897
-Simmering Yellow Dye
+﻿id=2897
+煮沸的黄色染料
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

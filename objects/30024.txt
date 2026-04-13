@@ -1,5 +1,5 @@
-id=30024
-Play Board# Yellow
+﻿id=30024
+游戏板# Yellow
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

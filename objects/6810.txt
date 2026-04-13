@@ -1,5 +1,5 @@
-id=6810
-Boiled Egg in Clay Bowl
+﻿id=6810
+陶碗里的熟鸡蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

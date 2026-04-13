@@ -1,5 +1,5 @@
-id=2827
-Bowl of Soaking Tomato Seed Pulp
+﻿id=2827
+浸泡番茄籽浆碗
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

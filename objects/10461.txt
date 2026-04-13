@@ -1,5 +1,5 @@
-id=10461
-Cut Fresh Dill
+﻿id=10461
+切新鲜莳萝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

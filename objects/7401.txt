@@ -1,5 +1,5 @@
-id=7401
-Chopped Tree With Light Firewood #small,wood2
+﻿id=7401
+带浅色柴火的砍树# small,wood2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

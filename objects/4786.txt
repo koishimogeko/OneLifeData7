@@ -1,5 +1,5 @@
-id=4786
-(outdated) Poached Egg
+﻿id=4786
+（已过时）Poached Egg
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

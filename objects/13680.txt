@@ -1,5 +1,5 @@
-id=13680
-Bessemer Converter with Molten Steel#horizontal
+﻿id=13680
+贝塞麦转炉与钢水# horizo​​ntal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

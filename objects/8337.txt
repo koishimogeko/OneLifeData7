@@ -1,5 +1,5 @@
-id=8337
-Pitchfork#just repaired
+﻿id=8337
+干草叉# just repaired
 containable=1
 containSize=1.900000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

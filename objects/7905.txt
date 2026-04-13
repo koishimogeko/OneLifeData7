@@ -1,5 +1,5 @@
-id=7905
-Dry Diesel Water Pump With Pipe
+﻿id=7905
+带管道的干式柴油水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

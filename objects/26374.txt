@@ -1,4 +1,4 @@
-id=26374
+﻿id=26374
 两个钳子半 Two Plier Halves
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

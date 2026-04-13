@@ -1,5 +1,5 @@
-id=670
-Empty Cistern#just built
+﻿id=670
+空的蓄水池# just built
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

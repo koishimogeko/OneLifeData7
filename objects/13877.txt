@@ -1,5 +1,5 @@
-id=13877
-Running Tundra Coal Mine #4
+﻿id=13877
+运行中的4级苔原煤矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

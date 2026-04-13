@@ -1,5 +1,5 @@
-id=1815
-Wet Young Yew Bonsai in Bowl
+﻿id=1815
+在碗里的湿年轻红豆杉盆景
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

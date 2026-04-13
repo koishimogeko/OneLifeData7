@@ -1,5 +1,5 @@
-id=13927
-Ladle Cart of Molten Steel and Beam Mold
+﻿id=13927
+钢水包车及梁模
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

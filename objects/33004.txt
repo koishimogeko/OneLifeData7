@@ -1,5 +1,5 @@
-id=33004
-Wheeled Hand Cart with Spinning Wheel
+﻿id=33004
+带纺车的轮式手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

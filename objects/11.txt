@@ -1,5 +1,5 @@
-id=11
-Skin Tone A,B,C,D,E,F
+﻿id=11
+肤色 A,B,C,D,E,F
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

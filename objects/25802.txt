@@ -1,4 +1,4 @@
-id=25802
+﻿id=25802
 奶牛猛犸Cow Mammoth # pregnant female just left
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

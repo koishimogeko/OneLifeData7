@@ -1,5 +1,5 @@
-id=2663
-Partial AM Receiver# 3
+﻿id=2663
+不完整调幅收音机# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

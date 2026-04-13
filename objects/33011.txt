@@ -1,5 +1,5 @@
-id=33011
-Sandstone Blocks
+﻿id=33011
+一堆砂岩块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

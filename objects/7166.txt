@@ -1,5 +1,5 @@
-id=7166
-Compost Box #full
+﻿id=7166
+堆肥箱# full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

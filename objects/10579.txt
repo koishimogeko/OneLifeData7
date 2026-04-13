@@ -1,5 +1,5 @@
-id=10579
-Hot Cast Iron Pan with Seasoned Trout Fillet
+﻿id=10579
+热铁锅和调味鳟鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

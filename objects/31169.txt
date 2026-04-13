@@ -1,4 +1,4 @@
-id=31169
+﻿id=31169
 一碗鱼肉干
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

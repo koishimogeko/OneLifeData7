@@ -1,4 +1,4 @@
-id=31444
+﻿id=31444
 淬火好的细弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

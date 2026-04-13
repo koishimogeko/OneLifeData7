@@ -1,4 +1,4 @@
-id=31525
+﻿id=31525
 被插起的陶瓷坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

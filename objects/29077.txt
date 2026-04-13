@@ -1,4 +1,4 @@
-id=29077
+﻿id=29077
 白色短裤 White Shorts
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

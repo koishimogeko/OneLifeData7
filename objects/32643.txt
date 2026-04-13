@@ -1,5 +1,5 @@
-id=32643
-Pile of Manometry Trigger Pipes
+﻿id=32643
+一堆传压管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14748
-Polar Teddy Bear
+﻿id=14748
+极地泰迪熊
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=0

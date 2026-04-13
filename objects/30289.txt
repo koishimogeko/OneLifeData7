@@ -1,5 +1,5 @@
-id=30289
-Aging White Wine Barrel
+﻿id=30289
+陈酿白葡萄酒桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=30751
-Deep Water with Bass# +noHighlight groundOnly breed
+﻿id=30751
+鲈鱼与海藻# 产卵中 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

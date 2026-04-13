@@ -1,5 +1,5 @@
-id=34608
-Bartenders# Bloody Mary 3
+﻿id=34608
+调酒师# Bloody Mary 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

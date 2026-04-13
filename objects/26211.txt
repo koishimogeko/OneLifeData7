@@ -1,4 +1,4 @@
-id=26211
+﻿id=26211
 黄色丝线大球 Big Ball of Silk Yarn#yellow
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

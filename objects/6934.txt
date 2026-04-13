@@ -1,5 +1,5 @@
-id=6934
-Cow Bones
+﻿id=6934
+家养牛骨
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

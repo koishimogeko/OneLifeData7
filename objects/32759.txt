@@ -1,5 +1,5 @@
-id=32759
-Full Oil Pouch
+﻿id=32759
+装满的油袋
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

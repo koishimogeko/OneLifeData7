@@ -1,5 +1,5 @@
-id=32577
-Chemical Work Bench with C2H6O
+﻿id=32577
+化学实验台与乙醇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14185
-Stuffed Bunny
+﻿id=14185
+毛绒兔子
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=0

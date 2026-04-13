@@ -1,5 +1,5 @@
-id=105
-Half Wooden Frame
+﻿id=105
+半木制框架
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

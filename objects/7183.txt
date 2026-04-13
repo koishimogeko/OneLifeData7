@@ -1,5 +1,5 @@
-id=7183
-Stone Fireplace with Kindling #eveHomeMarker
+﻿id=7183
+带引火柴的石壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

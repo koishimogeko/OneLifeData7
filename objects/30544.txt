@@ -1,5 +1,5 @@
-id=30544
-Painted Picket Fence Gate# Pink loose
+﻿id=30544
+彩绘栅栏门# Pink loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

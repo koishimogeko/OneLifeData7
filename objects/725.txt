@@ -1,5 +1,5 @@
-id=725
-Indigo Wool Sweater
+﻿id=725
+靛蓝色羊毛杉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28236
-Dry Budding Red Windflower
+﻿id=28236
+干萌芽风车菊
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

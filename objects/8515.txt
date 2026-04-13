@@ -1,5 +1,5 @@
-id=8515
-Fire with Spit Roast Pig
+﻿id=8515
+烤架与火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

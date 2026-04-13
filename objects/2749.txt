@@ -1,5 +1,5 @@
-id=2749
-SickMouth
+﻿id=2749
+病恹恹的嘴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

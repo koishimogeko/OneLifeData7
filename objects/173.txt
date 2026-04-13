@@ -1,5 +1,5 @@
-id=173
-Rabbit Family Hole#out
+﻿id=173
+一窝兔子洞# out
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

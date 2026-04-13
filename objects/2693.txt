@@ -1,5 +1,5 @@
-id=2693
-Four Wing Struts
+﻿id=2693
+四个机翼支柱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

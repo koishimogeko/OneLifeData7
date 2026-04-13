@@ -1,4 +1,4 @@
-id=35076
+﻿id=35076
 Firing Double Chamber Furnace# Middle Wind Continuous Out
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

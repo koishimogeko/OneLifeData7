@@ -1,5 +1,5 @@
-id=13392
-Full Bucket of Buttermilk
+﻿id=13392
+一桶酪乳
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32533
-Camping Stove with Warm Wine
+﻿id=32533
+带沸红葡萄酒的露营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

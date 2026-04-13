@@ -1,5 +1,5 @@
-id=32432
-Work Bench with Diesel Drive Assembly
+﻿id=32432
+工作台与柴油机驱动总成
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13232
-Planted Domestic Hedge#vertical #justTrimmed
+﻿id=13232
+种植的国内树篱# vertical justTrimmed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

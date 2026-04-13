@@ -1,5 +1,5 @@
-id=508
-Dug Big Rock with Chisel
+﻿id=508
+凿子与被挖起的大石头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

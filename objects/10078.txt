@@ -1,5 +1,5 @@
-id=10078
-Dry Birch Sapling Cutting
+﻿id=10078
+干的白桦树剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

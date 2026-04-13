@@ -1,4 +1,4 @@
-id=33233
+﻿id=33233
 @ Fish Food Bowl# Meat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

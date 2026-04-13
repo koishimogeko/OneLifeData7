@@ -1,5 +1,5 @@
-id=9074
-Camping Stove Frame on Hot Coals
+﻿id=9074
+热碳上的野营炉架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7838
-Filleted Fish on Flat Rock #bass
+﻿id=7838
+扁石上的鱼片# 大西洋鲈鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

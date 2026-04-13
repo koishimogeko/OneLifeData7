@@ -1,5 +1,5 @@
-id=8783
-Mole Hole#mole
+﻿id=8783
+鼹鼠洞# mole
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

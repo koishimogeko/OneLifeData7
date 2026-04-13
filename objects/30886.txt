@@ -1,5 +1,5 @@
-id=30886
-Clay Flower with Three Water Hydrangea 3
+﻿id=30886
+泥花三水绣球3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

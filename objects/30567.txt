@@ -1,5 +1,5 @@
-id=30567
-Crates of Peach# 2
+﻿id=30567
+两箱未满桃子
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

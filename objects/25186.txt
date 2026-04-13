@@ -1,5 +1,5 @@
-id=25186
-Cut Chess Embryo # put
+﻿id=25186
+切开的象棋毛胚# 放置
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

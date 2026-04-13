@@ -1,5 +1,5 @@
-id=11063
-Crates of Eggs #3
+﻿id=11063
+三箱未满鸡蛋
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

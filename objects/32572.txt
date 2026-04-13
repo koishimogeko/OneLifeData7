@@ -1,5 +1,5 @@
-id=32572
-Bowl of Acid Leached Coal Gangue in Wooden Tongs
+﻿id=32572
+被木钳夹着的一碗酸洗过的煤矸石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

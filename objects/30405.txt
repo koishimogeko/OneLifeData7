@@ -1,5 +1,5 @@
-id=30405
-Wooden Table# left 1S +tapoutTrigger,1,0
+﻿id=30405
+木制桌子# left 1S +tapoutTrigger,1,0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

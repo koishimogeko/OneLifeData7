@@ -1,5 +1,5 @@
-id=6444
-Stand with Flag#kitchen
+﻿id=6444
+站在旗帜下# kitchen
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26574
+﻿id=26574
 圆形停车场标志 Circular Parking Sign
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

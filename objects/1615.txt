@@ -1,5 +1,5 @@
-id=1615
-Paper with Charcoal Writing# &written
+﻿id=1615
+用炭笔写好的纸# &written
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

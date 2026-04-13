@@ -1,5 +1,5 @@
-id=10496
-Rubber Tree with Fertile Soil
+﻿id=10496
+土壤肥沃的橡胶树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

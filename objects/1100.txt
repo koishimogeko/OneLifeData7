@@ -1,5 +1,5 @@
-id=1100
-Empty Bucket# just emptied
+﻿id=1100
+空桶# just emptied
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

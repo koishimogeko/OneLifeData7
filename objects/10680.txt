@@ -1,5 +1,5 @@
-id=10680
-Shipwreck #sinking
+﻿id=10680
+沉船# sinking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

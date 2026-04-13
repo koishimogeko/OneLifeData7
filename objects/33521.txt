@@ -1,5 +1,5 @@
-id=33521
-Board on Work Bench
+﻿id=33521
+工作台上的木板和两个木轮与长木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

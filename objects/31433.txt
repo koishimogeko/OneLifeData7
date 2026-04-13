@@ -1,4 +1,4 @@
-id=31433
+﻿id=31433
 长钢桌右方格子# 试管架 拆卸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=32124
-阳光垂直检测器# 垂直  范围20
+﻿id=32124
+阳光垂直检测器# 垂直 范围20
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

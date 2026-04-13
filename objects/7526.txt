@@ -1,5 +1,5 @@
-id=7526
-Full Crates of Peppers #2
+﻿id=7526
+两箱辣椒
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

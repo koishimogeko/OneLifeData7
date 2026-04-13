@@ -1,5 +1,5 @@
-id=32481
-Sewing Machine# feather Use1
+﻿id=32481
+缝纫机与鸵鸟羽毛# Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

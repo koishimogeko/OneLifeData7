@@ -1,5 +1,5 @@
-id=10664
-Calico Cat #held
+﻿id=10664
+三花猫# 手持的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2083
-Hidden Card# 8 of Diamonds
+﻿id=2083
+扑克背面# 8 of Diamonds
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

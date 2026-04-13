@@ -1,5 +1,5 @@
-id=30245
-Fractional Distiller with Bitumen# Use6
+﻿id=30245
+沥青馏分蒸馏器# Use6
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

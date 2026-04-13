@@ -1,5 +1,5 @@
-id=30034
-FootBall# 4 kick Big Feet
+﻿id=30034
+足球# 4 kick Big Feet
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

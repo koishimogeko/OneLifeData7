@@ -1,5 +1,5 @@
-id=32159
-Reborn 1 #yellow diesel engine power
+﻿id=32159
+轮回一号# yellow diesel engine power
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

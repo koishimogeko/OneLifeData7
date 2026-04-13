@@ -1,5 +1,5 @@
-id=2169
-Two Rubber Tires
+﻿id=2169
+两个橡胶轮胎
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

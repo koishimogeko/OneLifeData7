@@ -1,5 +1,5 @@
-id=422
-Dead Wolf
+﻿id=422
+狼尸体
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

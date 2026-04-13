@@ -1,5 +1,5 @@
-id=4715
-Ripe Tobacco Plants
+﻿id=4715
+成熟的烟草植物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

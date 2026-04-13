@@ -1,5 +1,5 @@
-id=2221
-Newcomen Pump with Full Boiler
+﻿id=2221
+锅炉装满水的纽科门蒸汽泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

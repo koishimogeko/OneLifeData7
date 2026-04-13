@@ -1,5 +1,5 @@
-id=13150
-Lombardy Poplar Tree with Small Cut Stones
+﻿id=13150
+带小切石的伦巴第白杨树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

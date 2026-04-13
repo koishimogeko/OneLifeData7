@@ -1,5 +1,5 @@
-id=7037
-(outdated) Horse-Drawn Cart# just released
+﻿id=7037
+（已过时）# just released
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

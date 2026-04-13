@@ -1,5 +1,5 @@
-id=792
-Full Monolith
+﻿id=792
+填满的巨石碑
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

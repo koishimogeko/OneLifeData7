@@ -1,5 +1,5 @@
-id=33850
-Expanded Perlite Insulation Post# 2
+﻿id=33850
+膨胀珍珠岩保温柱# 2
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

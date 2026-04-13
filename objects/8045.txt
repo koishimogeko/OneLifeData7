@@ -1,5 +1,5 @@
-id=8045
-Beheaded Goose On Chopping Block
+﻿id=8045
+砧板上的断头鹅
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

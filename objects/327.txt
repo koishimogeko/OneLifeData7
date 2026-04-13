@@ -1,5 +1,5 @@
-id=327
-Wooden Tongs#cool steel ingot
+﻿id=327
+被木钳夹着的钢锭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

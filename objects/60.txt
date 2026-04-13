@@ -1,5 +1,5 @@
-id=60
-Milkweed Stump#Fertile
+﻿id=60
+乳草根部# Fertile
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

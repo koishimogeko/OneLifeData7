@@ -1,4 +1,4 @@
-id=34696
+﻿id=34696
 Empty Airdrop Box# No Rope
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

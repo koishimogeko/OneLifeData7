@@ -1,5 +1,5 @@
-id=8024
-Windowed Sandstone Wall
+﻿id=8024
+带窗户的砂岩墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

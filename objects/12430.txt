@@ -1,5 +1,5 @@
-id=12430
-Pair of Christmas Socks
+﻿id=12430
+一双圣诞袜
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

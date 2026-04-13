@@ -1,4 +1,4 @@
-id=31030
+﻿id=31030
 一罐鱼骨头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,4 +1,4 @@
-id=32830
+﻿id=32830
 @ Stack of XXX MIne Box
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

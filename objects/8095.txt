@@ -1,5 +1,5 @@
-id=8095
-Shears with Field Maple Cutting
+﻿id=8095
+带田野枫树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

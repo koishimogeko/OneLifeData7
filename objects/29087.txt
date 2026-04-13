@@ -1,4 +1,4 @@
-id=29087
+﻿id=29087
 半个香蕉树和细柴 Half Banana Tree with Kindling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

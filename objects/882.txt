@@ -1,5 +1,5 @@
-id=882
-Split Big Rock with Chisel
+﻿id=882
+凿子和劈开的大石头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

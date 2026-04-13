@@ -1,5 +1,5 @@
-id=33285
-Orange
+﻿id=33285
+金桔盆栽
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

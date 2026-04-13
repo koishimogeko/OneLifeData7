@@ -1,5 +1,5 @@
-id=28069
-Wet Pot Lily Grove# Pink
+﻿id=28069
+盆栽百合丛# Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

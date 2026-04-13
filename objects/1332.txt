@@ -1,5 +1,5 @@
-id=1332
-Dead Boar# no arrow
+﻿id=1332
+野猪尸体# no arrow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

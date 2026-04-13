@@ -1,5 +1,5 @@
-id=7809
-Fishing Pole with Trout
+﻿id=7809
+带鳟鱼的钓竿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

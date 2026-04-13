@@ -1,5 +1,5 @@
-id=6374
-Fur Coat Stallion
+﻿id=6374
+披上毛皮大衣的种马
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

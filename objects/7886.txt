@@ -1,5 +1,5 @@
-id=7886
-Try Traveling Water #E
+﻿id=7886
+尝试移动的水# E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

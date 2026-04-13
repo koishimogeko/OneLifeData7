@@ -1,5 +1,5 @@
-id=11628
-Pile of Electrum
+﻿id=11628
+一堆金金银
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

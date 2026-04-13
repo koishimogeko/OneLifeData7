@@ -1,4 +1,4 @@
-id=31812
+﻿id=31812
 一碗碳酸钾溶液
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

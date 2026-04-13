@@ -1,5 +1,5 @@
-id=2255
-Large Pulley in Wooden Tongs
+﻿id=2255
+被木钳夹着的大滑轮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

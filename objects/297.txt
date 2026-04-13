@@ -1,5 +1,5 @@
-id=297
-Threshed Wheat#straw removed
+﻿id=297
+脱粒小麦# straw removed
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

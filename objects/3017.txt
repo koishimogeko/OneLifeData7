@@ -1,5 +1,5 @@
-id=3017
-Protected Stack of Photo Paper
+﻿id=3017
+一叠被保护的底片
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

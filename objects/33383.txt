@@ -1,5 +1,5 @@
-id=33383
-Pine Wall# Guard
+﻿id=33383
+松木墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

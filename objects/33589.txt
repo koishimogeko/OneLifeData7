@@ -1,4 +1,4 @@
-id=33589
+﻿id=33589
 Nitric Sulfuric Mixed Acid# Use2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

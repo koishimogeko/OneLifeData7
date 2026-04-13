@@ -1,5 +1,5 @@
-id=33821
-Partial Bucket of Cement
+﻿id=33821
+部分水泥桶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

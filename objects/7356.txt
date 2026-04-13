@@ -1,5 +1,5 @@
-id=7356
-Dry Apple Sapling
+﻿id=7356
+干苹果树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

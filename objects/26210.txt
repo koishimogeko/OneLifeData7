@@ -1,4 +1,4 @@
-id=26210
+﻿id=26210
 未染色的丝线大球 Undyed Big Ball of Silk Yarn
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

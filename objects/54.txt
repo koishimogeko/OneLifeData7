@@ -1,5 +1,5 @@
-id=54
-Milkweed Debris#Flowering
+﻿id=54
+乳草残屑# Flowering
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

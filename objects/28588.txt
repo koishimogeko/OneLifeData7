@@ -1,5 +1,5 @@
-id=28588
-Lamp
+﻿id=28588
+台灯
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

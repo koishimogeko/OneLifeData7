@@ -1,4 +1,4 @@
-id=32828
+﻿id=32828
 @ Pile of Full XXX with Mine Boes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

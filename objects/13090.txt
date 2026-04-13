@@ -1,5 +1,5 @@
-id=13090
-Autumn Lemon Tree in Tree Pit
+﻿id=13090
+树坑里的秋天柠檬树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

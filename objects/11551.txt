@@ -1,5 +1,5 @@
-id=11551
-Mine with Iron #1 #exhausted
+﻿id=11551
+（已过时）铁矿矿井和铁矿# 1级
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

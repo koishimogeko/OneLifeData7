@@ -1,5 +1,5 @@
-id=30075
-Bowl of High HCL+NA2SO4
+﻿id=30075
+一碗高浓度盐酸与硫酸钠溶液
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

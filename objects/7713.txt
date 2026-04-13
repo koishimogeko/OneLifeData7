@@ -1,5 +1,5 @@
-id=7713
-Sack of Sugar #4
+﻿id=7713
+一袋糖# 4
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

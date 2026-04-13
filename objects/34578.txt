@@ -1,5 +1,5 @@
-id=34578
-Sealed Brown Glass Bottle
+﻿id=34578
+密封棕色玻璃瓶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

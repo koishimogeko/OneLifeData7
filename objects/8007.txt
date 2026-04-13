@@ -1,5 +1,5 @@
-id=8007
-Plaster Wall with Glass Pane
+﻿id=8007
+带玻璃板的石膏墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

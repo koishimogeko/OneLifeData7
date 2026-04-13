@@ -1,5 +1,5 @@
-id=1087
-Son Template Grave# origGrave
+﻿id=1087
+儿子的墓碑# origGrave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30684
-Deep Water with Pike# +noHighlight groundOnly
+﻿id=30684
+深水中的梭子鱼# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

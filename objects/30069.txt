@@ -1,5 +1,5 @@
-id=30069
-Mason Jar of High H2SO4# Bubbling
+﻿id=30069
+浓硫酸发泡梅森罐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25062
-Bowl of Rinsed Polished Glutinous Rice
+﻿id=25062
+一碗淘糯米
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

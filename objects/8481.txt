@@ -1,5 +1,5 @@
-id=8481
-Black Plaster Wall with Big Stack of Boards#just placed
+﻿id=8481
+带大堆木板的黑色石膏墙# just placed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

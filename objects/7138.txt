@@ -1,5 +1,5 @@
-id=7138
-Thin Copper Rod #just made
+﻿id=7138
+细铜棒# just made
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30114
-FootBall# 1S
+﻿id=30114
+足球# 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

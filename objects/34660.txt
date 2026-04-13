@@ -1,4 +1,4 @@
-id=34660
+﻿id=34660
 @ Irritable Wolf Hit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

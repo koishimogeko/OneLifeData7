@@ -1,4 +1,4 @@
-id=31965
+﻿id=31965
 淡罗云紫绳捆丝绸
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

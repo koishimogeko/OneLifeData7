@@ -1,5 +1,5 @@
-id=8229
-Shears with Plain Wreath
+﻿id=8229
+带简易花环的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3125
-Elder Removal Receipt
+﻿id=3125
+（已过时）长者搬迁收据
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

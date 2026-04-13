@@ -1,5 +1,5 @@
-id=795
-(outdated) Crowned Captured Horse
+﻿id=795
+（已过时）加冕捕获的马
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=15

@@ -1,5 +1,5 @@
-id=14319
-Horse-Drawn Cart with Tires #black, ground, feather hat
+﻿id=14319
+带轮胎的马车# black, ground, feather hat
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

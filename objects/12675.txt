@@ -1,5 +1,5 @@
-id=12675
-Crates of Cucumbers #3 #Empty
+﻿id=12675
+三箱黄瓜# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

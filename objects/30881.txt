@@ -1,5 +1,5 @@
-id=30881
-Clay Flower with Sunflower 3
+﻿id=30881
+向日葵泥花3
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

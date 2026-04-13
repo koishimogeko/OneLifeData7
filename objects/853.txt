@@ -1,4 +1,4 @@
-id=853
+﻿id=853
 @ Non-tilling Stick
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

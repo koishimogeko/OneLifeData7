@@ -1,5 +1,5 @@
-id=7276
-Silver Key Blank with Lock
+﻿id=7276
+（已过时）带锁的银质钥匙毛坯
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31880
+﻿id=31880
 一锅未烧制玻璃和辅助材料# 2级
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

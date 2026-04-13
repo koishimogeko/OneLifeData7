@@ -1,5 +1,5 @@
-id=9118
-Bear Cave Rubble#4
+﻿id=9118
+熊洞碎石# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

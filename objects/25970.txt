@@ -1,4 +1,4 @@
-id=25970
+﻿id=25970
 石炉和定子冲压模具 Stone Kiln with Stamping Press#Stator insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

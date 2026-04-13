@@ -1,4 +1,4 @@
-id=33599
+﻿id=33599
 Chemical Work Bench with Water# Mason Jar Burette
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=7000
-Fed Domestic Pig #justFed
+﻿id=7000
+喂过的家养猪# 刚刚喂食
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=35024
-Winter Pomelo Tree with Small Cut Stones
+﻿id=35024
+冬柚小切块树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

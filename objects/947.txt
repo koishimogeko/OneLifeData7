@@ -1,5 +1,5 @@
-id=947
-Letter I
+﻿id=947
+字母 I
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

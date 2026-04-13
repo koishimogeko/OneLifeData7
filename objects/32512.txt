@@ -1,5 +1,5 @@
-id=32512
-firing Stone Kiln with Stack of Small Marble Tiles
+﻿id=32512
+燃烧的石炉与小块大理石板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

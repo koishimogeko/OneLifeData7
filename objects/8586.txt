@@ -1,5 +1,5 @@
-id=8586
-Maple Tap with Steel Chisel
+﻿id=8586
+枫木水龙头和钢凿子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

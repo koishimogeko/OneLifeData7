@@ -1,4 +1,4 @@
-id=31746
+﻿id=31746
 焦炭干馏炉# 过度焦化
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

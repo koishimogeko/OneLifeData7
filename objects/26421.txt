@@ -1,4 +1,4 @@
-id=26421
+﻿id=26421
 @ wire WNS just close 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

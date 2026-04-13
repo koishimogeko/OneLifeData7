@@ -1,5 +1,5 @@
-id=28026
-Cut Lily Flowers on Hardened Row # Orange
+﻿id=28026
+被剪下的百合花# Orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34106
-LemonGold# +emotEat_28_10
+﻿id=34106
+科莱蒙柠檬# +emotEat_28_10
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

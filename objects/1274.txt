@@ -1,5 +1,5 @@
-id=1274
-Stump with Goose Head# just left
+﻿id=1274
+放在树桩上的鹅头# just left
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

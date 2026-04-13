@@ -1,5 +1,5 @@
-id=25413
-Cow Mammoth # no pregnant female
+﻿id=25413
+奶牛猛犸# no pregnant female
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=3336
-Blowpipe With Hot Wine Glass
+﻿id=3336
+带热酒杯的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

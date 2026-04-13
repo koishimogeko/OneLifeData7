@@ -1,5 +1,5 @@
-id=465
-Oiled File Blank with Chisel
+﻿id=465
+带凿子的涂油锉坯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

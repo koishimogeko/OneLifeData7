@@ -1,5 +1,5 @@
-id=12026
-Primitive Fishing Pole with Cod#just caught
+﻿id=12026
+原始钓鱼竿与鳕鱼# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

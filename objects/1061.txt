@@ -1,5 +1,5 @@
-id=1061
-Cold Bowl# just inserted
+﻿id=1061
+冷藏容器# just inserted
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32889
-Stack of Fire Opal Mines
+﻿id=32889
+一堆橙蛋白石矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

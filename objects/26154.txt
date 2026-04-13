@@ -1,4 +1,4 @@
-id=26154
+﻿id=26154
 一杯环氧乙烷 
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

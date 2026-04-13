@@ -1,5 +1,5 @@
-id=33298
-Dark Log on Wood Work Bench
+﻿id=33298
+木质工作台上的深色木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

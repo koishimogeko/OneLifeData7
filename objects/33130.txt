@@ -1,5 +1,5 @@
-id=33130
-Bone China Crucibe and Lid Lose
+﻿id=33130
+失败的骨瓷坩埚
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

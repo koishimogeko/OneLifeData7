@@ -1,5 +1,5 @@
-id=33924
-Lead Wire Pile# Use3
+﻿id=33924
+铅丝桩# Use3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

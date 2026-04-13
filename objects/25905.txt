@@ -1,4 +1,4 @@
-id=25905
+﻿id=25905
 带矿组件的冻原铁矿井 Tundra Iron Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=29032
+﻿id=29032
 绣球花 Hydrangea#2
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

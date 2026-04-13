@@ -1,5 +1,5 @@
-id=11808
-Painted Picket Fence Gate#red +blocksMoving +autoDefaultTrans
+﻿id=11808
+彩绘尖桩栅栏门# red +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

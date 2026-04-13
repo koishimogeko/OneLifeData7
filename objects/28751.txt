@@ -1,5 +1,5 @@
-id=28751
-Carbon Based Dry Battery
+﻿id=28751
+碳性干电池
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

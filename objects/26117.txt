@@ -1,4 +1,4 @@
-id=26117
+﻿id=26117
 热细钢棒和热钢锭Hot Thin Steel Rod and Hot Steel Ingot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

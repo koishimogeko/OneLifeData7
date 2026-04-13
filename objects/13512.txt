@@ -1,5 +1,5 @@
-id=13512
-Wood-filled Stone Kiln with Wet Clay Bowls
+﻿id=13512
+带湿粘土碗的木填充石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

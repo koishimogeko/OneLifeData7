@@ -1,5 +1,5 @@
-id=14314
-Smithing Hammer #justRemoved
+﻿id=14314
+锻造锤# 刚刚移除
 containable=1
 containSize=1.000000,vertSlotRot=-0.405000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7052
-Empty Vineyard Plot with Kindling
+﻿id=7052
+空葡萄园地块与引火柴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

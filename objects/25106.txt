@@ -1,5 +1,5 @@
-id=25106
-Dragon Boat #in River
+﻿id=25106
+河中龙舟# in River
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8273
-Perhaps Boar Hit
+﻿id=8273
+也许击中野猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

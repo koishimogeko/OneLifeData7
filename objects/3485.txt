@@ -1,5 +1,5 @@
-id=3485
-Red Bowler Hat with Red Rose
+﻿id=3485
+红玫瑰红色圆顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32662
-Sulfur Water Enrichment Station# 12
+﻿id=32662
+硫水浓缩站# 12
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

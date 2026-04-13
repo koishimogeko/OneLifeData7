@@ -1,5 +1,5 @@
-id=1721
-Hungry Collie Puppy# held
+﻿id=1721
+饥饿的科利犬崽# held
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

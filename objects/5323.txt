@@ -1,5 +1,5 @@
-id=5323
-Milkweed Coins #10
+﻿id=5323
+乳草硬币# 10
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

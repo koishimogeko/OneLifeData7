@@ -1,5 +1,5 @@
-id=33286
-Strangs Alpaca Flag Stand
+﻿id=33286
+斯特朗斯羊驼旗架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2102
-Arctic Char# alive
+﻿id=2102
+北极红点鲑# 活的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

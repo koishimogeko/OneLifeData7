@@ -1,5 +1,5 @@
-id=28564
-Hot Circular Steel  Sheet in Wooden Tongs
+﻿id=28564
+热转子冲压模具在木钳 Hot Circular Steel  Sheet in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

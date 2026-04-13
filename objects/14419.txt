@@ -1,5 +1,5 @@
-id=14419
-Pot of Hot Dirty Bee Wax#cooling
+﻿id=14419
+一壶热脏蜂蜡# cooling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1849
-Buried Grave with Dug Stone# origGrave
+﻿id=1849
+被埋葬的尸体与挖出的扁石# origGrave
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

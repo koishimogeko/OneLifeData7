@@ -1,4 +1,4 @@
-id=32127
+﻿id=32127
 巨石柱# 没有影子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

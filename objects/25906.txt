@@ -1,4 +1,4 @@
-id=25906
+﻿id=25906
 带矿组件的冻原孔雀石和锡矿井 Tundra Malachite and Cassiterite Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

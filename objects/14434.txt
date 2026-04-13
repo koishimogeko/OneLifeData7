@@ -1,5 +1,5 @@
-id=14434
-Ripe Flax Plants#3
+﻿id=14434
+成熟的亚麻植物# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

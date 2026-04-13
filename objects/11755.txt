@@ -1,5 +1,5 @@
-id=11755
-Hand Wagon
+﻿id=11755
+手推车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=13

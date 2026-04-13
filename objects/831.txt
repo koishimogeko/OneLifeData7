@@ -1,5 +1,5 @@
-id=831
-Unstable Bell Tower Base#6.1 monumentStep
+﻿id=831
+不稳定的钟塔基座# 6.1 monumentStep
 containable=0
 containSize=1,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

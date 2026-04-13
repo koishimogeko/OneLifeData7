@@ -1,5 +1,5 @@
-id=14768
-Wooden Barrel with Lotus Cutting
+﻿id=14768
+莲花木桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

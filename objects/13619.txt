@@ -1,5 +1,5 @@
-id=13619
-Pit Stakes with Mixed Cut Stones
+﻿id=13619
+带大堆碎石的木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

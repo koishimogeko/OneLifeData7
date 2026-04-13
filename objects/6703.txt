@@ -1,5 +1,5 @@
-id=6703
-Work Bench#partial
+﻿id=6703
+工作台# 未完成的
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

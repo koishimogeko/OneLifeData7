@@ -1,4 +1,4 @@
-id=26013
+﻿id=26013
 一桶醇酸树脂 Bucket of Alkyd Resin
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

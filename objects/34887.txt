@@ -1,5 +1,5 @@
-id=34887
-Horse-Drawn Wagon# Black Bit
+﻿id=34887
+马车# Black Bit
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

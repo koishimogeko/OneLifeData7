@@ -1,4 +1,4 @@
-id=25923
+﻿id=25923
 冲压机 Newcomen Stamping Press#rotor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=30749
-Deep Water# +noHighlight groundOnly seaweed Pike Fry
+﻿id=30749
+深水中的梭子鱼卵# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

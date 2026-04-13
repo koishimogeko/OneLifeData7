@@ -1,5 +1,5 @@
-id=30154
-Concrete Floor with pile Turquoise
+﻿id=30154
+混凝土地板，带桩绿松石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

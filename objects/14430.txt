@@ -1,5 +1,5 @@
-id=14430
-Harvested Flax
+﻿id=14430
+收获的亚麻
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14503
-Mug of Orange Juice
+﻿id=14503
+一杯橙汁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

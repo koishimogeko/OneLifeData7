@@ -1,5 +1,5 @@
-id=32700
-Mine Ventilators# 5
+﻿id=32700
+矿井通风机# 5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11813
-Painted Picket Fence Gate#white loose
+﻿id=11813
+彩绘栅栏门# white loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

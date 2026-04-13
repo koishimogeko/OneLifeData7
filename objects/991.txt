@@ -1,5 +1,5 @@
-id=991
-Locked Big Sign# $10
+﻿id=991
+锁上的大牌子# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30159
-Pile of Steel Pipes and Three Steel Rods# 3S
+﻿id=30159
+钢管和三根钢条桩
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

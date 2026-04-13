@@ -1,5 +1,5 @@
-id=14231
-Copper Pipe #TS #SW #justGone
+﻿id=14231
+铜管# TS SW justGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33790
-Firing Twin Furnace Cipola with Soda Stone Block
+﻿id=33790
+用苏打石块烧制Cipola双炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

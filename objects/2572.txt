@@ -1,5 +1,5 @@
-id=2572
-Bowl of Soda Lime Mixture
+﻿id=2572
+一碗碱石灰混合物
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

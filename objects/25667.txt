@@ -1,5 +1,5 @@
-id=25667
-Cooked Snowy Moon Cake Crust
+﻿id=25667
+一盘熟冰皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

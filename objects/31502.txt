@@ -1,4 +1,4 @@
-id=31502
+﻿id=31502
 铁砧上的黄铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

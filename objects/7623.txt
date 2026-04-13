@@ -1,5 +1,5 @@
-id=7623
-Full Crates of Cactus Fruit #2
+﻿id=7623
+两箱仙人掌果
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

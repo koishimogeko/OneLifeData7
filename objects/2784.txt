@@ -1,5 +1,5 @@
-id=2784
-Ashes with Bowl of Raw Sugar
+﻿id=2784
+灰烬上的一碗粗制糖
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

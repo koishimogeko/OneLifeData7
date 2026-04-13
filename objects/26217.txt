@@ -1,4 +1,4 @@
-id=26217
+﻿id=26217
 带金圈的绿色长裙 Green Long Dress with Hoops
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

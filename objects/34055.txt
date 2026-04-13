@@ -1,4 +1,4 @@
-id=34055
+﻿id=34055
 Bowl of Weed Seeds
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

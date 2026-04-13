@@ -1,5 +1,5 @@
-id=25484
-Brick Wall  with Windowsill  and Pillow # +noBackAccess
+﻿id=25484
+砖墙，带窗台和枕头# +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4568
-Flowering Milkweed#bee
+﻿id=4568
+开花的草# bee
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

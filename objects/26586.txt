@@ -1,4 +1,4 @@
-id=26586
+﻿id=26586
 湿的发芽的椰子 Wet Sprouted Coconut
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

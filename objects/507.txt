@@ -1,4 +1,4 @@
-id=507
+﻿id=507
 @ Diggable Live Berry Bush
 containable=0
 containSize=1,vertSlotRot=0.000000

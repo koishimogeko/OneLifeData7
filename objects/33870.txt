@@ -1,5 +1,5 @@
-id=33870
-Grass with Straws
+﻿id=33870
+草与稻草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11874
-Caged White Cat
+﻿id=11874
+关在笼子里的白猫
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

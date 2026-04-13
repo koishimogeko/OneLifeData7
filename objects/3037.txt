@@ -1,5 +1,5 @@
-id=3037
-Exhausted Newcomen Pump# no beam
+﻿id=3037
+枯竭的纽科门蒸汽泵# no beam
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

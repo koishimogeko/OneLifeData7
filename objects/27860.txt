@@ -1,4 +1,4 @@
-id=27860
+﻿id=27860
 空的郁金香花丛 Empty Tulip Flower Cluster with Big Seed Ball# Yellow 2s
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

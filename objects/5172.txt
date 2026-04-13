@@ -1,5 +1,5 @@
-id=5172
-Banner# lucky
+﻿id=5172
+横幅# 幸运
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

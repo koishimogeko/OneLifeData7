@@ -1,5 +1,5 @@
-id=6713
-Sewing Machine#bear thread
+﻿id=6713
+缝纫机# 熊旗卷和线
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

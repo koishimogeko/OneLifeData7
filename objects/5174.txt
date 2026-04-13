@@ -1,5 +1,5 @@
-id=5174
-Banner# common
+﻿id=5174
+横幅# 英联邦
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

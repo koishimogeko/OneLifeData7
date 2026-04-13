@@ -1,5 +1,5 @@
-id=11598
-Bronze Froe Head
+﻿id=11598
+青铜楔刀片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

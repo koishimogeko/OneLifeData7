@@ -1,4 +1,4 @@
-id=27651
+﻿id=27651
 百合花丛和小种球 Lily Flower Cluster with Small Seed Ball# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

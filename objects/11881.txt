@@ -1,5 +1,5 @@
-id=11881
-Bear Skin with Cotton
+﻿id=11881
+熊皮棉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

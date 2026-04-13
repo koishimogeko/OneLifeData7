@@ -1,5 +1,5 @@
-id=14587
-Fox House Flag Stand
+﻿id=14587
+狐狸屋旗架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

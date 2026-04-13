@@ -1,5 +1,5 @@
-id=8907
-Stack of Small Marble Tiles
+﻿id=8907
+一堆小大理石瓷砖
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

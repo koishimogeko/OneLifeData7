@@ -1,4 +1,4 @@
-id=27597
+﻿id=27597
 剪过枝的岛锦牡丹 Cut Island Brocade Peony Flowers
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6767
-Fishing Pot#in water
+﻿id=6767
+捕捞笼# 在水里
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

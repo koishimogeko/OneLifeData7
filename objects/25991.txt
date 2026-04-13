@@ -1,4 +1,4 @@
-id=25991
+﻿id=25991
 硅锭 Silicon Ingot
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

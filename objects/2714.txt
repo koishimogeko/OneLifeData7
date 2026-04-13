@@ -1,5 +1,5 @@
-id=2714
-Fed Domestic Lamb with Rope#post hungry
+﻿id=2714
+喂过的家养羊羔与绳子# post hungry
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

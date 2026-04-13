@@ -1,5 +1,5 @@
-id=13549
-Huge Coke Pile
+﻿id=13549
+巨大的焦炭堆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

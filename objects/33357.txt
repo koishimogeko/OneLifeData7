@@ -1,5 +1,5 @@
-id=33357
-Hedge Wall# Guard
+﻿id=33357
+篱笆墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

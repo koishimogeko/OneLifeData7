@@ -1,4 +1,4 @@
-id=34175
+﻿id=34175
 Pomelo on Plate
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

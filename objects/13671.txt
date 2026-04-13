@@ -1,5 +1,5 @@
-id=13671
-Blank Sand Mold
+﻿id=13671
+毛坯砂型
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

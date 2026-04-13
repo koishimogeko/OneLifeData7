@@ -1,5 +1,5 @@
-id=30948
-Roast Pig Dinner on China Long Plate
+﻿id=30948
+骨瓷长板上的烤猪晚餐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

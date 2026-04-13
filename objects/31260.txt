@@ -1,5 +1,5 @@
-id=31260
-湿陶瓷坩埚
+﻿id=31260
+湿骨瓷坩埚# 70%
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=12

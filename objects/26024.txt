@@ -1,4 +1,4 @@
-id=26024
+﻿id=26024
 涂漆转子叠片堆 Varnished Rotor Lamination Stack
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

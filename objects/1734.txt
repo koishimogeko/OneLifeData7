@@ -1,5 +1,5 @@
-id=1734
-Hungry Dachshund Puppy
+﻿id=1734
+饥饿的腊肠犬崽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

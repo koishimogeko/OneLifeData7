@@ -1,5 +1,5 @@
-id=8001
-Pine Wall with Glass Pane
+﻿id=8001
+带玻璃板的松木墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

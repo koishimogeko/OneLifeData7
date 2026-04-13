@@ -1,5 +1,5 @@
-id=13429
-Brewery with Hot Water
+﻿id=13429
+啤酒厂提供热水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

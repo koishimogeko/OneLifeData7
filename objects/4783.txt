@@ -1,5 +1,5 @@
-id=4783
-Cooked Flapjacks #3 honeyed
+﻿id=4783
+熟煎饼# 3 honeyed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

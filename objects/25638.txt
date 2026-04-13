@@ -1,5 +1,5 @@
-id=25638
-Filled Hole with Worms and Soil  # crow eat out left seed
+﻿id=25638
+蠕虫与填过土的松软地# 留下种子的鸟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=499
-Hot Steel Shovel Head on Anvil
+﻿id=499
+铁砧上的热钢铲头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

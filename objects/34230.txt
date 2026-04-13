@@ -1,5 +1,5 @@
-id=34230
-Thicket with Worm
+﻿id=34230
+灌木丛和蚯蚓
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

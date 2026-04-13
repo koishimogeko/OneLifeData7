@@ -1,4 +1,4 @@
-id=30760
+﻿id=30760
 @ Bamboo Net with Fish# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

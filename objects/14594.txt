@@ -1,5 +1,5 @@
-id=14594
-Fed Shorn Domestic Sheep #fromTrough
+﻿id=14594
+剪毛家羊# fromTrough
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

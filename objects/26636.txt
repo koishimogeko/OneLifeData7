@@ -1,4 +1,4 @@
-id=26636
+﻿id=26636
 @ Electrical appliances powered NNN
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

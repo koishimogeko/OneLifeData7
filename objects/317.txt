@@ -1,5 +1,5 @@
-id=317
-Crucible with Iron
+﻿id=317
+装着锻铁的坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

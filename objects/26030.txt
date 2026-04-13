@@ -1,4 +1,4 @@
-id=26030
+﻿id=26030
 涂漆定子叠片堆 Varnished Stator Lamination Stack
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

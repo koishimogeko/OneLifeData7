@@ -1,4 +1,4 @@
-id=31877
+﻿id=31877
 一锅石英砂和生石灰
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

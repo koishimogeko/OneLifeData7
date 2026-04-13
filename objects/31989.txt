@@ -1,4 +1,4 @@
-id=31989
+﻿id=31989
 @ 黄铜鱼竿鱼获概率
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

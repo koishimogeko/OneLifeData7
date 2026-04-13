@@ -1,5 +1,5 @@
-id=1180
-Bowl of Soaking Beans
+﻿id=1180
+一碗正在浸泡的豆子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

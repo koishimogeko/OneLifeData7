@@ -1,5 +1,5 @@
-id=30308
-Rotary Bottling plant# noHighlight UnPowerlever
+﻿id=30308
+旋转式装瓶厂# noHighlight UnPowerlever
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28630
-Steel Saw#W just repaired
+﻿id=28630
+钢锯轮# W just repaired
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

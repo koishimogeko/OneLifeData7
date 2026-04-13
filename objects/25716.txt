@@ -1,5 +1,5 @@
-id=25716
-Stack of Granite Tiles with Chisel
+﻿id=25716
+用凿子堆叠花岗岩瓷砖
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

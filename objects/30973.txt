@@ -1,5 +1,5 @@
-id=30973
-Copper Pipe# WS ES Water
+﻿id=30973
+铜管# WS ES Water
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

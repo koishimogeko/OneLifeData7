@@ -1,5 +1,5 @@
-id=32614
-Glycerol,Thin Springs,Brass Body on Work Bench
+﻿id=32614
+工作台上的细弹簧和一杯甘油与黄铜阀体
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

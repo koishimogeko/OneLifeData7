@@ -1,5 +1,5 @@
-id=7497
-Small Arrow N Sign
+﻿id=7497
+小箭头N标志
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

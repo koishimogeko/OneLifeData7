@@ -1,5 +1,5 @@
-id=30113
-Pile of Steel Pipes and Three Steel Rods and also Steel wire
+﻿id=30113
+钢管、三根钢条和钢丝桩
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

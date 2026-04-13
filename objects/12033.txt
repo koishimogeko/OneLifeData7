@@ -1,5 +1,5 @@
-id=12033
-Backpack with Primitive Hookless Fishing Pole
+﻿id=12033
+带原始无钩钓鱼竿的背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

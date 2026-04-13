@@ -1,5 +1,5 @@
-id=11734
-Horse #dappled,foal
+﻿id=11734
+马# dappled,foal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

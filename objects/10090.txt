@@ -1,5 +1,5 @@
-id=10090
-Sliced Pizza
+﻿id=10090
+切成片的披萨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

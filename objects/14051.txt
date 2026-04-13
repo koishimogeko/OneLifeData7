@@ -1,5 +1,5 @@
-id=14051
-Corner Brick Half Wall Blueprint
+﻿id=14051
+角砖半墙蓝图
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

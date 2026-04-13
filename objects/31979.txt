@@ -1,4 +1,4 @@
-id=31979
+﻿id=31979
 钓上北极红点鲑的黄铜钓竿# 存活
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

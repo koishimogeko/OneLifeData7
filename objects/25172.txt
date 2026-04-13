@@ -1,5 +1,5 @@
-id=25172
-Dark Bishop on Wood Work Bench
+﻿id=25172
+工作台上的深色象
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

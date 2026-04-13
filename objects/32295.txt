@@ -1,5 +1,5 @@
-id=32295
-Dry Oil Palm# No palm leaves
+﻿id=32295
+干油棕# 无棕榈叶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

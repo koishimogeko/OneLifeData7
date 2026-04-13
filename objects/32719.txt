@@ -1,5 +1,5 @@
-id=32719
-Small Pulley with Steel Sheets
+﻿id=32719
+小滑轮与两块钢板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25564
-Dry Chrysanthemum Seedling
+﻿id=25564
+干燥的蓝菊花幼苗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

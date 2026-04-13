@@ -1,5 +1,5 @@
-id=30103
-Football Net Frame# West
+﻿id=30103
+足球网框架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

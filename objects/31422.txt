@@ -1,4 +1,4 @@
-id=31422
+﻿id=31422
 玻璃切割台和废砂纸# 没有煤油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=33535
-Limestone with Mine Box
+﻿id=33535
+一箱未满石灰石
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

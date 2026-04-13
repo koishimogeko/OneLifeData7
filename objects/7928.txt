@@ -1,5 +1,5 @@
-id=7928
-Plastered Floor# groundOnly
+﻿id=7928
+抹灰地板# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

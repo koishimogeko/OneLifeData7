@@ -1,5 +1,5 @@
-id=1376
-Medical Apron
+﻿id=1376
+医用围裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

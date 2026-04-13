@@ -1,4 +1,4 @@
-id=26299
+﻿id=26299
 @ wire on floor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

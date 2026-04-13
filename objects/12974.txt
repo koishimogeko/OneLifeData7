@@ -1,5 +1,5 @@
-id=12974
-Collie #holdingWildCarrot
+﻿id=12974
+牧羊犬# holdingWildCarrot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

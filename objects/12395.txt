@@ -1,5 +1,5 @@
-id=12395
-Pink Jacket #justremoved
+﻿id=12395
+粉红色夹克# justremoved
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

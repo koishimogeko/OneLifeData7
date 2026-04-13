@@ -1,5 +1,5 @@
-id=12949
-German Shepherd #holdingBurdock
+﻿id=12949
+德国牧羊犬# holdingBurdock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

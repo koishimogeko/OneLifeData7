@@ -1,5 +1,5 @@
-id=12330
-Green Jacket on Hanger
+﻿id=12330
+衣架上的绿色夹克
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

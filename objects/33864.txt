@@ -1,5 +1,5 @@
-id=33864
-Firing Twin Furnace Cipola with Clay Match# Use1
+﻿id=33864
+用粘土火柴烧制Cipola双炉# Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

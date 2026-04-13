@@ -1,5 +1,5 @@
-id=6844
-Stack of Wooden Disks
+﻿id=6844
+一叠圆木片
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

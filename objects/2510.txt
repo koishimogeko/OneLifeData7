@@ -1,5 +1,5 @@
-id=2510
-Unforged Copper Crucible in Wooden Tongs
+﻿id=2510
+被木钳夹着的未熔炼铜坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

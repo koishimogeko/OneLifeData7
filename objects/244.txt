@@ -1,5 +1,5 @@
-id=244
-Wheat Stumps
+﻿id=244
+小麦残桩
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8712
-Bronze Axe
+﻿id=8712
+青铜斧头
 containable=1
 containSize=1.900000,vertSlotRot=-0.415000
 permanent=0,minPickupAge=3

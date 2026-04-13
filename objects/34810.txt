@@ -1,5 +1,5 @@
-id=34810
-Blue-Gray Smoke Bombs and Bowl on Work Bench
+﻿id=34810
+蓝灰色烟雾弹和工作台上的碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

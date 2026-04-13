@@ -1,5 +1,5 @@
-id=740
-Red Wool Booty
+﻿id=740
+玫瑰色羊毛鞋
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=5177
-Banner# ivory
+﻿id=5177
+横幅# 象牙
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

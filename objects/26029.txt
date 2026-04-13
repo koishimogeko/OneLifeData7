@@ -1,4 +1,4 @@
-id=26029
+﻿id=26029
 带滑环的转子 Rotor with Slip Rings
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

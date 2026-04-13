@@ -1,5 +1,5 @@
-id=34996
-Wooden Barrel with Sardines
+﻿id=34996
+装有沙丁鱼的木桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

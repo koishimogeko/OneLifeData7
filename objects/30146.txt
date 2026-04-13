@@ -1,5 +1,5 @@
-id=30146
-Basket of Amethysts
+﻿id=30146
+一篮紫水晶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

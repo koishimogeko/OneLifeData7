@@ -1,4 +1,4 @@
-id=25904
+﻿id=25904
 带矿组件的冻原铜矿井 Tundra Copper Mine with Diesel Mining Kit #3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

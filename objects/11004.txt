@@ -1,5 +1,5 @@
-id=11004
-Light Firewood #onGround
+﻿id=11004
+浅色木柴# onGround
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

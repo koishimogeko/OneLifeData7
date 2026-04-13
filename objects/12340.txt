@@ -1,5 +1,5 @@
-id=12340
-Green Dress Skirt
+﻿id=12340
+绿色连衣裙裙子
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

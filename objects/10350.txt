@@ -1,5 +1,5 @@
-id=10350
-Budding Corn Flower
+﻿id=10350
+含苞待放的矢车菊
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

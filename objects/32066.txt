@@ -1,4 +1,4 @@
-id=32066
+﻿id=32066
 @ 釉烧 点火 关门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=26599
+﻿id=26599
 可可剪 Shears with Cocoa Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

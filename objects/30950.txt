@@ -1,5 +1,5 @@
-id=30950
-Pig Bones on China Long Plate
+﻿id=30950
+骨瓷长板上的猪骨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26310
+﻿id=26310
 @ wire NS just open
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

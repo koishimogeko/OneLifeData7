@@ -1,4 +1,4 @@
-id=35057
+﻿id=35057
 Glass Tee Pipe
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

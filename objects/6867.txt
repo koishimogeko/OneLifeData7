@@ -1,5 +1,5 @@
-id=6867
-Bucket of Sandcastle Sand
+﻿id=6867
+一桶沙堡沙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

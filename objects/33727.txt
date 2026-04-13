@@ -1,5 +1,5 @@
-id=33727
-Twin Furnace Cupola# 6
+﻿id=33727
+双炉冲天炉# 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

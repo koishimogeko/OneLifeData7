@@ -1,5 +1,5 @@
-id=30944
-Spoon# 非食用用途
+﻿id=30944
+勺子# 非食用用途
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

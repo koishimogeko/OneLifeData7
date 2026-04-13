@@ -1,5 +1,5 @@
-id=25456
-Wooden Wall  with Windowsill # catSitting +noBackAccess
+﻿id=25456
+带窗台的木墙# catSitting +noBackAccess
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

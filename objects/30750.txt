@@ -1,5 +1,5 @@
-id=30750
-Deep Water with ArcticChar# +noHighlight groundOnly breed
+﻿id=30750
+北极红点鲑与海藻# 产卵中 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

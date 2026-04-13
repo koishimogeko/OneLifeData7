@@ -1,5 +1,5 @@
-id=33074
-Albite Powder with Quartz# Water
+﻿id=33074
+钠长石粉加石英# 水
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

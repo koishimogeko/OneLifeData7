@@ -1,5 +1,5 @@
-id=10722
-Black Cat #fed
+﻿id=10722
+黑猫# fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

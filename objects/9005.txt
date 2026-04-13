@@ -1,5 +1,5 @@
-id=9005
-Poorly Butchered Mouflon
+﻿id=9005
+屠宰的盘羊
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

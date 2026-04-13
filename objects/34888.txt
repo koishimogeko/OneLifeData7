@@ -1,5 +1,5 @@
-id=34888
-Horse-Drawn Wagon# Dappled Ground
+﻿id=34888
+马车# Dappled Ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

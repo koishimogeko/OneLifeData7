@@ -1,4 +1,4 @@
-id=30977
+﻿id=30977
 @ Installed Confluence Pattem
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

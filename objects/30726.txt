@@ -1,5 +1,5 @@
-id=30726
-Trout on Flat Rock# fish eggs
+﻿id=30726
+平坦岩石上的鳟鱼# fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

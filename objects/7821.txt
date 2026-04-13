@@ -1,5 +1,5 @@
-id=7821
-Fill Station #S #full #flow
+﻿id=7821
+加油站# S full flow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

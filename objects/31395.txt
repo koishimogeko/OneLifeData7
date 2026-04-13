@@ -1,4 +1,4 @@
-id=31395
+﻿id=31395
 金工工作台# 3 桌# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

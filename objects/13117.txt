@@ -1,5 +1,5 @@
-id=13117
-Staked Winter Orange Tree
+﻿id=13117
+带木桩的冬季橙树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

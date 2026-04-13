@@ -1,5 +1,5 @@
-id=7902
-Large Tank
+﻿id=7902
+大型储罐
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=13

@@ -1,5 +1,5 @@
-id=768
-Cactus Fruit
+﻿id=768
+仙人掌果肉
 containable=1
 containSize=1,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

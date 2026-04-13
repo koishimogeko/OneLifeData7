@@ -1,5 +1,5 @@
-id=9075
-Camping Stove Frame on Ashes
+﻿id=9075
+灰烬上的野营炉架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

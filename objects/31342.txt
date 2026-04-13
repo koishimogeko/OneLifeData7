@@ -1,4 +1,4 @@
-id=31342
+﻿id=31342
 钢砧上的铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

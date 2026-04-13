@@ -1,5 +1,5 @@
-id=32610
-Sulfur Water Enrichment Station# 6
+﻿id=32610
+硫水浓缩站# 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

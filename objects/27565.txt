@@ -1,4 +1,4 @@
-id=27565
+﻿id=27565
 砖钟塔 Brick Bell Tower # building
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

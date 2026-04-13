@@ -1,5 +1,5 @@
-id=13228
-East-West Arch Stakes with Holes
+﻿id=13228
+东西拱门孔木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=226
-Threshed Wheat
+﻿id=226
+脱粒小麦
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13829
-Copper Mine with Native Copper #3
+﻿id=13829
+3级原生铜矿井和原生铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=35157
+﻿id=35157
 Firing Double Chamber Furnace with Soda Use2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

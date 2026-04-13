@@ -1,5 +1,5 @@
-id=33267
-Camping Stove with Eggs
+﻿id=33267
+带鸡蛋的露营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4101
-Empty Tank Stack
+﻿id=4101
+一堆空油罐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

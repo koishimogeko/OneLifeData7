@@ -1,5 +1,5 @@
-id=8182
-Garland Stone Fireplace with Kindling#stockings #eveHomeMarker
+﻿id=8182
+带引火柴的花环石壁炉# stockings eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

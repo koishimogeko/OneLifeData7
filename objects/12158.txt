@@ -1,5 +1,5 @@
-id=12158
-Black Cotton Short Dress
+﻿id=12158
+黑色棉质短连衣裙
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

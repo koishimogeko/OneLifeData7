@@ -1,5 +1,5 @@
-id=32388
-Bowl of Red Slaked Lime
+﻿id=32388
+一碗红色熟石灰
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

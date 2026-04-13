@@ -1,4 +1,4 @@
-id=33690
+﻿id=33690
 Watchtower# Close Scope (41*41)
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

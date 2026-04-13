@@ -1,4 +1,4 @@
-writeFailed "错误：游戏文件夹是只读的"
+﻿writeFailed "错误：游戏文件夹是只读的"
 measuringFPS "检测最大帧率"
 vsyncWarning "警告：垂直同步已禁用"
 vsyncWarning2 "（可能会出现画面撕裂）"

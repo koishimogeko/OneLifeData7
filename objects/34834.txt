@@ -1,4 +1,4 @@
-id=34834
+﻿id=34834
 @ Bear with Adobe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

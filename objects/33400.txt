@@ -1,5 +1,5 @@
-id=33400
-Light Wooden Wall# +useOnContained Guard
+﻿id=33400
+浅色木墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

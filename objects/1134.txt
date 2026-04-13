@@ -1,5 +1,5 @@
-id=1134
-Vigorous Domestic Gooseberry Bush
+﻿id=1134
+蓬勃的家栽醋栗丛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

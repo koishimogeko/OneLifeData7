@@ -1,5 +1,5 @@
-id=34712
-Open Purple Smoke Bomb
+﻿id=34712
+打开紫色烟雾弹
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

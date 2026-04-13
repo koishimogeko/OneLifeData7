@@ -1,5 +1,5 @@
-id=8752
-Water Hole with Rice#noHighlight
+﻿id=8752
+水坑和稻子# noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26022
+﻿id=26022
 涂漆转子叠片 Varnished Rotor Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

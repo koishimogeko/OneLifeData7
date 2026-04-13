@@ -1,5 +1,5 @@
-id=30108
-Football Net# East M
+﻿id=30108
+足球网# East M
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

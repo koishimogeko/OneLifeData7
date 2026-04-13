@@ -1,4 +1,4 @@
-id=31370
+﻿id=31370
 长钢桌# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

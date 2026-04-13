@@ -1,5 +1,5 @@
-id=30587
-Spoon of Sulfur
+﻿id=30587
+一勺硫磺
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=6404
-Loom with Cut Cotton Cloth
+﻿id=6404
+织布机和裁剪棉布
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

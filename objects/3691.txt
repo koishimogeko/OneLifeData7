@@ -1,5 +1,5 @@
-id=3691
-Bowl of Ultramarine Pigment# justMade
+﻿id=3691
+碗蓝色颜料# justMade
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7715
-Bowl of Salt #just scooped
+﻿id=7715
+一碗盐# just scooped
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

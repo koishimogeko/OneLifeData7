@@ -1,5 +1,5 @@
-id=12017
-Perhaps Field Maple with Branch
+﻿id=12017
+也许是带树枝的田枫
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

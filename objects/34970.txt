@@ -1,5 +1,5 @@
-id=34970
-Shallow Water with Kindling Pile# +noHighlight
+﻿id=34970
+浅水带火堆# +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

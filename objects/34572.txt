@@ -1,5 +1,5 @@
-id=34572
-Crock of Muhrooms Soy Sauce
+﻿id=34572
+蘑菇酱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

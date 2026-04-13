@@ -1,4 +1,4 @@
-id=26351
+﻿id=26351
 @ wire NES
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

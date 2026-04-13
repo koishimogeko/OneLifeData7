@@ -1,5 +1,5 @@
-id=12679
-Full Crate of Beets
+﻿id=12679
+一箱甜菜
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

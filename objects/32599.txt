@@ -1,5 +1,5 @@
-id=32599
-Powder Thread
+﻿id=32599
+炸药引线
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

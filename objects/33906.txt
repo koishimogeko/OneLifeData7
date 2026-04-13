@@ -1,5 +1,5 @@
-id=33906
-Wet Pomelo Sapling
+﻿id=33906
+湿柚子树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

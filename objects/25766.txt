@@ -1,5 +1,5 @@
-id=25766
-Perhaps a Fishing Pole with Fish # 活动专用
+﻿id=25766
+也许是一根带鱼的钓竿# 活动专用
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

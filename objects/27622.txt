@@ -1,4 +1,4 @@
-id=27622
+﻿id=27622
 紫藤树树苗 Wisteria Sapling
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

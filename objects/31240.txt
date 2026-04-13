@@ -1,5 +1,5 @@
-id=31240
-骨瓷黏土和线圈
+﻿id=31240
+骨瓷粘土和长条骨瓷黏土
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

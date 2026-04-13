@@ -1,5 +1,5 @@
-id=538
-Dead Mouflon#no arrow
+﻿id=538
+盘羊尸体# no arrow
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

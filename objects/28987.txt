@@ -1,5 +1,5 @@
-id=28987
-Blossom Tree with Small Cut Stones #justMade
+﻿id=28987
+带小切石的花树# 刚刚制作
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

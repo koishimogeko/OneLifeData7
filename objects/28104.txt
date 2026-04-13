@@ -1,5 +1,5 @@
-id=28104
-Wooden Flowerpot#Middle
+﻿id=28104
+木制花盆# Middle
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

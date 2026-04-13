@@ -1,5 +1,5 @@
-id=8169
-Garland Stone Fireplace with Kindling Tinder #eveHomeMarker
+﻿id=8169
+带引火柴和火种的花环石壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

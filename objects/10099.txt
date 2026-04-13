@@ -1,5 +1,5 @@
-id=10099
-Cooking Fish Stew
+﻿id=10099
+正在烹饪的炖鱼骨汤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32628
-Ladle Cart of Molten Steel and Block Mold
+﻿id=32628
+钢包车和钢材模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

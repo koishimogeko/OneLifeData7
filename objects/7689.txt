@@ -1,5 +1,5 @@
-id=7689
-Wattle Wall with Shaft
+﻿id=7689
+荆条墙和长直木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

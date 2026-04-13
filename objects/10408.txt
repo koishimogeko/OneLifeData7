@@ -1,5 +1,5 @@
-id=10408
-Sealed Empty Wine Bottle
+﻿id=10408
+密封的空酒瓶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

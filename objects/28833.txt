@@ -1,5 +1,5 @@
-id=28833
-Light Post #3 on,S
+﻿id=28833
+灯柱 #3 开,S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

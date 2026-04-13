@@ -1,5 +1,5 @@
-id=11858
-Mason Jar with Pickled Beets
+﻿id=11858
+梅森罐与腌甜菜
 containable=1
 containSize=1.000000,vertSlotRot=0.750000
 permanent=0,minPickupAge=3

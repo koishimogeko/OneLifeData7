@@ -1,5 +1,5 @@
-id=30954
-Copper Pipe# WN EN justInstalled
+﻿id=30954
+铜管# WN EN justInstalled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

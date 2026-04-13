@@ -1,5 +1,5 @@
-id=32869
-Rock Ore Identification Work Bench# 4
+﻿id=32869
+矿物鉴定台# 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

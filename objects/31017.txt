@@ -1,5 +1,5 @@
-id=31017
-Cast Fishing Pole# fish feed 3
+﻿id=31017
+铸造钓鱼竿# fish feed 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

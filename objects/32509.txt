@@ -1,5 +1,5 @@
-id=32509
-Stone Kiln with Stack of Small Marble Tiles# black kindling
+﻿id=32509
+石炉与小块大理石板# 黑白 细柴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

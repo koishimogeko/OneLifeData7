@@ -1,5 +1,5 @@
-id=8998
-Beaver Fur
+﻿id=8998
+海狸毛皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

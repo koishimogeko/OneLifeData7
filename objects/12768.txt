@@ -1,5 +1,5 @@
-id=12768
-Traveling Oil #S
+﻿id=12768
+旅行油# S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32530
-Plate of Peeled Pear
+﻿id=32530
+盘子里去皮的梨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

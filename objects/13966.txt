@@ -1,5 +1,5 @@
-id=13966
-Hot Cast Iron Pan with Raw Rabbit
+﻿id=13966
+热铁锅和兔肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2137
-Slashed Rubber Tree with Bucket
+﻿id=2137
+正在接乳胶的橡胶树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

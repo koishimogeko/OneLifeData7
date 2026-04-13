@@ -1,5 +1,5 @@
-id=10300
-Dry England Ivy Sprout
+﻿id=10300
+干英格兰常春藤芽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

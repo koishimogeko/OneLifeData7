@@ -1,4 +1,4 @@
-id=29058
+﻿id=29058
 @ wooden flowerpot with soil#sunflower and hydrangea
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=12838
-Copper Sprinkler #EW #oilLeaking
+﻿id=12838
+铜喷头# EW oilLeaking
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

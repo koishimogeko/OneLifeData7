@@ -1,5 +1,5 @@
-id=600
-Domestic Sheep with Lamb
+﻿id=600
+家养绵羊与羔羊
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

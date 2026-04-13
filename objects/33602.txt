@@ -1,4 +1,4 @@
-id=33602
+﻿id=33602
 @ Applied Fertilizer
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

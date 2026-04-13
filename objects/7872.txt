@@ -1,5 +1,5 @@
-id=7872
-Copper Pipe #SW #justInstalled
+﻿id=7872
+铜管# SW justInstalled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=32524
-Wet Fertile Pear Tree
+﻿id=32524
+湿润肥沃的梨树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

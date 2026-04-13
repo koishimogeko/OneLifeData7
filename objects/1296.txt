@@ -1,5 +1,5 @@
-id=1296
-Stack of Bean Burritos# just Made
+﻿id=1296
+一叠热豆子卷饼# just Made
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

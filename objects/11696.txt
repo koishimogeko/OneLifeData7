@@ -1,5 +1,5 @@
-id=11696
-(outdated) Mine Shaft #exhausted dynamite
+﻿id=11696
+（已过时）#exhausted dynamite
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

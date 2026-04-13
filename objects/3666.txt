@@ -1,5 +1,5 @@
-id=3666
-Sealed Palm Oil Bottle
+﻿id=3666
+密封的一瓶棕榈油
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

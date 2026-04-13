@@ -1,4 +1,4 @@
-id=25974
+﻿id=25974
 热的定子冲压模具 Hot Stamping Press#Stator quenching
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

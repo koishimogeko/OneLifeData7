@@ -1,5 +1,5 @@
-id=10244
-Lined Copper Pot with Tin Ingot in Tongs
+﻿id=10244
+被木钳夹着的无内衬铜锅和锡锭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

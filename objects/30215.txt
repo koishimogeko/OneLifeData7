@@ -1,5 +1,5 @@
-id=30215
-Small snowdrifts with Coconut# Mango Lemon Grape
+﻿id=30215
+椰子芒果柠檬葡萄小雪堆# Mango Lemon Grape
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

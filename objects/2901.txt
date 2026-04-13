@@ -1,4 +1,4 @@
-id=2901
+﻿id=2901
 @ Dyed Red Item Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

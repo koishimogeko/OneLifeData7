@@ -1,5 +1,5 @@
-id=11558
-Mine with Cassiterite #1
+﻿id=11558
+1级矿井和锡矿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

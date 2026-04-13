@@ -1,5 +1,5 @@
-id=33055
-被插起的一锅未烧制玻璃和辅助材料# 3级
+﻿id=33055
+被插起的一锅未烧制玻璃和辅助材料# 4级
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

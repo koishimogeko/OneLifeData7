@@ -1,5 +1,5 @@
-id=2291
-Steel Piston Blank
+﻿id=2291
+钢活塞毛坯
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

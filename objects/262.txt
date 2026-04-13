@@ -1,5 +1,5 @@
-id=262
-Bowl of Rabbit and Carrot
+﻿id=262
+一碗兔肉和胡萝卜
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

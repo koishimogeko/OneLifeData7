@@ -1,4 +1,4 @@
-id=26046
+﻿id=26046
 柴油发电机 Diesel Generator#just build
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

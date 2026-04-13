@@ -1,5 +1,5 @@
-id=34022
-Flower Pot of Stack# Use3
+﻿id=34022
+堆叠花盆# Use3
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

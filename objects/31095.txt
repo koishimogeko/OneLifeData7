@@ -1,5 +1,5 @@
-id=31095
-Tarry Spot#bitumen Does not refresh
+﻿id=31095
+塔里斑点#bitumen Does not refresh
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

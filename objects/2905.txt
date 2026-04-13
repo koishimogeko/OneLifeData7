@@ -1,4 +1,4 @@
-id=2905
+﻿id=2905
 @ Dyed Black Item Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

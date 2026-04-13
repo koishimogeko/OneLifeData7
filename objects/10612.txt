@@ -1,5 +1,5 @@
-id=10612
-Copper Coil
+﻿id=10612
+（已过时）铜线圈
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

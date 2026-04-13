@@ -1,5 +1,5 @@
-id=33568
-Hydrothermal Oredeposits# Level2 Hot 1S
+﻿id=33568
+热液矿床# 2级 热 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

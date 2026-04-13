@@ -1,5 +1,5 @@
-id=32605
-Chemical Work Bench with Beaker of Mercury Mixed and Nitric Acid
+﻿id=32605
+化学实验台与硝酸汞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

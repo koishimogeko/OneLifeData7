@@ -1,5 +1,5 @@
-id=31258
-Stone Furnace with Bone Crucibe and Lid
+﻿id=31258
+熔炉中上釉的骨瓷坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

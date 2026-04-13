@@ -1,5 +1,5 @@
-id=30059
-FootBall# 7 kick Big Feet 2
+﻿id=30059
+足球l# 7 kick Big Feet 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

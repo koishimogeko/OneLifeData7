@@ -1,4 +1,4 @@
-id=33575
+﻿id=33575
 Wheeled Hand Cart with 3D Chess Projector
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=12114
-Small Ball of Silk Yarn
+﻿id=12114
+丝线小球
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

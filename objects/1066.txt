@@ -1,5 +1,5 @@
-id=1066
-Marked Grave# origGrave son
+﻿id=1066
+墓碑# origGrave son
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

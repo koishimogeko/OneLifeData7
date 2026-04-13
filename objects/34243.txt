@@ -1,5 +1,5 @@
-id=34243
-Schefflera Cutting
+﻿id=34243
+鸭掌木剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

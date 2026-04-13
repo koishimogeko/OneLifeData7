@@ -1,5 +1,5 @@
-id=2246
-Newcomen Engine Tower
+﻿id=2246
+纽科门蒸汽引擎塔
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

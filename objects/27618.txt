@@ -1,4 +1,4 @@
-id=27618
+﻿id=27618
 施过肥的岛锦牡丹丛 Fertilized Island Brocade Peony Bushes
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=26225
+﻿id=26225
 Chessboard Projection # open E
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

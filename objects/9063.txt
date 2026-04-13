@@ -1,5 +1,5 @@
-id=9063
-Camping Stove with French Onion Soup#ashes
+﻿id=9063
+野营炉和法式洋葱汤# ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

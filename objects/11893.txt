@@ -1,5 +1,5 @@
-id=11893
-Table with Raw Pork Pie
+﻿id=11893
+餐桌上有生猪肉馅饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

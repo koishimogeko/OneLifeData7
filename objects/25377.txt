@@ -1,5 +1,5 @@
-id=25377
-3D Chess Projector # black all open
+﻿id=25377
+3D象棋投影仪# black all open
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

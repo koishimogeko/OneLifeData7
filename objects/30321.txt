@@ -1,5 +1,5 @@
-id=30321
-Rotary Bottling plant# noHighlight UnWine
+﻿id=30321
+旋转装瓶厂# noHighlight UnWine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

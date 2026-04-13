@@ -1,5 +1,5 @@
-id=14500
-Maple Syrup Bottle with Funnel# inserted
+﻿id=14500
+插入漏斗# inserted
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10390
-Maturing Snake Plant
+﻿id=10390
+成熟的虎尾兰
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

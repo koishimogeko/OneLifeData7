@@ -1,5 +1,5 @@
-id=34151
-Orange Tree# Sweet
+﻿id=34151
+橘子树# 柳橙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

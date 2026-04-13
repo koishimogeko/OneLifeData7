@@ -1,5 +1,5 @@
-id=28865
-Wet Lily Spout#pink
+﻿id=28865
+湿润的百合苗 Wet Lily Spout#pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

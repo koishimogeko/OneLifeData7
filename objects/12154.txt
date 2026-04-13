@@ -1,5 +1,5 @@
-id=12154
-Wool Coat
+﻿id=12154
+羊毛大衣
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

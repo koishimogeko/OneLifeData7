@@ -1,5 +1,5 @@
-id=29103
-Medium Painting# 13
+﻿id=29103
+中型绘画# 13
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

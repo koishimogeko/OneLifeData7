@@ -1,5 +1,5 @@
-id=30074
-Chemical Reaction# H2SO4+NACL
+﻿id=30074
+化学反应# H2SO4+NACL
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

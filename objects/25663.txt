@@ -1,5 +1,5 @@
-id=25663
-Bowl of Polished Flour with Sugar and Oil
+﻿id=25663
+一碗加糖和油的糯米粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

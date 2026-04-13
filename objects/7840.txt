@@ -1,5 +1,5 @@
-id=7840
-Filleted Fish on Flat Rock #pike
+﻿id=7840
+扁石上的鱼片# 梭鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

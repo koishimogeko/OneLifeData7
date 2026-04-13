@@ -1,5 +1,5 @@
-id=33128
-Bone China Pot# Lose
+﻿id=33128
+骨瓷花盆# 失败
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

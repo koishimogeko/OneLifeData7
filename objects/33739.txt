@@ -1,5 +1,5 @@
-id=33739
-Firing Twin Furnace Cipola# engin
+﻿id=33739
+Cipola双火炉# engin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

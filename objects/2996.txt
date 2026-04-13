@@ -1,4 +1,4 @@
-id=2996
+﻿id=2996
 @ Any approved fence
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

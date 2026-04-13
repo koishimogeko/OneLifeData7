@@ -1,5 +1,5 @@
-id=13653
-Hot Brick Oven with Raw Pizza
+﻿id=13653
+热砖烤箱与生披萨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

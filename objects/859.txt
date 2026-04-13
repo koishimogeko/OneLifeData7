@@ -1,5 +1,5 @@
-id=859
-Broken Small Stone Tool
+﻿id=859
+损坏的小型石制工具
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

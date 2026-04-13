@@ -1,5 +1,5 @@
-id=14078
-Steel Wheelbarrow with Calamine
+﻿id=14078
+钢独轮车与炉甘石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

@@ -1,5 +1,5 @@
-id=30236
-Chcolate Coconut Ice Cream# haif
+﻿id=30236
+巧克力椰子冰淇淋# haif
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

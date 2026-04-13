@@ -1,5 +1,5 @@
-id=12104
-Simmering Silk Cocoons
+﻿id=12104
+煨丝茧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

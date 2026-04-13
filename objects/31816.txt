@@ -1,4 +1,4 @@
-id=31816
+﻿id=31816
 一碗氢氧化钾溶液
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

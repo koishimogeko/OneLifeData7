@@ -1,5 +1,5 @@
-id=14481
-Warp Weighted Loom with Linen Cloth
+﻿id=14481
+亚麻布经纱加重织机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

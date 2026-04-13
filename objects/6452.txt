@@ -1,5 +1,5 @@
-id=6452
-Stone Wall#flagholder
+﻿id=6452
+石墙# flagholder
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

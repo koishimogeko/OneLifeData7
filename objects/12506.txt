@@ -1,5 +1,5 @@
-id=12506
-Perhaps sprayed Juniper Sapling Cutting
+﻿id=12506
+也许喷洒了杜松树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

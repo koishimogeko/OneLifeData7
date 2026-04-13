@@ -1,5 +1,5 @@
-id=32355
-Bowl of KNO3 extract Solution# Dung
+﻿id=32355
+一碗硝酸钾溶液# Dung
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

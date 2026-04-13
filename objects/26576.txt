@@ -1,4 +1,4 @@
-id=26576
+﻿id=26576
 停车场标识 Parking Sign
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

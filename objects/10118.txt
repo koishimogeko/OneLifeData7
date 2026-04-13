@@ -1,5 +1,5 @@
-id=10118
-East-West Wall Stakes with Bricks#half,partial
+﻿id=10118
+带砖的东西墙桩# 一半 未满
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=9026
-Rooting Jelutong Tree Cutting
+﻿id=9026
+生根的日落洞树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

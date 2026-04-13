@@ -1,5 +1,5 @@
-id=1580
-Track #NS #cartS
+﻿id=1580
+轨道# NS cartS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

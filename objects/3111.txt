@@ -1,5 +1,5 @@
-id=3111
-Chopped Hardwood Tree - Hungry Work#big,log,wood2 +hungryWork10
+﻿id=3111
+砍倒的树与柴# big,log,wood2 +hungryWork10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

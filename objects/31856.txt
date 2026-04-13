@@ -1,4 +1,4 @@
-id=31856
+﻿id=31856
 一杯发烟硫酸和玻璃片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

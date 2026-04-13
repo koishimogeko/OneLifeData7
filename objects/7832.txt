@@ -1,5 +1,5 @@
-id=7832
-Fish Leftovers #cod
+﻿id=7832
+鱼骨# 虹鳕
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

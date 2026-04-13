@@ -1,5 +1,5 @@
-id=32153
-Reborn 1 # white just build diesel engine
+﻿id=32153
+轮回一号# white just build diesel engine
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33720
+﻿id=33720
 热转子子冲压模具 Hot Circular Steel  Sheet #Quenched
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=928
-Duplicate Keys $10
+﻿id=928
+钥匙复制品 $10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

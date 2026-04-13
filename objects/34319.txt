@@ -1,5 +1,5 @@
-id=34319
-Hot Cutting Machine Connecting Rod on Anvil
+﻿id=34319
+铁砧上的热切割机连杆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

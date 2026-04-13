@@ -1,5 +1,5 @@
-id=12995
-Random Items Dug Up by Airedale
+﻿id=12995
+Airedale 挖出的随机物品
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

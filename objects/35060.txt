@@ -1,4 +1,4 @@
-id=35060
+﻿id=35060
 Hollow Steel Frame,Glass Tee Pipe and Three Rubber Tubes on Work Bench
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

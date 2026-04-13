@@ -1,5 +1,5 @@
-id=34635
-Fury Old Wild Boar# 1 3S
+﻿id=34635
+愤怒的老野猪# 1 3S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

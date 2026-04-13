@@ -1,4 +1,4 @@
-id=34972
+﻿id=34972
 Shallow Water with Split Big Rock# +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

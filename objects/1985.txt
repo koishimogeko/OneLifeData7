@@ -1,5 +1,5 @@
-id=1985
-Dice Roll of Nine# 3 6
+﻿id=1985
+骰子# 3 6
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

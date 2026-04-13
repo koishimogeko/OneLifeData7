@@ -1,5 +1,5 @@
-id=3337
-Blowpipe With Cool Glass Bottle
+﻿id=3337
+带冷却玻璃瓶的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

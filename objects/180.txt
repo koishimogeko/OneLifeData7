@@ -1,5 +1,5 @@
-id=180
-Dead Rabbit
+﻿id=180
+死兔子
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25346
-3D Chess Projector # red all open
+﻿id=25346
+3D象棋投影仪# red all open
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

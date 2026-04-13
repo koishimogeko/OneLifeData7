@@ -1,5 +1,5 @@
-id=33773
-Bamboo Grove Green Coin# Rare
+﻿id=33773
+竹林绿色硬币# Rare
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

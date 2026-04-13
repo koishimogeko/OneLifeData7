@@ -1,5 +1,5 @@
-id=33998
-Mason Jar of Green vanadium solution# Use1
+﻿id=33998
+梅森绿色钒溶液罐# Use1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

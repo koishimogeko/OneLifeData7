@@ -1,5 +1,5 @@
-id=33989
-Trash Pit
+﻿id=33989
+垃圾坑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

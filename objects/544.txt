@@ -1,5 +1,5 @@
-id=544
-Domestic Mouflon with Lamb
+﻿id=544
+家养盘羊与羊羔幼崽
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

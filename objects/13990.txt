@@ -1,5 +1,5 @@
-id=13990
-Cooked Skewered Bass Fillets#fromPlate
+﻿id=13990
+熟串鲈鱼片#f romPlate
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

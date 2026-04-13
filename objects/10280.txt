@@ -1,5 +1,5 @@
-id=10280
-Crock with Lemonade
+﻿id=10280
+瓦罐柠檬水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

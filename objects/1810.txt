@@ -1,5 +1,5 @@
-id=1810
-Dry Yew Cutting in Bowl
+﻿id=1810
+干的紫杉树剪枝盆栽
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

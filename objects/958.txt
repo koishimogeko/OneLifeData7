@@ -1,5 +1,5 @@
-id=958
-Letter T
+﻿id=958
+字母 T
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

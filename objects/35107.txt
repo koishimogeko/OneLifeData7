@@ -1,4 +1,4 @@
-id=35107
+﻿id=35107
 Stack of Doner Kebabs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

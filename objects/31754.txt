@@ -1,4 +1,4 @@
-id=31754
+﻿id=31754
 化学实验台# 制取水银
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

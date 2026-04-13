@@ -1,4 +1,4 @@
-id=25807
+﻿id=25807
 三块半兔皮和棉花 Three Full and Two Cut Rabbit Furs with Cotton
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

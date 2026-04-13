@@ -1,5 +1,5 @@
-id=30280
-Dry Vineyard Plot
+﻿id=30280
+干葡萄园地块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

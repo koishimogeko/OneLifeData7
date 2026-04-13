@@ -1,4 +1,4 @@
-id=27801
+﻿id=27801
 湿润的百合种球 Wet Bone China Pot with Lily Seed Ball# Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

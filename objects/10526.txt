@@ -1,5 +1,5 @@
-id=10526
-Spoon of Ground Pepper
+﻿id=10526
+一勺胡椒粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

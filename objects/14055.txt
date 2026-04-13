@@ -1,5 +1,5 @@
-id=14055
-East-West Brick Wall Blueprint
+﻿id=14055
+东西向砖墙蓝图
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

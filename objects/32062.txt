@@ -1,4 +1,4 @@
-id=32062
+﻿id=32062
 @ 可釉烧状态
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

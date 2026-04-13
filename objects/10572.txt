@@ -1,5 +1,5 @@
-id=10572
-Hot Cast Iron Pan with Seasoned Sardines
+﻿id=10572
+热铁锅和调味沙丁鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

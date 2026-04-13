@@ -1,5 +1,5 @@
-id=13558
-Adobe Kiln with Coke
+﻿id=13558
+土坯窑与焦炭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

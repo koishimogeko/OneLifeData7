@@ -1,4 +1,4 @@
-id=12655
+﻿id=12655
 @ Wall for Copper Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

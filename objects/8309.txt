@@ -1,5 +1,5 @@
-id=8309
-Abandoned Calf with Arrow
+﻿id=8309
+被遗弃的带箭小牛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

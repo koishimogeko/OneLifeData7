@@ -1,5 +1,5 @@
-id=14237
-Track #NW #justGone
+﻿id=14237
+轨道# NW justGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

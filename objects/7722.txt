@@ -1,5 +1,5 @@
-id=7722
-Stone Kiln with Smoldering Tinder
+﻿id=7722
+带有阴燃火种的石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

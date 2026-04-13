@@ -1,5 +1,5 @@
-id=12295
-Bolts of Pink Cotton Blend Cloth
+﻿id=12295
+粉色棉混纺布
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

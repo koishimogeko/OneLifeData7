@@ -1,5 +1,5 @@
-id=33501
-Stone Road with Langing Strip Constructio Blueprint# Construction Prohibited
+﻿id=33501
+带立柱的石路施工蓝图# 禁止施工
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

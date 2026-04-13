@@ -1,5 +1,5 @@
-id=687
-Bowl with Gold Ingot
+﻿id=687
+一碗金锭
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

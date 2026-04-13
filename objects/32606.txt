@@ -1,5 +1,5 @@
-id=32606
-Fertile Soil Pile and Coal Gangue Powder
+﻿id=32606
+沃土和煤矸石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

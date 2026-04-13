@@ -1,5 +1,5 @@
-id=1382
-Clean Arrow Wound
+﻿id=1382
+清洁过的箭矢伤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

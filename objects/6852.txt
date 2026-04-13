@@ -1,5 +1,5 @@
-id=6852
-Bee Sting# sick emot_7_35  food_0.3 fever_15
+﻿id=6852
+蜂刺# sick emot_7_35 food_0.3 fever_15
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

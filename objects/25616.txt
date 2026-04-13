@@ -1,5 +1,5 @@
-id=25616
-Apple Juice and Alcohol in Mason Jar # test
+﻿id=25616
+梅森罐中的苹果汁和酒精# test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

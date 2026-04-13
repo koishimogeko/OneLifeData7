@@ -1,5 +1,5 @@
-id=7303
-Bee Hive #2 #honey0
+﻿id=7303
+蜂巢# 2 honey0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

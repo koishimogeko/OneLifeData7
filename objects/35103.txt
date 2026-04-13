@@ -1,4 +1,4 @@
-id=35103
+﻿id=35103
 lettuce# 1S
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

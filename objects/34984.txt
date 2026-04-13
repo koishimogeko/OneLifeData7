@@ -1,5 +1,5 @@
-id=34984
-Stack of Doner Kebab# 6
+﻿id=34984
+土耳其烤肉卷# 6
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

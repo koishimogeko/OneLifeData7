@@ -1,5 +1,5 @@
-id=11924
-Honey Bunny Flag Roll
+﻿id=11924
+亲爱的兔子卷旗
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

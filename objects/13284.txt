@@ -1,5 +1,5 @@
-id=13284
-Firing Distillery#closed
+﻿id=13284
+点火酿酒厂# closed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

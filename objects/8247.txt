@@ -1,5 +1,5 @@
-id=8247
-Bowl of Cookie Dough
+﻿id=8247
+一碗饼干面团
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=33638
+﻿id=33638
 Hydrothermal Oredeposits# Level2 Hot Bask 16.1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

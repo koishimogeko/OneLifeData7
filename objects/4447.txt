@@ -1,5 +1,5 @@
-id=4447
-Cocooned Shaft
+﻿id=4447
+（已过时）有茧的直木棍
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

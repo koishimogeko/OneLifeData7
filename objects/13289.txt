@@ -1,5 +1,5 @@
-id=13289
-Random Quarry Outcome
+﻿id=13289
+随机采石场结果
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

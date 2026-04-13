@@ -1,5 +1,5 @@
-id=6989
-Cage Transition# sick food_10 fever_1
+﻿id=6989
+笼子转换# sick food_10 fever_1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

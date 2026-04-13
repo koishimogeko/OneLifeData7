@@ -1,4 +1,4 @@
-id=27588
+﻿id=27588
 干燥的岛锦牡丹植株 Dry Island Brocade Peony Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

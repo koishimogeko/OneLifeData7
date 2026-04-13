@@ -1,4 +1,4 @@
-id=25808
+﻿id=25808
 兔子玩具 Rabbit Toy
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

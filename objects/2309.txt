@@ -1,5 +1,5 @@
-id=2309
-Oil Pumpjack with Full Tank
+﻿id=2309
+带满罐的油泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34086
-File Hole with Soil and Grass Seed # 2
+﻿id=34086
+土壤和草籽锉孔# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

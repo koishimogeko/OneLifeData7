@@ -1,5 +1,5 @@
-id=30400
-Perhaps sprayed Planted White Grape Cutting
+﻿id=30400
+也许喷洒白葡萄切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26158
+﻿id=26158
 在熊皮上的黄色斗篷 Yellow Cloak on Bear Skin
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

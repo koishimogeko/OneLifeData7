@@ -1,5 +1,5 @@
-id=13354
-Torch Stand with Lit Candles
+﻿id=13354
+带点燃蜡烛的火炬架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

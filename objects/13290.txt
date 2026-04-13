@@ -1,5 +1,5 @@
-id=13290
-Lime Gravel Floor
+﻿id=13290
+石灰砾石地板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

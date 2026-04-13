@@ -1,5 +1,5 @@
-id=13738
-Firing Blast Furnace Charged with Iron Ore
+﻿id=13738
+装有铁矿石的高炉燃烧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

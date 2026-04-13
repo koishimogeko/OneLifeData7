@@ -1,5 +1,5 @@
-id=2127
-Full Bucket of Salt Water
+﻿id=2127
+满满一桶盐水
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

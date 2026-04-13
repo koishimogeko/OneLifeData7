@@ -1,4 +1,4 @@
-id=28759
+﻿id=28759
 Bowl with Manganese Carbon in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

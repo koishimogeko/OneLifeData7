@@ -1,5 +1,5 @@
-id=34764
-Needle and Ball of Thread
+﻿id=34764
+针和线球
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

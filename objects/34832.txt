@@ -1,5 +1,5 @@
-id=34832
-Bear Cave# Thick Smoke Empty
+﻿id=34832
+熊洞# Thick Smoke Empty
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

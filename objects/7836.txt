@@ -1,5 +1,5 @@
-id=7836
-Fish Leftovers on Flat Rock #cod
+﻿id=7836
+扁石上的鱼骨# 大西洋鳕鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

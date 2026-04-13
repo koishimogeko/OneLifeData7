@@ -1,5 +1,5 @@
-id=7956
-Bowl of Pumpkin Seeds
+﻿id=7956
+一碗南瓜籽
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7347
-Pollinated Orange Tree #bee
+﻿id=7347
+授粉的橘子树# bee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

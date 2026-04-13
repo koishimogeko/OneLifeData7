@@ -1,5 +1,5 @@
-id=11741
-Horse-Drawn Wagon #dappled,riding
+﻿id=11741
+马车# dappled,riding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

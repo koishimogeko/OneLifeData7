@@ -1,5 +1,5 @@
-id=4575
-(outdated) Domestic Hive #1B
+﻿id=4575
+（已过时）# 1B
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

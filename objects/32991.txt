@@ -1,4 +1,4 @@
-id=32991
+﻿id=32991
 @ HO RU Ore# Level2 hot
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

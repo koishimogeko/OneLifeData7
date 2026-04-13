@@ -1,5 +1,5 @@
-id=10775
-Calico Cat #white sitting
+﻿id=10775
+三花猫# 坐在白色枕头上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

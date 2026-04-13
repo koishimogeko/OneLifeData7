@@ -1,4 +1,4 @@
-id=33635
+﻿id=33635
 @ Basalt and Granite of Rockburst Hydrothermal Oredeposits# Level2 Hot 5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

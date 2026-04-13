@@ -1,5 +1,5 @@
-id=33858
-Expanded Perlite Insulation Kit with Chisel
+﻿id=33858
+带凿子的膨胀珍珠岩隔热套件
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

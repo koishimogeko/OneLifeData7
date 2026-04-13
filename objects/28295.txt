@@ -1,5 +1,5 @@
-id=28295
-Watered Monstera Seedling
+﻿id=28295
+浇水龟背竹苗
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

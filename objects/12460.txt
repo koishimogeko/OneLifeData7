@@ -1,5 +1,5 @@
-id=12460
-Diesel Water Pump with Large Tank
+﻿id=12460
+大水箱柴油水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34844
-Irrtable Shot Grizzly Bear# 2
+﻿id=34844
+Irrtable射击灰熊# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

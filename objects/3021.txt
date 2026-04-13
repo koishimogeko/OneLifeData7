@@ -1,5 +1,5 @@
-id=3021
-Bowl of Charcoal Powder
+﻿id=3021
+一碗木炭粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

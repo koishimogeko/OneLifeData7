@@ -1,5 +1,5 @@
-id=8216
-Wooden Door with Plain Wreath# Installed
+﻿id=8216
+带素花环的木门# Installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

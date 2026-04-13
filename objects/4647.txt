@@ -1,5 +1,5 @@
-id=4647
-Bowl of Honey
+﻿id=4647
+一碗蜂蜜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

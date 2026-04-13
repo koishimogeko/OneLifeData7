@@ -1,5 +1,5 @@
-id=6896
-Stack of Stone Blocks
+﻿id=6896
+一堆石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

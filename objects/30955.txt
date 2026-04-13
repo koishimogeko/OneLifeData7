@@ -1,5 +1,5 @@
-id=30955
-Copper Pipe# NE SE justInstalled
+﻿id=30955
+铜管# NE SE justInstalled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

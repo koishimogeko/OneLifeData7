@@ -1,4 +1,4 @@
-id=31738
+﻿id=31738
 一篮去灰煤炭粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=33754
-Firing Twin Furnace Cipola# needCoke
+﻿id=33754
+Cipola双火炉# needCoke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

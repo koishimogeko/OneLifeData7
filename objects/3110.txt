@@ -1,5 +1,5 @@
-id=3110
-Moist Staked Wild Gooseberry Bush
+﻿id=3110
+被固定的湿润醋栗丛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

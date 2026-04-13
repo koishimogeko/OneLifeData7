@@ -1,5 +1,5 @@
-id=9019
-Rooting Orange Tree Cutting
+﻿id=9019
+生根的橙树剪枝
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

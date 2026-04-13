@@ -1,5 +1,5 @@
-id=25396
-Chessboard Projection # open #EW
+﻿id=25396
+棋盘投影# open EW
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

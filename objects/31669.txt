@@ -1,5 +1,5 @@
-id=31669
-Paint Brush with Paint# Orange
+﻿id=31669
+油漆刷# 橙色
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

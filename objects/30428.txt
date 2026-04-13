@@ -1,5 +1,5 @@
-id=30428
-Hot Cast Iron Pan with cooked Lard residue
+﻿id=30428
+热铁锅和熟猪油渣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

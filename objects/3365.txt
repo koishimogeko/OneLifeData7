@@ -1,5 +1,5 @@
-id=3365
-Crock of Raw Pumpkin
+﻿id=3365
+一罐生南瓜
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

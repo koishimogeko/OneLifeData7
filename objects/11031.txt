@@ -1,5 +1,5 @@
-id=11031
-Crates of Cactus Fruit #2 #Empty
+﻿id=11031
+两箱未满仙人掌果# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

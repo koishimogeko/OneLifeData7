@@ -1,5 +1,5 @@
-id=192
-Needle and Thread
+﻿id=192
+穿线的骨针# +toolSewing
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

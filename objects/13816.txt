@@ -1,5 +1,5 @@
-id=13816
-Mine with Copper Deposit #2 #exploratory
+﻿id=13816
+2级铜矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

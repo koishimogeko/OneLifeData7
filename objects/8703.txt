@@ -1,5 +1,5 @@
-id=8703
-Disconnected Pulley Drive Mechanism with Rubber Belt
+﻿id=8703
+带橡胶带的断开滑轮驱动装置
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7718
-Stone Fireplace with Kindling Tinder #eveHomeMarker
+﻿id=7718
+带引火柴的石制壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2816
-Net# just emptied
+﻿id=2816
+网# just emptied
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

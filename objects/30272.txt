@@ -1,5 +1,5 @@
-id=30272
-Silver in Copper Nitrate Solution
+﻿id=30272
+硝酸铜溶液中的银
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

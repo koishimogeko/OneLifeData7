@@ -1,5 +1,5 @@
-id=30959
-Copper Pipe# WN EN Loose
+﻿id=30959
+铜管# WN EN Loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

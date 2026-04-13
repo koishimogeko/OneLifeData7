@@ -1,5 +1,5 @@
-id=13127
-Staked Flowering Lemon Tree
+﻿id=13127
+带木桩的开花柠檬树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

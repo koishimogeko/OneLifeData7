@@ -1,5 +1,5 @@
-id=710
-Skinned Seal#no fur
+﻿id=710
+剥皮海狗# no fur
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

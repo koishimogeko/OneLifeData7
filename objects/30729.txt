@@ -1,5 +1,5 @@
-id=30729
-Pike on Flat Rock# fish eggs
+﻿id=30729
+平岩上的派克# fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

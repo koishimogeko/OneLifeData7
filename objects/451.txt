@@ -1,5 +1,5 @@
-id=451
-Steel Chisel on Anvil
+﻿id=451
+铁砧上的钢凿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25916
+﻿id=25916
 干四叶草剪Dry Planted Clover Cutting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

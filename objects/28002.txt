@@ -1,5 +1,5 @@
-id=28002
-Wet Planted Tulip Spout# Yellow
+﻿id=28002
+湿润的郁金香苗# Yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

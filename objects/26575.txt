@@ -1,4 +1,4 @@
-id=26575
+﻿id=26575
 圆形停车场标志和钢管 Circular Parking Sign and Steel Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

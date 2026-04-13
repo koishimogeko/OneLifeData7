@@ -1,5 +1,5 @@
-id=12149
-Pile of Ostrich Feathers
+﻿id=12149
+一堆鸵鸟羽毛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

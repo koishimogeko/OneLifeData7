@@ -1,5 +1,5 @@
-id=11722
-Show Horse #dappled,hitched
+﻿id=11722
+装饰马# 花斑,栓
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

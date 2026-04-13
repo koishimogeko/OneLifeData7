@@ -1,5 +1,5 @@
-id=719
-Ice Hole#seal out
+﻿id=719
+冰洞# seal out
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

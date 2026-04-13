@@ -1,5 +1,5 @@
-id=32238
-Love Heart# red paper
+﻿id=32238
+爱心# 红纸
 containable=1
 containSize=0.500000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26142
+﻿id=26142
 化学实验台#制取乙烯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

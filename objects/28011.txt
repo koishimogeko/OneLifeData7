@@ -1,5 +1,5 @@
-id=28011
-Wet Tulip Spout# Yellow
+﻿id=28011
+湿润的郁金香苗# Yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

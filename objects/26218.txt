@@ -1,4 +1,4 @@
-id=26218
+﻿id=26218
 带金圈的黑色长裙 Black Long Dress with Hoops
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

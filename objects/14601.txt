@@ -1,5 +1,5 @@
-id=14601
-Bamboo Backpack with Dark Firewood
+﻿id=14601
+竹背包与深色木柴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

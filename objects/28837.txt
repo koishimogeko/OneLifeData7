@@ -1,5 +1,5 @@
-id=28837
-Light Post #3 shut down,W
+﻿id=28837
+灯柱 #3 关,W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

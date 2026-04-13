@@ -1,5 +1,5 @@
-id=14304
-Steel Wheelbarrow with Soil
+﻿id=14304
+带土的钢独轮车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

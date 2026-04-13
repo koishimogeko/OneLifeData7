@@ -1,4 +1,4 @@
-id=31715
+﻿id=31715
 @ 研磨物
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

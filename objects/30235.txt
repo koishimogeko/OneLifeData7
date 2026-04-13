@@ -1,5 +1,5 @@
-id=30235
-Chcolate Coconut Ice Cream with Spoon
+﻿id=30235
+汤匙椰子冰淇淋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

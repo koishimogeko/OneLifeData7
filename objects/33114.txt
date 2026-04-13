@@ -1,5 +1,5 @@
-id=33114
-Closed Stone with Glazed Firing Bone China LongPlant# 90%
+﻿id=33114
+封闭式石烧釉骨质瓷LongPlant# 90%
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

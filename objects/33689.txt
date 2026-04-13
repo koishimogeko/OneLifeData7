@@ -1,4 +1,4 @@
-id=33689
+﻿id=33689
 Wooden Stake
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

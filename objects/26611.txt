@@ -1,4 +1,4 @@
-id=26611
+﻿id=26611
 铸铁长木凳 Cast Iron Wooden Bench#sitting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=26637
+﻿id=26637
 @ Electrical appliances power shut down NNN
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

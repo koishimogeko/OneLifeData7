@@ -1,5 +1,5 @@
-id=6749
-Ancient Sandstone Wall# +useOnContained
+﻿id=6749
+古老砂岩墙# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

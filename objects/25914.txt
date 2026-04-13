@@ -1,4 +1,4 @@
-id=25914
+﻿id=25914
 Clover Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000

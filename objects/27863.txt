@@ -1,4 +1,4 @@
-id=27863
+﻿id=27863
 干燥的郁金香小种球 Dry Small Tulip Seed Ball# Purple
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

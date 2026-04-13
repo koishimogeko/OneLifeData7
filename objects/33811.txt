@@ -1,5 +1,5 @@
-id=33811
-Firing Twin Furnace Cipola with Perlite Block
+﻿id=33811
+用珍珠岩块烧制Cipola双炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

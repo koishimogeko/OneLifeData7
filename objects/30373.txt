@@ -1,5 +1,5 @@
-id=30373
-Wooden Table with Wine Shaker# Stir stick
+﻿id=30373
+带摇酒器的木桌# Stir stick
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8654
-Wooden Wall Structure with Dark Boards
+﻿id=8654
+带深色木板的木墙结构
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

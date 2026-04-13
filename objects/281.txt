@@ -1,5 +1,5 @@
-id=281
-Wood-filled Adobe Kiln
+﻿id=281
+有引火物的土坯窑
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

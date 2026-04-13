@@ -1,5 +1,5 @@
-id=14131
-Bowl of Rinsed Rice with Water
+﻿id=14131
+一碗用水淘洗过的米饭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

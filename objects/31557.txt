@@ -1,4 +1,4 @@
-id=31557
+﻿id=31557
 有冒顶风险的风化矿床# 1级 有寒风 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

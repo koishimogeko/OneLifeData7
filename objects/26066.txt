@@ -1,4 +1,4 @@
-id=26066
+﻿id=26066
 一碗蓝色橡胶球 Bowl with Blue Rubber Ball
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

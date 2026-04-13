@@ -1,5 +1,5 @@
-id=2972
-Planned Primitive Fence#corner groundOnly
+﻿id=2972
+规划的财产围栏# corner groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

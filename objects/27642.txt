@@ -1,4 +1,4 @@
-id=27642
+﻿id=27642
 百合花丛 Lily Flower Cluster# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

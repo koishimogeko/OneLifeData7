@@ -1,4 +1,4 @@
-id=32202
+﻿id=32202
 一堆托盘 Stack of Trays
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=30700
-Deep Water with ArcticChar# +noHighlight groundOnly fish eggs
+﻿id=30700
+深水中的北极红点鲑# 有鱼籽 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

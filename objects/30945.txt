@@ -1,5 +1,5 @@
-id=30945
-Bucket of Pink Paint# 1S
+﻿id=30945
+粉红色油漆桶# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

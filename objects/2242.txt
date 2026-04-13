@@ -1,5 +1,5 @@
-id=2242
-Newcomen Hammer with Charcoal
+﻿id=2242
+装满木炭的纽科门锻造锤
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

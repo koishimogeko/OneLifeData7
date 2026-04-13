@@ -1,4 +1,4 @@
-id=32733
+﻿id=32733
 有巨石卡住的风化矿床# 1级 有寒风 3.1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=8561
-Chihuahua #donePlaying
+﻿id=8561
+吉娃娃# donePlaying
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

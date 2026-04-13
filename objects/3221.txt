@@ -1,5 +1,5 @@
-id=3221
-Perhaps a Pumpkin
+﻿id=3221
+也许是南瓜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

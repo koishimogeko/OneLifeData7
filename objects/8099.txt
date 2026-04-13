@@ -1,5 +1,5 @@
-id=8099
-Shears with Balsam Cutting
+﻿id=8099
+带香脂树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

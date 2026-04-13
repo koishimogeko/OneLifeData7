@@ -1,5 +1,5 @@
-id=13444
-Brewery with Boiling Water #closed
+﻿id=13444
+啤酒厂用沸水# closed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

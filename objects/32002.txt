@@ -1,4 +1,4 @@
-id=32002
+﻿id=32002
 @ 化学容器物品 +contchemical
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

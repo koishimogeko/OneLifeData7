@@ -1,5 +1,5 @@
-id=7648
-Sack of Bone Meal #1
+﻿id=7648
+一袋骨粉# 1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

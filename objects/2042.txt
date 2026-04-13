@@ -1,5 +1,5 @@
-id=2042
-Hidden Card# 6 of Clubs
+﻿id=2042
+扑克背面# 6 of Clubs
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

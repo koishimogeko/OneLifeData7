@@ -1,5 +1,5 @@
-id=30864
-Bone China Pot with Wet Hydrangea Seed
+﻿id=30864
+带湿绣球籽的骨瓷锅
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

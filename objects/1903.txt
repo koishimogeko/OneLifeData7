@@ -1,5 +1,5 @@
-id=1903
-Bucket of Milk Paint
+﻿id=1903
+一桶牛奶漆
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

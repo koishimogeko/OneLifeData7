@@ -1,5 +1,5 @@
-id=4758
-Rooster #male
+﻿id=4758
+公鸡# male
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

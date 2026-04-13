@@ -1,5 +1,5 @@
-id=11877
-Caged Calico Cat
+﻿id=11877
+笼子里的三花猫
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

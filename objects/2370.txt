@@ -1,5 +1,5 @@
-id=2370
-Engine Fuel System
+﻿id=2370
+发动机燃油系统
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15

@@ -1,5 +1,5 @@
-id=25617
-Fermenting Apple and Apple Original Vinegar # test
+﻿id=25617
+发酵苹果和苹果原醋# test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7748
-Stand with Wheat #2
+﻿id=7748
+与小麦站在一起# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

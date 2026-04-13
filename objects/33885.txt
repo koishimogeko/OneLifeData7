@@ -1,5 +1,5 @@
-id=33885
-Pollinated Pomelo Tree# Bee
+﻿id=33885
+授粉的柚子树# Bee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25608
-一堆羊驼毛 # Pile of Alpaca Fleece
+﻿id=25608
+一堆羊驼毛# Pile of Alpaca Fleece
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30109
-Football Net# West Ball
+﻿id=30109
+足球网# West Ball
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

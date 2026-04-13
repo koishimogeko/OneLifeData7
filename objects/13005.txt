@@ -1,5 +1,5 @@
-id=13005
-@ Beagle Digging Pattern
+﻿id=13005
+@ Be agle Digging Pattern
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

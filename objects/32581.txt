@@ -1,5 +1,5 @@
-id=32581
-Chemical Work Bench with HG,HNO3,C2H6O
+﻿id=32581
+化学实验台# 制取雷酸汞 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

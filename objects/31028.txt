@@ -1,4 +1,4 @@
-id=31028
+﻿id=31028
 一勺三暖色草莓酱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

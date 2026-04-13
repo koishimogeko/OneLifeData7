@@ -1,5 +1,5 @@
-id=25482
-Ancient Sandstone Wall  with Windowsill and Pillow
+﻿id=25482
+带窗台和枕头的古代砂岩墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

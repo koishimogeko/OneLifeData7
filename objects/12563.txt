@@ -1,5 +1,5 @@
-id=12563
-Perhaps sprayed Lemon Sapling
+﻿id=12563
+也许喷洒了柠檬树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

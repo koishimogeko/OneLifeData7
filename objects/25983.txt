@@ -1,4 +1,4 @@
-id=25983
+﻿id=25983
 一碗石英和碳粉 Bowl of Quartz and Charcoal Powder
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

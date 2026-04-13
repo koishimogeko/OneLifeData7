@@ -1,5 +1,5 @@
-id=32417
-Ice Water Mixture
+﻿id=32417
+一杯冰水混合物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

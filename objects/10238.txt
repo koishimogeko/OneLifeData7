@@ -1,5 +1,5 @@
-id=10238
-Partial Sewing Machine #wooden tongs
+﻿id=10238
+被木钳夹着的缝纫机主体# wooden tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

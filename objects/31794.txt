@@ -1,4 +1,4 @@
-id=31794
+﻿id=31794
 化学实验台和水银# 没有煤气
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

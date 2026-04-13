@@ -1,4 +1,4 @@
-id=26578
+﻿id=26578
 Light Post # no power W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

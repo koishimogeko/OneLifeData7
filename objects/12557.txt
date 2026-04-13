@@ -1,5 +1,5 @@
-id=12557
-Perhaps sprayed Planted Tobacco
+﻿id=12557
+也许喷洒了种植烟草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

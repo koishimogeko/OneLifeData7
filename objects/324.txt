@@ -1,5 +1,5 @@
-id=324
-Cool Steel Crucible in Wooden Tongs
+﻿id=324
+被木钳夹着的钢坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

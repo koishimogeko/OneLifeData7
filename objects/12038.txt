@@ -1,5 +1,5 @@
-id=12038
-Red Plaster Wall Arch with Thatched Roof
+﻿id=12038
+带茅草屋顶的红色石膏墙拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13753
-Ladle Cart of Molten Pig Iron and Ingot Mold
+﻿id=13753
+铁水及钢锭模的钢包车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=12

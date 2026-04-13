@@ -1,5 +1,5 @@
-id=34748
-French Onion Soup Canned
+﻿id=34748
+法式洋葱汤罐头
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

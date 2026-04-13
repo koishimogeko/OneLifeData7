@@ -1,5 +1,5 @@
-id=25076
-Perhaps sprayed Planted Ay Tsao
+﻿id=25076
+也许喷洒了种植的艾草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

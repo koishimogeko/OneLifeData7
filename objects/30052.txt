@@ -1,5 +1,5 @@
-id=30052
-Play Board# Green ball 80%
+﻿id=30052
+游戏板# Green ball 80%
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

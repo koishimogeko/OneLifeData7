@@ -1,4 +1,4 @@
-id=31817
+﻿id=31817
 一碗氢氧化钾
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

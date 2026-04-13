@@ -1,5 +1,5 @@
-id=2800
-Wild Tomato Plant
+﻿id=2800
+野生番茄
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

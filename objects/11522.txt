@@ -1,5 +1,5 @@
-id=11522
-Pile of Dill
+﻿id=11522
+一堆莳萝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

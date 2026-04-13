@@ -1,4 +1,4 @@
-id=28922
+﻿id=28922
 切割机和一堆原木 Cutting Machine with Wooden Disks#broken# just use
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

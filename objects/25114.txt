@@ -1,5 +1,5 @@
-id=25114
-Cast Iron Sheet and Sheet Metal
+﻿id=25114
+铸铁板和金属板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

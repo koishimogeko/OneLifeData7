@@ -1,5 +1,5 @@
-id=6822
-Pile of Sheep Skins
+﻿id=6822
+一堆羊皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

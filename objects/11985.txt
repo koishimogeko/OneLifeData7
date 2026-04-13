@@ -1,5 +1,5 @@
-id=11985
-Paint Brush with Mixed Paint
+﻿id=11985
+混合油漆的画笔
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

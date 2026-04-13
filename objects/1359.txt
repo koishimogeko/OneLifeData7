@@ -1,5 +1,5 @@
-id=1359
-Fed Domestic Piglet# just fed
+﻿id=1359
+喂过的家养猪崽# just fed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

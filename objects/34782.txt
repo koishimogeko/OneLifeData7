@@ -1,5 +1,5 @@
-id=34782
-Bowl of Iron Red Powder and CharCoal
+﻿id=34782
+铁红粉和木炭碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

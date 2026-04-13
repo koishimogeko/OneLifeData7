@@ -1,5 +1,5 @@
-id=33565
-High Temperature Steam Hydrothermal Oredeposits# Level2 Hot 1 B
+﻿id=33565
+冒高温蒸汽的热液矿床# 2级 炽热 蒸汽空腔 清除剩余蒸汽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

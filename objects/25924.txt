@@ -1,4 +1,4 @@
-id=25924
+﻿id=25924
 加木炭冲压机 Newcomen Stamping Press with Charcoal#rotor
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

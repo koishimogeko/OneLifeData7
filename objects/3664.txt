@@ -1,5 +1,5 @@
-id=3664
-Nitric Acid Bottle# just poured
+﻿id=3664
+一瓶硝酸# just poured
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

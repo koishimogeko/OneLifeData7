@@ -1,4 +1,4 @@
-id=31615
+﻿id=31615
 风簸黏土
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

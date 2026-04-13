@@ -1,5 +1,5 @@
-id=2574
-Molten Glass
+﻿id=2574
+熔融玻璃
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

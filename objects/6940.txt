@@ -1,5 +1,5 @@
-id=6940
-Basket of Bison Bones
+﻿id=6940
+一篮野牛骨
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

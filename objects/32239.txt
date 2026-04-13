@@ -1,5 +1,5 @@
-id=32239
-Love Heart Stack# red paper
+﻿id=32239
+一堆爱心# 红纸
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

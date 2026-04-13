@@ -1,4 +1,4 @@
-id=27768
+﻿id=27768
 百合大种球 Big Lily Seed Ball# Orange BaiHe
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6982
-Planted Domestic Hedge#horizontal staked
+﻿id=6982
+种植的家养树篱# horizontal staked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

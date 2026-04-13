@@ -1,5 +1,5 @@
-id=33766
-Light Asagi Coin# 6 Rare
+﻿id=33766
+浅朝币# 6 Rare
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

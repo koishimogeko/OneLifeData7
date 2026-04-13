@@ -1,5 +1,5 @@
-id=13467
-Wet Mug in Wooden Tongs
+﻿id=13467
+被木钳夹着的湿杯子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

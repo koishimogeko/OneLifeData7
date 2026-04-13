@@ -1,5 +1,5 @@
-id=1365
-Embedded Arrowhead Wound
+﻿id=1365
+嵌着箭头的箭矢伤
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

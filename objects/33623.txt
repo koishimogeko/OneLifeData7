@@ -1,4 +1,4 @@
-id=33623
+﻿id=33623
 Chemical Work Bench with Ice Water Mixture# Nitric Sulfuric Mixed Acid
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

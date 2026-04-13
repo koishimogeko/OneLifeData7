@@ -1,4 +1,4 @@
-id=29041
+﻿id=29041
 干燥的向日葵植株 Dry Sunflower Sprouts
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

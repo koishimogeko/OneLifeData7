@@ -1,5 +1,5 @@
-id=978
-Big Sign
+﻿id=978
+大牌子
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

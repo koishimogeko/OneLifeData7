@@ -1,5 +1,5 @@
-id=1137
-Bowl of Soil
+﻿id=1137
+一碗土
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

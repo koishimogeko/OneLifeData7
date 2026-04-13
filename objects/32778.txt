@@ -1,5 +1,5 @@
-id=32778
-Hydrothermal Oredeposits# Level2 Hot 17
+﻿id=32778
+热液矿床# 2级 炽热 17
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

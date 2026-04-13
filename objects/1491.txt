@@ -1,5 +1,5 @@
-id=1491
-Full Bucket of Milk#just refilled
+﻿id=1491
+一桶牛奶# just refilled
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

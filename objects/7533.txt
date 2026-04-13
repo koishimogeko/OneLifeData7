@@ -1,5 +1,5 @@
-id=7533
-Crate of Potatoes
+﻿id=7533
+一箱未满土豆
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

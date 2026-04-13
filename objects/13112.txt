@@ -1,5 +1,5 @@
-id=13112
-Staked White Pine Tree
+﻿id=13112
+带木桩的白松树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

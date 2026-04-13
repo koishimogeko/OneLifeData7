@@ -1,5 +1,5 @@
-id=14597
-Shaft with Reed Bundle#justDismantled
+﻿id=14597
+带簧片束的轴# justDismanted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

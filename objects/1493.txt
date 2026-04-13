@@ -1,5 +1,5 @@
-id=1493
-Milk Cow#justDrank
+﻿id=1493
+奶牛# justDrank
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

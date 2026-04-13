@@ -1,5 +1,5 @@
-id=5162
-Crown of The Commonwealth
+﻿id=5162
+英联邦皇冠
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

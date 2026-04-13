@@ -1,5 +1,5 @@
-id=33023
-Basket of Quartz
+﻿id=33023
+一篮石英砂
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

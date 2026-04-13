@@ -1,5 +1,5 @@
-id=962
-Letter H
+﻿id=962
+字母 H
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

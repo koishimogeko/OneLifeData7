@@ -1,5 +1,5 @@
-id=12527
-Perhaps sprayed Planted Rose Seed# pink
+﻿id=12527
+也许喷了种植玫瑰种子# pink
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8102
-Shears with Ash Cutting
+﻿id=8102
+带白蜡树剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

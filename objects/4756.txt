@@ -1,5 +1,5 @@
-id=4756
-Pile of Boards
+﻿id=4756
+一堆木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

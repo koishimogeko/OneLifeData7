@@ -1,4 +1,4 @@
-id=26601
+﻿id=26601
 生根可可树剪枝 Rooting Cocoa Cutting
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000

@@ -1,5 +1,5 @@
-id=30306
-Open Cellar# noHighlight
+﻿id=30306
+露天酒窖# noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

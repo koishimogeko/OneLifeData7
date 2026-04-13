@@ -1,4 +1,4 @@
-id=26375
+﻿id=26375
 钳子 Pliers
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

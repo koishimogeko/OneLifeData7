@@ -1,5 +1,5 @@
-id=13436
-Brewery with Boiling Wort and Hops #closed
+﻿id=13436
+啤酒厂用煮沸的麦芽汁和啤酒花# closed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

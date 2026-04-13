@@ -1,5 +1,5 @@
-id=2396
-Running Crude Car
+﻿id=2396
+行驶中的柴油车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

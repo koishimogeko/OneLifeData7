@@ -1,5 +1,5 @@
-id=8772
-Male052 A
+﻿id=8772
+男052A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

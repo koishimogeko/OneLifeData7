@@ -1,5 +1,5 @@
-id=14559
-Partial Bridge Foundation #shallow
+﻿id=14559
+部分桥梁基础# shallow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

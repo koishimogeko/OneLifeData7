@@ -1,4 +1,4 @@
-id=33244
+﻿id=33244
 风化矿床# 1级 有寒风
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

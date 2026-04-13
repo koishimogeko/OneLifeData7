@@ -1,5 +1,5 @@
-id=32927
-Hand Cart with Sandstone Rock
+﻿id=32927
+手推车与大块沙岩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=16

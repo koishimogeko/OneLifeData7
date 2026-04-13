@@ -1,5 +1,5 @@
-id=8576
-Green Wool Booty
+﻿id=8576
+绿色羊毛短靴
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

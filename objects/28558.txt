@@ -1,5 +1,5 @@
-id=28558
-Stone Kiln with Hot Circular Steel Sheet #Tempering
+﻿id=28558
+石炉和热定子冲压模具 Stone Kiln with Hot Circular Steel Sheet #Tempering
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

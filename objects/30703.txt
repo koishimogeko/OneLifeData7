@@ -1,5 +1,5 @@
-id=30703
-Deep Water with Trout# +noHighlight groundOnly fish eggs
+﻿id=30703
+深水中的鳟鱼# 有鱼籽 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

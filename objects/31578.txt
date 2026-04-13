@@ -1,4 +1,4 @@
-id=31578
+﻿id=31578
 @ 1级热液矿床灾害概率
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

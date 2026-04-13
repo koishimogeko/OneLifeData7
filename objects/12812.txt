@@ -1,5 +1,5 @@
-id=12812
-Oil Leakage #W
+﻿id=12812
+漏油# W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=32115
+﻿id=32115
 工作台上的一些钢架和玻璃片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

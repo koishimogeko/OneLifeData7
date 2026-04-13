@@ -1,4 +1,4 @@
-id=31400
+﻿id=31400
 沾有胶水的红纸
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

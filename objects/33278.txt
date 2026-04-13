@@ -1,5 +1,5 @@
-id=33278
-Lit Jack O' Lantern# Perpetual
+﻿id=33278
+南瓜灯# 常亮 稀有
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

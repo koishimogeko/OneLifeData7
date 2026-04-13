@@ -1,4 +1,4 @@
-id=31791
+﻿id=31791
 骨瓷长碟# 鎏金
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

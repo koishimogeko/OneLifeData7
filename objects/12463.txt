@@ -1,5 +1,5 @@
-id=12463
-Fill Station #S #empty #justOff
+﻿id=12463
+加油站# S empty justOff
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

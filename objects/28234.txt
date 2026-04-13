@@ -1,5 +1,5 @@
-id=28234
-Dry Red Windflower Seedling
+﻿id=28234
+干风车菊苗
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

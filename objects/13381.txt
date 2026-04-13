@@ -1,5 +1,5 @@
-id=13381
-Strained Curds
+﻿id=13381
+过滤凝乳
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

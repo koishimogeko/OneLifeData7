@@ -1,5 +1,5 @@
-id=13622
-Wheelbarrow of Dried Concrete
+﻿id=13622
+干混凝土独轮车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

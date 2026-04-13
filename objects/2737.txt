@@ -1,5 +1,5 @@
-id=2737
-Big Snowball# melted
+﻿id=2737
+大型雪球# melted
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

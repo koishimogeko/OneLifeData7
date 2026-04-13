@@ -1,5 +1,5 @@
-id=12829
-Fill Station #oil #N #flowing
+﻿id=12829
+加油站#oil N flowing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

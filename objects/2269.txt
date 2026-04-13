@@ -1,5 +1,5 @@
-id=2269
-Pulley Drive Mechanism# detached
+﻿id=2269
+滑轮驱动装置# detached
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

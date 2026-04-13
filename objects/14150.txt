@@ -1,5 +1,5 @@
-id=14150
-Pot of Limed Corn
+﻿id=14150
+一壶石灰玉米
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

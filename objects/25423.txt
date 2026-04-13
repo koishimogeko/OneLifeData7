@@ -1,5 +1,5 @@
-id=25423
-Stone Arch with Rose
+﻿id=25423
+玫瑰石拱门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

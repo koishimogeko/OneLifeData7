@@ -1,5 +1,5 @@
-id=2475
-Live Nosaj with Endstone
+﻿id=2475
+带末日石的活化黑暗祭坛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

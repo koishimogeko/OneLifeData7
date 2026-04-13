@@ -1,5 +1,5 @@
-id=10571
-Hot Cast Iron Pan with Seasoned Shrimp
+﻿id=10571
+热铁锅和调味虾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34329
-Pile of Lead Bowl with Cover
+﻿id=34329
+一堆带盖铅碗
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

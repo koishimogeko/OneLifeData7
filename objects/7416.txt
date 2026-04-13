@@ -1,5 +1,5 @@
-id=7416
-Stack of Firewood #dark
+﻿id=7416
+一堆木柴# dark
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30898
-Bone China Pot with Endless Summer Hydrangea# Blue
+﻿id=30898
+无尽夏日绣球骨瓷壶# Blue
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=13608
-Hot Brick Oven
+﻿id=13608
+热砖烤箱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=28045
+﻿id=28045
 @ Cold Bowl with Small Bulb
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

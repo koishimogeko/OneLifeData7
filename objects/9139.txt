@@ -1,5 +1,5 @@
-id=9139
-Wild Beet#seed
+﻿id=9139
+野生甜菜# seed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

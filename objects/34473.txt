@@ -1,5 +1,5 @@
-id=34473
-Pomelo Tree# Bitter Orange Citrus Fly
+﻿id=34473
+柚子树# Bitter Orange Citrus Fly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

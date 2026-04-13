@@ -1,4 +1,4 @@
-id=35056
+﻿id=35056
 Blowpipe With Glass Tee Pipe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

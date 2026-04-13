@@ -1,5 +1,5 @@
-id=968
-Letter N
+﻿id=968
+字母 N
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

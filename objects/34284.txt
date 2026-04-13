@@ -1,5 +1,5 @@
-id=34284
-Plant Box with Dry Epipremnum Aureum Cutting
+﻿id=34284
+干燥的绿萝幼苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

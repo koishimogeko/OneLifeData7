@@ -1,5 +1,5 @@
-id=25553
-Blooming Pink Delphinium
+﻿id=25553
+盆栽里的粉红飞燕
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

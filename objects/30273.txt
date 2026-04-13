@@ -1,5 +1,5 @@
-id=30273
-Bowl of Copper Nitrate Solution
+﻿id=30273
+硝酸铜溶液碗
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

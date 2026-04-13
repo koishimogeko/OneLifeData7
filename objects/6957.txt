@@ -1,5 +1,5 @@
-id=6957
-Cut Raw Chicken and Bones on Plate
+﻿id=6957
+盘上切好的生鸡肉和骨头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

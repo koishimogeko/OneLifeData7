@@ -1,5 +1,5 @@
-id=33332
-Bartenders# Ethanol Use1
+﻿id=33332
+调酒师# 酒精 Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

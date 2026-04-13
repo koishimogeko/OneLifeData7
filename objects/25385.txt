@@ -1,5 +1,5 @@
-id=25385
-3D Chess Projector # +tapoutTrigger,1,1,7,4 east project
+﻿id=25385
+3D象棋投影仪# +tapoutTrigger,1,1,7,4 east project
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

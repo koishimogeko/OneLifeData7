@@ -1,5 +1,5 @@
-id=8170
-Garland Stone Fireplace with Smoldering Tinder #eveHomeMarker
+﻿id=8170
+带阴燃火种的花环石壁炉# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

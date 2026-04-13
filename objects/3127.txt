@@ -1,5 +1,5 @@
-id=3127
-Elder Removal Receipt# with charcaol offScreenSound
+﻿id=3127
+（已过时）带charcaol offScreenSound的长者搬迁收据# with charcaol offScreenSound
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=55

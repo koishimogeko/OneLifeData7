@@ -1,5 +1,5 @@
-id=12284
-Silk Top Piece
+﻿id=12284
+真丝上衣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

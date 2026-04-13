@@ -1,5 +1,5 @@
-id=30561
-Chemical Reaction# H2SO4+NA2O
+﻿id=30561
+化学反应# H2SO4+NA2O
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

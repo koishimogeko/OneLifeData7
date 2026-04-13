@@ -1,5 +1,5 @@
-id=28658
-Cutting Machine#take apart 0
+﻿id=28658
+切割机# take apart 0
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

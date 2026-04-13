@@ -1,5 +1,5 @@
-id=32185
-Noble dress#blue
+﻿id=32185
+贵族连衣裙# blue
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

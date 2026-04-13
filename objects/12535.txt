@@ -1,5 +1,5 @@
-id=12535
-Perhaps sprayed Poplar Sapling
+﻿id=12535
+也许喷过杨树树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

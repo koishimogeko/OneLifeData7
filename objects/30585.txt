@@ -1,5 +1,5 @@
-id=30585
-Bowl of Quartz
+﻿id=30585
+石英碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26008
+﻿id=26008
 退火中的定子叠片 Closed Stone Kiln with Hot Stator Lamination#Stator annealing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

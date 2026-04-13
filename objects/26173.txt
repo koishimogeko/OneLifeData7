@@ -1,4 +1,4 @@
-id=26173
+﻿id=26173
 成堆的金属板、小滑轮和铸铁气缸 Stacks of Sheet Metal, Small Pulleys and Cast Iron Cylinders#2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=10495
-Bowl of Loose Peppercorns
+﻿id=10495
+一碗散装胡椒粒
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

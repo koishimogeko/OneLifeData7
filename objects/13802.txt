@@ -1,5 +1,5 @@
-id=13802
-Mine with Coal #2
+﻿id=13802
+2级矿井和煤炭
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

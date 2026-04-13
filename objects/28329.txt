@@ -1,5 +1,5 @@
-id=28329
-Blooming Lily Flower#Orange
+﻿id=28329
+盛开的百合苗 Blooming Lily Flower#Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

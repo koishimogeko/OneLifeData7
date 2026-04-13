@@ -1,4 +1,4 @@
-id=29094
+﻿id=29094
 半个香蕉树和香蕉苗 Half Banana Tree and Banana Seedling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

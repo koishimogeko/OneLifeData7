@@ -1,5 +1,5 @@
-id=14493
-Cow Mammoth and Calf #male
+﻿id=14493
+牛猛犸象和小牛# male
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

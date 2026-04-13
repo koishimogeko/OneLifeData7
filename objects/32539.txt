@@ -1,5 +1,5 @@
-id=32539
-Camping Stove with Wine Braised Pears
+﻿id=32539
+灰烬上的一锅红酒烩梨
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

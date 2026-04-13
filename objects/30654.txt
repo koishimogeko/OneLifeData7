@@ -1,5 +1,5 @@
-id=30654
-Gold Mosaic Floor# groundOnly
+﻿id=30654
+金色马赛克地板# groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=8517
+﻿id=8517
 @ Any Firewood
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

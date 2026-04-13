@@ -1,5 +1,5 @@
-id=28057
-Dry Lily Grove# White
+﻿id=28057
+干百合丛# White
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

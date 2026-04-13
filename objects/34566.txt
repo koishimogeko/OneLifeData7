@@ -1,5 +1,5 @@
-id=34566
-Crock of Raw Soy Sauce
+﻿id=34566
+生酱油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

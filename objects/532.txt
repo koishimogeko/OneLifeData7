@@ -1,5 +1,5 @@
-id=532
-Mouflon with Lamb
+﻿id=532
+盘羊与小羊羔
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

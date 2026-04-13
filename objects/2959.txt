@@ -1,5 +1,5 @@
-id=2959
-Primitive Fence#horizontal
+﻿id=2959
+财产围栏# horizontal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12588
-Perhaps sprayed Birch Sapling Cutting
+﻿id=12588
+也许喷洒了桦树树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

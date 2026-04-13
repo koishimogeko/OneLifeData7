@@ -1,5 +1,5 @@
-id=32683
-Bessemer Vessel with Steel Chisel
+﻿id=32683
+贝塞麦容器与钢凿子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

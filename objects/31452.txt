@@ -1,4 +1,4 @@
-id=31452
+﻿id=31452
 工作台上的试管夹
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

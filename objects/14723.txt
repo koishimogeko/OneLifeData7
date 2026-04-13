@@ -1,5 +1,5 @@
-id=14723
-Dye-Ready Linen Top
+﻿id=14723
+染色亚麻上衣
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

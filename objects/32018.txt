@@ -1,4 +1,4 @@
-id=32018
+﻿id=32018
 一盆钠长石和氧化铅
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

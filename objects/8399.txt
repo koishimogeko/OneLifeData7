@@ -1,5 +1,5 @@
-id=8399
-Springy Open Dark Wooden Door# installed +blocksMoving
+﻿id=8399
+打开的弹簧深色木门# installed +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10968
-Calico Cat #yellow sitting
+﻿id=10968
+三花猫# 坐在黄色枕头上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

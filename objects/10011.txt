@@ -1,5 +1,5 @@
-id=10011
-Pile of Cooked Sausages
+﻿id=10011
+一堆煮熟的香肠
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

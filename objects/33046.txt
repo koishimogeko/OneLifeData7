@@ -1,4 +1,4 @@
-id=33046
+﻿id=33046
 一盆高岭土和氧化铅
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=10629
-Hot Thin Copper Rod
+﻿id=10629
+热细铜棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

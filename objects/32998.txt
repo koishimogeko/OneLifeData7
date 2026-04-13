@@ -1,5 +1,5 @@
-id=32998
-Unpowered Pump Head with Diesel Fngine
+﻿id=32998
+柴油发动机无动力泵头
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

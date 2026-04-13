@@ -1,4 +1,4 @@
-id=31431
+﻿id=31431
 脚踏泵
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

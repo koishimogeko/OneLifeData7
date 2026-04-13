@@ -1,4 +1,4 @@
-id=31363
+﻿id=31363
 长钢桌右方格子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

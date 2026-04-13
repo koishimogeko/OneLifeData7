@@ -1,5 +1,5 @@
-id=32637
-Brass Body and Brass Valve
+﻿id=32637
+黄铜阀体和黄铜阀门
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4776
-(outdated) Camping Stove #cold stew ashes
+﻿id=4776
+（已过时）# cold stew ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7486
-Full Crates of Apples #2
+﻿id=7486
+两箱苹果
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

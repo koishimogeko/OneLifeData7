@@ -1,5 +1,5 @@
-id=30073
-Mason Jar of High HCL
+﻿id=30073
+浓盐酸梅森罐
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

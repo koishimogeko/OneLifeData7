@@ -1,5 +1,5 @@
-id=11673
-Boards with Bronze Froe #dark
+﻿id=11673
+带有青铜楔刀的板# dark
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

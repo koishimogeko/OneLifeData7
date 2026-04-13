@@ -1,5 +1,5 @@
-id=30683
-Deep Water with Trout# +noHighlight groundOnly
+﻿id=30683
+深水中的鳟鱼# +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

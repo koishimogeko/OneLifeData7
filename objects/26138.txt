@@ -1,4 +1,4 @@
-id=26138
+﻿id=26138
 化学实验台#乙醇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

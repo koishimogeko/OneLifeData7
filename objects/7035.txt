@@ -1,5 +1,5 @@
-id=7035
-Bucket on Work Bench
+﻿id=7035
+工作台上的桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

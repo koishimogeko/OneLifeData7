@@ -1,5 +1,5 @@
-id=2275
-Newcomen Bore with Charcoal
+﻿id=2275
+装木炭的纽科门蒸汽钻孔机
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

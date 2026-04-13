@@ -1,5 +1,5 @@
-id=444
-Hot Steel Adze Head on Anvil
+﻿id=444
+铁砧上的热钢焊头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

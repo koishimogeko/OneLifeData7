@@ -1,4 +1,4 @@
-id=32075
+﻿id=32075
 工作台上的两根钢管和吹管与钢镐以及木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

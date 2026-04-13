@@ -1,4 +1,4 @@
-id=34317
+﻿id=34317
 Hot Sheet Metal on Anvil
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

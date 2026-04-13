@@ -1,4 +1,4 @@
-id=27586
+﻿id=27586
 Perhaps a Rock Peony Seed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

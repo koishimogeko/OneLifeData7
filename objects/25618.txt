@@ -1,5 +1,5 @@
-id=25618
-Apple Original Vinegar in Mason Jar # test
+﻿id=25618
+梅森罐苹果原汁# test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

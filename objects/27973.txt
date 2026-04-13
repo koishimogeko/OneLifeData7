@@ -1,4 +1,4 @@
-id=27973
+﻿id=27973
 Small Lily Seed Ball Planted on Farm# Orange# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

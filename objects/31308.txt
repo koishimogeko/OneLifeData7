@@ -1,4 +1,4 @@
-id=31308
+﻿id=31308
 带热烧杯的吹管与热圆底烧瓶的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

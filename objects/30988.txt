@@ -1,5 +1,5 @@
-id=30988
-Sturdy Primitive Fence#vert
+﻿id=30988
+坚固的原始围栏#vert
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

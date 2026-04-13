@@ -1,4 +1,4 @@
-id=25993
+﻿id=25993
 燃烧的添加了硅锭的高炉 Firing Blast Furnace Charged with Silicon Ingot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

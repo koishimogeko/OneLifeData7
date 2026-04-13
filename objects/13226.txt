@@ -1,5 +1,5 @@
-id=13226
-South West Stakes with Bricks
+﻿id=13226
+带砖的西南地板木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

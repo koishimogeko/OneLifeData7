@@ -1,4 +1,4 @@
-id=28942
+﻿id=28942
 腊肠犬在狗窝中 Dachshund in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

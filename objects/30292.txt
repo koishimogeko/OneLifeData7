@@ -1,5 +1,5 @@
-id=30292
-Secondary fermentation Aged White Wine Barrel
+﻿id=30292
+二次发酵陈年白葡萄酒桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

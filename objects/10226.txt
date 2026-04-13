@@ -1,5 +1,5 @@
-id=10226
-Crock with Soaked Wood Shavings
+﻿id=10226
+陶罐与浸泡过的木屑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

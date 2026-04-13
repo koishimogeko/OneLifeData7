@@ -1,5 +1,5 @@
-id=10266
-(outdated) Glass of Orange Juice
+﻿id=10266
+（已过时）
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

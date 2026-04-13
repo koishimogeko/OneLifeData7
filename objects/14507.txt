@@ -1,5 +1,5 @@
-id=14507
-Steel Wheelbarrow with Gold Ingots
+﻿id=14507
+有金锭的钢独轮车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

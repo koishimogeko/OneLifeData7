@@ -1,5 +1,5 @@
-id=25630
-Filled Hole with Worms and Soil  # crow flee
+﻿id=25630
+蠕虫与填过土的松软地# 逃跑的鸟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

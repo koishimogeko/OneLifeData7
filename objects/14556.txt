@@ -1,5 +1,5 @@
-id=14556
-Springy Open Light Wooden Door with Plain Wreath# Installed +blocksMoving
+﻿id=14556
+带普通花环的弹性开放式浅色木门# Installed +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

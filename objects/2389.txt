@@ -1,5 +1,5 @@
-id=2389
-Running Water Pump
+﻿id=2389
+运行水泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

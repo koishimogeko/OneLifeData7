@@ -1,5 +1,5 @@
-id=4461
-Dromedary #leading
+﻿id=4461
+单峰骆驼# leading
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

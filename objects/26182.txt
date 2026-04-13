@@ -1,4 +1,4 @@
-id=26182
+﻿id=26182
 关闭的轧机 Rolling Mill #power off
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

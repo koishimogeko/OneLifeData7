@@ -1,5 +1,5 @@
-id=7936
-Paint Brush with Paint #green
+﻿id=7936
+油漆刷# green
 containable=1
 containSize=1.000000,vertSlotRot=-0.360000
 permanent=0,minPickupAge=3

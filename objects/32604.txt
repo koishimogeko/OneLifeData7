@@ -1,5 +1,5 @@
-id=32604
-Beaker of Ethanol and Quicklime# Chemical Reaction
+﻿id=32604
+一杯乙醇与石膏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

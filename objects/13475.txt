@@ -1,5 +1,5 @@
-id=13475
-Brewery Under Construction #Fermentation Tank #3
+﻿id=13475
+正在建设的啤酒厂# Fermentation Tank 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

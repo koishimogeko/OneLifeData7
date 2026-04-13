@@ -1,5 +1,5 @@
-id=34229
-Thicket with Psilocybe Mushroom
+﻿id=34229
+灌木丛和裸盖菇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

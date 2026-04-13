@@ -1,5 +1,5 @@
-id=34196
-Perhaps sprayed CitrusL. Sapling
+﻿id=34196
+也许喷了柠檬汁。树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30066
-Mason Jar of H2SO4
+﻿id=30066
+硫酸梅森罐
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

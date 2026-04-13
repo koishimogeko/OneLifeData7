@@ -1,5 +1,5 @@
-id=28477
-Plaid Skirt# blue
+﻿id=28477
+格子裙# blue
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

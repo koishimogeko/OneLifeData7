@@ -1,5 +1,5 @@
-id=25665
-Bowl of Snowy Moon Cake Dough
+﻿id=25665
+一碗冰皮面团
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

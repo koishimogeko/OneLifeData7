@@ -1,5 +1,5 @@
-id=11078
-Crates of Potatoes #3 #Empty
+﻿id=11078
+三箱未满土豆# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

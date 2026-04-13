@@ -1,4 +1,4 @@
-id=8190
+﻿id=8190
 @ Stone Fireplace with Ashes
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

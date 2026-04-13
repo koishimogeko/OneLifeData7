@@ -1,5 +1,5 @@
-id=34968
-Shallow Water with Deadwood Thicket# +noHighlight
+﻿id=34968
+有枯木厚度的浅水# +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

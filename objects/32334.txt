@@ -1,5 +1,5 @@
-id=32334
-Bucket of KNO3 extracted# Unstirred
+﻿id=32334
+一桶硝酸钾提取物# 未搅拌
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

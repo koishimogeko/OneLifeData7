@@ -1,5 +1,5 @@
-id=28621
-Music Box#just close
+﻿id=28621
+八音盒# 刚刚关闭
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

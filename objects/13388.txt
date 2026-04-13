@@ -1,5 +1,5 @@
-id=13388
-Covered Hoop with Curds
+﻿id=13388
+凝乳盖箍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2695
-Rubberized Wing
+﻿id=2695
+涂胶机翼
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

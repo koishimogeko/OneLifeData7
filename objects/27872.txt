@@ -1,4 +1,4 @@
-id=27872
+﻿id=27872
 干燥的郁金香苗Dry Planted Tulip Spout# Purple
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6870
-Anger# emot_2_3
+﻿id=6870
+愤怒# emot_2_3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

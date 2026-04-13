@@ -1,5 +1,5 @@
-id=28592
-Glass and Lamp Base with Lead Wire#purple and yellow
+﻿id=28592
+玻璃片和台灯底座和铅丝 Glass and Lamp Base with Lead Wire#purple and yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

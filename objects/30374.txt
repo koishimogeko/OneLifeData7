@@ -1,5 +1,5 @@
-id=30374
-Wooden Table with Wine Shaker# Stir stick Ice cubes
+﻿id=30374
+带摇酒器的木桌# Stir stick Ice cubes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

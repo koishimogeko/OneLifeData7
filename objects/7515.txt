@@ -1,5 +1,5 @@
-id=7515
-Crate of Corn
+﻿id=7515
+一箱未满玉米
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

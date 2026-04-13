@@ -1,5 +1,5 @@
-id=12576
-Perhaps sprayed Baslam Sapling Cutting
+﻿id=12576
+也许喷洒了 Baslam 树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=12581
-Perhaps sprayed Kapok Sapling
+﻿id=12581
+也许喷过木棉树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

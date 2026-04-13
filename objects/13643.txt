@@ -1,5 +1,5 @@
-id=13643
-Firepit with Kindling and Tinder #eveHomeMarker
+﻿id=13643
+有引火物和火绒的火坑# eveHomeMarker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

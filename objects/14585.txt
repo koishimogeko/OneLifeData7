@@ -1,5 +1,5 @@
-id=14585
-Maine Coon Cat #standing2
+﻿id=14585
+缅因猫# standing2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

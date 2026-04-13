@@ -1,5 +1,5 @@
-id=32647
-Two Manometry Trigger Pipe,Pressure Gauge,Steel Wire,Steel Cylinder Blank on Work Bench
+﻿id=32647
+工作台上的两根传压管和压力表与钢丝以及钢筒毛坯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

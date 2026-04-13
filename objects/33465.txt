@@ -1,5 +1,5 @@
-id=33465
-Southern German Breakfast Platter Table# 3
+﻿id=33465
+南德式早餐桌# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

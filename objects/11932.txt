@@ -1,5 +1,5 @@
-id=11932
-Bowl of Pink Powder
+﻿id=11932
+一碗粉色粉末
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=28824
+﻿id=28824
 @ Nightstand and Open Lamp#lamb open,close
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

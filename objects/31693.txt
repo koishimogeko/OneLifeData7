@@ -1,5 +1,5 @@
-id=31693
-Purple Plaster Wall# +useOnContained
+﻿id=31693
+紫色石膏墙# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

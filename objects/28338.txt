@@ -1,5 +1,5 @@
-id=28338
-Watered Tulip Spout#Pink
+﻿id=28338
+浇水郁金香苗 Watered Tulip Spout#Pink
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=5161
-Crown of Sparta
+﻿id=5161
+斯巴达的王冠
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

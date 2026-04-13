@@ -1,5 +1,5 @@
-id=32645
-Two Manometry Trigger Pipe and Pressure Gauge on Work Bench
+﻿id=32645
+工作台上的两根传压管和压力表
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

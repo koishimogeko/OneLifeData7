@@ -1,5 +1,5 @@
-id=28745
-Spoon of Gelatinized Zinc Chloride
+﻿id=28745
+一勺糊化氯化锌
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

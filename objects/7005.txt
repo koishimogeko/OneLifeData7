@@ -1,5 +1,5 @@
-id=7005
-Fed Domestic Cow #justFed
+﻿id=7005
+用绳牵喂过的家养奶牛# justFed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

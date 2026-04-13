@@ -1,4 +1,4 @@
-id=31753
+﻿id=31753
 引火短棍# ZXC
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=33173
-Iron Red Powder Bowl in Wooden Tongs# AL
+﻿id=33173
+被木钳夹着的一碗氢氧化铝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

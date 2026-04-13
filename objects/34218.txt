@@ -1,5 +1,5 @@
-id=34218
-Thicket with England Ivy Cutting
+﻿id=34218
+灌木丛和英格兰常春藤剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

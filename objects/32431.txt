@@ -1,5 +1,5 @@
-id=32431
-Work Bench with Diesel Engine
+﻿id=32431
+工作台与柴油发动机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

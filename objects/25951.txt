@@ -1,4 +1,4 @@
-id=25951
+﻿id=25951
 热转子子冲压模具 Hot Stamping Press#rotor tempering
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

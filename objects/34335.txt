@@ -1,4 +1,4 @@
-id=34335
+﻿id=34335
 一碗二氟乙烯的乙醛溶液# 带盖铅碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

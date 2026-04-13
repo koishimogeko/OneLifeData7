@@ -1,4 +1,4 @@
-id=27578
+﻿id=27578
 在重型背包上的钢铲 Shovel on Heavy Backpack
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

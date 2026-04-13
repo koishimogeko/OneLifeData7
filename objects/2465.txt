@@ -1,5 +1,5 @@
-id=2465
-Snowball# just thrown
+﻿id=2465
+刚刚扔的雪球# just thrown
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

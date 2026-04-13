@@ -1,4 +1,4 @@
-id=31953
+﻿id=31953
 空染料瓶
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

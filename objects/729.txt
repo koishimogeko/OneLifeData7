@@ -1,5 +1,5 @@
-id=729
-Alum
+﻿id=729
+明矾
 containable=1
 containSize=1,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

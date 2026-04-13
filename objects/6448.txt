@@ -1,5 +1,5 @@
-id=6448
-Llama House Flag Stand
+﻿id=6448
+羊驼屋旗架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

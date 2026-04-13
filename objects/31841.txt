@@ -1,4 +1,4 @@
-id=31841
+﻿id=31841
 化学实验台和硫酸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

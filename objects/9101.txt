@@ -1,5 +1,5 @@
-id=9101
-Fern#large
+﻿id=9101
+蕨# large
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1763
-Dying Beagle
+﻿id=1763
+垂死的比格猎犬
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

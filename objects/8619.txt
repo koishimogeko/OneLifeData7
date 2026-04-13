@@ -1,5 +1,5 @@
-id=8619
-Female040 G
+﻿id=8619
+女040G
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

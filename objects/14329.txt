@@ -1,5 +1,5 @@
-id=14329
-Dead Brown Snake#pinnedDown
+﻿id=14329
+死棕色蛇# pinnedDown
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14777
-Wooden Barrel with Budding Lotus#just sheared
+﻿id=14777
+刚刚剪好的芽莲木桶# just sheared
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,5 +1,5 @@
-id=14006
-Hot Cast Iron Pan with Pancake
+﻿id=14006
+热铁锅和煎饼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34006
+﻿id=34006
 @ Fish Plate# Rock
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

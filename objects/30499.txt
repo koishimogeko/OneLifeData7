@@ -1,5 +1,5 @@
-id=30499
-Crates of Strawberry# 2
+﻿id=30499
+两箱未满草莓
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

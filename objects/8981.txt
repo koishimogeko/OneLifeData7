@@ -1,5 +1,5 @@
-id=8981
-Beaver with Bait
+﻿id=8981
+海狸与诱饵
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

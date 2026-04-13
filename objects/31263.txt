@@ -1,4 +1,4 @@
-id=31263
+﻿id=31263
 湿研钵和湿研杵
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

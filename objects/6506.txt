@@ -1,5 +1,5 @@
-id=6506
-Bowl of Minced Pork
+﻿id=6506
+一碗猪肉末
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=758
-Soft Adobe Wall
+﻿id=758
+柔软的土坯墙
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

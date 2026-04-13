@@ -1,5 +1,5 @@
-id=6956
-Cut Raw Chicken on Plate
+﻿id=6956
+盘上切好的生鸡肉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

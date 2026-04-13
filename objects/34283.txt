@@ -1,5 +1,5 @@
-id=34283
-Plant Box with Dry Schefflera Cutting
+﻿id=34283
+干燥的鸭掌木幼苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4425
-Blessed Shrine #A one pie
+﻿id=4425
+（已过时）受祝福的神社# A one pie
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=13978
-Hot Cast Iron Pan with Cooked Shrimp
+﻿id=13978
+热铁锅和烤熟的虾
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

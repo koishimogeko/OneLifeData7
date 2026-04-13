@@ -1,5 +1,5 @@
-id=25639
-Donkey with Fish Pole and Saddle
+﻿id=25639
+带鱼竿和马鞍的驴
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

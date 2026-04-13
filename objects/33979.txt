@@ -1,5 +1,5 @@
-id=33979
-Sack of Crushed Perlites # 1
+﻿id=33979
+一袋碎珍珠岩# 1
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

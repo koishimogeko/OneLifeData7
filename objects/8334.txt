@@ -1,5 +1,5 @@
-id=8334
-Bow Saw#just repaired
+﻿id=8334
+弓锯# just repaired
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

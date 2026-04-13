@@ -1,5 +1,5 @@
-id=30821
-Wet Clay Flower Crock
+﻿id=30821
+湿粘土花泥鳅
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

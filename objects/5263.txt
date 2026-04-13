@@ -1,5 +1,5 @@
-id=5263
-White Silk Rolls with Flat Rock
+﻿id=5263
+四卷丝绸和扁石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

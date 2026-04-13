@@ -1,4 +1,4 @@
-id=27788
+﻿id=27788
 百合花丛和大种球 Lily Flower Cluster with Big Seed Ball# Orange
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

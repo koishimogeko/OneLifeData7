@@ -1,5 +1,5 @@
-id=34046
-Big Stack of Scrap Copper
+﻿id=34046
+一大堆废铜
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

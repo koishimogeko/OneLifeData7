@@ -1,5 +1,5 @@
-id=11904
-Stack of Shafts #just chopped
+﻿id=11904
+一堆轴# just chopped
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

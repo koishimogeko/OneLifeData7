@@ -1,5 +1,5 @@
-id=2395
-Crude Car with Empty Tank
+﻿id=2395
+空罐原油车
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8244
-Open Present #just made
+﻿id=8244
+打开礼物# just made
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

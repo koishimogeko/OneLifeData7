@@ -1,5 +1,5 @@
-id=33991
-Bowl with Crushed Perlites 1S
+﻿id=33991
+1S碎珍珠岩碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

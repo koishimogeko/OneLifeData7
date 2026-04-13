@@ -1,5 +1,5 @@
-id=2130
-Gold Ingot# just hammered
+﻿id=2130
+刚锤过的金锭# just hammered
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

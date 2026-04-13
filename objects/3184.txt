@@ -1,5 +1,5 @@
-id=3184
-Map with Permanent Mark# &written +map
+﻿id=3184
+（已过时）有永久标记的地图# &written +map
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

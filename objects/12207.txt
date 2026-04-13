@@ -1,5 +1,5 @@
-id=12207
-Thin Iron Rod in Wooden Tongs
+﻿id=12207
+被木钳夹着的细铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

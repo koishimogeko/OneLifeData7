@@ -1,5 +1,5 @@
-id=598
-Dead Sheep#shorn fleece
+﻿id=598
+绵羊尸体# shorn fleece
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

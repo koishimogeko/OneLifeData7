@@ -1,5 +1,5 @@
-id=12144
-Black Silk Shirt
+﻿id=12144
+黑色真丝衬衫
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

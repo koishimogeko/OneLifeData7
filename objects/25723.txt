@@ -1,5 +1,5 @@
-id=25723
-Blooming Catharanthus Roseus# up
+﻿id=25723
+盛开的长春花# up
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

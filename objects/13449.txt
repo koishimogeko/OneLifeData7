@@ -1,5 +1,5 @@
-id=13449
-Pile of Soaked Wheat
+﻿id=13449
+一堆浸泡过的小麦
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

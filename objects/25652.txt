@@ -1,5 +1,5 @@
-id=25652
-Plate of Raw  Bean Paste Mooncakes
+﻿id=25652
+生豆沙月饼盘
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

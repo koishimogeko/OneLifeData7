@@ -1,5 +1,5 @@
-id=6732
-Nest#eggpile2
+﻿id=6732
+巢# eggpile2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

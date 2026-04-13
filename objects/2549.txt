@@ -1,5 +1,5 @@
-id=2549
-Bowl of Saltpeter and Sulfur
+﻿id=2549
+一碗硝酸钾和硫磺
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

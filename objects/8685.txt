@@ -1,5 +1,5 @@
-id=8685
-Short Shaft with Rope
+﻿id=8685
+系绳短木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

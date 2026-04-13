@@ -1,5 +1,5 @@
-id=32401
-Stone Block with Writing and Written Paper with Chisel# &written
+﻿id=32401
+带凿子的刻字石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

@@ -1,5 +1,5 @@
-id=6773
-Fishing Pot with Crab# ground
+﻿id=6773
+捕捞笼里有螃蟹# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

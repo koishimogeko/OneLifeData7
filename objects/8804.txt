@@ -1,5 +1,5 @@
-id=8804
-Broken Love Heart
+﻿id=8804
+心碎
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

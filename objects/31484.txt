@@ -1,4 +1,4 @@
-id=31484
+﻿id=31484
 @ 未熔炼一碗密封的铜锌合金坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

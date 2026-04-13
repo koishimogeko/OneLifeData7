@@ -1,5 +1,5 @@
-id=10459
-Seeding Dill Plant
+﻿id=10459
+播种莳萝植物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1510
-Track End #S
+﻿id=1510
+南轨道终点# S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

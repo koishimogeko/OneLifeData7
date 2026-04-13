@@ -1,5 +1,5 @@
-id=12304
-Dye-Ready Slipper with Bow
+﻿id=12304
+可染色蝴蝶结拖鞋
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

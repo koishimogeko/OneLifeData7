@@ -1,5 +1,5 @@
-id=32854
-Basket of Small Cut Perlites
+﻿id=32854
+一篮珍珠岩
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=30053
-Play board# Blue ball 80%
+﻿id=30053
+游戏板# Blue ball 80%
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

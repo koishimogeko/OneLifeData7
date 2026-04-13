@@ -1,5 +1,5 @@
-id=4855
-Mammoth Hides
+﻿id=4855
+猛犸象皮
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

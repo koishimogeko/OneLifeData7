@@ -1,5 +1,5 @@
-id=4737
-Burlap Sack #wheat 2
+﻿id=4737
+麻袋# wheat 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

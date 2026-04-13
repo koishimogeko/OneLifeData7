@@ -1,5 +1,5 @@
-id=5269
-Cured Tobacco Leaves #1
+﻿id=5269
+腌制烟叶# 1
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

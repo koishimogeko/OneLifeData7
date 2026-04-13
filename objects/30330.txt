@@ -1,5 +1,5 @@
-id=30330
-Full Bucket of Salt Water# Saturated
+﻿id=30330
+满桶盐水# Saturated
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

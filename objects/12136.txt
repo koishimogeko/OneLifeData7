@@ -1,5 +1,5 @@
-id=12136
-Bolts of Wool Blend Cloth
+﻿id=12136
+羊毛混纺布匹
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

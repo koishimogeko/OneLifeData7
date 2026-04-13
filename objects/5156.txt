@@ -1,5 +1,5 @@
-id=5156
-Crown of Avalon
+﻿id=5156
+阿瓦隆之冠
 containable=1
 containSize=1,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

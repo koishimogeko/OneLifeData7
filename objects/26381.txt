@@ -1,4 +1,4 @@
-id=26381
+﻿id=26381
 铺设的电线 Laid Wires #WNES just off 3 groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

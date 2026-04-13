@@ -1,5 +1,5 @@
-id=6471
-Stone Wall#flagholdefloor
+﻿id=6471
+石墙# flagholdefloor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

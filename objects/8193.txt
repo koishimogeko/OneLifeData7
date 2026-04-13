@@ -1,4 +1,4 @@
-id=8193
+﻿id=8193
 @ Stone Fireplace with Kindling
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

@@ -1,5 +1,5 @@
-id=28677
-Cutting Table# will broke,no elect
+﻿id=28677
+切割桌# will broke,no elect
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

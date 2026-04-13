@@ -1,5 +1,5 @@
-id=13478
-Brewery #just built
+﻿id=13478
+啤酒厂# just built
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

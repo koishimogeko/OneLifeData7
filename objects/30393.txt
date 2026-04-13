@@ -1,5 +1,5 @@
-id=30393
-Mug of Apple Juice# No Sugar +yum14502
+﻿id=30393
+一杯苹果汁# No Sugar +yum14502
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

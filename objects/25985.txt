@@ -1,4 +1,4 @@
-id=25985
+﻿id=25985
 未烧制的密封石英和碳粉在木钳上 Unburned Sealed Quartz and Charcoal Powder in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

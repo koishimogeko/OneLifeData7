@@ -1,5 +1,5 @@
-id=8818
-Cow eating Grass
+﻿id=8818
+牛吃草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

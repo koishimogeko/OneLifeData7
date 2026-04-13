@@ -1,4 +1,4 @@
-id=31997
+﻿id=31997
 化学实验台和废水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

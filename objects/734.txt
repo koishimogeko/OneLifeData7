@@ -1,5 +1,5 @@
-id=734
-Simmering Rose Madder Dye
+﻿id=734
+煮沸的玫瑰茜草染料
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

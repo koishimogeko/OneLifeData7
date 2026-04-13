@@ -1,5 +1,5 @@
-id=34256
-Dry Epipremnum Aureum Sprouts
+﻿id=34256
+干燥的萌芽绿萝
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

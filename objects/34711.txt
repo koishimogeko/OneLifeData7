@@ -1,5 +1,5 @@
-id=34711
-Open Green Smoke Bomb
+﻿id=34711
+打开绿色烟雾弹
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

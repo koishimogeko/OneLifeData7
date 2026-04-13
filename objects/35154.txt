@@ -1,4 +1,4 @@
-id=35154
+﻿id=35154
 @ Small Trash# Basket
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

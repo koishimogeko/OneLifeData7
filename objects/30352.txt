@@ -1,5 +1,5 @@
-id=30352
-Champagne Glass# +noFeeding +emotEat_6_10 +alcohol10
+﻿id=30352
+香槟杯# +noFeeding +emotEat_6_10 +alcohol10
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

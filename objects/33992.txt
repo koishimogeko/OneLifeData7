@@ -1,4 +1,4 @@
-id=33992
+﻿id=33992
 Bowl of Expanded Perlite# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

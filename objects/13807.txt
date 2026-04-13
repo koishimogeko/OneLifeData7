@@ -1,5 +1,5 @@
-id=13807
-Mine #2 #dismantled
+﻿id=13807
+2级矿井# 等待爆破
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1974
-Dice Roll of Seven# 1 6
+﻿id=1974
+骰子# 1 6
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4809
-Copper Clad Sword#scabbard
+﻿id=4809
+铜包剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

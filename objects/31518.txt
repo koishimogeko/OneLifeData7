@@ -1,4 +1,4 @@
-id=31518
+﻿id=31518
 白铅矿
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

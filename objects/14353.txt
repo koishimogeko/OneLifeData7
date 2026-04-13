@@ -1,5 +1,5 @@
-id=14353
-Filled Bore Hole
+﻿id=14353
+填充钻孔
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

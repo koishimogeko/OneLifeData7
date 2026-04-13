@@ -1,4 +1,4 @@
-id=7629
+﻿id=7629
 @ White Rose Hat Pattern
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

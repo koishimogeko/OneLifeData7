@@ -1,5 +1,5 @@
-id=32989
-Rib Spalling Hydrothermal Oredeposits# Level2 Hot Steel 3
+﻿id=32989
+片帮冒顶的热液矿床# 2级 炽热 金属材料加固 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

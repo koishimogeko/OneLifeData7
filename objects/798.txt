@@ -1,5 +1,5 @@
-id=798
-Arrow Wound
+﻿id=798
+箭矢伤
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

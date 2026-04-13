@@ -1,5 +1,5 @@
-id=33313
-Boards
+﻿id=33313
+细浅色木板
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

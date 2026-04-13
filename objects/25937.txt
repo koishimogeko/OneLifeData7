@@ -1,4 +1,4 @@
-id=25937
+﻿id=25937
 石炉和热转子冲压模具 Stone Kiln with Hot Stamping Press#rotor tempering
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

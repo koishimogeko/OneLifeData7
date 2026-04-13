@@ -1,5 +1,5 @@
-id=30086
-Bowl of NAOH
+﻿id=30086
+一碗氢氧化钠溶液
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

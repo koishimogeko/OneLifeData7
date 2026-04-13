@@ -1,5 +1,5 @@
-id=25440
-Ancient Sandstone Wall  with Windowsill # +noBackAccess +useOnContained
+﻿id=25440
+带窗台的古代砂岩墙# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

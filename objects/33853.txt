@@ -1,5 +1,5 @@
-id=33853
-Expanded Perlite Insulation Post# 3
+﻿id=33853
+膨胀珍珠岩保温柱# 3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

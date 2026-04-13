@@ -1,5 +1,5 @@
-id=6830
-Pile of Ear of Corns
+﻿id=6830
+一堆玉米穗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

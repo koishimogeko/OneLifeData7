@@ -1,5 +1,5 @@
-id=4734
-Raw Mammoth Meat
+﻿id=4734
+生猛犸肉
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

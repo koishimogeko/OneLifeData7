@@ -1,5 +1,5 @@
-id=952
-Letter C
+﻿id=952
+字母 C
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

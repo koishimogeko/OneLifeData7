@@ -1,5 +1,5 @@
-id=13565
-Pit Stakes with Firebricks
+﻿id=13565
+带耐火砖的木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

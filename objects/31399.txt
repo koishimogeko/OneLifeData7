@@ -1,4 +1,4 @@
-id=31399
+﻿id=31399
 一堆砂纸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

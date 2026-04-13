@@ -1,5 +1,5 @@
-id=10967
-Calico Cat #yellow standing
+﻿id=10967
+印花布猫# yellow standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

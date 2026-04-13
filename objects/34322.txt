@@ -1,5 +1,5 @@
-id=34322
-Chemical Work Bench with Fluorescent Powder# Wastewater Use1
+﻿id=34322
+荧光粉化工工作台# Wastewater Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34093
+﻿id=34093
 Domestic Goose with Corn
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=30736
-Filleted Fish on Flat Rock# Bass eggs
+﻿id=30736
+平坦岩石上的填鱼# Bass eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

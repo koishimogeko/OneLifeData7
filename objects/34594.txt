@@ -1,5 +1,5 @@
-id=34594
-Clay Crock with Tomata and Kraut Board
+﻿id=34594
+粘土蛋糕配番茄和克劳特板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

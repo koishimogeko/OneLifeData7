@@ -1,5 +1,5 @@
-id=28360
-Dry Tulip Seed Ball#yellow
+﻿id=28360
+干郁金香种球 Dry Tulip Seed Ball#yellow
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

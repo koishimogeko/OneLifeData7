@@ -1,5 +1,5 @@
-id=32237
-Horse-Drawn Wagon #dappled,hitched
+﻿id=32237
+四轮马车# dappled,hitched
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

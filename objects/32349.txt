@@ -1,5 +1,5 @@
-id=32349
-Blue Rubber Ball with Two Red Rubber Ball
+﻿id=32349
+两个红色橡胶球和蓝色橡胶球
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

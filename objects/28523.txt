@@ -1,5 +1,5 @@
-id=28523
-Cutting Machine in Assembly# 7
+﻿id=28523
+组装中的切割机# 7
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

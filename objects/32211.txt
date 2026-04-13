@@ -1,5 +1,5 @@
-id=32211
-Painted Glass Windows# 2
+﻿id=32211
+彩绘玻璃窗户# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

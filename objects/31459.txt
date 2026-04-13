@@ -1,4 +1,4 @@
-id=31459
+﻿id=31459
 工作台上的三脚架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

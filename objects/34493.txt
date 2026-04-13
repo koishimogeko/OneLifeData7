@@ -1,5 +1,5 @@
-id=34493
-Hot Sheet Bucket on Anvil
+﻿id=34493
+铁砧上的热板桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

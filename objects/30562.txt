@@ -1,5 +1,5 @@
-id=30562
-Bowl of NA2SO4 Solution
+﻿id=30562
+NA2SO4溶液碗
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34908
-Full Blue Opal Mine with Mine Box
+﻿id=34908
+全蓝蛋白石矿，带矿箱
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

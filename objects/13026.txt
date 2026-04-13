@@ -1,5 +1,5 @@
-id=13026
-Pit Bull #holdingWildOnion
+﻿id=13026
+斗牛犬# holdingWildOnion
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

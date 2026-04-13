@@ -1,5 +1,5 @@
-id=495
-Crucible with Scrap Steel
+﻿id=495
+装着废钢的坩埚
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

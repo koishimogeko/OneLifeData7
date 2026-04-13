@@ -1,5 +1,5 @@
-id=12592
-Perhaps sprayed Planted Morning Glory
+﻿id=12592
+也许喷洒了种植牵牛花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

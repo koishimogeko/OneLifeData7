@@ -1,5 +1,5 @@
-id=13233
-Planted Domestic Hedge#corner #justTrimmed
+﻿id=13233
+种植的国内树篱# corner justTrimmed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

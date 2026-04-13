@@ -1,5 +1,5 @@
-id=12538
-Perhaps sprayed Pruned Yew Bonsai
+﻿id=12538
+也许喷洒修剪的红豆杉盆景
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

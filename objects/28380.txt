@@ -1,5 +1,5 @@
-id=28380
-Dry Island Brocade Peony Seeding
+﻿id=28380
+干岛锦苗 Dry Island Brocade Peony Seeding
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

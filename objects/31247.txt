@@ -1,5 +1,5 @@
-id=31247
-Firing Stone Furnace with Bone China Crucibe and Lid
+﻿id=31247
+熔炉中的湿骨瓷坩埚# 燃烧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

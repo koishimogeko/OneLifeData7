@@ -1,5 +1,5 @@
-id=33158
-Spoon of Ground Pepper# Small
+﻿id=33158
+一勺纯碱
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

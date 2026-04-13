@@ -1,4 +1,4 @@
-id=32045
+﻿id=32045
 @ 插起玻璃材料态
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

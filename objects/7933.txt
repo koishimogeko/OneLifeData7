@@ -1,5 +1,5 @@
-id=7933
-Painted Plastered Floor# yellow groundOnly
+﻿id=7933
+黄色抹灰地板# yellow groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

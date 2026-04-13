@@ -1,4 +1,4 @@
-id=28038
+﻿id=28038
 @ Cut Tulip or Lily
 containable=0
 containSize=1.000000,vertSlotRot=-0.500000

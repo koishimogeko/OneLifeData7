@@ -1,5 +1,5 @@
-id=1438
-Shot Bison
+﻿id=1438
+被射中的野牛
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=27818
+﻿id=27818
 干燥的郁金香苗 Dry Tulip Spout# Yellow
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

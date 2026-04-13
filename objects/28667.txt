@@ -1,5 +1,5 @@
-id=28667
-Cutting Table# 5
+﻿id=28667
+切割桌# 5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

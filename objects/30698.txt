@@ -1,5 +1,5 @@
-id=30698
-Deep Water with Trout# +noHighlight groundOnly just fed
+﻿id=30698
+深水中的鳟鱼# 吃饱了 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

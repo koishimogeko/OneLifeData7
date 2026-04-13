@@ -1,5 +1,5 @@
-id=25319
-帅 投影 # Red on Ground no use
+﻿id=25319
+帅 投影# Red on Ground no use
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

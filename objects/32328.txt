@@ -1,5 +1,5 @@
-id=32328
-Brick Half Wall with Detached Garland
+﻿id=32328
+独立加兰德砖半墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

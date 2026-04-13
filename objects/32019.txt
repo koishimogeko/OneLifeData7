@@ -1,4 +1,4 @@
-id=32019
+﻿id=32019
 一盆钠长石和萤石粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

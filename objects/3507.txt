@@ -1,5 +1,5 @@
-id=3507
-Red Top Hat with Red Rose
+﻿id=3507
+红玫瑰红色高顶礼帽
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

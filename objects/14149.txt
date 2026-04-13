@@ -1,5 +1,5 @@
-id=14149
-Pot of Corn in Lime Water
+﻿id=14149
+一锅处理过的玉米
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

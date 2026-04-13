@@ -1,5 +1,5 @@
-id=4518
-Hops#2
+﻿id=4518
+啤酒花# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

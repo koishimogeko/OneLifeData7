@@ -1,5 +1,5 @@
-id=31328
-Bowl of Gold Flakes# 1S
+﻿id=31328
+一碗金箔# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

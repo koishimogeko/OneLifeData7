@@ -1,5 +1,5 @@
-id=13909
-Tundra Limestone Mine #4
+﻿id=13909
+4级苔原石灰石矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

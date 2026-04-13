@@ -1,5 +1,5 @@
-id=11832
-Show Horse with Saddle Bag#black,riding
+﻿id=11832
+秀马带马鞍包# black,riding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

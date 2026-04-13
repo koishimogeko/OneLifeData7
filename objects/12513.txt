@@ -1,5 +1,5 @@
-id=12513
-Perhaps sprayed Pine Sapling Cutting
+﻿id=12513
+也许喷洒了松树树苗切割
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11779
-Painted Picket Fence#white
+﻿id=11779
+彩绘尖桩栅栏# white
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4427
-Blessed Shrine #A three pies
+﻿id=4427
+受祝福神社# A three pies
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

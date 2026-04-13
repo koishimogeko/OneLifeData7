@@ -1,5 +1,5 @@
-id=11921
-Unoriginal Artist Flag Roll
+﻿id=11921
+非原创艺术家卷旗
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

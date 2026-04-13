@@ -1,4 +1,4 @@
-id=29018
+﻿id=29018
 干燥的向日葵苗 Dry Sunflower Seeding
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

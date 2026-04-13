@@ -1,5 +1,5 @@
-id=8040
-Open Light Wooden Door# installed
+﻿id=8040
+打开的浅色木门# installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

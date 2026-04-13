@@ -1,5 +1,5 @@
-id=30852
-Bone China Pot# Draw Good
+﻿id=30852
+骨瓷花盆# 釉下彩
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

@@ -1,5 +1,5 @@
-id=4822
-Bucket of Grapes
+﻿id=4822
+一桶葡萄
 containable=1
 containSize=2.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

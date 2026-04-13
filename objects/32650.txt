@@ -1,5 +1,5 @@
-id=32650
-Two Manometry Trigger Pipe,Pressure Gauge,Steel Wire,Steel Cylinder Blank,Small Steel Sheets,Thin Springs on Work Bench
+﻿id=32650
+工作台上的两根传压管和压力表与钢丝以及钢筒毛坯还有钢片和细弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

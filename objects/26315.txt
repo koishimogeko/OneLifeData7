@@ -1,4 +1,4 @@
-id=26315
+﻿id=26315
 @ wire WNES
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

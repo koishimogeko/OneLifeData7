@@ -1,5 +1,5 @@
-id=30879
-Bone China Pot with Wet Sunflower 2
+﻿id=30879
+带湿向日葵的骨瓷锅2
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

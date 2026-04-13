@@ -1,5 +1,5 @@
-id=30663
-Bamboo Net
+﻿id=30663
+竹网
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

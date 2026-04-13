@@ -1,5 +1,5 @@
-id=65
-Lombardy Poplar Tree#Branch
+﻿id=65
+带枝的白杨树# Branch
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

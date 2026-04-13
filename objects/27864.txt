@@ -1,4 +1,4 @@
-id=27864
+﻿id=27864
 湿润的郁金香小种球 Wet Small Tulip Seed Ball# Purple
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

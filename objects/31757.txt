@@ -1,4 +1,4 @@
-id=31757
+﻿id=31757
 化学实验台# 分馏煤油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

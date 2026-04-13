@@ -1,5 +1,5 @@
-id=1269
-Domestic Goose# Dropped
+﻿id=1269
+家养的鹅# Dropped
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

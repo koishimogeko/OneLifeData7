@@ -1,4 +1,4 @@
-id=26581
+﻿id=26581
 白色亚麻头巾 White Linen Scarf
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=14427
-Wet Planted Flax
+﻿id=14427
+湿润的亚麻植物
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

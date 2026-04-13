@@ -1,5 +1,5 @@
-id=34880
-Hide Lion with Arrow# 2
+﻿id=34880
+用箭隐藏狮子# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

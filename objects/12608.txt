@@ -1,5 +1,5 @@
-id=12608
-Perhaps sprayed Planted Pink Delphinium
+﻿id=12608
+也许喷洒了种植的粉红色飞燕草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

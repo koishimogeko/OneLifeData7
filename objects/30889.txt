@@ -1,5 +1,5 @@
-id=30889
-Clay Flower with Sunbelievable Sunflower
+﻿id=30889
+粘土花与阳光灿烂的向日葵
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

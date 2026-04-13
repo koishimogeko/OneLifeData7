@@ -1,5 +1,5 @@
-id=30094
-Clay plate of Rubber cover
+﻿id=30094
+橡胶盖泥板
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

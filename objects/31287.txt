@@ -1,4 +1,4 @@
-id=31287
+﻿id=31287
 带热分液漏斗的吹管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

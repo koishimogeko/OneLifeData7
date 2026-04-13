@@ -1,5 +1,5 @@
-id=8908
-Stack of Marble Tiles
+﻿id=8908
+一堆大理石瓷砖
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

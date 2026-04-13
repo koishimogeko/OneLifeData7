@@ -1,5 +1,5 @@
-id=32600
-Pile of Nitroglycerin Dynamite
+﻿id=32600
+一堆硝酸甘油炸药
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

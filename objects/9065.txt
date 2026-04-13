@@ -1,5 +1,5 @@
-id=9065
-Camping Stove with Tomato Soup#ashes
+﻿id=9065
+野营炉好番茄汤# ashes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

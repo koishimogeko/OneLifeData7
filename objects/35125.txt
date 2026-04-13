@@ -1,4 +1,4 @@
-id=35125
+﻿id=35125
 @ Bear Cave Hide Thick Smoke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

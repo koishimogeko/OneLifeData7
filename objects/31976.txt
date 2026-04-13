@@ -1,4 +1,4 @@
-id=31976
+﻿id=31976
 木墙结构与水浅蒽绳捆丝绸
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

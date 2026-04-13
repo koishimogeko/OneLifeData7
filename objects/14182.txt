@@ -1,5 +1,5 @@
-id=14182
-Silver Mask
+﻿id=14182
+银面具
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

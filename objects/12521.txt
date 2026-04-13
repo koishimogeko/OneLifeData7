@@ -1,5 +1,5 @@
-id=12521
-Perhaps sprayed Planted Hops
+﻿id=12521
+也许喷洒了种植啤酒花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

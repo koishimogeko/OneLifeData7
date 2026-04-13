@@ -1,4 +1,4 @@
-id=26583
+﻿id=26583
 在水桶中发芽的椰子 Sprouted Coconut in Full Bucket of Water
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

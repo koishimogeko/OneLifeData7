@@ -1,5 +1,5 @@
-id=1303
-Cooked Corn Tortilla# just cooked
+﻿id=1303
+熟玉米饼# just cooked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

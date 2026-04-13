@@ -1,5 +1,5 @@
-id=25041
-Growing Ay Tsao
+﻿id=25041
+成长中的艾草
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

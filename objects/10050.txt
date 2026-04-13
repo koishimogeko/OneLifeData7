@@ -1,5 +1,5 @@
-id=10050
-Show Horse #black,riding
+﻿id=10050
+装饰马# 黑色,骑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=13

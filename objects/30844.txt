@@ -1,5 +1,5 @@
-id=30844
-Chalk Stack
+﻿id=30844
+粉笔堆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

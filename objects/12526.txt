@@ -1,5 +1,5 @@
-id=12526
-Perhaps sprayed Planted Potatoes
+﻿id=12526
+也许喷洒了种植的土豆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

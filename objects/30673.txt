@@ -1,5 +1,5 @@
-id=30673
-Deep Water with Float# +noHighlight Use3
+﻿id=30673
+带浮子的深水# +noHighlight Use3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

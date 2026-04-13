@@ -1,5 +1,5 @@
-id=13809
-Mine with Limestone #2 #exploratory
+﻿id=13809
+2级石灰石矿井和石灰石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

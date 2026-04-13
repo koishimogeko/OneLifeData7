@@ -1,5 +1,5 @@
-id=7506
-Full Crate of Tomatoes
+﻿id=7506
+一箱番茄
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

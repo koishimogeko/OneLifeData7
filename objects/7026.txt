@@ -1,5 +1,5 @@
-id=7026
-Ancient Half Stone Wall with Boards
+﻿id=7026
+古老半石墙和木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

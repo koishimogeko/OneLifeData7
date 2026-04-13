@@ -1,5 +1,5 @@
-id=4535
-Primitive Table
+﻿id=4535
+（已过时）原始表
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

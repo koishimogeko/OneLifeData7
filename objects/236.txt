@@ -1,5 +1,5 @@
-id=236
-Clay Plate
+﻿id=236
+粘土盘
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

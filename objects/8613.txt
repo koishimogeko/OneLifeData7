@@ -1,5 +1,5 @@
-id=8613
-Male034 F
+﻿id=8613
+男034女
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

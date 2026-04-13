@@ -1,5 +1,5 @@
-id=28111
-Dry Budding Corn Flower
+﻿id=28111
+干芽玉米花
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

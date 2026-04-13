@@ -1,4 +1,4 @@
-id=32081
+﻿id=32081
 化学实验台和中质油
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

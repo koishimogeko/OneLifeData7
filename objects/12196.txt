@@ -1,5 +1,5 @@
-id=12196
-Yellow Long Dress on Hanger
+﻿id=12196
+衣架上的黄色长裙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

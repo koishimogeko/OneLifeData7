@@ -1,4 +1,4 @@
-id=6363
+﻿id=6363
 @ 2HOL Chargers
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

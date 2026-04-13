@@ -1,5 +1,5 @@
-id=2316
-Oil Drilling Tower
+﻿id=2316
+石油钻井塔
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26591
+﻿id=26591
 一碗装水的棕榈仁 Bowl of Palm Kernels with Water
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

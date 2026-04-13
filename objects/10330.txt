@@ -1,5 +1,5 @@
-id=10330
-Dry Planted Fire Weed
+﻿id=10330
+干柳兰扦插
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

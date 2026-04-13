@@ -1,4 +1,4 @@
-id=31799
+﻿id=31799
 一杯肥皂
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

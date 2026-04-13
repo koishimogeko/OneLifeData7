@@ -1,4 +1,4 @@
-id=33580
+﻿id=33580
 Watchtower# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

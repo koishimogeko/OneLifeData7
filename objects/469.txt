@@ -1,5 +1,5 @@
-id=469
-Boards with Froe
+﻿id=469
+钢楔刀和木板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=25966
+﻿id=25966
 开裂的定子冲压模具 Cracked Stamping Die for Stator Lamination
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

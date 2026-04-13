@@ -1,4 +1,4 @@
-id=26001
+﻿id=26001
 硅钢片 Silicon Steel Sheet#justCasted
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=10332
-Dry Fire Weed Sprout
+﻿id=10332
+干柳兰芽
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

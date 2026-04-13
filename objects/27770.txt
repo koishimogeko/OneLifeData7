@@ -1,4 +1,4 @@
-id=27770
+﻿id=27770
 湿润的百合小种球 Wet Small Lily Seed Ball# Orange
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

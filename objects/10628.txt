@@ -1,5 +1,5 @@
-id=10628
-Thin Copper Rod in Wooden Tongs
+﻿id=10628
+被木钳夹着的细铜棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

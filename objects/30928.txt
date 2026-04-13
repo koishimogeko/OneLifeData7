@@ -1,5 +1,5 @@
-id=30928
-Link of White Sausages
+﻿id=30928
+白香肠的链接
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7439
-Pile of Red Branches
+﻿id=7439
+一堆红树枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

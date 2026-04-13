@@ -1,5 +1,5 @@
-id=3983
-Pile of Red Cabbage
+﻿id=3983
+一堆紫甘蓝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

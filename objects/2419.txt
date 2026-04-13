@@ -1,5 +1,5 @@
-id=2419
-Two Curved Branches
+﻿id=2419
+两个弯树枝
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

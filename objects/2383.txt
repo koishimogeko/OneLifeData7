@@ -1,5 +1,5 @@
-id=2383
-Diesel Crank Assembly
+﻿id=2383
+柴油机曲柄总成
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=15

@@ -1,4 +1,4 @@
-id=28469
+﻿id=28469
 Springy Open Dark Wooden Door with Berry Wreath with Bell# Installed +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

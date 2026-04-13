@@ -1,5 +1,5 @@
-id=4561
-Bowl of Hops
+﻿id=4561
+一碗啤酒花
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

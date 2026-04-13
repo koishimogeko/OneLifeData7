@@ -1,5 +1,5 @@
-id=1416
-Burning Tutorial Torch# tutorial 21 done
+﻿id=1416
+燃烧的教程火炬# tutorial 21 done
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

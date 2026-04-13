@@ -1,5 +1,5 @@
-id=13528
-Closed Firing Stone Kiln with Wet Bricks
+﻿id=13528
+湿砖密闭烧制石窑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11700
-(outdated) Mine Shaft #exhausted explosion
+﻿id=11700
+（已过时）#exhausted explosion
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

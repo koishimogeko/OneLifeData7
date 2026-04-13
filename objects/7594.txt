@@ -1,5 +1,5 @@
-id=7594
-Cooked Chicken on Plate
+﻿id=7594
+盘中的烤鸡
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2011
-Nine of Spades
+﻿id=2011
+黑桃9
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

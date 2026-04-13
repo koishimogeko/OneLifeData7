@@ -1,5 +1,5 @@
-id=3064
-Wooden Box with Slot Notches
+﻿id=3064
+带槽缺口的木箱子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

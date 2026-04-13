@@ -1,5 +1,5 @@
-id=7663
-Stump with Goose Head #dark
+﻿id=7663
+树桩和鹅头# dark
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

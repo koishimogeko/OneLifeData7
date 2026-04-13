@@ -1,5 +1,5 @@
-id=4806
-Sword of Baget #scabbard
+﻿id=4806
+巴格特之剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

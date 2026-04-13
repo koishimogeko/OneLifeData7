@@ -1,5 +1,5 @@
-id=8400
-Wooden Wall with Shelf# +noBackAccess +useOnContained
+﻿id=8400
+带架子的木墙# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

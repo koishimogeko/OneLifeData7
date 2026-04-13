@@ -1,5 +1,5 @@
-id=6411
-Wild Cotton Plant#pickable
+﻿id=6411
+野生棉花植株# pickable
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

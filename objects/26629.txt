@@ -1,4 +1,4 @@
-id=26629
+﻿id=26629
 灯柱 Light Post # on S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

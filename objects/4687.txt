@@ -1,5 +1,5 @@
-id=4687
-Sword of Sparta #scabbard
+﻿id=4687
+斯巴达之剑# scabbard
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=18

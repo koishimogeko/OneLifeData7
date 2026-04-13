@@ -1,4 +1,4 @@
-id=29073
+﻿id=29073
 黄色卫衣 Yellow Hoodie
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=8237
-Open Dark Wooden Door with Berry Wreath# installed
+﻿id=8237
+打开的带浆果花环的深色木门# installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

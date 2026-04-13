@@ -1,4 +1,4 @@
-id=31839
+﻿id=31839
 化学实验台# 三氧化硫反应
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=6620
-Backpack with Yew Bow
+﻿id=6620
+紫杉弓和背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

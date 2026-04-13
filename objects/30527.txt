@@ -1,5 +1,5 @@
-id=30527
-Camping Stove With Sugar Water
+﻿id=30527
+糖水野营炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

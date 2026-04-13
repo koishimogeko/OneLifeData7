@@ -1,5 +1,5 @@
-id=289
-Iron Ore in Wooden Tongs
+﻿id=289
+被木钳夹着的铁矿石
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

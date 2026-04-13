@@ -1,5 +1,5 @@
-id=19
-Female001 D
+﻿id=19
+女性001 D
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

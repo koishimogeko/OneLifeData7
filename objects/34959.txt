@@ -1,5 +1,5 @@
-id=34959
-Rubber Tree with Fallen Hive# Bees
+﻿id=34959
+带有倒塌蜂巢的橡胶树# Bees
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=4567
-Honeybee
+﻿id=4567
+蜜蜂
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

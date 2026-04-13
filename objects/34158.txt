@@ -1,5 +1,5 @@
-id=34158
-Rooting Sweet Orange Tree Cutting
+﻿id=34158
+甜橙树扦插生根
 containable=1
 containSize=1.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

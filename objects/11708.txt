@@ -1,5 +1,5 @@
-id=11708
-Iron Anvil on Flat Rock
+﻿id=11708
+扁平岩石上的铁砧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

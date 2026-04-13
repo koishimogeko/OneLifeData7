@@ -1,5 +1,5 @@
-id=30148
-Pile of Turquoise
+﻿id=30148
+一堆绿松石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

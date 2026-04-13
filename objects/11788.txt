@@ -1,5 +1,5 @@
-id=11788
-Open Painted Picket Fence Gate#black +blocksMoving
+﻿id=11788
+打开彩绘栅栏门# black +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

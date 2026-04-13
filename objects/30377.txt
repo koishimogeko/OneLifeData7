@@ -1,5 +1,5 @@
-id=30377
-Bartenders# Champagne Use1
+﻿id=30377
+调酒师# Champagne Use1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

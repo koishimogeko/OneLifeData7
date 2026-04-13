@@ -1,4 +1,4 @@
-id=31619
+﻿id=31619
 一碗白铅矿粉# 1S
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

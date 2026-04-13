@@ -1,4 +1,4 @@
-id=14121
+﻿id=14121
 @ +contTableExceptionsPot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

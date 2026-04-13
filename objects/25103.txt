@@ -1,5 +1,5 @@
-id=25103
-Pile of Red Marinated Goose Eggs
+﻿id=25103
+一堆红色咸鹅蛋
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

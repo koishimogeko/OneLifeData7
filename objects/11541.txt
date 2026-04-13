@@ -1,5 +1,5 @@
-id=11541
-Random Mine Results# precious (outdated)
+﻿id=11541
+（已过时）随机矿井结果# precious
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

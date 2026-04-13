@@ -1,4 +1,4 @@
-id=31957
+﻿id=31957
 帐篷墙# 淡罗云紫 +useOncontained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=28048
-Cold Bowl with Big Lily Bulb#Orange
+﻿id=28048
+装着橙色百合大种球的冷藏容器# Orange
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30404
-Bowl of Dough# 1S
+﻿id=30404
+碗面团# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

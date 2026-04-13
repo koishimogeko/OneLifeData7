@@ -1,4 +1,4 @@
-id=28995
+﻿id=28995
 干燥的向日葵种子 Dry Sunflower Seed Ball
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

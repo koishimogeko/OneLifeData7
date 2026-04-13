@@ -1,5 +1,5 @@
-id=33560
-High Temperature Steam Hydrothermal Oredeposits# Level2 Hot A
+﻿id=33560
+冒高温蒸汽的热液矿床# 2级 炽热 高温蒸汽 引流
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

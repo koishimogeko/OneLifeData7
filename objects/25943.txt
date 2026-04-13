@@ -1,4 +1,4 @@
-id=25943
+﻿id=25943
 石头水池 Full Stone Pool
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

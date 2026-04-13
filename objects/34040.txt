@@ -1,4 +1,4 @@
-id=34040
+﻿id=34040
 @ Crucible with Scrap XXX
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

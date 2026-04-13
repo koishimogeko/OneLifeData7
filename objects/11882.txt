@@ -1,5 +1,5 @@
-id=11882
-Hot Iron Bloom on Anvil
+﻿id=11882
+铁砧上的热铁花
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

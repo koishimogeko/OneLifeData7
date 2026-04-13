@@ -1,5 +1,5 @@
-id=32193
-Noble dress #justremoved pink
+﻿id=32193
+贵族连衣裙# justremoved pink
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

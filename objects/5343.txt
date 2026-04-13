@@ -1,5 +1,5 @@
-id=5343
-Mammoth Hide Gambeson #cloak red
+﻿id=5343
+猛犸象皮铠甲# cloak red
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7509
-Full Crates of Tomatoes #3
+﻿id=7509
+三箱番茄
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

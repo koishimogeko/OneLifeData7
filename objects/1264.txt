@@ -1,5 +1,5 @@
-id=1264
-Dung with Hatched Egg
+﻿id=1264
+粪堆和蛋壳
 containable=0
 containSize=1.000000,vertSlotRot=-0.415000
 permanent=1,minPickupAge=3

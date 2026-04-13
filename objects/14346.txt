@@ -1,5 +1,5 @@
-id=14346
-Open Password Locked Wooden Door# vert +password-protectable
+﻿id=14346
+打开密码上锁的木门# vert +password-protectable
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=6760
-Steel Hoe#just repaired
+﻿id=6760
+钢锄# 刚刚修复
 containable=1
 containSize=1.900000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

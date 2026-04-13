@@ -1,5 +1,5 @@
-id=2438
-Pine Tree with Four Garlands
+﻿id=2438
+四花环的松树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

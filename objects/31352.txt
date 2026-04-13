@@ -1,4 +1,4 @@
-id=31352
+﻿id=31352
 钢桌# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

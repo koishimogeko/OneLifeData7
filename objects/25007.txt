@@ -1,5 +1,5 @@
-id=25007
-Heliphobe Fertile Ploughed Furrow
+﻿id=25007
+避光的肥沃耕犁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

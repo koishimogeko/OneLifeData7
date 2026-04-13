@@ -1,4 +1,4 @@
-id=31513
+﻿id=31513
 两根橡胶管
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

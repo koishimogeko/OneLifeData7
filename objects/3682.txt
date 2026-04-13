@@ -1,4 +1,4 @@
-id=3682
+﻿id=3682
 @ Pattern Bottle with Funnel just inserted
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

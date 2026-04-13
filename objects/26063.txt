@@ -1,4 +1,4 @@
-id=26063
+﻿id=26063
 红色铜电线 Red Wire#copper
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

@@ -1,4 +1,4 @@
-id=28916
+﻿id=28916
 @ Lamp#without Light Bulb
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,4 +1,4 @@
-id=31341
+﻿id=31341
 钢砧上的热铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

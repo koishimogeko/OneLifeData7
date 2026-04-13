@@ -1,4 +1,4 @@
-id=31195
+﻿id=31195
 大石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

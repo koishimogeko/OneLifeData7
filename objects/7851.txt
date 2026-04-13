@@ -1,5 +1,5 @@
-id=7851
-Skewered Pike Fillets
+﻿id=7851
+一串梭子鱼片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

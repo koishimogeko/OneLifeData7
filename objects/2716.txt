@@ -1,5 +1,5 @@
-id=2716
-Dumped Crushed Palm Kernel Bowl
+﻿id=2716
+倾倒碎棕榈仁碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

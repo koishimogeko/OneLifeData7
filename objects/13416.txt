@@ -1,5 +1,5 @@
-id=13416
-Pair of Sheepskin Boots
+﻿id=13416
+一双羊皮靴子
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

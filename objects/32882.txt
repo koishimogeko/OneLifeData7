@@ -1,5 +1,5 @@
-id=32882
-Stack of Fire Opals
+﻿id=32882
+一堆橙蛋白石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

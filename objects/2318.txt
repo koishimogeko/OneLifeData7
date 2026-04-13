@@ -1,5 +1,5 @@
-id=2318
-Oil Drilling Foundation# 3
+﻿id=2318
+石油钻井基础# 3
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

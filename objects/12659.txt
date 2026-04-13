@@ -1,5 +1,5 @@
-id=12659
-Ancient Brick Wall with Copper Pipe
+﻿id=12659
+带铜管的古老砖墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

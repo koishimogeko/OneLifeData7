@@ -1,5 +1,5 @@
-id=34706
-Green Smoke Bomb# 5S
+﻿id=34706
+绿色烟雾弹# 5S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

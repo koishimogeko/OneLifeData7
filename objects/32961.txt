@@ -1,5 +1,5 @@
-id=32961
-Hydrothermal Oredeposits with Intermediate Sulfidation Epithermal Deposits# Level2 Hot
+﻿id=32961
+中硫型浅成型热液矿床区域# 2级 炽热
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

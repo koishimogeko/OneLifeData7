@@ -1,5 +1,5 @@
-id=34261
-Pile of Amanita
+﻿id=34261
+一堆毒蘑菇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

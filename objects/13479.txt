@@ -1,5 +1,5 @@
-id=13479
-Brewery with Spent Grain #emptied
+﻿id=13479
+啤酒厂用过的谷物# emptied
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

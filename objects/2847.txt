@@ -1,5 +1,5 @@
-id=2847
-Sprouted Second-Year Onion
+﻿id=2847
+野生洋葱苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

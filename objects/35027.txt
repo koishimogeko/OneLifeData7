@@ -1,5 +1,5 @@
-id=35027
-Flowering Citron Tree with Small Cut Stones
+﻿id=35027
+开有小石块的香橼树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

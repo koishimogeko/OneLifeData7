@@ -1,5 +1,5 @@
-id=7815
-Net of Sardines #just caught
+﻿id=7815
+捕获沙丁鱼的渔网# just caught
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

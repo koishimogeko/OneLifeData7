@@ -1,5 +1,5 @@
-id=32814
-Hydrothermal Oredeposits# Level2 Hot 32
+﻿id=32814
+热液矿床# 2级 炽热 32
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

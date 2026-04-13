@@ -1,4 +1,4 @@
-id=27936
+﻿id=27936
 花盆旁的郁金香小种球 Tulip Seed Ball # 1 # Red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

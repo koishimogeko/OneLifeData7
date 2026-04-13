@@ -1,4 +1,4 @@
-id=32222
+﻿id=32222
 化学实验台# 制取浓硫酸 未点火
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

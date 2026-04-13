@@ -1,4 +1,4 @@
-id=32021
+﻿id=32021
 一盆钠长石和氧化铅与萤石粉
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

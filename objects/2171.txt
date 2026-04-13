@@ -1,5 +1,5 @@
-id=2171
-Rubber Ball# bouncing
+﻿id=2171
+橡胶球# bouncing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

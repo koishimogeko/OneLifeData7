@@ -1,5 +1,5 @@
-id=5181
-Rooster Chick
+﻿id=5181
+公鸡雏鸡
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

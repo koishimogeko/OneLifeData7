@@ -1,4 +1,4 @@
-id=31253
+﻿id=31253
 @ Bone China Crucibe and Lid
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

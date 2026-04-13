@@ -1,5 +1,5 @@
-id=32302
-Half Brick Wall with Shelf# +useOnContained
+﻿id=32302
+带架子的半砖墙# +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

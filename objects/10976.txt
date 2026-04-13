@@ -1,5 +1,5 @@
-id=10976
-Calico Cat #kittens,2
+﻿id=10976
+印花布猫# kittens 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

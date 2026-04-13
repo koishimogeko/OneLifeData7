@@ -1,4 +1,4 @@
-id=31869
+﻿id=31869
 一桶硫化橡胶和棕榈蜡与木炭粉以及熟石灰还有二氟乙烯
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

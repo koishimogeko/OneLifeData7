@@ -1,5 +1,5 @@
-id=8276
-Arrow#just left
+﻿id=8276
+箭头# just left
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

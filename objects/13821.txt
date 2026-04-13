@@ -1,5 +1,5 @@
-id=13821
-Iron Mine #3
+﻿id=13821
+3级铁矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25624
-Apple Original Vinegar Bottle with Funnel # just full
+﻿id=25624
+苹果原醋漏斗瓶# just full
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=33896
-Pollinated Pomelo Tree# Bee Orange Paternal
+﻿id=33896
+授粉的柚子树# Bee Orange Paternal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

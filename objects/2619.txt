@@ -1,5 +1,5 @@
-id=2619
-Two Daniell Cells
+﻿id=2619
+两节丹尼尔电池
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=11890
-Table with Thick Pie Crust
+﻿id=11890
+厚馅饼皮的桌子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

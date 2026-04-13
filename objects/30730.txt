@@ -1,5 +1,5 @@
-id=30730
-Arctic Char eggs in Clay Bowl
+﻿id=30730
+粘土碗里的北极查尔蛋
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

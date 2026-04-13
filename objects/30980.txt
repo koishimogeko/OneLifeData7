@@ -1,5 +1,5 @@
-id=30980
-Copper Pipe# WS ES JustGone
+﻿id=30980
+铜管# WS ES JustGone
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7215
-Crucible with Soaked Wool Pad
+﻿id=7215
+带有浸泡羊毛垫的坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

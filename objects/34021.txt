@@ -1,5 +1,5 @@
-id=34021
-Newcomen Pump with Charcoal# No Water
+﻿id=34021
+纽科门木炭泵# No Water
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

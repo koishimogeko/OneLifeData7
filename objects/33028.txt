@@ -1,5 +1,5 @@
-id=33028
-Nitrate,Mixed Acid and Hydrofluoric Acid,Boric Acid,Silica Gel in Lead Bowl
+﻿id=33028
+一碗硝酸盐和氟硝混酸与硼酸以及硅胶普通颗粒# 铅碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

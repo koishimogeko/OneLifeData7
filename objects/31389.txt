@@ -1,4 +1,4 @@
-id=31389
+﻿id=31389
 一些钢架
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

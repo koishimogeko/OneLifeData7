@@ -1,5 +1,5 @@
-id=30449
-Bowl of Lettuce Seeds
+﻿id=30449
+生菜种子碗
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

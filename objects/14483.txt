@@ -1,5 +1,5 @@
-id=14483
-Linen Sheet #1
+﻿id=14483
+亚麻床单# 1
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

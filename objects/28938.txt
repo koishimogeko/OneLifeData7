@@ -1,4 +1,4 @@
-id=28938
+﻿id=28938
 比格在狗窝中 Beagle in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

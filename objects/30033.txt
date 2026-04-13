@@ -1,5 +1,5 @@
-id=30033
-FootBall# 3 kick
+﻿id=30033
+足球# 3 kick
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

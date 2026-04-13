@@ -1,4 +1,4 @@
-id=26558
+﻿id=26558
 铺设的电线 Laid Wires #NSW #concrete
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

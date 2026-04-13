@@ -1,5 +1,5 @@
-id=12205
-Hanger on Work Bench
+﻿id=12205
+工作台上的衣架
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

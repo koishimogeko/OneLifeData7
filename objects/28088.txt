@@ -1,5 +1,5 @@
-id=28088
-Dry Potted Lily Grove # Orange
+﻿id=28088
+盆栽百合苗# Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

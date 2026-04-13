@@ -1,4 +1,4 @@
-id=31026
+﻿id=31026
 一碗普通鱼饵
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

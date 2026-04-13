@@ -1,4 +1,4 @@
-id=28606
+﻿id=28606
 @Glass and Lamp Base
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

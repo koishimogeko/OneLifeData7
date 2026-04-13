@@ -1,4 +1,4 @@
-id=31840
+﻿id=31840
 化学实验台# 测温 控制反应 水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

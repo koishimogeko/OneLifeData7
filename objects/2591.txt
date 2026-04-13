@@ -1,5 +1,5 @@
-id=2591
-Wrought Iron with Filings
+﻿id=2591
+锻铁和铁屑
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

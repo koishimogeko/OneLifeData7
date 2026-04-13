@@ -1,4 +1,4 @@
-id=28472
+﻿id=28472
 Password Locked Wooden Door with Berry Wreath with Bell# +password-protectable
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

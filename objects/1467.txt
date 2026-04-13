@@ -1,5 +1,5 @@
-id=1467
-Butter Knife
+﻿id=1467
+黄油刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=8

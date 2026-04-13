@@ -1,5 +1,5 @@
-id=1297
-Bowl of Slaked Lime
+﻿id=1297
+一碗熟石灰
 containable=0
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

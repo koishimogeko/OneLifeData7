@@ -1,5 +1,5 @@
-id=14480
-Warp Weighted Loom
+﻿id=14480
+经纱加重织机
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

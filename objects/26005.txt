@@ -1,4 +1,4 @@
-id=26005
+﻿id=26005
 热的定子叠片在木钳上 Hot Untreated Stator Lamination in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=3039
-Exhausted Newcomen Pump# 2 stone
+﻿id=3039
+枯竭的纽科门蒸汽泵# 2 stone
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7319
-Empty Apple Tree
+﻿id=7319
+空苹果树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

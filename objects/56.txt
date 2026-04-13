@@ -1,5 +1,5 @@
-id=56
-Milkweed Stump
+﻿id=56
+乳草根部
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

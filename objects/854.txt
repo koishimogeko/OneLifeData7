@@ -1,5 +1,5 @@
-id=854
-Hot Steel Hoe Blade on Anvil
+﻿id=854
+铁砧上的热钢锄刀片
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

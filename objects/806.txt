@@ -1,5 +1,5 @@
-id=806
-Dug Burdock
+﻿id=806
+被挖起的牛蒡
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

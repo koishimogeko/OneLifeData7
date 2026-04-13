@@ -1,5 +1,5 @@
-id=30826
-Closed Firing Stone with Wet Clay Flower Crock
+﻿id=30826
+湿粘土花泥鳅密闭烧制石材
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

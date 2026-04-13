@@ -1,4 +1,4 @@
-id=12626
+﻿id=12626
 @ Any Sprinkler tapout
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

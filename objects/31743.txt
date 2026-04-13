@@ -1,4 +1,4 @@
-id=31743
+﻿id=31743
 带烧杯的焦炭干馏炉和去灰煤炭粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

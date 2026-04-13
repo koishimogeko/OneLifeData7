@@ -1,4 +1,4 @@
-id=31961
+﻿id=31961
 淡罗云紫丝绸
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

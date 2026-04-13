@@ -1,5 +1,5 @@
-id=33866
-Firing Twin Furnace Cipola with Lime Gravel
+﻿id=33866
+用石灰砾石烧制Cipola双炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

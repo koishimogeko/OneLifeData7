@@ -1,5 +1,5 @@
-id=28266
-Dry Budding Morning Glory
+﻿id=28266
+干萌芽牵牛花
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

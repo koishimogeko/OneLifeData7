@@ -1,5 +1,5 @@
-id=1972
-Dice Roll of Three# 1 2
+﻿id=1972
+骰子# 1 2
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

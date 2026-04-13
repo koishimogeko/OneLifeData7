@@ -1,5 +1,5 @@
-id=10613
-Oven Door
+﻿id=10613
+（已过时）烤箱门
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

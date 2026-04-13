@@ -1,5 +1,5 @@
-id=30448
-Wet Ripe Cabbage Row
+﻿id=30448
+湿熟卷心菜排
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

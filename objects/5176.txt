@@ -1,5 +1,5 @@
-id=5176
-Banner# baget
+﻿id=5176
+横幅# 巴格特
 containable=1
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

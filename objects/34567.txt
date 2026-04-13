@@ -1,5 +1,5 @@
-id=34567
-Soaking Fermented Bean
+﻿id=34567
+浸泡发酵豆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

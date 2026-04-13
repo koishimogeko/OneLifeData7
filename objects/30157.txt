@@ -1,5 +1,5 @@
-id=30157
-Wooden Barrel of Amethysts
+﻿id=30157
+紫水晶木桶
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

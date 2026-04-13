@@ -1,4 +1,4 @@
-id=26132
+﻿id=26132
 制动盘 Rotor#1
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

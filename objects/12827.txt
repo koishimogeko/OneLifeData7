@@ -1,5 +1,5 @@
-id=12827
-Fill Station #oil #W #justoff
+﻿id=12827
+加油站#oil W justoff
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30380
-Bartenders with Mimosa
+﻿id=30380
+含羞草调酒师
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

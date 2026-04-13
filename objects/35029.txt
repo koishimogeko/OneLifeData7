@@ -1,5 +1,5 @@
-id=35029
-Winter Citron Tree with Small Cut Stones
+﻿id=35029
+冬香橼树配小石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

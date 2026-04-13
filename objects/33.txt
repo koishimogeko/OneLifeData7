@@ -1,5 +1,5 @@
-id=33
-Stone
+﻿id=33
+圆石
 containable=1
 containSize=1,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

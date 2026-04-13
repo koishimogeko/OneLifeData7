@@ -1,5 +1,5 @@
-id=30219
-Small sonwdrifts# no ice cube
+﻿id=30219
+小三明治# no ice cube
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25682
-Mooncake Mold
+﻿id=25682
+月饼模具
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

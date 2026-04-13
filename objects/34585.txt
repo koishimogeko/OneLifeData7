@@ -1,5 +1,5 @@
-id=34585
-Wooden Barrel of Fermented Hot Pepper and Vinegar
+﻿id=34585
+发酵辣椒醋木桶
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

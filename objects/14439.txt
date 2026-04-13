@@ -1,5 +1,5 @@
-id=14439
-Harvested Flax#bollsRemoved
+﻿id=14439
+收获的亚麻# bollsRemoved
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

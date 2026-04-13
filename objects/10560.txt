@@ -1,5 +1,5 @@
-id=10560
-Raw Pork with Dry Rub
+﻿id=10560
+干擦生猪肉
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

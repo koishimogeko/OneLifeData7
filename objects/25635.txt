@@ -1,5 +1,5 @@
-id=25635
-Perhaps a crow eating Worms
+﻿id=25635
+也许是吃乌鸦的虫子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10085
-Table with Raw Pizza #meat,onion,tomato,mushroom
+﻿id=10085
+桌子上的生披萨# meat,onion,tomato,mushroom
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

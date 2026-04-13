@@ -1,5 +1,5 @@
-id=10489
-Bowl of Loose Peppercorns# just harvested
+﻿id=10489
+一碗散装花椒# just harvested
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

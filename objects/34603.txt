@@ -1,5 +1,5 @@
-id=34603
-Bartenders# Mug Two Wine Shaker
+﻿id=34603
+调酒师# Mug Two Wine Shaker
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

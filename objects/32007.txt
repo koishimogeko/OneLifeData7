@@ -1,4 +1,4 @@
-id=32007
+﻿id=32007
 化学实验台和氟磺酸与电石粉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

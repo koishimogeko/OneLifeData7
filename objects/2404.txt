@@ -1,5 +1,5 @@
-id=2404
-Female016 A
+﻿id=2404
+女性016 A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

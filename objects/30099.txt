@@ -1,5 +1,5 @@
-id=30099
-Bowl of CACO3+NAOH
+﻿id=30099
+一碗碳酸钙与氢氧化钠
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -57,12 +57,14 @@ def main():
     for i in range(len(keys)):
         translated = data1[i]
         if not pd.isna(translated):
-            translated = translated.strip()
+            translated = translated.strip().replace('\r', '')
             try:
                 with open(f'objects/{keys[i]}.txt', encoding='utf-8') as f:
                     content = f.readlines()
             except Exception as e:
                 continue
+            # 清理每一行里的 \r
+            content = [line.replace('\r', '') for line in content]
             if is_append:
                 data2_append = data2[i].strip()
                 utf8_data2_append = data2_append.encode('utf8')
@@ -84,6 +86,7 @@ def main():
                     continue
                 name = data.split(' ')[0]
                 value = data[data.index('"') + 1:-2]
+                value = value.replace('\r', '')
                 menuItems[name] = value
 
     except FileNotFoundError as e:

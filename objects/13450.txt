@@ -1,5 +1,5 @@
-id=13450
-Pile of Soaked Wheat#spread
+﻿id=13450
+一堆浸湿的小麦# spread
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

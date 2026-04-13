@@ -1,5 +1,5 @@
-id=5216
-Hot Cast Iron Pan
+﻿id=5216
+热铁锅
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34657
-Attacking Irrtable Wolf
+﻿id=34657
+攻击Irrtable Wolf
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=28325
-Dry Lily Seed Ball#Orange
+﻿id=28325
+干百合种球 Dry Lily Seed Ball#Orange
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

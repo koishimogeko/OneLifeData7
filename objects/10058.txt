@@ -1,5 +1,5 @@
-id=10058
-Four Full and Two Cut Leather Sheets
+﻿id=10058
+四张全皮和两张切割皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

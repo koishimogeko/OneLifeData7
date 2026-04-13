@@ -1,5 +1,5 @@
-id=8282
-Shot Grizzly Bear#1 arrow missed
+﻿id=8282
+射击灰熊# 1 arrow missed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

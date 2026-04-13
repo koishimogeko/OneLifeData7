@@ -1,5 +1,5 @@
-id=4234
-Bowl of Cucumber Seeds
+﻿id=4234
+一碗黄瓜种子
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

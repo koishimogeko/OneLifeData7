@@ -1,4 +1,4 @@
-id=32143
+﻿id=32143
 工作台上的钢尺# 刻度基准
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

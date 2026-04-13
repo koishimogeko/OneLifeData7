@@ -1,5 +1,5 @@
-id=14030
-Crock of Lime Gravel and Clay#justDropped
+﻿id=14030
+石灰砾石和粘土罐# justDropped
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=10450
-Seeding Wild Dill
+﻿id=10450
+结籽的野生莳萝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

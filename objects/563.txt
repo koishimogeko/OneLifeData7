@@ -1,5 +1,5 @@
-id=563
-Skinned Mouflon#with hide
+﻿id=563
+剥皮盘羊# with hide
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

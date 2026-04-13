@@ -1,4 +1,4 @@
-id=31980
+﻿id=31980
 钓上海鲈的黄铜钓竿# 存活
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

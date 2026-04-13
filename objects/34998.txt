@@ -1,5 +1,5 @@
-id=34998
-Staked Autumn Pomelo Tree
+﻿id=34998
+秋柚树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

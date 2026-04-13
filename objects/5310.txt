@@ -1,4 +1,4 @@
-id=5310
+﻿id=5310
 @ Shot Mammoth bulls
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

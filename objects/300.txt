@@ -1,5 +1,5 @@
-id=300
-Big Charcoal Pile#3
+﻿id=300
+一堆木炭#3
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

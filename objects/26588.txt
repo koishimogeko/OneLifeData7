@@ -1,4 +1,4 @@
-id=26588
+﻿id=26588
 干的椰子树苗 Dry Coconut Sapling
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

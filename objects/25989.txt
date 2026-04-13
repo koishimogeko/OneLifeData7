@@ -1,4 +1,4 @@
-id=25989
+﻿id=25989
 密封硅 Silicon Crucible
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

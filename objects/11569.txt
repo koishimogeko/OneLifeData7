@@ -1,5 +1,5 @@
-id=11569
-Unforged Sealed Bronze Crucible
+﻿id=11569
+未锻造密封青铜坩埚
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

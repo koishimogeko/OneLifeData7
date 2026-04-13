@@ -1,5 +1,5 @@
-id=31650
-Painted Picket Fence Gate# Orange +blocksMoving +autoDefaultTrans
+﻿id=31650
+彩绘栅栏门# 橙色 +blocksMoving +autoDefaultTrans
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

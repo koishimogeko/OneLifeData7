@@ -1,5 +1,5 @@
-id=7236
-Traveling Water #W
+﻿id=7236
+移动的水# W
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=14734
-Teddy Bear# just sewed
+﻿id=14734
+泰迪熊# just sewed
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=0

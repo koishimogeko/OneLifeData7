@@ -1,5 +1,5 @@
-id=14062
-North-South Fence Holes #nostakes
+﻿id=14062
+南北栅栏孔# nostakes
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

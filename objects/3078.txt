@@ -1,4 +1,4 @@
-id=3078
+﻿id=3078
 Male019 A
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

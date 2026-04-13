@@ -1,5 +1,5 @@
-id=969
-Letter M
+﻿id=969
+字母 M
 containable=1
 containSize=0.500000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=30068
-Mason Jar of High H2SO4 in Wooden Tongs# Condensed
+﻿id=30068
+被木钳夹着的一罐浓硫酸# 浓缩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

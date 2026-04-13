@@ -1,4 +1,4 @@
-id=25927
+﻿id=25927
 未处理用于转子层压的冲压模具 Untreated Stamping Die for Rotor Lamination
 containable=1
 containSize=3.000000,vertSlotRot=0.000000

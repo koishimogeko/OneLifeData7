@@ -1,4 +1,4 @@
-id=34454
+﻿id=34454
 煮沸的竹篁绿染料
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

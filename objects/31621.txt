@@ -1,4 +1,4 @@
-id=31621
+﻿id=31621
 氧化铜片
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

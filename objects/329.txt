@@ -1,5 +1,5 @@
-id=329
-Hot steel Ingot in Wooden Tongs
+﻿id=329
+被木钳夹着的热钢锭
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

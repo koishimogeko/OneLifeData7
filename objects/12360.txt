@@ -1,5 +1,5 @@
-id=12360
-Indigo Long Skirt on Hanger
+﻿id=12360
+衣架上的靛蓝色长裙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

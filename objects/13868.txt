@@ -1,5 +1,5 @@
-id=13868
-Desert Mineral Mine with Cinnabar #3
+﻿id=13868
+3级沙漠铝土矿矿井和朱砂
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

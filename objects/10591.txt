@@ -1,5 +1,5 @@
-id=10591
-Seasoned Bass
+﻿id=10591
+调味鲈鱼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

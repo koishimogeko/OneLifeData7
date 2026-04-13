@@ -1,5 +1,5 @@
-id=12168
-Black Cotton Long Dress on Hanger
+﻿id=12168
+衣架上的黑色棉质长裙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

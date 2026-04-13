@@ -1,5 +1,5 @@
-id=208
-Four Full and Two Cut Rabbit Furs
+﻿id=208
+四块半兔皮
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

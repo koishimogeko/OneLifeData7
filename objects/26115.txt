@@ -1,4 +1,4 @@
-id=26115
+﻿id=26115
 一碗硫化橡胶圈 Bowl with Vulcanized Rubber Ring
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

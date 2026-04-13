@@ -1,5 +1,5 @@
-id=32311
-Stone Arch with Rose Seed# red
+﻿id=32311
+玫瑰籽石拱门# red
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

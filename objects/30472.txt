@@ -1,5 +1,5 @@
-id=30472
-Languishing Strawberry Sprouts Cutting# Use4
+﻿id=30472
+令人垂涎的草莓芽切割# Use4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

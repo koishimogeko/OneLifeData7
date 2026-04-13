@@ -1,4 +1,4 @@
-id=35045
+﻿id=35045
 Watering Can# 1S
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

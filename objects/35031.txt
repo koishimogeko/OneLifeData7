@@ -1,5 +1,5 @@
-id=35031
-Autumn Sweet Orange Tree with Small Cut Stones
+﻿id=35031
+秋天的甜橙树，有小石块
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

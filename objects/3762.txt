@@ -1,5 +1,5 @@
-id=3762
-Track #SE
+﻿id=3762
+轨道# SE
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

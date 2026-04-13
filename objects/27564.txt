@@ -1,4 +1,4 @@
-id=27564
+﻿id=27564
 砖钟塔 Brick Bell Tower # removed bell
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

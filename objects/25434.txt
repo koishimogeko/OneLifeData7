@@ -1,5 +1,5 @@
-id=25434
-Ancient Brick Wall with Window and Boards
+﻿id=25434
+带窗户和木板的古砖墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

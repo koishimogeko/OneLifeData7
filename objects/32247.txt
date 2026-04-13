@@ -1,5 +1,5 @@
-id=32247
-Bundled Airplane Kit
+﻿id=32247
+绑捆的飞机组件
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

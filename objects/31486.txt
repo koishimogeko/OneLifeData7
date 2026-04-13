@@ -1,4 +1,4 @@
-id=31486
+﻿id=31486
 @ 已熔炼
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

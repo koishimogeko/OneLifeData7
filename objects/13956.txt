@@ -1,5 +1,5 @@
-id=13956
-Cast Iron Pan#heating
+﻿id=13956
+铁锅# 预热
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

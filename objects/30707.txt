@@ -1,5 +1,5 @@
-id=30707
-Bamboo Net with Cod# just caught fish eggs
+﻿id=30707
+鳕鱼竹网# just caught fish eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=31876
+﻿id=31876
 一锅石英砂
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

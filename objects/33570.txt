@@ -1,5 +1,5 @@
-id=33570
-Hydrothermal Oredeposits with Epithermal Deposits Passage # Level2 Hot 1S
+﻿id=33570
+浅成型热液矿床区域与采集通道# 2级 炽热 1S
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7952
-Bald Cypress Tree with Fallen Hive #just left
+﻿id=7952
+秃头柏树与倒下的蜂巢# just left
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=1894
-Bowl of Ultramarine Pigment
+﻿id=1894
+一碗蓝色颜料
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

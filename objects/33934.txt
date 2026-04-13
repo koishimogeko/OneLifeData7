@@ -1,5 +1,5 @@
-id=33934
-Blue Short Trousers with Work Belt
+﻿id=33934
+蓝色短裤配工作腰带
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

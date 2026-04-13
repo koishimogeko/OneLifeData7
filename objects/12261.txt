@@ -1,5 +1,5 @@
-id=12261
-Red Ballgown
+﻿id=12261
+红色舞会礼服
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

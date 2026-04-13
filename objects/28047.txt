@@ -1,5 +1,5 @@
-id=28047
-Cold Bowl with Big Lily Bulb#Pink
+﻿id=28047
+装着粉色百合大种球的冷藏容器# Pink
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=2893
-Bowl of Rust
+﻿id=2893
+一碗铁锈
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

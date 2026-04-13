@@ -1,5 +1,5 @@
-id=7391
-Butt Log #dark
+﻿id=7391
+对接原木# dark
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

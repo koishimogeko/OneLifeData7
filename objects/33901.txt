@@ -1,5 +1,5 @@
-id=33901
-Filled Hole with Soil and Herbaceous Plant Dead Bush
+﻿id=33901
+用土壤和草本植物枯树填补的洞
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

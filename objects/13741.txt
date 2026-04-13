@@ -1,5 +1,5 @@
-id=13741
-Firing Blast Furnace Charged with Pig Iron
+﻿id=13741
+装有生铁的燃烧高炉
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

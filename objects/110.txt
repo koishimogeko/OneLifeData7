@@ -1,5 +1,5 @@
-id=110
-Corner Wall Stakes
+﻿id=110
+角墙木桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

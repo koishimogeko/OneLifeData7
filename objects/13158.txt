@@ -1,5 +1,5 @@
-id=13158
-Autumn Apple Tree with Small Cut Stones
+﻿id=13158
+秋天的苹果树与小切石
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

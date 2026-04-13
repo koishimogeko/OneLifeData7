@@ -1,5 +1,5 @@
-id=2448
-Candle
+﻿id=2448
+蜡烛
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

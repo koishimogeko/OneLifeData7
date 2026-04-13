@@ -1,5 +1,5 @@
-id=2193
-Drum Stick on Plate
+﻿id=2193
+放在盘子上的一个火鸡腿
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=11665
+﻿id=11665
 @ Any Axe
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

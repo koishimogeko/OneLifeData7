@@ -1,5 +1,5 @@
-id=12698
-Crates of Cocoa Pods #3
+﻿id=12698
+三箱未满可可豆
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

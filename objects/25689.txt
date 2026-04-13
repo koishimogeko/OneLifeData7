@@ -1,4 +1,4 @@
-id=25689
+﻿id=25689
 @ Plate of Raw Mooncake
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

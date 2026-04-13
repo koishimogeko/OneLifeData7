@@ -1,5 +1,5 @@
-id=33492
-Watchtower# 8 SOS
+﻿id=33492
+瞭望塔# 8 SOS
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

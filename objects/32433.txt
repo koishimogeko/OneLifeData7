@@ -1,5 +1,5 @@
-id=32433
-Work Bench wtih Diesel Crank Assembly
+﻿id=32433
+工作台与柴油机曲柄总成
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

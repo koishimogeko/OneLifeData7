@@ -1,5 +1,5 @@
-id=30519
-Rose With Sugar Water
+﻿id=30519
+玫瑰配糖水
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

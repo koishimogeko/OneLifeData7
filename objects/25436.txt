@@ -1,5 +1,5 @@
-id=25436
-Sandstone Wall  with Window and Boards
+﻿id=25436
+带窗户和木板的砂岩墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

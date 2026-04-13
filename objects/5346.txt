@@ -1,5 +1,5 @@
-id=5346
-Mammoth Hide Officer Helm
+﻿id=5346
+猛犸象皮军官头盔
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

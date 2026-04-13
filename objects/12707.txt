@@ -1,5 +1,5 @@
-id=12707
-Calico Cat #pouncing
+﻿id=12707
+印花布猫# pouncing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

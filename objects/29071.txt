@@ -1,4 +1,4 @@
-id=29071
+﻿id=29071
 蓝色卫衣 Blue Hoodie
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

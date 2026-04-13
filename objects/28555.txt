@@ -1,5 +1,5 @@
-id=28555
-Circular Steel Sheet #Quenched
+﻿id=28555
+圆形钢片 Circular Steel Sheet #Quenched
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

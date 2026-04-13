@@ -1,5 +1,5 @@
-id=33915
-Stone Block with Sledge and Two Wheels# installed
+﻿id=33915
+雪橇两轮石块# installed
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

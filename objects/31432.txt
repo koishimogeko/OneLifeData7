@@ -1,4 +1,4 @@
-id=31432
+﻿id=31432
 试管夹
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

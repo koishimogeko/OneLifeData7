@@ -1,4 +1,4 @@
-id=31390
+﻿id=31390
 螺丝
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

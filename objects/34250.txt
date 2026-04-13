@@ -1,5 +1,5 @@
-id=34250
-Shears with Epipremnum Aureum Cutting
+﻿id=34250
+带绿萝剪枝的剪刀
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

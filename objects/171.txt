@@ -1,5 +1,5 @@
-id=171
-Snared Rabbit Family Hole#peeking2
+﻿id=171
+有崽的兔子洞# peeking2
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

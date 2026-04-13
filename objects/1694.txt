@@ -1,5 +1,5 @@
-id=1694
-German Shepherd with Puppies#2
+﻿id=1694
+德国牧羊犬与幼崽# 2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

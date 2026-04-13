@@ -1,5 +1,5 @@
-id=12880
-Copper Pipe #TE #NE loose
+﻿id=12880
+铜管# TE NE loose
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

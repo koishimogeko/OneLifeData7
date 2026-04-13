@@ -1,4 +1,4 @@
-id=30770
+﻿id=30770
 @ Filleted Fish on Flat Rock# eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

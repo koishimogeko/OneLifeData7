@@ -1,5 +1,5 @@
-id=13534
-Empty Stone Furnace# just cooled
+﻿id=13534
+空石炉# just cooled
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

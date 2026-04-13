@@ -1,5 +1,5 @@
-id=7794
-Shaft with Reed Bundle
+﻿id=7794
+长直木棍和芦苇束
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

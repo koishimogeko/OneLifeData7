@@ -1,5 +1,5 @@
-id=11676
-Bronze Froe Wedged In Log #dark
+﻿id=11676
+楔入原木的青铜楔刀# dark
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

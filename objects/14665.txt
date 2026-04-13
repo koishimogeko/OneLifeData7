@@ -1,5 +1,5 @@
-id=14665
-Piled of Filler Tobacco Leaves
+﻿id=14665
+一堆填充烟叶
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

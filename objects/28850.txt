@@ -1,5 +1,5 @@
-id=28850
-Light Post #2 no power,E
+﻿id=28850
+灯柱 #2 无电,E
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8464
-Ancient Stone Wall with Loose Big Sign
+﻿id=8464
+古老石墙与松动的大牌子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=6398
-Cotton Sapling
+﻿id=6398
+棉花幼苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

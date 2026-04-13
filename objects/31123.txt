@@ -1,4 +1,4 @@
-id=31123
+﻿id=31123
 @ Paint Bucket
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

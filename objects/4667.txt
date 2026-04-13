@@ -1,5 +1,5 @@
-id=4667
-Bull Mammoth #wild sterile
+﻿id=4667
+公猛犸象# wild sterile
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=25241
-Chess Board # Black Corner four # groundOnly
+﻿id=25241
+棋盘# Black Corner four groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

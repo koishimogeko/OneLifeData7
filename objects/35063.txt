@@ -1,4 +1,4 @@
-id=35063
+﻿id=35063
 Anemometer Pipe Kit
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

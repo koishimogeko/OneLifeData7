@@ -1,5 +1,5 @@
-id=2665
-Partial AM Receiver# 5
+﻿id=2665
+不完整调幅收音机# 5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

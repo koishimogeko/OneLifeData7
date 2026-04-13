@@ -1,5 +1,5 @@
-id=32375
-Bronze Shovel Head Stack
+﻿id=32375
+青铜铲头堆叠
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

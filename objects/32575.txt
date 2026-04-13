@@ -1,5 +1,5 @@
-id=32575
-Bowl of Calcined Coal Gangue Power with Foaming Agent
+﻿id=32575
+一碗煅烧煤矸石粉和起泡剂
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

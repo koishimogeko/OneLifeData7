@@ -1,5 +1,5 @@
-id=7690
-Wattle Wall with Three Shafts
+﻿id=7690
+荆条墙和三根长直木棍
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

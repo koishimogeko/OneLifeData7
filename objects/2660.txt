@@ -1,5 +1,5 @@
-id=2660
-High Frequency AM Transmitter# speechIn_2
+﻿id=2660
+高频调幅发射机# speechIn_2
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=6801
-Poipack with Fishing Pole
+﻿id=6801
+带钓竿的棉布背包
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

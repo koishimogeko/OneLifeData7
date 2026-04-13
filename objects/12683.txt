@@ -1,5 +1,5 @@
-id=12683
-Crates of Beets #3 #Empty
+﻿id=12683
+三箱甜菜# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

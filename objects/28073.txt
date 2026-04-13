@@ -1,5 +1,5 @@
-id=28073
-Wet Lily Sapling# White
+﻿id=28073
+百合苗# White
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

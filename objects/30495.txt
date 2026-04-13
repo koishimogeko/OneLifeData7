@@ -1,5 +1,5 @@
-id=30495
-Crates of White Grapes# 3 Empty
+﻿id=30495
+三箱白葡萄# 空
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

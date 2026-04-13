@@ -1,4 +1,4 @@
-id=13041
+﻿id=13041
 @ Chihuahua Digging Pattern
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

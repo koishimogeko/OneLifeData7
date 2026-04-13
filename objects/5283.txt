@@ -1,5 +1,5 @@
-id=5283
-Mammoth Tackle
+﻿id=5283
+猛犸象钓具
 containable=1
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=0,minPickupAge=3

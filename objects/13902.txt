@@ -1,5 +1,5 @@
-id=13902
-Running Desert Copper Mine #4
+﻿id=13902
+运行中的4级沙漠原生铜矿矿井
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

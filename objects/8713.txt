@@ -1,5 +1,5 @@
-id=8713
-Bronze Froe
+﻿id=8713
+青铜楔刀
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

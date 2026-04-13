@@ -1,5 +1,5 @@
-id=12803
-Copper Pipe #NW #oilN
+﻿id=12803
+铜管# NW oilN
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

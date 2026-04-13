@@ -1,5 +1,5 @@
-id=28105
-Wooden Flowerpot#Large
+﻿id=28105
+木制花盆# Large
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

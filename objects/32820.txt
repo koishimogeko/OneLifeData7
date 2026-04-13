@@ -1,5 +1,5 @@
-id=32820
-Hydrothermal Oredeposits# Level2 Hot Maintenance
+﻿id=32820
+热液矿床# 2级 炽热 设备维修
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

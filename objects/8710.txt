@@ -1,5 +1,5 @@
-id=8710
-Bronze Mining Pick
+﻿id=8710
+青铜镐子
 containable=1
 containSize=1.900000,vertSlotRot=-0.955000
 permanent=0,minPickupAge=3

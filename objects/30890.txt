@@ -1,5 +1,5 @@
-id=30890
-Bone China Pot with Sunbelievable Sunflower
+﻿id=30890
+骨瓷锅配太阳花
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

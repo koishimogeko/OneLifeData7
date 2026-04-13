@@ -1,5 +1,5 @@
-id=2028
-King of Hearts
+﻿id=2028
+红桃K
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

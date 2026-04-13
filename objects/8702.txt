@@ -1,5 +1,5 @@
-id=8702
-Wheelbarrow with Wet Bricks #1-5
+﻿id=8702
+独轮车与湿砖# 1-5
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=12

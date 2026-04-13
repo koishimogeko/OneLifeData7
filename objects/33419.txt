@@ -1,5 +1,5 @@
-id=33419
-Quartz Wall# pink Guard
+﻿id=33419
+石英墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

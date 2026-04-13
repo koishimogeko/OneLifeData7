@@ -1,4 +1,4 @@
-id=8197
+﻿id=8197
 @ Plain Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

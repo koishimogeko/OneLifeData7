@@ -1,5 +1,5 @@
-id=6746
-Anniversary Statue
+﻿id=6746
+周年纪念雕像
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

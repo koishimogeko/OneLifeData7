@@ -1,5 +1,5 @@
-id=25143
-Pawn # ground
+﻿id=25143
+兵# 地上
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

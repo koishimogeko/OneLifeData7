@@ -1,5 +1,5 @@
-id=14392
-Bee Hive #4 #honey3 #bee
+﻿id=14392
+蜂巢#4 honey3 bee
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

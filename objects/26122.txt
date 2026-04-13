@@ -1,4 +1,4 @@
-id=26122
+﻿id=26122
 十字结 Cross Knot
 containable=1
 containSize=1.000000,vertSlotRot=0.000000

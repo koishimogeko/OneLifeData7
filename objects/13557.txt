@@ -1,5 +1,5 @@
-id=13557
-Firing Adobe Forge#coke
+﻿id=13557
+燃烧土坯熔炉# coke
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

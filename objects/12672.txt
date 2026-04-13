@@ -1,5 +1,5 @@
-id=12672
-Crates of Cucumbers #2
+﻿id=12672
+两箱未满黄瓜
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

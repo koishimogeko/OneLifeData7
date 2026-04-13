@@ -1,5 +1,5 @@
-id=2597
-Bowl with Coherer
+﻿id=2597
+一碗检波器
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

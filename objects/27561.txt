@@ -1,4 +1,4 @@
-id=27561
+﻿id=27561
 @ Asphalt Road +road
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

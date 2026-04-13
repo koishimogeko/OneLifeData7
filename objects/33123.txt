@@ -1,4 +1,4 @@
-id=33123
+﻿id=33123
 @ Bone China Plant
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

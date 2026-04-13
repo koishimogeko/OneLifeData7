@@ -1,5 +1,5 @@
-id=206
-Four Rabbit Furs
+﻿id=206
+四块兔皮
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

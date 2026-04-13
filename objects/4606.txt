@@ -1,5 +1,5 @@
-id=4606
-(outdated) Domestic Hive #2A swarm
+﻿id=4606
+（已过时）Domestic Hive #2A swarm
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

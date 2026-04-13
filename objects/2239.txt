@@ -1,5 +1,5 @@
-id=2239
-Newcomen Tower Stakes
+﻿id=2239
+纽科门机器塔桩
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

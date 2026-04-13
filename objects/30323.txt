@@ -1,5 +1,5 @@
-id=30323
-Rotary Bottling plant# noHighlight Open work
+﻿id=30323
+旋转装瓶厂# noHighlight Open work
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=7016
-Blacksmith Apron #with hammer
+﻿id=7016
+带锤子的铁匠围裙# with hammer
 containable=1
 containSize=2.000000,vertSlotRot=-0.500000
 permanent=0,minPickupAge=3

@@ -1,5 +1,5 @@
-id=604
-Hungry Domestic Lamb
+﻿id=604
+饥饿的绵羊羊羔
 containable=0
 containSize=1,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

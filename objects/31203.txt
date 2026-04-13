@@ -1,4 +1,4 @@
-id=31203
+﻿id=31203
 大石块与被压烂的加固围栏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

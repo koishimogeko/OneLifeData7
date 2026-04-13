@@ -1,5 +1,5 @@
-id=8089
-Dry Kapok Sapling
+﻿id=8089
+干木棉树苗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

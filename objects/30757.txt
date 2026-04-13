@@ -1,5 +1,5 @@
-id=30757
-China LongPlate with Glod Foil
+﻿id=30757
+带光泽箔的中国长版
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

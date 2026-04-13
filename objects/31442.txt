@@ -1,4 +1,4 @@
-id=31442
+﻿id=31442
 被木钳夹着的未淬火热细弹簧
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

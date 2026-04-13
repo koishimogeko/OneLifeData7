@@ -1,5 +1,5 @@
-id=351
-Female004 C
+﻿id=351
+女性004 C
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

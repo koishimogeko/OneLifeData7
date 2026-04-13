@@ -1,5 +1,5 @@
-id=32344
-Pools of potassium hydroxide# close +noHighlight
+﻿id=32344
+有氢氧化钾的水池# 关闭 +noHighlight
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

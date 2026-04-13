@@ -1,4 +1,4 @@
-id=27773
+﻿id=27773
 百合花 Lily Flower# Orange
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

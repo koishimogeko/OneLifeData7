@@ -1,5 +1,5 @@
-id=14537
-Springy Wooden Door with Rose Wreath# Installed +autoDefaultTrans +blocksMoving
+﻿id=14537
+带玫瑰花环的弹性木门# Installed +autoDefaultTrans +blocksMoving
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8879
-Wet Blossom Cutting
+﻿id=8879
+湿的桃花树剪枝
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

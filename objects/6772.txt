@@ -1,5 +1,5 @@
-id=6772
-Fishing Pot with Lobster# ground
+﻿id=6772
+捕捞笼里有龙虾# ground
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

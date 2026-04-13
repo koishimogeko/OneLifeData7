@@ -1,5 +1,5 @@
-id=13087
-Winter Orange Tree in Tree Pit
+﻿id=13087
+树坑里的冬橙树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

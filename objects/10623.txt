@@ -1,5 +1,5 @@
-id=10623
-Hot Copper Coil in Wooden Tongs#justBent
+﻿id=10623
+（已过时）木钳中的热铜线圈# justBent
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

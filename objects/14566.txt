@@ -1,5 +1,5 @@
-id=14566
-TEST Dead Sheep#shorn #starved #test
+﻿id=14566
+测试死羊# shorn starved test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

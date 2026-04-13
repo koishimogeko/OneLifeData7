@@ -1,5 +1,5 @@
-id=30011
-Concrete Floor with pile Diamond
+﻿id=30011
+带钻石的混凝土地板
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

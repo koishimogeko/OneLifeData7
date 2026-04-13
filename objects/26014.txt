@@ -1,4 +1,4 @@
-id=26014
+﻿id=26014
 未处理的转子叠片 Untreated Rotor Lamination
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

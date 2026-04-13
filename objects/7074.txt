@@ -1,5 +1,5 @@
-id=7074
-Nomad Scarf #brown
+﻿id=7074
+游牧者围巾# brown
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

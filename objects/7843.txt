@@ -1,5 +1,5 @@
-id=7843
-Trout on Flat Rock
+﻿id=7843
+扁石上的虹鳟
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

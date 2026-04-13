@@ -1,5 +1,5 @@
-id=13873
-Desert Mine #3 #exhausted
+﻿id=13873
+3级沙漠矿井# 采空
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

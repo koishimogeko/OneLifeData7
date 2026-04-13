@@ -1,5 +1,5 @@
-id=25270
-Chess Board # Red Edge Bevel three # groundOnly
+﻿id=25270
+棋盘# Red Edge Bevel three groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

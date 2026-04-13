@@ -1,5 +1,5 @@
-id=7123
-Large Wooden Slot Box with Note# &written +clickToRead
+﻿id=7123
+带纸条的大木箱# &written +clickToRead
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

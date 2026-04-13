@@ -1,5 +1,5 @@
-id=8203
-Ancient Stone Wall with Shelf and Detached Garland# +noBackAccess +useOnContained
+﻿id=8203
+带架子的古老石墙和剪下的花环# +noBackAccess +useOnContained
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

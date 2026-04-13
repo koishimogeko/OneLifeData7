@@ -1,5 +1,5 @@
-id=34018
-Oil Pumpjack with Charcoal
+﻿id=34018
+木炭油泵
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

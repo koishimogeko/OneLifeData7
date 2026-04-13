@@ -1,5 +1,5 @@
-id=32921
-Non Illuminant Hydrothermal Oredeposits# Level2 Hot
+﻿id=32921
+光源短缺的热液矿床# 2级 炽热
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26121
+﻿id=26121
 热的十字结Hot Cross Knot
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

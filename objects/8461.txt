@@ -1,5 +1,5 @@
-id=8461
-Stone Wall with Loose Small Sign
+﻿id=8461
+石墙与松动的小牌子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

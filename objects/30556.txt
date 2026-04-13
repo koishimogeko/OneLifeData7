@@ -1,5 +1,5 @@
-id=30556
-Wet Bone China LongPlant
+﻿id=30556
+湿骨瓷长板 #60%
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

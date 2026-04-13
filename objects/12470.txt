@@ -1,5 +1,5 @@
-id=12470
-Fill Station #W #partial #on
+﻿id=12470
+加油站# W partial on
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26020
+﻿id=26020
 石炉和退火好的转子叠片 Stone Kiln with Rotor Lamination#Rotor insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

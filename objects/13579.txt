@@ -1,5 +1,5 @@
-id=13579
-Flat Rock with Compressed Firebrick
+﻿id=13579
+扁平岩石与压缩耐火砖
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

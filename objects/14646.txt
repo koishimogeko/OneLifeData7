@@ -1,5 +1,5 @@
-id=14646
-Ornament Mold Filled with Molten Cast Iron
+﻿id=14646
+充满熔融铸铁的装饰品模具
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

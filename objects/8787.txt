@@ -1,5 +1,5 @@
-id=8787
-Mole Hole#worm
+﻿id=8787
+鼹鼠洞# worm
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=8917
-Stack of Small Marble Tiles with Chisel
+﻿id=8917
+一堆小大理石瓷砖和凿子
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

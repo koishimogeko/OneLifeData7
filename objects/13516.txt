@@ -1,5 +1,5 @@
-id=13516
-Stone Kiln with Clay Bowls
+﻿id=13516
+石窑粘土碗
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,4 +1,4 @@
-id=32083
+﻿id=32083
 一罐发烟硫酸# 耐酸橡胶
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

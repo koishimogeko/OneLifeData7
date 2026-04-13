@@ -1,5 +1,5 @@
-id=32437
-Work Bench with PC,S2,F
+﻿id=32437
+工作台与PC,S2,F
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

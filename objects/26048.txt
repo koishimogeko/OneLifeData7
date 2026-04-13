@@ -1,4 +1,4 @@
-id=26048
+﻿id=26048
 一研钵铁粉 Mortar Brown Iron Powder
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

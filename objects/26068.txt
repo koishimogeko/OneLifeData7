@@ -1,4 +1,4 @@
-id=26068
+﻿id=26068
 蓝色铜电线 Blue Wire#copper
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000

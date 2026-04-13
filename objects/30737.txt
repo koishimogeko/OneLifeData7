@@ -1,5 +1,5 @@
-id=30737
-Filleted Fish on Flat Rock# Cod eggs
+﻿id=30737
+平坦岩石上的填鱼# Cod eggs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

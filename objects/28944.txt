@@ -1,4 +1,4 @@
-id=28944
+﻿id=28944
 吉娃娃在狗窝中 Chihuahua in Doghouse#standing
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

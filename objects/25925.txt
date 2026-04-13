@@ -1,4 +1,4 @@
-id=25925
+﻿id=25925
 加水冲压机 Newcomen Stamping Press with Full Boiler#rotor
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000

@@ -1,5 +1,5 @@
-id=28968
-Staked Blossom Tree #justStaked
+﻿id=28968
+带木桩的桃花树#justStaked
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

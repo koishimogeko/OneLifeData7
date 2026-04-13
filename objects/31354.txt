@@ -1,4 +1,4 @@
-id=31354
+﻿id=31354
 一块钣金和一堆钢管
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=10773
-White Cat #white sitting
+﻿id=10773
+白猫# white sitting
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

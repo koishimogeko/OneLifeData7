@@ -1,5 +1,5 @@
-id=3234
-Jack O' Lantern with Candle
+﻿id=3234
+带蜡烛的杰克南瓜灯
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

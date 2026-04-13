@@ -1,5 +1,5 @@
-id=14567
-TEST Shorn Domestic Sheep#hungry #test
+﻿id=14567
+测试剪毛的家羊# hungry test
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

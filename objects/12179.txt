@@ -1,5 +1,5 @@
-id=12179
-Leather Beaver Hides
+﻿id=12179
+海狸皮
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

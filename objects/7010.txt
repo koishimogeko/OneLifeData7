@@ -1,5 +1,5 @@
-id=7010
-Bucket of Corn #last
+﻿id=7010
+最后一桶玉米# last
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

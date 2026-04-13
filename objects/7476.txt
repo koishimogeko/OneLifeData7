@@ -1,5 +1,5 @@
-id=7476
-Full Crates of Lemons #2
+﻿id=7476
+两箱柠檬
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

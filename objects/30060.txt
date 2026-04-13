@@ -1,5 +1,5 @@
-id=30060
-Two Black Pieces of Cut Leather Sheet
+﻿id=30060
+两块黑色切割皮革
 containable=1
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

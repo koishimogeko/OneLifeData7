@@ -1,5 +1,5 @@
-id=1979
-Dice Roll of Six# 2 4
+﻿id=1979
+骰子# 2 4
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

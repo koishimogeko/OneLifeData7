@@ -1,5 +1,5 @@
-id=12172
-Red Wool Coat on Hanger
+﻿id=12172
+衣架上的红色羊毛大衣
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

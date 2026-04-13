@@ -1,5 +1,5 @@
-id=255
-Bowl of Minced Rabbit
+﻿id=255
+一碗兔肉糜
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

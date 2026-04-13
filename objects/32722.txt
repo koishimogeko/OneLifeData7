@@ -1,5 +1,5 @@
-id=32722
-Rocky Hill# Nitroglycerin Dynamite
+﻿id=32722
+落基山# 硝化甘油炸药
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

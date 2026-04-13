@@ -1,5 +1,5 @@
-id=28881
-Tulip Flower#yellow
+﻿id=28881
+盛开的郁金香 Tulip Flower#yellow
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

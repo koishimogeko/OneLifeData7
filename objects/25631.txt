@@ -1,5 +1,5 @@
-id=25631
-Filled Hole with Soil # 1
+﻿id=25631
+填过土的松软地# 1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

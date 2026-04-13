@@ -1,5 +1,5 @@
-id=34829
-Empty Airdrop Box# Blue-Gray level3 7
+﻿id=34829
+空空投箱# Blue-Gray level3 7
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

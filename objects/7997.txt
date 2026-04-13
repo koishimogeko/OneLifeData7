@@ -1,5 +1,5 @@
-id=7997
-Bucket of Worms
+﻿id=7997
+一桶蠕虫
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

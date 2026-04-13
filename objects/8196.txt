@@ -1,4 +1,4 @@
-id=8196
+﻿id=8196
 @ Garland Wall
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

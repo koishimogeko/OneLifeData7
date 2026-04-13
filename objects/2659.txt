@@ -1,5 +1,5 @@
-id=2659
-Medium Frequency AM Transmitter# speechIn_1
+﻿id=2659
+中频调幅发射机# speechIn_1
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

@@ -1,5 +1,5 @@
-id=34609
-Bartenders# Bloody Mary 4
+﻿id=34609
+调酒师# Bloody Mary 4
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

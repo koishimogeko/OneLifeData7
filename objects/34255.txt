@@ -1,5 +1,5 @@
-id=34255
-Dry Schefflera Sprouts
+﻿id=34255
+干燥的萌芽鸭掌木
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=26459
+﻿id=26459
 @ wire WNE just close 3 all floor
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

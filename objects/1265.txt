@@ -1,5 +1,5 @@
-id=1265
-Dung with Hatched Gosling
+﻿id=1265
+粪堆和已孵化的鹅
 containable=0
 containSize=1.000000,vertSlotRot=-0.415000
 permanent=1,minPickupAge=3

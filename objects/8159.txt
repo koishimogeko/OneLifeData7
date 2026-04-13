@@ -1,5 +1,5 @@
-id=8159
-Windowed Ancient Stone Wall with Garland
+﻿id=8159
+带窗户的花环古石墙
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

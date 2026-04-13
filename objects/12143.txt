@@ -1,5 +1,5 @@
-id=12143
-Silk Shirt
+﻿id=12143
+真丝衬衫
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

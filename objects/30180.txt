@@ -1,5 +1,5 @@
-id=30180
-Wooden Barrel of Turquoises use1
+﻿id=30180
+绿松石木桶# use1
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=14

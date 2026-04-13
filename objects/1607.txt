@@ -1,5 +1,5 @@
-id=1607
-Flat Rock with Spread Wood Pulp
+﻿id=1607
+扁石与延展木浆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

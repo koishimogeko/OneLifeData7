@@ -1,4 +1,4 @@
-id=31233
+﻿id=31233
 一堆漂白过的皮革
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

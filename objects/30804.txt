@@ -1,5 +1,5 @@
-id=30804
-Deep Water with Pike# +noHighlight groundOnly Eating
+﻿id=30804
+深水中的梭子鱼# 进食中 +noHighlight groundOnly
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

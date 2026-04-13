@@ -1,5 +1,5 @@
-id=30926
-Steel basins of Mashed Meat, Sauerkraut Hot Pepper, and Ice
+﻿id=30926
+肉泥、酸菜、辣椒和冰的钢盆
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

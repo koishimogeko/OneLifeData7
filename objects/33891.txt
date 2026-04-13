@@ -1,5 +1,5 @@
-id=33891
-Pollinated Pomelo Tree# Sweet Orange Paternal
+﻿id=33891
+授粉的柚子树# Sweet Orange Paternal
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

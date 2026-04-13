@@ -1,5 +1,5 @@
-id=11876
-Caged Maine Coon Cat
+﻿id=11876
+关在笼子里的缅因猫
 containable=1
 containSize=3.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

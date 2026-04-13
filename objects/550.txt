@@ -1,5 +1,5 @@
-id=550
-Fence
+﻿id=550
+东西向栅栏
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

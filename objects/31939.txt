@@ -1,4 +1,4 @@
-id=31939
+﻿id=31939
 熔岩咖啡旗卷
 containable=1
 containSize=2.000000,vertSlotRot=0.000000

@@ -1,5 +1,5 @@
-id=25782
-Donkey with Backpack # riding
+﻿id=25782
+带背包的驴# riding
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

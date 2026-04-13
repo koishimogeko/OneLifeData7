@@ -1,5 +1,5 @@
-id=13455
-Bowl of Wheat Malt
+﻿id=13455
+一碗小麦芽
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

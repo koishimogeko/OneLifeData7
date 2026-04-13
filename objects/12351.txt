@@ -1,5 +1,5 @@
-id=12351
-Pair of Bows
+﻿id=12351
+一对蝴蝶结
 containable=1
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

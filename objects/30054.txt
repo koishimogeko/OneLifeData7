@@ -1,4 +1,4 @@
-id=30054
+﻿id=30054
 @ Loose Small Arrow Sign no ball
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000

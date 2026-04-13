@@ -1,5 +1,5 @@
-id=11026
-Crates of Wild Onions #2
+﻿id=11026
+两箱未满野生洋葱
 containable=1
 containSize=3.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

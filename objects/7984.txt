@@ -1,5 +1,5 @@
-id=7984
-Sack of Quicklime #2
+﻿id=7984
+一袋生石灰# 2
 containable=1
 containSize=2.000000,vertSlotRot=-0.245000
 permanent=0,minPickupAge=3

@@ -1,4 +1,4 @@
-id=34075
+﻿id=34075
 Bowl with Solder Ingot in Wooden Tongs
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

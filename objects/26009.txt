@@ -1,4 +1,4 @@
-id=26009
+﻿id=26009
 石炉和退火好的定子叠片 Stone Kiln with Stator Lamination#Stator insulation has ended
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

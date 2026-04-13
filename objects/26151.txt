@@ -1,4 +1,4 @@
-id=26151
+﻿id=26151
 一杯乙二醇
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

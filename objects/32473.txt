@@ -1,5 +1,5 @@
-id=32473
-Wool Blend Sheet# 1 held
+﻿id=32473
+黑色混纺布# 1 手持
 containable=1
 containSize=2.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

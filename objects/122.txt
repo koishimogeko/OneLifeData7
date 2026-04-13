@@ -1,5 +1,5 @@
-id=122
-Tule Stumps
+﻿id=122
+收获的芦苇丛
 containable=0
 containSize=1,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

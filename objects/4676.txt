@@ -1,5 +1,5 @@
-id=4676
-Ancient Stone Wall #sparta
+﻿id=4676
+古老石墙# sparta
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

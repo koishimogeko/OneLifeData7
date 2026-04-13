@@ -1,5 +1,5 @@
-id=7950
-Boards with Froe #light
+﻿id=7950
+钢楔刀和浅色木板# light
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

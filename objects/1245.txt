@@ -1,5 +1,5 @@
-id=1245
-Dry Stew Pot
+﻿id=1245
+一罐干的炖菜
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=3

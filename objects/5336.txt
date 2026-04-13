@@ -1,5 +1,5 @@
-id=5336
-Cold Silver Bloom in Wooden Tongs #2HOL
+﻿id=5336
+（已过时）木钳中的冷却银坯料# 2HOL
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

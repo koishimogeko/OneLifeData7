@@ -1,5 +1,5 @@
-id=2150
-Bowl of Soaking Palm Kernels
+﻿id=2150
+一碗水浸棕榈仁
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=0,minPickupAge=3

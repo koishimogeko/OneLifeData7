@@ -1,5 +1,5 @@
-id=11685
-Dug Big Rock with Bronze Chisel
+﻿id=11685
+带青铜凿子的大石头
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=14

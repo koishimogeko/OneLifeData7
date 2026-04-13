@@ -1,4 +1,4 @@
-id=31339
+﻿id=31339
 被木钳夹着的热铁棒
 containable=0
 containSize=1.000000,vertSlotRot=0.000000

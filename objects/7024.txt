@@ -1,5 +1,5 @@
-id=7024
-Basket of Small Cut Stones
+﻿id=7024
+一篮小型切割石
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000
 permanent=0,minPickupAge=14

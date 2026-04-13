@@ -1,5 +1,5 @@
-id=8502
-Ashes with Spit Roast Pig
+﻿id=8502
+灰烬上的烤猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

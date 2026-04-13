@@ -1,4 +1,4 @@
-id=26214
+﻿id=26214
 带金圈的红色长裙 Red Long Dress with Hoops
 containable=1
 containSize=2.000000,vertSlotRot=-0.250000

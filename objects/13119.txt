@@ -1,5 +1,5 @@
-id=13119
-Staked Flowering Orange Tree
+﻿id=13119
+带木桩的开花橙树
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

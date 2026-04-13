@@ -1,5 +1,5 @@
-id=25378
-@ Behind 3D Chess Projector # black reset
+﻿id=25378
+@ Behind 3D Chess Projector# black reset
 containable=0
 containSize=1.000000,vertSlotRot=-0.195000
 permanent=1,minPickupAge=3

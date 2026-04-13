@@ -1,5 +1,5 @@
-id=994
-Locked Small Sign on Stone Wall# $10
+﻿id=994
+石墙上锁的小牌子# $10
 containable=0
 containSize=1.000000,vertSlotRot=-0.250000
 permanent=1,minPickupAge=3

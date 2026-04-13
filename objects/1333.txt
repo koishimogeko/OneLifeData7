@@ -1,5 +1,5 @@
-id=1333
-Attacking Wild Boar
+﻿id=1333
+进攻的野猪
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3

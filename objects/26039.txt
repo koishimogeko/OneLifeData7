@@ -1,4 +1,4 @@
-id=26039
+﻿id=26039
 未组装的柴油发电机 Unassembled Diesel Generator#3
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
